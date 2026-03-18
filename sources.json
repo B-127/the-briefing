@@ -1,0 +1,425 @@
+[
+  {
+    "id": "abc-news",
+    "name": "ABC News",
+    "abbr": "ABC",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://feeds.abcnews.com/abcnews/topstories",             "cat": "Politics" },
+      { "url": "https://feeds.abcnews.com/abcnews/politicsheadlines",      "cat": "Politics" },
+      { "url": "https://feeds.abcnews.com/abcnews/internationalheadlines", "cat": "World" },
+      { "url": "https://feeds.abcnews.com/abcnews/technologyheadlines",    "cat": "Technology" },
+      { "url": "https://feeds.abcnews.com/abcnews/healthheadlines",        "cat": "Health" }
+    ]
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "abbr": "BLMB",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://feeds.bloomberg.com/bloomberg/politics/news.rss",   "cat": "Politics" },
+      { "url": "https://feeds.bloomberg.com/bloomberg/technology/news.rss", "cat": "Technology" },
+      { "url": "https://feeds.bloomberg.com/bloomberg/markets/news.rss",    "cat": "Business" },
+      { "url": "https://feeds.bloomberg.com/bloomberg/world-news/news.rss", "cat": "World" }
+    ]
+  },
+  {
+    "id": "cbs-news",
+    "name": "CBS News",
+    "abbr": "CBS",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://www.cbsnews.com/latest/rss/politics",   "cat": "Politics" },
+      { "url": "https://www.cbsnews.com/latest/rss/world",      "cat": "World" },
+      { "url": "https://www.cbsnews.com/latest/rss/technology", "cat": "Technology" },
+      { "url": "https://www.cbsnews.com/latest/rss/health",     "cat": "Health" },
+      { "url": "https://www.cbsnews.com/latest/rss/moneywatch", "cat": "Business" }
+    ]
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "abbr": "CNBC",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "cat": "Business" },
+      { "url": "https://www.cnbc.com/id/10000113/device/rss/rss.html",  "cat": "Politics" },
+      { "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",  "cat": "Technology" },
+      { "url": "https://www.cnbc.com/id/10000108/device/rss/rss.html",  "cat": "Health" }
+    ]
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "abbr": "CNN",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://rss.cnn.com/rss/cnn_topstories.rss",     "cat": "Politics" },
+      { "url": "https://rss.cnn.com/rss/cnn_allpolitics.rss",    "cat": "Politics" },
+      { "url": "https://rss.cnn.com/rss/edition_world.rss",      "cat": "World" },
+      { "url": "https://rss.cnn.com/rss/edition_technology.rss", "cat": "Technology" },
+      { "url": "https://rss.cnn.com/rss/cnn_health.rss",         "cat": "Health" },
+      { "url": "https://rss.cnn.com/rss/edition_business.rss",   "cat": "Business" },
+      { "url": "https://rss.cnn.com/rss/edition_space.rss",      "cat": "Science" }
+    ]
+  },
+  {
+    "id": "nbc-news",
+    "name": "NBC News",
+    "abbr": "NBC",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://feeds.nbcnews.com/nbcnews/public/news", "cat": "Politics" },
+      { "url": "https://feeds.nbcnews.com/feeds/nbcpolitics",   "cat": "Politics" },
+      { "url": "https://feeds.nbcnews.com/feeds/worldnews",     "cat": "World" },
+      { "url": "https://feeds.nbcnews.com/feeds/tech",          "cat": "Technology" },
+      { "url": "https://feeds.nbcnews.com/feeds/health",        "cat": "Health" },
+      { "url": "https://feeds.nbcnews.com/feeds/science",       "cat": "Science" }
+    ]
+  },
+  {
+    "id": "nyt",
+    "name": "New York Times",
+    "abbr": "NYT",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",   "cat": "Politics" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",   "cat": "Politics" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",      "cat": "World" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",   "cat": "Business" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "cat": "Technology" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",     "cat": "Health" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",    "cat": "Science" },
+      { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml",    "cat": "Opinion" }
+    ]
+  },
+  {
+    "id": "npr",
+    "name": "NPR",
+    "abbr": "NPR",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://feeds.npr.org/1001/rss.xml", "cat": "Politics" },
+      { "url": "https://feeds.npr.org/1004/rss.xml", "cat": "World" },
+      { "url": "https://feeds.npr.org/1006/rss.xml", "cat": "Business" },
+      { "url": "https://feeds.npr.org/1019/rss.xml", "cat": "Technology" },
+      { "url": "https://feeds.npr.org/1128/rss.xml", "cat": "Health" },
+      { "url": "https://feeds.npr.org/1007/rss.xml", "cat": "Science" }
+    ]
+  },
+  {
+    "id": "politico",
+    "name": "Politico",
+    "abbr": "PLCO",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://www.politico.com/rss/politicopicks.xml", "cat": "Politics" },
+      { "url": "https://www.politico.com/rss/world.xml",         "cat": "World" },
+      { "url": "https://www.politico.com/rss/technology.xml",    "cat": "Technology" }
+    ]
+  },
+  {
+    "id": "propublica",
+    "name": "ProPublica",
+    "abbr": "PROP",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://www.propublica.org/feeds/propublica/main", "cat": "Politics" }
+    ]
+  },
+  {
+    "id": "semafor",
+    "name": "Semafor",
+    "abbr": "SEMI",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://www.semafor.com/feed", "cat": "Politics" }
+    ]
+  },
+  {
+    "id": "time",
+    "name": "TIME",
+    "abbr": "TIME",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://time.com/feed/",          "cat": "Politics" },
+      { "url": "https://time.com/politics/feed/", "cat": "Politics" },
+      { "url": "https://time.com/world/feed/",    "cat": "World" },
+      { "url": "https://time.com/tech/feed/",     "cat": "Technology" },
+      { "url": "https://time.com/health/feed/",   "cat": "Health" }
+    ]
+  },
+  {
+    "id": "usa-today",
+    "name": "USA Today",
+    "abbr": "USAT",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://rssfeeds.usatoday.com/usatoday-NewsTopStories",      "cat": "Politics" },
+      { "url": "https://rssfeeds.usatoday.com/usatoday-NewsWorldHeadlines",  "cat": "World" },
+      { "url": "https://rssfeeds.usatoday.com/usatoday-TechTopStories",      "cat": "Technology" },
+      { "url": "https://rssfeeds.usatoday.com/usatoday-NewsHealthHeadlines", "cat": "Health" },
+      { "url": "https://rssfeeds.usatoday.com/usatoday-SportTopStories",     "cat": "Sports" }
+    ]
+  },
+  {
+    "id": "washington-post",
+    "name": "Washington Post",
+    "abbr": "WaPo",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://feeds.washingtonpost.com/rss/politics",            "cat": "Politics" },
+      { "url": "https://feeds.washingtonpost.com/rss/world",               "cat": "World" },
+      { "url": "https://feeds.washingtonpost.com/rss/business",            "cat": "Business" },
+      { "url": "https://feeds.washingtonpost.com/rss/business/technology", "cat": "Technology" },
+      { "url": "https://feeds.washingtonpost.com/rss/national/science",    "cat": "Science" },
+      { "url": "https://feeds.washingtonpost.com/rss/opinions",            "cat": "Opinion" }
+    ]
+  },
+  {
+    "id": "yahoo-news",
+    "name": "Yahoo News",
+    "abbr": "YAH",
+    "lean": "ll",
+    "feeds": [
+      { "url": "https://news.yahoo.com/rss/politics",   "cat": "Politics" },
+      { "url": "https://news.yahoo.com/rss/world",      "cat": "World" },
+      { "url": "https://news.yahoo.com/rss/business",   "cat": "Business" },
+      { "url": "https://news.yahoo.com/rss/technology", "cat": "Technology" },
+      { "url": "https://news.yahoo.com/rss/health",     "cat": "Health" },
+      { "url": "https://news.yahoo.com/rss/science",    "cat": "Science" }
+    ]
+  },
+  {
+    "id": "bbc",
+    "name": "BBC News",
+    "abbr": "BBC",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://feeds.bbci.co.uk/news/rss.xml",                         "cat": "Politics" },
+      { "url": "https://feeds.bbci.co.uk/news/world/rss.xml",                   "cat": "World" },
+      { "url": "https://feeds.bbci.co.uk/news/business/rss.xml",                "cat": "Business" },
+      { "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",              "cat": "Technology" },
+      { "url": "https://feeds.bbci.co.uk/news/health/rss.xml",                  "cat": "Health" },
+      { "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "cat": "Science" }
+    ]
+  },
+  {
+    "id": "csm",
+    "name": "Christian Science Monitor",
+    "abbr": "CSM",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://rss.csmonitor.com/feeds/latest",     "cat": "Politics" },
+      { "url": "https://rss.csmonitor.com/feeds/world",      "cat": "World" },
+      { "url": "https://rss.csmonitor.com/feeds/technology", "cat": "Technology" },
+      { "url": "https://rss.csmonitor.com/feeds/science",    "cat": "Science" }
+    ]
+  },
+  {
+    "id": "forbes",
+    "name": "Forbes",
+    "abbr": "FORB",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://www.forbes.com/real-time/feed2/",   "cat": "Business" },
+      { "url": "https://www.forbes.com/innovation/feed/",   "cat": "Technology" },
+      { "url": "https://www.forbes.com/healthcare/feed/",   "cat": "Health" }
+    ]
+  },
+  {
+    "id": "the-hill",
+    "name": "The Hill",
+    "abbr": "HILL",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://thehill.com/homenews/feed/",             "cat": "Politics" },
+      { "url": "https://thehill.com/policy/international/feed/", "cat": "World" },
+      { "url": "https://thehill.com/policy/technology/feed/",    "cat": "Technology" },
+      { "url": "https://thehill.com/policy/healthcare/feed/",    "cat": "Health" },
+      { "url": "https://thehill.com/opinion/feed/",              "cat": "Opinion" }
+    ]
+  },
+  {
+    "id": "marketwatch",
+    "name": "MarketWatch",
+    "abbr": "MktW",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://feeds.marketwatch.com/marketwatch/topstories/",         "cat": "Business" },
+      { "url": "https://feeds.marketwatch.com/marketwatch/realtimeheadlines/",  "cat": "Business" }
+    ]
+  },
+  {
+    "id": "newsnation",
+    "name": "NewsNation",
+    "abbr": "NWSN",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://www.newsnationnow.com/feed/",          "cat": "Politics" },
+      { "url": "https://www.newsnationnow.com/world/feed/",    "cat": "World" },
+      { "url": "https://www.newsnationnow.com/business/feed/", "cat": "Business" },
+      { "url": "https://www.newsnationnow.com/health/feed/",   "cat": "Health" }
+    ]
+  },
+  {
+    "id": "newsweek",
+    "name": "Newsweek",
+    "abbr": "NWWK",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://www.newsweek.com/rss",         "cat": "Politics" },
+      { "url": "https://www.newsweek.com/rss/world",   "cat": "World" },
+      { "url": "https://www.newsweek.com/rss/tech",    "cat": "Technology" },
+      { "url": "https://www.newsweek.com/rss/science", "cat": "Science" },
+      { "url": "https://www.newsweek.com/rss/health",  "cat": "Health" }
+    ]
+  },
+  {
+    "id": "reason",
+    "name": "Reason",
+    "abbr": "REAS",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://reason.com/feed/",                   "cat": "Politics" },
+      { "url": "https://reason.com/category/politics/feed/", "cat": "Politics" },
+      { "url": "https://reason.com/category/tech/feed/",     "cat": "Technology" },
+      { "url": "https://reason.com/volokh/feed/",            "cat": "Opinion" }
+    ]
+  },
+  {
+    "id": "reuters",
+    "name": "Reuters",
+    "abbr": "REUT",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://feeds.reuters.com/reuters/topNews",        "cat": "Politics" },
+      { "url": "https://feeds.reuters.com/Reuters/PoliticsNews",   "cat": "Politics" },
+      { "url": "https://feeds.reuters.com/reuters/worldNews",      "cat": "World" },
+      { "url": "https://feeds.reuters.com/reuters/businessNews",   "cat": "Business" },
+      { "url": "https://feeds.reuters.com/reuters/technologyNews", "cat": "Technology" },
+      { "url": "https://feeds.reuters.com/reuters/healthNews",     "cat": "Health" },
+      { "url": "https://feeds.reuters.com/reuters/scienceNews",    "cat": "Science" }
+    ]
+  },
+  {
+    "id": "wsj",
+    "name": "Wall Street Journal",
+    "abbr": "WSJ",
+    "lean": "ct",
+    "feeds": [
+      { "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",   "cat": "World" },
+      { "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "cat": "Business" },
+      { "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",        "cat": "Technology" },
+      { "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml",     "cat": "Opinion" }
+    ]
+  },
+  {
+    "id": "daily-mail",
+    "name": "Daily Mail",
+    "abbr": "Mail",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://www.dailymail.co.uk/news/index.rss",           "cat": "Politics" },
+      { "url": "https://www.dailymail.co.uk/news/worldnews/index.rss", "cat": "World" },
+      { "url": "https://www.dailymail.co.uk/health/index.rss",         "cat": "Health" },
+      { "url": "https://www.dailymail.co.uk/sciencetech/index.rss",    "cat": "Technology" },
+      { "url": "https://www.dailymail.co.uk/sport/index.rss",          "cat": "Sports" }
+    ]
+  },
+  {
+    "id": "the-dispatch",
+    "name": "The Dispatch",
+    "abbr": "DISP",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://thedispatch.com/feed/", "cat": "Politics" }
+    ]
+  },
+  {
+    "id": "fox-business",
+    "name": "Fox Business",
+    "abbr": "FoxB",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://moxie.foxbusiness.com/google-publisher/latest.xml",     "cat": "Business" },
+      { "url": "https://moxie.foxbusiness.com/google-publisher/politics.xml",   "cat": "Politics" },
+      { "url": "https://moxie.foxbusiness.com/google-publisher/technology.xml", "cat": "Technology" }
+    ]
+  },
+  {
+    "id": "just-the-news",
+    "name": "Just the News",
+    "abbr": "JTN",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://justthenews.com/feed", "cat": "Politics" }
+    ]
+  },
+  {
+    "id": "national-review",
+    "name": "National Review",
+    "abbr": "NR",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://www.nationalreview.com/feed/",         "cat": "Politics" },
+      { "url": "https://www.nationalreview.com/corner/feed/",  "cat": "Opinion" },
+      { "url": "https://www.nationalreview.com/economy/feed/", "cat": "Business" }
+    ]
+  },
+  {
+    "id": "ny-post",
+    "name": "New York Post",
+    "abbr": "NYP",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://nypost.com/feed/",          "cat": "Politics" },
+      { "url": "https://nypost.com/politics/feed/", "cat": "Politics" },
+      { "url": "https://nypost.com/business/feed/", "cat": "Business" },
+      { "url": "https://nypost.com/tech/feed/",     "cat": "Technology" },
+      { "url": "https://nypost.com/opinion/feed/",  "cat": "Opinion" }
+    ]
+  },
+  {
+    "id": "realclear-politics",
+    "name": "RealClear Politics",
+    "abbr": "RCP",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://www.realclearpolitics.com/index.xml", "cat": "Politics" }
+    ]
+  },
+  {
+    "id": "washington-examiner",
+    "name": "Washington Examiner",
+    "abbr": "EXAM",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://www.washingtonexaminer.com/feed",                          "cat": "Politics" },
+      { "url": "https://www.washingtonexaminer.com/opinion/feed",                  "cat": "Opinion" },
+      { "url": "https://www.washingtonexaminer.com/policy/foreign-policy/feed",    "cat": "World" }
+    ]
+  },
+  {
+    "id": "washington-times",
+    "name": "Washington Times",
+    "abbr": "WaTi",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://www.washingtontimes.com/rss/headlines/news/politics/",        "cat": "Politics" },
+      { "url": "https://www.washingtontimes.com/rss/headlines/news/world/",           "cat": "World" },
+      { "url": "https://www.washingtontimes.com/rss/headlines/lifestyle/health/",     "cat": "Health" },
+      { "url": "https://www.washingtontimes.com/rss/headlines/culture/technology/",   "cat": "Technology" }
+    ]
+  },
+  {
+    "id": "zerohedge",
+    "name": "ZeroHedge",
+    "abbr": "ZH",
+    "lean": "lr",
+    "feeds": [
+      { "url": "https://cms.zerohedge.com/fullrss2.xml", "cat": "Business" }
+    ]
+  }
+]
