@@ -1,0 +1,95 @@
+/*
+ * fonts.css  —  Self-hosted font declarations
+ *
+ * L-2 FIX: Replaces the Google Fonts CDN dependency with locally-hosted files.
+ * This eliminates:
+ *   - The third-party network request to fonts.googleapis.com / fonts.gstatic.com
+ *   - The privacy leak (Google logs the request including visitor IP)
+ *   - The CSP requirement for font-src https://fonts.gstatic.com
+ *
+ * HOW TO POPULATE:
+ *   1. Visit https://gwfh.mranftl.com/fonts/source-serif-4
+ *      Select weights: 300, 400, 600, 700 (regular + italic variants)
+ *      Download the zip and place the woff2 files in assets/fonts/source-serif-4/
+ *
+ *   2. Visit https://gwfh.mranftl.com/fonts/dm-mono
+ *      Select weights: 400, 500
+ *      Download and place woff2 files in assets/fonts/dm-mono/
+ *
+ *   3. Uncomment the @font-face blocks below once the files are in place.
+ *
+ * The font files are not included in this repo because of their file size.
+ * Until you add them, the CSS falls back to Georgia and Courier New,
+ * which are safe system fonts — the site remains fully functional.
+ *
+ * If you prefer not to self-host, you may re-add the Google Fonts <link> tags
+ * and adjust the CSP font-src directive accordingly. This trades convenience
+ * for the privacy and availability risks noted above.
+ */
+
+/*
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-300.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-300italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-600italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('source-serif-4/source-serif-4-latin-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('dm-mono/dm-mono-latin-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('dm-mono/dm-mono-latin-500.woff2') format('woff2');
+}
+*/
