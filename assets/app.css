@@ -35,7 +35,7 @@ body  {
 }
 
 /* ── MASTHEAD ── */
-.masthead { background: var(--crimson); }
+.masthead { background: var(--green); }
 .masthead-inner {
   max-width: 960px; margin: 0 auto; padding: 0 24px;
   display: flex; align-items: center; justify-content: space-between;
