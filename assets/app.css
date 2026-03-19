@@ -1,6 +1,7 @@
 /* ── TOKENS ── */
 :root {
   --green:      #235347;
+  --crimson:    #9B1C31;
   --green-dark: #1a3e35;
   --green-mid:  #2e6b5a;
   --green-lt:   #d4e6e1;
@@ -34,7 +35,7 @@ body  {
 }
 
 /* ── MASTHEAD ── */
-.masthead { background: var(--green); }
+.masthead { background: var(--crimson); }
 .masthead-inner {
   max-width: 960px; margin: 0 auto; padding: 0 24px;
   display: flex; align-items: center; justify-content: space-between;
