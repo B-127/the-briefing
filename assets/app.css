@@ -212,7 +212,7 @@ body  {
   line-height: 1.38; color: var(--ink); transition: color .12s; display: block; margin-bottom: 4px;
 }
 .item-deck {
-  font-family: var(--serif); font-size: 15px; font-weight: 400; font-style: italic;
+  font-family: var(--serif); font-size: 14px; font-weight: 400; font-style: italic;
   color: var(--ink-4); line-height: 1.45; display: block;
 }
 .item-time {
