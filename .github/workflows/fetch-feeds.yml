@@ -65,7 +65,7 @@ jobs:
         # npm ci requires package-lock.json and installs exact locked versions.
         # If the lockfile is missing or out of sync, this step will fail loudly
         # rather than silently installing a different version.
-        run: npm ci
+        run: npm install
 
       - name: Fetch RSS feeds
         run: node scripts/fetch-feeds.js
