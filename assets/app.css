@@ -195,7 +195,7 @@ body  {
 
 /* source column */
 .item-src {
-  font-family: var(--mono); font-size: 8px; letter-spacing: .09em;
+  font-family: var(--mono); font-size: 12px; letter-spacing: .09em;
   text-transform: uppercase; color: var(--ink-5); padding-top: 2px; line-height: 1.5;
 }
 .item-src-name { font-weight: 500; color: var(--ink-3); display: block; }
@@ -208,11 +208,11 @@ body  {
 
 /* headline column */
 .item-hl {
-  font-family: var(--serif); font-size: 15px; font-weight: 600;
+  font-family: var(--serif); font-size: 19px; font-weight: 600;
   line-height: 1.38; color: var(--ink); transition: color .12s; display: block; margin-bottom: 4px;
 }
 .item-deck {
-  font-family: var(--serif); font-size: 13px; font-weight: 400; font-style: italic;
+  font-family: var(--serif); font-size: 17px; font-weight: 400; font-style: italic;
   color: var(--ink-4); line-height: 1.45; display: block;
 }
 .item-time {
@@ -222,7 +222,7 @@ body  {
 
 /* category tag */
 .item-cat {
-  font-family: var(--mono); font-size: 7.5px; letter-spacing: .1em;
+  font-family: var(--mono); font-size: 11.5px; letter-spacing: .1em;
   text-transform: uppercase; color: var(--ink-5); background: var(--paper-2);
   border: 1px solid var(--rule-lt); padding: 2px 6px; border-radius: 1px;
   align-self: start; justify-self: end; white-space: nowrap; margin-top: 3px;
