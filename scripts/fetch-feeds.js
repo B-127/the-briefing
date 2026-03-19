@@ -61,16 +61,7 @@ const VALID_CATS       = new Set([
 ]);
 
 // RFC-1918 + link-local + loopback — blocked for SSRF prevention (H-1)
-const PRIVATE_IP_RE = /^(
-  127\.                            |  # loopback
-  10\.                             |  # RFC-1918 class A
-  172\.(1[6-9]|2\d|3[01])\.       |  # RFC-1918 class B
-  192\.168\.                       |  # RFC-1918 class C
-  169\.254\.                       |  # link-local
-  ::1$                             |  # IPv6 loopback
-  fc[0-9a-f]{2}:                   |  # IPv6 unique local
-  fd[0-9a-f]{2}:                      # IPv6 unique local
-)/xi;
+const PRIVATE_IP_RE = /^(127\.|10\.|172\.(1[6-9]|2[0-9]|3[01])\.|192\.168\.|169\.254\.|::1$|fc[0-9a-f]{2}:|fd[0-9a-f]{2}:)/i;
 
 // Acceptable Content-Type prefixes for RSS/Atom responses
 const ACCEPTABLE_CONTENT_TYPE_RE = /^(text\/|application\/(rss|atom|xml|rdf))/i;
