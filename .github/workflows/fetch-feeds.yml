@@ -41,6 +41,11 @@ permissions:
   security-events: none
   statuses: none
 
+# Prevent two runs pushing simultaneously — second run is cancelled, not queued
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: true
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
