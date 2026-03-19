@@ -309,7 +309,7 @@ async function loadFeed() {
 
     // Cache-bust at minute granularity so browsers don't serve stale data
     const ts  = Math.floor(Date.now() / 60000);
-    const res = await fetch(`feed.json?v=${ts}`, { headers });
+    const res = await fetch(`feed.json?v=${ts}`, { headers, cache: 'no-cache' });
 
     // I-3: 304 = nothing changed; skip re-parse
     if (res.status === 304) return;
