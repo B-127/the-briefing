@@ -308,8 +308,8 @@ async function loadFeed() {
     if (lastModified) headers['If-Modified-Since'] = lastModified;
 
     // Cache-bust at minute granularity so browsers don't serve stale data
-    const ts  = Math.floor(Date.now() / 60000);
-    const res = await fetch(`feed.json?v=${ts}`, { headers, cache: 'no-cache' });
+    const ts  = Math.floor(Date.now());
+    const res = await fetch(`feed.json?v=${ts}`, { headers, cache: 'no-store' });
 
     // I-3: 304 = nothing changed; skip re-parse
     if (res.status === 304) return;
