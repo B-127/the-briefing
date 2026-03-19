@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The Briefing — news from every perspective, aggregated from 37 RSS sources.">
+
+  <!--
+    base href tells the browser that all relative paths resolve from
+    /the-briefing/ — this is the single fix for GitHub Pages subdirectory hosting.
+    Change "the-briefing" if your repo is named differently.
+  -->
+  <base href="/the-briefing/">
+
+  <meta http-equiv="Content-Security-Policy"
+    content="
+      default-src   'none';
+      script-src    'self';
+      style-src     'self' https://fonts.googleapis.com;
+      font-src      'self' https://fonts.gstatic.com;
+      connect-src   'self';
+      img-src       'self' data:;
+      base-uri      'self';
+      form-action   'none';
+      frame-ancestors 'none';
+      upgrade-insecure-requests;
+    ">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,300;1,8..60,400;1,8..60,600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/app.css">
+
+  <title>The Briefing</title>
+</head>
+<body>
+
+  <!-- ── MASTHEAD ── -->
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="masthead-left">
+        <div class="pub-name">The Briefing</div>
+        <div class="pub-tagline">News from every perspective</div>
+      </div>
+      <div class="masthead-right">
+        <div class="masthead-date" id="live-date"></div>
+        <div class="last-updated" id="last-updated"></div>
+      </div>
+    </div>
+  </header>
+  <div class="rule-thick"></div>
+  <div class="rule-thin"></div>
+
+  <!-- ── EDITION STRIP ── -->
+  <div class="edition-strip">
+    <div class="edition-inner">
+      <div class="edition-text">Morning edition · 37 outlets · RSS aggregator</div>
+      <div class="edition-counts">
+        <div class="edition-count">Lean left <span id="ll-count">—</span></div>
+        <div class="edition-count">Centre <span id="ct-count">—</span></div>
+        <div class="edition-count">Lean right <span id="lr-count">—</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── NAV ── -->
+  <nav class="nav-bar" aria-label="Category filter">
+    <div class="nav-inner">
+      <button class="nav-item active" data-cat="all"        type="button">All</button>
+      <button class="nav-item"        data-cat="Politics"   type="button">Politics</button>
+      <button class="nav-item"        data-cat="World"      type="button">World</button>
+      <button class="nav-item"        data-cat="Business"   type="button">Business</button>
+      <button class="nav-item"        data-cat="Technology" type="button">Technology</button>
+      <button class="nav-item"        data-cat="Health"     type="button">Health</button>
+      <button class="nav-item"        data-cat="Science"    type="button">Science</button>
+      <button class="nav-item"        data-cat="Opinion"    type="button">Opinion</button>
+    </div>
+  </nav>
+
+  <!-- ── TOOLBAR ── -->
+  <div class="toolbar" role="search">
+    <div class="toolbar-inner">
+      <label class="search-label" for="search-input">Search</label>
+      <input
+        class="search-box"
+        type="search"
+        id="search-input"
+        placeholder="Filter headlines or sources…"
+        autocomplete="off"
+        spellcheck="false"
+        maxlength="200"
+        aria-label="Search headlines and sources"
+      >
+      <div class="toolbar-divider" role="separator"></div>
+      <span class="lean-label" id="lean-label">Lean</span>
+      <div role="group" aria-labelledby="lean-label">
+        <button class="lean-btn all active" data-lean="all" type="button">All</button>
+        <button class="lean-btn ll"         data-lean="ll"  type="button">Left</button>
+        <button class="lean-btn ct"         data-lean="ct"  type="button">Centre</button>
+        <button class="lean-btn lr"         data-lean="lr"  type="button">Right</button>
+      </div>
+      <div class="toolbar-spacer"></div>
+      <div class="result-count" id="result-count" aria-live="polite" aria-atomic="true"></div>
+    </div>
+  </div>
+
+  <!-- ── MAIN ── -->
+  <main class="page" id="main-content">
+    <div class="section-head">
+      <span class="section-label" id="section-label">Top stories</span>
+      <div class="section-rule" role="presentation"></div>
+    </div>
+    <div class="feed" id="main-feed" role="list" aria-label="News feed">
+      <div class="state-msg" id="loading-msg" role="status">
+        <div class="spinner" aria-hidden="true"></div>
+        <span>Fetching the latest stories…</span>
+      </div>
+    </div>
+    <div class="load-more-wrap" id="load-more-wrap" hidden>
+      <button class="load-more-btn" id="load-more-btn" type="button">Load more stories</button>
+    </div>
+  </main>
+
+  <!-- ── FOOTER ── -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-name">The Briefing</div>
+      <nav class="footer-links" aria-label="Footer links">
+        <a class="footer-link"
+           href="https://github.com/johndoe/the-briefing"
+           target="_blank"
+           rel="noopener noreferrer">GitHub</a>
+        <a class="footer-link"
+           href="sources.json"
+           target="_blank"
+           rel="noopener noreferrer">Sources</a>
+        <a class="footer-link"
+           href="feed.json"
+           target="_blank"
+           rel="noopener noreferrer">Raw feed</a>
+      </nav>
+      <div class="footer-meta">37 sources · Updated every 30 min</div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
