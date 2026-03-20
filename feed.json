@@ -1,65 +1,925 @@
 {
-  "generated": "2026-03-20T08:40:57.321Z",
+  "generated": "2026-03-20T09:41:29.611Z",
   "count": 300,
   "items": [
     {
-      "title": "Matter over mind",
-      "deck": "What person have you thought about the most over the past 24 hours?",
-      "link": "https://www.washingtonexaminer.com/premium/4496958/the-mattering-instinct-rebecca-newberger-goldstein-book-review/",
-      "pub": 1773996049000,
+      "title": "Politics ruins your travel",
+      "deck": "Hobby Airport in Houston might have been the worst.",
+      "link": "https://www.washingtonexaminer.com/premium/4496063/politics-ruins-your-travel/",
+      "pub": 1773999668000,
       "src": "EXAM",
       "srcFull": "Washington Examiner",
       "lean": "lr",
       "cat": "Politics"
     },
     {
-      "title": "Paul Ehrlich 1932-2026",
-      "deck": "Paul Ehrlich would have wanted you dead.",
-      "link": "https://www.washingtonexaminer.com/premium/4495991/population-bomb-author-paul-ehrlich-obituary/",
-      "pub": 1773995834000,
+      "title": "Gambling has turned Americans against their own teams",
+      "deck": "March Madness is upon us, which means about a third of Americans — almost 100 million people — will be filling out brackets to compete at the office, among friends, or even just with family members.",
+      "link": "https://www.washingtonexaminer.com/premium/4494537/sports-gambling-turned-americans-against-own-teams/",
+      "pub": 1773999558000,
       "src": "EXAM",
       "srcFull": "Washington Examiner",
       "lean": "lr",
       "cat": "Politics"
     },
     {
-      "title": "O'Sullivan makes highest-ever break with historic 153",
-      "deck": "Ronnie O'Sullivan creates more snooker history by making the sport's highest-ever professional break with a 153 at the World Open in Yushan.",
-      "link": "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss",
-      "pub": 1773995768000,
+      "title": "Typical energy bill forecast to rise by £332 a year in July",
+      "deck": "Cornwall Insight says the recent surge in energy prices due to the Iran war is set to push up household bills.",
+      "link": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss",
+      "pub": 1773999525000,
       "src": "BBC",
       "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Business"
+    },
+    {
+      "title": "Houston Rodeo implements dress code policy after backlash over scantily clad revelers: ‘Put on some damn clothes’",
+      "deck": "Houston, you have a problem.",
+      "link": "https://nypost.com/2026/03/20/us-news/houston-rodeo-dress-code-implemented-after-backlash-over-scantily-clad-revelers/",
+      "pub": 1773999483000,
+      "src": "NYP",
+      "srcFull": "New York Post",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Children as young as 11 are being abused in High Street mini-marts where they are offered drugs, alcohol and cigarettes as they are groomed for sex, senior council worker says",
+      "deck": "Trading Standards officers said raids at some shops in the borough of Dudley, West Midlands, revealed pull-out beds, while a 13-year-old girl was reportedly attacked.",
+      "link": "https://www.dailymail.co.uk/news/article-15663809/Children-abused-High-Street-mini-marts-drugs-alcohol-cigarettes-groomed-sex.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773999370000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Empathy derangement syndrome: How Democrats’ warped compassion is shielding Iran’s killers",
+      "deck": "In the first Book of Samuel, the prophet delivers a clear command from God to King Saul: Utterly destroy the Amalekites, a vicious enemy of Israel, and leave nothing alive — not man, woman, child, or beast.",
+      "link": "https://www.washingtonexaminer.com/premium/4496305/empathy-derangement-syndrome-democrats-iran-war-killers/",
+      "pub": 1773999339000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "England squad announcement: Thomas Tuchel 'makes major Man United omission' but throws Harry Maguire a World Cup lifeline in series of HUGE call-ups",
+      "deck": "Live updates as Thomas Tuchel names his England squad for upcoming friendlies against Uruguay and Japan, giving players one last chance to impress before World Cup selection.",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15663779/England-squad-announcement-live-blog-Uruguay-Japan-World-Cup-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773999321000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Sports"
+    },
+    {
+      "title": "One Global Power, One Regional Power, Two Different Goals",
+      "deck": "The U.S. is a superpower that views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After three weeks of war, their paths are diverging.",
+      "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
+      "pub": 1773999306000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Sailor gives away French aircraft carrier's position by using Strava while jogging on the deck",
+      "deck": "The crew member logged a 4.",
+      "link": "https://www.dailymail.co.uk/news/article-15663877/Sailor-gives-away-French-aircraft-carriers-position-using-Strava-jogging-deck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773999301000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Gold IRA storage explained: What you’re paying for and what to verify",
+      "deck": "Here's where your metals *actually* have to go.",
+      "link": "https://nypost.com/business/gold-ira-storage-explained/",
+      "pub": 1773999300000,
+      "src": "NYP",
+      "srcFull": "New York Post",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes",
+      "deck": "Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.",
+      "link": "https://www.nytimes.com/2026/03/20/world/asia/sri-lanka-iran-war-ships-aircraft.html",
+      "pub": 1773999293000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "British mother, 56, is killed when earthquake causes 'freak wave' that smashed her against rocks while swimming in Tenerife",
+      "deck": "Chantelle Buck-Forrest says her 56-year-old mother Rose Buck went for a swim on the morning of Wednesday February 25 while on holiday in Costa Adeje, Tenerife.",
+      "link": "https://www.dailymail.co.uk/news/article-15663957/British-mother-56-killed-earthquake-causes-freak-wave-smashed-against-rocks-swimming-Tenerife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773999234000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Fraud, flights and frustration during the holidays",
+      "deck": "",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/fraud-flights-frustration-during-holidays-093238341.html",
+      "pub": 1773999158000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "Ronnie O'Sullivan makes HISTORY with snooker's highest ever break - before celebrating with a hilariously laid-back video message",
+      "deck": "Ronnie O'Sullivan celebrated a 'pretty cool moment' after making the highest break in professional snooker by hitting a 153 at the World Open on Friday morning.",
+      "link": "https://www.dailymail.co.uk/sport/snooker/article-15663945/Ronnie-OSullivan-makes-HISTORY-snookers-highest-break-celebrating-hilariously-laid-video-message.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773999100000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Sports"
+    },
+    {
+      "title": "Smiths Group H1 Earnings Call Highlights",
+      "deck": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/smiths-group-h1-earnings-call-093130832.html",
+      "pub": 1773999090000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "CPA Australia backs review of ATO online services for agents",
+      "deck": "",
+      "link": "https://www.yahoo.com/news/articles/cpa-australia-backs-review-ato-093122162.html",
+      "pub": 1773999082000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "RFK Jr’s Big Loss Shows America’s Culture Wars Aren’t Over",
+      "deck": "Perspective: A judge’s ruling against HHS on gender-affirming care is a setback for RFK Jr.",
+      "link": "https://www.newsweek.com/rfk-jr-hhs-trans-health-culture-wars-maga-talarico-11708267",
+      "pub": 1773999055000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
       "lean": "ct",
       "cat": "Politics"
     },
     {
       "title": "Saudi Arabia threatens to attack Iran as US launches strikes to reopen Strait of Hormuz and Houthis vow to enter war - live updates",
-      "deck": "LIVE UPDATES: Follow the Daily Mail's live coverage of the Iran war as Yemen's Houthi rebels say they are joining Iran against the US and Israel as they threaten to attack ships in the Red Sea.",
+      "deck": "LIVE UPDATES: Follow the Daily Mail's live coverage of the Iran war as Saudi Arabia warns Tehran it could take military action after repeat strikes on Gulf nations since the start of the war.",
       "link": "https://www.dailymail.co.uk/news/article-15663741/Yemens-Houthi-rebels-join-war-Irans-vow-attack-US-ships-Strait-Hormuz-Gulf-battered-Iranian-drones-live-updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773995709000,
+      "pub": 1773999028000,
       "src": "Mail",
       "srcFull": "Daily Mail",
       "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Former Lidl worker who was diagnosed with 'a fear of rejection' is set to get a £45,000 payout after 'unfair dismissal'",
+      "deck": "Ryan Toghill was fired for gross misconduct after he was caught operating a forklift against the orders of his boss - a violation he tried to excuse with his ongoing hernia.",
+      "link": "https://www.dailymail.co.uk/news/article-15663089/lidl-worker-fear-rejection-payout-unfair-dismissal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773999020000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "From mall to torture site: The debate over El Helicoide's future in Venezuela",
+      "deck": "Once a futuristic shopping mall, El Helicoide became one of Venezuela's most feared prisons.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture",
+      "pub": 1773999000000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "As Trump Demands Voter Data, This Fiercely Independent Red State Says No",
+      "deck": "The post As Trump Demands Voter Data, This Fiercely Independent Red State Says No appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/idaho-voter-data-trump-justice-department",
+      "pub": 1773999000000,
+      "src": "PROP",
+      "srcFull": "ProPublica",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Melania Trump's secret phone call to Susie Wiles after cancer diagnosis... and the West Wing whispers after shock news dropped like a thunderbolt",
+      "deck": "President Donald Trump did not even say the word 'cancer' as he addressed the news on camera on Monday.",
+      "link": "https://www.dailymail.co.uk/news/article-15657941/Melania-Trump-Susie-Wiles-cancer-phone-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773998987000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Hard-working Aussie couple throw away $145k in epic mistake on house sale",
+      "deck": "Wagyu cattle farmers Nadine and Michael Kucks made a crucial error while selling their five-bedroom rural property in Queensland.",
+      "link": "https://www.dailymail.co.uk/news/article-15663637/Queensland-Kucks-house-sale-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773998960000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Why SEPA Instant is the catalyst for euro payment evolution",
+      "deck": "",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/why-sepa-instant-catalyst-euro-092848955.html",
+      "pub": 1773998928000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "RITM Stock Near 52-Week Low Despite $100 Billion in Assets and a Blowout Quarter",
+      "deck": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ritm-stock-near-52-week-092602503.html",
+      "pub": 1773998762000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "Laura Loomer Predicts Tulsi Gabbard Will Resign - What Are The Odds?",
+      "deck": "The likelihood that Tulsi Gabbard is poised to resign as Director of National Intelligence is low, according to betting platforms.",
+      "link": "https://www.newsweek.com/laura-loomer-predicts-tulsi-gabbard-will-resign-what-are-the-odds-11708246",
+      "pub": 1773998739000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
       "title": "Easter egg 'shrinkflation' revealed: Shoppers face up to 44% rise in cost per gram as chocolate gets smaller while price tags increase",
       "deck": "The cost of chocolate across UK stores has surged by 9.",
       "link": "https://www.dailymail.co.uk/news/article-15660843/Easter-egg-shrinkflation-UK-supermarkets-chocolate-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773995693000,
+      "pub": 1773998710000,
       "src": "Mail",
       "srcFull": "Daily Mail",
       "lean": "lr",
       "cat": "Politics"
     },
     {
-      "title": "Learning to shut up",
-      "deck": "A young man bought me a cup of coffee last week.",
-      "link": "https://www.washingtonexaminer.com/premium/4496646/learning-shut-up-listen/",
-      "pub": 1773995682000,
+      "title": "The filibuster and its discontents in both parties",
+      "deck": "Raise your hand if you thought the filibuster would be a top issue in the most important Republican Senate primary of this year’s midterm elections.",
+      "link": "https://www.washingtonexaminer.com/premium/4497003/senate-filibuster-and-its-discontents/",
+      "pub": 1773998626000,
       "src": "EXAM",
       "srcFull": "Washington Examiner",
       "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "What makes the Shahed 'kamikaze' drone the most feared weapon in Iran's arsenal? New Daily Mail show disassembles the primitive device devastating the Gulf",
+      "deck": "In retaliation for joint US-Israeli airstrikes on Iran, the Islamic Republic has launched thousands of Shaheds at military and civilian infrastructure across the Gulf region.",
+      "link": "https://www.dailymail.co.uk/news/article-15662071/war-tape-shahed-drone-iran-ukraine-interceptor-gulf.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773998428000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Last moments of reality star Jordan Wright show panicked TOWIE star sprinting through hotel grounds before he was found dead in Thailand",
+      "deck": "The 33-year-old from Basildon, Essex was seen looking over his shoulder as he sprinted back to his hotel on the island of Phuket shortly before midnight on Thursday, March 12.",
+      "link": "https://www.dailymail.co.uk/news/article-15663727/Haunting-CCTV-shows-final-moments-TOWIE-star-Jordan-Wright-dead-Thailand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773998306000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Chinese influence in US private schools attracts scrutiny",
+      "deck": "Despite the U.",
+      "link": "https://www.washingtonexaminer.com/premium/4497846/chinese-influence-us-private-schools-scrutiny/",
+      "pub": 1773998264000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Dubai's property bubble bursts: Luxury villas in the war torn desert city are slashed by up to a quarter as Iran's missile attacks make them unsellable",
+      "deck": "Real estate in luxury areas of the desert city has seen dramatic reductions in the three weeks since the first shot was fired.",
+      "link": "https://www.dailymail.co.uk/news/article-15661857/Dubai-property-bubble-bursts-Irans-attacks-make-unsellable.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773998115000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Labour MPs threaten vote to show opposition to Mahmood's migration plans",
+      "deck": "Opponents are considering using parliamentary procedure to force a vote to highlight their concerns.",
+      "link": "https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss",
+      "pub": 1773998091000,
+      "src": "BBC",
+      "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Gulf states again under Iranian fire",
+      "deck": "",
+      "link": "https://www.yahoo.com/news/articles/gulf-states-again-under-iranian-091442551.html",
+      "pub": 1773998082000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him",
+      "deck": "Maria Kalesnikava is campaigning for the West to engage with the regime in Belarus that imprisoned her for more than five years.",
+      "link": "https://www.nytimes.com/2026/03/20/world/europe/maria-kalesnikava-lukashenko-belarus.html",
+      "pub": 1773998062000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Kemi Badenoch accuses Keir Starmer of 'sucking up' to Muslims to see off the threat from the Green Party as the row over Islamic public prayers deepens",
+      "deck": "The Prime Minister on Wednesday called on the Conservative leader to sack a senior Tory who said that a mass Muslim prayer event in Trafalgar Square was an 'act of domination and division'.",
+      "link": "https://www.dailymail.co.uk/news/article-15662199/Kemi-Badenoch-Keir-Starmer-sucking-Muslims-Green-prayers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773997949000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Successful detransitioner lawsuit could be turning point on gender ideology",
+      "deck": "When our grandchildren study this period of time in school and learn about the rise of transgender ideology that captivated leftists, the legacy media, and many younger people for nearly two decades, January 2026 will be one of several key turning points in the effort to protect minors from poor life-altering decisions about their bodies.",
+      "link": "https://www.washingtonexaminer.com/premium/4497779/detransitioner-lawsuit-turning-point-gender-ideology/",
+      "pub": 1773997901000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "TSA being held ‘hostage’ as airport security problem is ‘going to get worse’ over DHS shutdown: top official",
+      "deck": "A top TSA official warned that security problems at airports are likely to get worse before they get better due to the ongoing Department of Homeland Security shutdown — as he blasted Congress for “holding” the agency hostage.",
+      "link": "https://nypost.com/2026/03/20/us-news/a-6/",
+      "pub": 1773997841000,
+      "src": "NYP",
+      "srcFull": "New York Post",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Oil prices move lower as U.S. weighs releasing sanctioned Iranian crude to boost supply",
+      "deck": "Oil prices were lower on Friday after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
+      "link": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+      "pub": 1773997766000,
+      "src": "CNBC",
+      "srcFull": "CNBC",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "Zohran Mamdani Wife's Account Disappears After Old Posts Spark Fury",
+      "deck": "Old posts from now-inactive accounts reportedly belonging to Rama Duwaji have sparked backlash",
+      "link": "https://www.newsweek.com/zohran-mamdani-wifes-account-disappears-after-old-posts-spark-fury-11707922",
+      "pub": 1773997606000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Warning UK borrowing rise makes energy bill help harder",
+      "deck": "Economists say UK government finances are in a worse position than before the government's last energy support package in 2022.",
+      "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+      "pub": 1773997572000,
+      "src": "BBC",
+      "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "An American sandwich in London",
+      "deck": "The sandwich and parliamentary democracy were made by English aristocrats and remade in America.",
+      "link": "https://www.washingtonexaminer.com/premium/4497006/an-american-sandwich-in-london-tommys/",
+      "pub": 1773997551000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Seven uncapped players in new-era Red Roses squad",
+      "deck": "Head coach John Mitchell includes a clutch of new faces in England's Women's Six Nations squad as he aims to build on September's Rugby World Cup triumph.",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/clyjgnyr792o?at_medium=RSS&at_campaign=rss",
+      "pub": 1773997517000,
+      "src": "BBC",
+      "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Can Jonah Peretti Save BuzzFeed From Extinction?",
+      "deck": "Facing financial straits, the founder is betting on a skunkworks for A.",
+      "link": "https://www.nytimes.com/2026/03/20/business/media/buzzfeed-jonah-peretti-ai-future.html",
+      "pub": 1773997457000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "UK set for temperature rollercoaster as chilly nights follow warm days",
+      "deck": "March is a fickle time for temperatures in the UK and can see some huge swings from day to night.",
+      "link": "https://www.bbc.com/weather/articles/c99500mplgeo?at_medium=RSS&at_campaign=rss",
+      "pub": 1773997453000,
+      "src": "BBC",
+      "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "The Danger of Declaring ‘Once and for All’ in the Middle East",
+      "deck": "Hamas has survived waves of killings of its leaders.",
+      "link": "https://www.nytimes.com/2026/03/20/opinion/iran-israel-united-states-hamas.html",
+      "pub": 1773997422000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Opinion"
+    },
+    {
+      "title": "A Diary of War From an Unlikely Author: the Son of Iran’s President",
+      "deck": "In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another.",
+      "link": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html",
+      "pub": 1773997416000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil",
+      "deck": "Seeking to reduce its reliance on China, the United States is pushing for a critical minerals deal with Brazil.",
+      "link": "https://www.nytimes.com/2026/03/20/world/americas/us-rare-earth-minerals-brazil-china.html",
+      "pub": 1773997401000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Record Number of Student Loan Borrowers Are in Delinquency and Default",
+      "deck": "Recently released data from the Education Department showed that by the end of last year, 7.",
+      "link": "https://www.nytimes.com/2026/03/20/business/student-loan-deliquency-default.html",
+      "pub": 1773997394000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "‘We Don’t Need More Lawyers in Congress’: The Future of the Democratic Party Is Emerging",
+      "deck": "On a new generation of leaders on the left.",
+      "link": "https://www.nytimes.com/2026/03/20/opinion/democrats-midterms-iran-future.html",
+      "pub": 1773997392000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Opinion"
+    },
+    {
+      "title": "Our Hospitals Are Unprepared for the Return of Kids With Measles",
+      "deck": "There are lots of follow-on risks once children start getting vaccine-preventable diseases.",
+      "link": "https://www.nytimes.com/2026/03/20/opinion/measles-vaccines-pediatric-care.html",
+      "pub": 1773997387000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Opinion"
+    },
+    {
+      "title": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
+      "deck": "As they start a new year, Iranians are reckoning with bombardment, repression and economic misery.",
+      "link": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
+      "pub": 1773997376000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Naomi Klein on Trumpism and Our Age of ‘Unlikely Bedfellows’",
+      "deck": "Naomi Klein and Ezra Klein discuss what the success of MAGA reveals about the American left.",
+      "link": "https://www.nytimes.com/2026/03/20/opinion/ezra-klein-podcast-naomi-klein.html",
+      "pub": 1773997353000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "New Spider Mimics ‘The Last of Us’ Zombie Fungus Cordyceps",
+      "deck": "A newly discovered species of spider in the Ecuadorean Amazon mimics a pathogen, known as a zombie fungus, to protect itself.",
+      "link": "https://www.nytimes.com/2026/03/20/science/spider-cordyceps-fungus-zombies.html",
+      "pub": 1773997348000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Science"
+    },
+    {
+      "title": "New Data Shows Where ICE Has Been Most Active This Year",
+      "deck": "The pace of ICE arrests nationwide has topped 1,100 per day on average in 2026, but the rate of arrests has varied across the country in sometimes surprising ways.",
+      "link": "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html",
+      "pub": 1773997342000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Samuel Alito’s Princeton Is Not Sonia Sotomayor’s",
+      "deck": "The university has become more hers than his.",
+      "link": "https://www.nytimes.com/2026/03/20/opinion/alito-sotomayor-princeton.html",
+      "pub": 1773997331000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Opinion"
+    },
+    {
+      "title": "Oscars 2026",
+      "deck": "For those of us who prefer our movie stars to recite lines of dialogue rather than left-wing talking points, the 1972 Academy Awards represented something of a high point.",
+      "link": "https://www.washingtonexaminer.com/premium/4496795/oscars-2026-revi/",
+      "pub": 1773997321000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "How New Mexico Became an Obamacare Success Story",
+      "deck": "Affordable Care Act enrollment has dropped across the United States since the enhanced federal subsidies expired.",
+      "link": "https://www.nytimes.com/2026/03/20/health/obamacare-new-mexico-subsidies-states.html",
+      "pub": 1773997288000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Dietician who bluffed her way into senior NHS job is struck off after colleagues discovered she didn't know where the intestines were, what a gallbladder did or how to calculate BMI",
+      "deck": "Ifenyinwa Chizube Ndulue-Nonso claimed to have experience working with a range of different health problems but her colleagues quickly discovered there were gaps in her knowledge.",
+      "link": "https://www.dailymail.co.uk/news/article-15660581/Dietician-bluffed-way-senior-NHS-job-struck-colleagues-discovered-didnt-know-intestines-gallbladder-did-calculate-BMI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773997276000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Body of Missing University of Alabama Student Is Found Dead in Spain, Police Say",
+      "deck": "James Gracey, 20, a student at the University of Alabama, disappeared during a visit to a beachfront nightclub in Barcelona.",
+      "link": "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html",
+      "pub": 1773997275000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Trump Organization Eyes Transylvania Golf Course Deal",
+      "deck": "The president’s company is eyeing a site for a golf course and luxury apartments.",
+      "link": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-tranysyvania-apartments-golf-course.html",
+      "pub": 1773997265000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Sorry, the quiz is SO GROSS this week. You'll see",
+      "deck": "What could be more delightful than cannibal invertebrates and food-related weather events?",
+      "link": "https://www.npr.org/2026/03/20/g-s1-114392/banksy-bat-oscars-postal-service-messi-war-news-quiz",
+      "pub": 1773997260000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Thousands have swooned over this MAGA dream girl. She’s made with AI.",
+      "deck": "Jessica Foster’s posts place her beside fighter jets, world leaders and Trump iconography.",
+      "link": "https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/",
+      "pub": 1773997253000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "Technology"
+    },
+    {
+      "title": "Hezbollah is bombing northern Israel again. Residents are staying put.",
+      "deck": "Rather than evacuation, Israel’s defense minister said the mission now is “to protect northern communities against raids and anti-tank fire.",
+      "link": "https://www.washingtonpost.com/world/2026/03/20/northern-israel-no-evacuation-hezbollah/",
+      "pub": 1773997241000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Handcuffs, Tents and Pleas for Medical Care: Pregnant in ICE Detention",
+      "deck": "Women describe conditions that violate longstanding agency guidelines for how pregnant detainees should be treated.",
+      "link": "https://www.nytimes.com/2026/03/20/us/politics/pregnant-women-ice-detention.html",
+      "pub": 1773997239000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Small businesses reeling from tariffs brace for spiking oil prices",
+      "deck": "Anxiety has pulsed through the small-business economy for months, even before the war in Iran began weighing on energy prices.",
+      "link": "https://www.washingtonpost.com/business/2026/03/20/small-businesses-costs-iran-war/",
+      "pub": 1773997230000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "How Geopolitics Threaten K-Pop’s Ambitions in China",
+      "deck": "Japanese members of some K-pop bands have been absent from recent concerts in China.",
+      "link": "https://www.nytimes.com/2026/03/20/world/asia/k-pop-china-japan-south-korea.html",
+      "pub": 1773997226000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "BTS Is Back With ‘Arirang,’ but the K-Pop Landscape Has Changed",
+      "deck": "The superstar boy band returns after a four-year hiatus on Friday.",
+      "link": "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html",
+      "pub": 1773997224000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "They defended the Capitol on Jan. 6. Their names are missing from the tribute.",
+      "deck": "A Washington Post review found at least 16 D.",
+      "link": "https://www.washingtonpost.com/politics/2026/03/20/jan-6-plaque-congress-police-missing-names/",
+      "pub": 1773997214000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Blood Plasma Centers Move Into More Middle-Class Neighborhoods",
+      "deck": "Across the United States, plasma centers are opening in wealthier areas as more people struggle with the high cost of housing, groceries and health care.",
+      "link": "https://www.nytimes.com/2026/03/20/business/middle-class-sell-their-plasma.html",
+      "pub": 1773997208000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "Deepening Iran conflict exposes cracks in U.S. and Israeli objectives",
+      "deck": "Israel’s assault on the world’s largest natural gas deposit has renewed tensions between the two allies’ end goals in Iran.",
+      "link": "https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/",
+      "pub": 1773997204000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Trump bank immigration order delayed amid Wall Street pushback",
+      "deck": "The Trump administration is rethinking a plan to use the banking system as an immigration enforcement tool after widespread objections from banks.",
+      "link": "https://www.washingtonpost.com/business/2026/03/20/banks-immigration-trump/",
+      "pub": 1773997203000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "10 tried-and-true methods to stay off your phone, according to our readers",
+      "deck": "We asked our audience to share the creative ways they limit their own phone use.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone",
+      "pub": 1773997200000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "An immigration court few have heard of is quietly shaping policy behind the scenes",
+      "deck": "President Trump has slashed the number of people on the Board of Immigration Appeals and stacked it with his appointees, tightening the due process available for immigrants, an NPR analysis shows.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5707535/trump-immigration-detention-appeals-board-deportation",
+      "pub": 1773997200000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Why it's so hard for world leaders to bring down oil and gasoline prices",
+      "deck": "From waiving the Jones Act to rerouting oil through the Red Sea, governments are doing their best to make up for the crisis in the Strait of Hormuz, but prices are still rising.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
+      "pub": 1773997200000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "She Was in Labor at a Florida Hospital. Then She Was in Zoom Court for Refusing a C-Section.",
+      "deck": "The post She Was in Labor at a Florida Hospital.",
+      "link": "https://www.propublica.org/article/florida-court-hearing-c-section",
+      "pub": 1773997200000,
+      "src": "PROP",
+      "srcFull": "ProPublica",
+      "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Inside the Trump administration’s campaign to expand ‘free speech’ in Europe",
+      "deck": "The president, in his return to the White House, has expanded efforts to fight “censorship” overseas, using the State Department to target European governments.",
+      "link": "https://www.washingtonpost.com/technology/2026/03/20/trump-eu-dsa-censorship/",
+      "pub": 1773997200000,
+      "src": "WaPo",
+      "srcFull": "Washington Post",
+      "lean": "ll",
+      "cat": "Technology"
+    },
+    {
+      "title": "Israel Removing Hezbollah Would Be Its Biggest Victory in Decades",
+      "deck": "\"We will be there to cooperate, to collaborate, to build a new Middle East,\" Israeli Consul General Ofir Akunis told Newsweek.",
+      "link": "https://www.newsweek.com/israel-removing-hezbollah-would-be-its-biggest-victory-in-decades-11706721",
+      "pub": 1773997200000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Nancy Mace: Sexual Misconduct in Congress Has Been Hidden for Far Too Long",
+      "deck": "The House Ethics Committee is sitting on sexual harassment records by members of Congress.",
+      "link": "https://www.newsweek.com/nancy-mace-sexual-misconduct-in-congress-has-been-hidden-for-far-too-long-11703999",
+      "pub": 1773997200000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "The 5 Iran War Traps Trump Must Avoid",
+      "deck": "Perspective: Donald Trump’s attempt to control the Iran war is being overtaken by rapid, unpredictable escalation.",
+      "link": "https://www.newsweek.com/iran-war-trump-escalation-energy-trap-11667212",
+      "pub": 1773997200000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Thanks, Obama: We are all cash payers for healthcare now",
+      "deck": "Recent polling from the West Health-Gallup Center revealed a troubling reality.",
+      "link": "https://www.washingtonexaminer.com/op-eds/4494711/obamacare-cash-payer-healthcare-price-transparency-reform/",
+      "pub": 1773997200000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Shutdown shows we should privatize airport security",
+      "deck": "Thousands of travelers across the country missed flights this past week as more and more Transportation Security Administration employees failed to show up to work because they haven’t been paid for almost three weeks.",
+      "link": "https://www.washingtonexaminer.com/opinion/editorials/4497121/shutdown-shows-should-privatize-airport-security/",
+      "pub": 1773997200000,
+      "src": "EXAM",
+      "srcFull": "Washington Examiner",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "NASA's Curiosity Rover Finds Evidence Of Underground Water On Mars 'That Could Have Supported Life'",
+      "deck": "NASA's Curiosity Rover Finds Evidence Of Underground Water On Mars 'That Could Have Supported Life' Authored by Jill McLaughlin via The Epoch Times (emphasis ours), NASA’s Curiosity Rover has discovered evidence on Mars that suggests underground water once existed in a region of the planet later than scientists first believed, the agency reported March 15.",
+      "link": "https://www.zerohedge.com/political/nasas-curiosity-rover-finds-evidence-underground-water-mars-could-have-supported-life",
+      "pub": 1773997200000,
+      "src": "ZH",
+      "srcFull": "ZeroHedge",
+      "lean": "lr",
+      "cat": "Business"
+    },
+    {
+      "title": "US opens new front in battle to reopen Strait of Hormuz as jets obliterate Iranian ships and take down drones",
+      "deck": "Global fuel supplies have been under intense pressure because of Iran´s stranglehold on the strait, a strategic waterway through which a fifth of the world´s oil is transported.",
+      "link": "https://www.dailymail.co.uk/news/article-15663599/US-battle-Strait-Hormuz-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773997069000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "U.S. says Cuba is prohibited from taking Russian oil as two tankers head to island",
+      "deck": "The fuel-starved Caribbean island is facing its biggest test since the collapse of the Soviet Union under a U.",
+      "link": "https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html",
+      "pub": 1773996868000,
+      "src": "CNBC",
+      "srcFull": "CNBC",
+      "lean": "ll",
+      "cat": "Business"
+    },
+    {
+      "title": "As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+      "deck": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
+      "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
+      "pub": 1773996462000,
+      "src": "NYT",
+      "srcFull": "New York Times",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Morning news brief",
+      "deck": "Global oil and energy prices reel as the war in the Middle East escalates, Trump talks about potential for ground troops in Iran and the possibility of seizing Kharg Island.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5748548/morning-news-brief",
+      "pub": 1773996224000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "A look at the economic cost of the war in the Middle East",
+      "deck": "The team from NPR's The Indicator podcast takes a look at the economic costs of the war in the Middle East.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5749374/a-look-at-the-economic-cost-of-the-war-in-the-middle-east",
+      "pub": 1773996212000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Historian talks about how Trump is forging a new world order",
+      "deck": "NPR's Steve Inskeep speaks with historian Daniel Immerwahr about how President Trump is forging a new world order through his foreign policy.",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5750582/historian-talks-about-how-trump-is-forging-a-new-world-order",
+      "pub": 1773996201000,
+      "src": "NPR",
+      "srcFull": "NPR",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
+      "title": "Thomas Tuchel makes huge Harry Maguire call in his penultimate England squad before the World Cup",
+      "deck": "Thomas Tuchel has been giving strong consideration to a first call up under him for the Manchester United defender.",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15663849/thomas-tuchel-harry-maguire-england-squad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773996149000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Sports"
+    },
+    {
+      "title": "What mating call do YOU find most appealing? Take the test - as a bizarre study reveals humans and animals have the same taste",
+      "deck": "From the eerie croak of a tropical frog to the haunting call of the howler monkey, the animal kingdom is filled with some wild and wacky mating calls.",
+      "link": "https://www.dailymail.co.uk/sciencetech/article-15660821/mating-call-preference-research-test.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pub": 1773995849000,
+      "src": "Mail",
+      "srcFull": "Daily Mail",
+      "lean": "lr",
+      "cat": "Technology"
+    },
+    {
+      "title": "O'Sullivan makes snooker's highest break with historic 153",
+      "deck": "Ronnie O'Sullivan creates more snooker history by making the sport's highest-ever professional break with a 153 at the World Open in Yushan.",
+      "link": "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss",
+      "pub": 1773995768000,
+      "src": "BBC",
+      "srcFull": "BBC News",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -73,64 +933,14 @@
       "cat": "Politics"
     },
     {
-      "title": "England squad announcement: Thomas Tuchel to kill and revive World Cup dreams in his penultimate squad selection. Harry Maguire and Adam Wharton are IN - so who misses out?",
-      "deck": "Live updates as Thomas Tuchel names his England squad for upcoming friendlies against Uruguay and Japan, giving players one last chance to impress before World Cup selection.",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15663779/England-squad-announcement-live-blog-Uruguay-Japan-World-Cup-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773995569000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Sports"
-    },
-    {
-      "title": "A math equation: Ohio – Property Taxes = Total devastation for our communities",
-      "deck": "",
-      "link": "https://www.yahoo.com/news/articles/math-equation-ohio-property-taxes-083017828.html",
-      "pub": 1773995417000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "15 Reasons You're Putting Too Much Money in Savings",
-      "deck": "",
-      "link": "https://finance.yahoo.com/markets/articles/15-reasons-youre-putting-too-083003695.html",
-      "pub": 1773995403000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "iBio Touts Bispecific Antibody Strategy for PH-HFpEF, Eyes Development Candidate in Q3",
-      "deck": "",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/ibio-touts-bispecific-antibody-strategy-082848019.html",
-      "pub": 1773995328000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "Is Netflix a Buy, Sell, or Hold in 2026?",
-      "deck": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-buy-sell-hold-2026-082800033.html",
-      "pub": 1773995280000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "Is Nvidia Stock Going to $500?",
-      "deck": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-going-500-082700356.html",
-      "pub": 1773995220000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "Business"
+      "title": "Heavy Snow Warning As up to 18 Inches To Strike: ‘Hazardous’",
+      "deck": "“People are urged to prepare their property before the onset of winter weather,” according to the National Weather Service.",
+      "link": "https://www.newsweek.com/heavy-snow-warning-nws-hazardous-winter-storm-11707891",
+      "pub": 1773995532000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
     },
     {
       "title": "Can Reeves afford to help Brits with 'Trumpflation'? Government's February borrowing was highest outside Covid as spending and debt interest outweighed soaring taxes",
@@ -143,23 +953,13 @@
       "cat": "Politics"
     },
     {
-      "title": "US opens new front in battle to reopen Strait of Hormuz as jets obliterate Iranian ships and take down drones",
-      "deck": "Global fuel supplies have been under intense pressure because of Iran´s stranglehold on the strait, a strategic waterway through which a fifth of the world´s oil is transported.",
-      "link": "https://www.dailymail.co.uk/news/article-15663599/US-battle-Strait-Hormuz-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773995003000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Last moments of reality star Jordan Wright show panicked TOWIE star sprinting through hotel grounds before he was found dead in Thailand",
-      "deck": "Haunting CCTV has captured the final moments of TOWIE star Jordan Wright before he was found dead after drowning in a drainage canal in Thailand.",
-      "link": "https://www.dailymail.co.uk/news/article-15663727/Haunting-CCTV-shows-final-moments-TOWIE-star-Jordan-Wright-dead-Thailand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773994952000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
+      "title": "Cat Owner Unprepared for Picture Neighbor Sends Her: ‘Menacing’",
+      "deck": "“It actually shocks me how confident he is,\" Mimi's owner told Newsweek, after learning about the rescue cat's latest pastime.",
+      "link": "https://www.newsweek.com/cat-owner-unprepared-for-picture-neighbor-sends-her-11702543",
+      "pub": 1773994903000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -173,16 +973,6 @@
       "cat": "Politics"
     },
     {
-      "title": "Dubai's property bubble bursts: Luxury villas in the war torn desert city are slashed by up to a quarter as Iran's missile attacks make them unsellable",
-      "deck": "Real estate in luxury areas of the desert city has seen dramatic reductions in the three weeks since the first shot was fired.",
-      "link": "https://www.dailymail.co.uk/news/article-15661857/Dubai-property-bubble-bursts-Irans-attacks-make-unsellable.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773994814000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
       "title": "Shocking moment gym goes up in flames after thugs break in, pour petrol through ENTIRE building and set it alight",
       "deck": "When the phone rang at 2.",
       "link": "https://www.dailymail.co.uk/news/article-15641369/Shocking-moment-gym-goes-flames-thugs-break-pour-petrol-ENTIRE-building-set-alight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -191,6 +981,16 @@
       "srcFull": "Daily Mail",
       "lean": "lr",
       "cat": "Politics"
+    },
+    {
+      "title": "Atlantic Lithium cheers \"watershed moment\" as Ewoyaa lithium project's mining lease is ratified",
+      "deck": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/atlantic-lithium-cheers-watershed-moment-081900715.html",
+      "pub": 1773994740000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "World"
     },
     {
       "title": "Convicted sex offender Josh Duggar speaks out on brother Joseph’s child molestation arrest",
@@ -213,6 +1013,16 @@
       "cat": "Politics"
     },
     {
+      "title": "Iran War Live: Netanyahu Says Iranian Revolution Needs 'Ground Component'",
+      "deck": "Netanyahu has said you cannot \"do revolutions from the air,\" and that you \"don't want to replace one ayatollah with another.",
+      "link": "https://www.newsweek.com/iran-war-live-latest-updates-netanyahu-iranian-revolution-needs-ground-component-donald-trump-11707889",
+      "pub": 1773994630000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
       "title": "RT Reporter Injured During 'On Air' Segment By Israeli Strike, Angering Moscow",
       "deck": "RT Reporter Injured During 'On Air' Segment By Israeli Strike, Angering Moscow The Kremlin and state media outlet Russia Today (RT) are outraged after its reporter and cameraman narrowly missed being blown up in an Israeli airstrike, while receiving wounds.",
       "link": "https://www.zerohedge.com/geopolitical/moscow-angry-after-rt-reporter-injured-during-air-segment-israeli-strike",
@@ -221,16 +1031,6 @@
       "srcFull": "ZeroHedge",
       "lean": "lr",
       "cat": "Business"
-    },
-    {
-      "title": "UK borrowing higher than expected in February",
-      "deck": "The ONS said an increase in government tax receipts was outweighed by a rise in spending.",
-      "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
-      "pub": 1773994457000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
-      "cat": "Politics"
     },
     {
       "title": "Dubai restaurant fire clip falsely linked to Mideast war",
@@ -263,23 +1063,13 @@
       "cat": "Politics"
     },
     {
-      "title": "Thomas Tuchel makes huge Harry Maguire call in his penultimate England squad before the World Cup",
-      "deck": "Thomas Tuchel has been giving strong consideration to a first call up under him for the Manchester United defender.",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15663849/thomas-tuchel-harry-maguire-england-squad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773994296000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Sports"
-    },
-    {
-      "title": "Rylan Clark is the BBC's favourite to become the new Strictly host but faces screen tests with other contenders to assess their chemistry: 'He will be a ratings winner!'",
-      "deck": "The presenter is now in line for a promotion - as one of the replacements for Tess Daly and Claudia Winkleman on the BBC's Saturday night dance extravaganza.",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15662891/Rylan-Clark-BBCs-favourite-new-Strictly-host-faces-screen-tests-contenders-assess-chemistry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773994070000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
+      "title": "Hearts Melt Over What Golden Retriever Does After Losing Owner On Walk",
+      "deck": "The 2-year-old dog wandered off with her toy, losing track of where her owner remained sitting on a park bench.",
+      "link": "https://www.newsweek.com/hearts-melt-what-golden-retriever-does-losing-owner-walk-11707633",
+      "pub": 1773994256000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -343,16 +1133,6 @@
       "cat": "World"
     },
     {
-      "title": "What mating call do YOU find most appealing? Take the test - as a bizarre study reveals humans and animals have the same taste",
-      "deck": "From the eerie croak of a tropical frog to the haunting call of the howler monkey, the animal kingdom is filled with some wild and wacky mating calls.",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15660821/mating-call-preference-research-test.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773993690000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
       "title": "Brickbat: No Right To Know",
       "deck": "Police Scotland refused to release crime data requested by the Scottish Daily Express through a Freedom of Information request.",
       "link": "https://reason.com/2026/03/20/brickbat-no-right-to-know/",
@@ -393,13 +1173,13 @@
       "cat": "Technology"
     },
     {
-      "title": "‘Mowing the lawn’ in Iran won’t do. Trump must finish the job",
-      "deck": "In the days since the United States and Israel launched their campaign against Iran, the term “mowing the lawn” has resurfaced in foreign policy discussions.",
-      "link": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4497658/trump-must-finish-job-iran/",
+      "title": "Trump's Iran War Already Costs More Than Bush's Iraq Opening",
+      "deck": "Donald Trump promised to end wars, not start new ones.",
+      "link": "https://www.newsweek.com/iran-war-already-costs-more-than-bush-iraq-opening-11706553",
       "pub": 1773993600000,
-      "src": "EXAM",
-      "srcFull": "Washington Examiner",
-      "lean": "lr",
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -413,6 +1193,16 @@
       "cat": "Business"
     },
     {
+      "title": "Real estate leader says 757 can handle market jitters",
+      "deck": "",
+      "link": "https://www.yahoo.com/news/articles/real-estate-leader-says-757-075819910.html",
+      "pub": 1773993499000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "World"
+    },
+    {
       "title": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work",
       "deck": "Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.",
       "link": "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
@@ -421,46 +1211,6 @@
       "srcFull": "CNBC",
       "lean": "ll",
       "cat": "Business"
-    },
-    {
-      "title": "GB's Jones beats childhood hero Williams as Swiatek stunned",
-      "deck": "Britain's Fran Jones says it \"means everything\" after defeating her childhood hero Venus Williams in the first round of the Miami Open.",
-      "link": "https://www.bbc.com/sport/tennis/articles/cz67xn4ndzqo?at_medium=RSS&at_campaign=rss",
-      "pub": 1773993267000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
-      "cat": "Politics"
-    },
-    {
-      "title": "As Attacks Shake Markets, Trump Seeks to Reassure Americans",
-      "deck": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
-      "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-      "pub": 1773992808000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
-      "title": "Former Lidl worker who was diagnosed with 'a fear of rejection' is set to get a £45,000 payout after 'unfair dismissal'",
-      "deck": "Ryan Toghill was fired for gross misconduct after he was caught operating a forklift against the orders of his boss - a violation he tried to excuse with his ongoing hernia.",
-      "link": "https://www.dailymail.co.uk/news/article-15663089/lidl-worker-fear-rejection-payout-unfair-dismissal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773992573000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Footage of deadly Hong Kong building fire falsely linked to strikes on Israel",
-      "deck": "",
-      "link": "https://www.yahoo.com/news/articles/footage-deadly-hong-kong-building-074042662.html",
-      "pub": 1773992442000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "World"
     },
     {
       "title": "NI households set for £30 electricity reduction in July",
@@ -479,6 +1229,16 @@
       "pub": 1773992376000,
       "src": "BBC",
       "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Is Discord Down? Thousands of Users Report Errors",
+      "deck": "Thousands of users of the online messaging platform Discord reported disruptions across the United States late Thursday.",
+      "link": "https://www.newsweek.com/discord-down-outage-thousands-users-report-errors-across-united-states-11707851",
+      "pub": 1773992171000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
       "lean": "ct",
       "cat": "Politics"
     },
@@ -523,16 +1283,6 @@
       "cat": "Politics"
     },
     {
-      "title": "Body of Missing University of Alabama Student Is Found Dead in Spain, Police Say",
-      "deck": "James Gracey, 20, a student at the University of Alabama, disappeared during a visit to a beachfront nightclub in Barcelona.",
-      "link": "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html",
-      "pub": 1773991927000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
       "title": "Comedy club owner with terminal cancer hunts kills ex-father-in-law before hunting down ex-wife who makes miracle escape",
       "deck": "The man traveled around 4,000 miles, from southern Arizona to Alaska, to hunt down his wife and kill her father.",
       "link": "https://www.dailymail.co.uk/news/article-15663075/Alaska-Arizona-Terminal-cancer-hunt-ex-wife-kills-father.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -553,16 +1303,6 @@
       "cat": "Business"
     },
     {
-      "title": "🚨 Official: Spain unveil their away kit for the 2026 World Cup",
-      "deck": "",
-      "link": "https://sports.yahoo.com/articles/official-spain-unveil-away-kit-072900407.html",
-      "pub": 1773991740000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
       "title": "Delta CEO fumes over unpaid security officers as TSA official warns airport mayhem 'will get worse before it gets better'",
       "deck": "Delta Air Lines CEO Ed Bastian fumed at Congress as Transportation Security Administration officers continue to work without pay.",
       "link": "https://www.dailymail.co.uk/news/article-15663515/Delta-CEO-TSA-unpaid-Congress-Department-Homeland-Security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -573,20 +1313,20 @@
       "cat": "Politics"
     },
     {
+      "title": "Lauren Boebert Lashes Out Over Potential $200 Billion For Iran War",
+      "deck": "The Republican congresswoman said she will not support nay supplemental funding for the war.",
+      "link": "https://www.newsweek.com/lauren-boebert-lashes-out-over-potential-200-billion-for-iran-war-11707847",
+      "pub": 1773991563000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
       "title": "Trump and Netanyahu trade barbs as gas price surge threatens Iran War alliance: US insists they were NOT told of plans to hit fuel plant but Israeli officials deny that - and Bibi says it's 'fake news' that Tel Aviv dragged Washington into the conflict",
       "deck": "The US President sparked speculation of a split with his ally after insisting he 'knew nothing' of its plan to hit South Pars in Iran , the world's largest gas field.",
       "link": "https://www.dailymail.co.uk/news/article-15663209/Trump-Netanyahu-trade-barbs-gas-price-surge-threatens-Iran-War-alliance-US-insists-NOT-told-plans-hit-fuel-plant-Israeli-officials-deny-Bibi-says-fake-news-Tel-Aviv-dragged-Washington-conflict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pub": 1773991547000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Kemi Badenoch accuses Keir Starmer of 'sucking up' to Muslims to see off the threat from the Green Party as the row over Islamic public prayers deepens",
-      "deck": "The Prime Minister on Wednesday called on the Conservative leader to sack a senior Tory who said that a mass Muslim prayer event in Trafalgar Square was an 'act of domination and division'.",
-      "link": "https://www.dailymail.co.uk/news/article-15662199/Kemi-Badenoch-Keir-Starmer-sucking-Muslims-Green-prayers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773991380000,
       "src": "Mail",
       "srcFull": "Daily Mail",
       "lean": "lr",
@@ -663,14 +1403,14 @@
       "cat": "Science"
     },
     {
-      "title": "My plan to overhaul football's academy system",
-      "deck": "Tony Pulis on why more should be done to help youngsters in the academy system, especially the majority who do not make it as professionals.",
-      "link": "https://www.bbc.com/sport/football/articles/c78x2gl3332o?at_medium=RSS&at_campaign=rss",
-      "pub": 1773990079000,
+      "title": "I went to bed with a sore ear, meningitis put me in a coma",
+      "deck": "Mark McNamee did not know he had meningitis until he woke up in hospital after being in an induced coma.",
+      "link": "https://www.bbc.com/news/articles/c747lme8pg1o?at_medium=RSS&at_campaign=rss",
+      "pub": 1773990212000,
       "src": "BBC",
       "srcFull": "BBC News",
       "lean": "ct",
-      "cat": "Politics"
+      "cat": "Health"
     },
     {
       "title": "Predictor picks: Find out who our expert is backing this weekend... and play the game with £1,000 up for grabs",
@@ -681,16 +1421,6 @@
       "srcFull": "Daily Mail",
       "lean": "lr",
       "cat": "Sports"
-    },
-    {
-      "title": "What makes the Shahed 'kamikaze' drone the most feared weapon in Iran's arsenal? New Daily Mail show disassembles the primitive device devastating the Gulf",
-      "deck": "In retaliation for joint US-Israeli airstrikes on Iran, the Islamic Republic has launched thousands of Shaheds at military and civilian infrastructure across the Gulf region.",
-      "link": "https://www.dailymail.co.uk/news/article-15662071/war-tape-shahed-drone-iran-ukraine-interceptor-gulf.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773990056000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
     },
     {
       "title": "Why I Decided to Share My Cancer Surgery With Times Readers",
@@ -803,16 +1533,6 @@
       "cat": "Business"
     },
     {
-      "title": "Old footage of brawl at Israeli cinema misrepresented as commotion at Tel Aviv airport",
-      "deck": "",
-      "link": "https://www.yahoo.com/news/articles/old-footage-brawl-israeli-cinema-064440405.html",
-      "pub": 1773989080000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
       "title": "The Iran war is sending shockwaves through the world's busiest IPO market",
       "deck": "Market volatility and geopolitical tensions have choked liquidity in India’s IPO market, forcing high‑profile companies to hit pause.",
       "link": "https://www.cnbc.com/2026/03/20/iran-war-dampen-most-active-ipo-market.html",
@@ -870,6 +1590,16 @@
       "src": "FORB",
       "srcFull": "Forbes",
       "lean": "ct",
+      "cat": "Technology"
+    },
+    {
+      "title": "Drone video from inside a Fukushima reactor shows a hole in pressure vessel, likely fuel debris",
+      "deck": "",
+      "link": "https://www.yahoo.com/news/articles/drone-video-inside-fukushima-reactor-063011407.html",
+      "pub": 1773988211000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
       "cat": "Technology"
     },
     {
@@ -953,7 +1683,7 @@
       "cat": "Politics"
     },
     {
-      "title": "The Salt Path author wrote secret first book despite claiming she was debut writer",
+      "title": "The Salt Path author confirms she wrote secret first book - despite claiming to be debut writer",
       "deck": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms.",
       "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss",
       "pub": 1773987122000,
@@ -990,7 +1720,7 @@
       "src": "Mail",
       "srcFull": "Daily Mail",
       "lean": "lr",
-      "cat": "Sports"
+      "cat": "Politics"
     },
     {
       "title": "MP grills Parliament over fish deaths in dyke",
@@ -1093,16 +1823,6 @@
       "cat": "Politics"
     },
     {
-      "title": "Oil falls as U.S. weighs releasing sanctioned Iranian crude to cool prices",
-      "deck": "U.S. oil prices extended their decline after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers.",
-      "link": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
-      "pub": 1773985822000,
-      "src": "CNBC",
-      "srcFull": "CNBC",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
       "title": "Patriarch Ilia II, a Spiritual Symbol of Stability in Georgia, Dies at 93",
       "deck": "The longest-serving leader in the history of the Georgian Orthodox Church, he helped guide his country in its transition from Soviet repression to modern statehood.",
       "link": "https://www.nytimes.com/2026/03/19/world/europe/patriarch-ilia-ii-dead.html",
@@ -1111,16 +1831,6 @@
       "srcFull": "New York Times",
       "lean": "ll",
       "cat": "World"
-    },
-    {
-      "title": "Netanyahu says Iran can no longer build ballistic missiles or enrich uranium",
-      "deck": "Israeli Prime Minister Benjamin Netanyahu addressed the media on Thursday to discuss the current military operation against Iran.",
-      "link": "https://www.washingtonexaminer.com/news/4498361/netanyahu-says-iran-can-no-longer-build-ballistic-missiles-or-enrich-uranium/",
-      "pub": 1773985752000,
-      "src": "EXAM",
-      "srcFull": "Washington Examiner",
-      "lean": "lr",
-      "cat": "Politics"
     },
     {
       "title": "Bill Self defends ex-player Zuby Ejiofor as All-American after St. John’s star’s snub",
@@ -1353,26 +2063,6 @@
       "cat": "Politics"
     },
     {
-      "title": "NYC teen allegedly admitted to randomly slashing mom of three at bus stop: ‘I knew I was guilty’",
-      "deck": "“Seeing the footage, knowing how it looked, I knew I was guilty,\" Ponce replied to the detective when asked if he remembered stabbing the mother of three.",
-      "link": "https://nypost.com/2026/03/20/us-news/nyc-teen-allegedly-admitted-to-randomly-slashing-mom-of-three-near-bus-stop-i-knew-i-was-guilty/",
-      "pub": 1773981922000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Near-collision at Burbank Airport helps lead FAA to change risky practice",
-      "deck": "The March 2 scare unfolded when a Beechcraft 99 was cleared to land just as a helicopter drifted into its final approach path.",
-      "link": "https://nypost.com/2026/03/20/us-news/near-collision-at-burbank-airport-helps-lead-faa-to-change-risky-practice/",
-      "pub": 1773981905000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
       "title": "How Japan Reacted to Trump’s Pearl Harbor Joke",
       "deck": "Some people criticized President Trump’s decision to invoke a painful chapter of history.",
       "link": "https://www.nytimes.com/2026/03/20/world/asia/japan-trump-pearl-harbor.html",
@@ -1380,16 +2070,6 @@
       "src": "NYT",
       "srcFull": "New York Times",
       "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "High Point student announcers go nuts on call for March Madness upset over Wisconsin",
-      "deck": "The two could barely contain themselves.",
-      "link": "https://nypost.com/2026/03/20/sports/high-point-student-announcers-go-nuts-on-call-for-march-madness/",
-      "pub": 1773981720000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
       "cat": "Politics"
     },
     {
@@ -1423,16 +2103,6 @@
       "cat": "Politics"
     },
     {
-      "title": "Judge rules US government overreached with transgender health care declaration",
-      "deck": "",
-      "link": "https://www.yahoo.com/news/articles/judge-rules-us-government-overreached-042245768.html",
-      "pub": 1773980565000,
-      "src": "YAH",
-      "srcFull": "Yahoo News",
-      "lean": "ll",
-      "cat": "Technology"
-    },
-    {
       "title": "Gen Z worker, 24, accuses Anthony Albanese of doing 'nothing' to help Australians as cost-of-living crisis bites during expletive-laden rant",
       "deck": "A young woman has blasted Anthony Albanese as a 'wealthy Baby Boomer' who has done 'nothing' to help Australians during an expletive-ridden rant.",
       "link": "https://www.dailymail.co.uk/news/article-15663343/aussie-woman-anthony-albanese-cost-living.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1453,6 +2123,16 @@
       "cat": "Politics"
     },
     {
+      "title": "Admin Responds to Report Trump Said Some Deportation Tactics Went Too Far",
+      "deck": "The report suggested a possible shift in messaging around one of Trump’s most prominent policy agendas.",
+      "link": "https://www.newsweek.com/admin-responds-to-report-trump-said-some-deportation-tactics-went-too-far-11707607",
+      "pub": 1773979853000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
       "title": "Netanyahu denies dragging Trump into war and claims Israel acted alone in strike on Iran's major gas field",
       "deck": "Benjamin Netanyahu denied that Israel dragged Donald Trump into war with Iran while claiming the US was not involved in an attack on the world's largest natural gas field.",
       "link": "https://www.dailymail.co.uk/news/article-15663241/Netanyahu-Trump-war-Iran-Israel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1463,22 +2143,22 @@
       "cat": "Politics"
     },
     {
-      "title": "US speeds deployment of thousands more Marines and sailors to Middle East",
-      "deck": "The Pentagon is accelerating the deployment of thousands of additional Marines and sailors to the Middle East as the war in Iran enters its third week, according to multiple reports on Thursday.",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4498353/us-deployment-thousands-marines-sailors-iran/",
-      "pub": 1773979500000,
-      "src": "EXAM",
-      "srcFull": "Washington Examiner",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "BTS Arirang review: K-pop idols rekindle their fire",
+      "title": "BTS return from military service - but does their album live up to the hype?",
       "deck": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
       "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
       "pub": 1773979490000,
       "src": "BBC",
       "srcFull": "BBC News",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "Rob Gronkowski, Logan Paul Separated After Altercation at Flag Football Event",
+      "deck": "Kevin Hart had to separate Rob Gronkowski and Logan Paul after the two started talking smack at Thursday's flag football presser.",
+      "link": "https://www.newsweek.com/sports/nfl/rob-gronkowski-logan-paul-separated-after-altercation-at-flag-football-event-11707661",
+      "pub": 1773979398000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
       "lean": "ct",
       "cat": "Politics"
     },
@@ -1583,6 +2263,26 @@
       "cat": "Sports"
     },
     {
+      "title": "Former Mets Outfielder Dies; 10-Year MLB Veteran Spoiled Perfect Game",
+      "deck": "An outfielder who played for the A's, Mets, Padres and Reds in a 10-year MLB career died at 84.",
+      "link": "https://www.newsweek.com/sports/mlb/former-mets-outfielder-dies-10-year-mlb-veteran-spoiled-perfect-game-11707674",
+      "pub": 1773978321000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
+      "title": "UNC's Seth Trimble Defends Hubert Davis Against 'Hate' After Loss vs VCU",
+      "deck": "No. 6 North Carolina squandered a 19-point lead to lose to No. 11 VCU in the first round of the men's NCAA Tournament on Thursday.",
+      "link": "https://www.newsweek.com/sports/ncaa/unc-seth-trimble-defends-hubert-davis-hate-loss-vcu-11707641",
+      "pub": 1773978180000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
+    },
+    {
       "title": "Dave Portnoy embroiled in bizarre feud with New York governor Kathy Hochu over 'getting cucked'",
       "deck": "Hochul brought up Portnoy's embarrassing 2017 scandal on X after the Barstool Sports chief criticized her desperate attempts to convince the fleeing elite to return to the Big Apple.",
       "link": "https://www.dailymail.co.uk/sport/othersports/article-15662663/dave-portnoy-kathy-hochul-feud-new-york.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1613,14 +2313,14 @@
       "cat": "Politics"
     },
     {
-      "title": "Richard Mauer, Reporter Who Probed Corruption in Alaska, Dies at 76",
-      "deck": "He routinely took on the powerful and was part of a Pulitzer-winning team at The Anchorage Daily News that investigated alcoholism and suicide among Native Alaskans.",
-      "link": "https://www.nytimes.com/2026/03/17/business/media/richard-mauer-dead.html",
-      "pub": 1773977624000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Business"
+      "title": "Bruce Pearl Makes Strong AJ Dybantsa Statement After BYU’s NCAA Tournament Loss",
+      "deck": "Longtime coach Bruce Pearl made a strong statement about AJ Dybantsa following BYU’s NCAA Tournament loss to Texas.",
+      "link": "https://www.newsweek.com/sports/ncaa/bruce-pearl-makes-strong-aj-dybantsa-statement-after-byus-ncaa-tournament-loss-11707631",
+      "pub": 1773977585000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
+      "cat": "Politics"
     },
     {
       "title": "'Mormon Wives' cast raised Taylor Frankie Paul concerns at meeting with ABC executives",
@@ -1700,17 +2400,7 @@
       "src": "CNBC",
       "srcFull": "CNBC",
       "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "Christopher A. Sims, 83, Dies; Won Nobel on Ways to Steer the Economy",
-      "deck": "He shared the 2011 prize for devising statistical tools to help guide central bankers and other policymakers on matters like tax cuts and rises in labor costs.",
-      "link": "https://www.nytimes.com/2026/03/17/business/economy/christopher-a-sims-dead.html",
-      "pub": 1773976947000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Business"
+      "cat": "Technology"
     },
     {
       "title": "Japanese prime minister wishes ‘good looking’ Barron Trump Happy Birthday at White House dinner: ‘Very clear where he got it’",
@@ -1760,6 +2450,16 @@
       "src": "CBS",
       "srcFull": "CBS News",
       "lean": "ll",
+      "cat": "Politics"
+    },
+    {
+      "title": "Shannon Sharpe Rips UNC’s Hubert Davis After VCU March Madness Win",
+      "deck": "NFL legend Shannon Sharpe called out North Carolina coach Hubert Davis after UNC's shocking upset loss to VCU in March Madness.",
+      "link": "https://www.newsweek.com/sports/ncaa/shannon-sharpe-rips-uncs-hubert-davis-after-vcu-march-madness-win-11707625",
+      "pub": 1773976401000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -1820,6 +2520,16 @@
       "src": "Mail",
       "srcFull": "Daily Mail",
       "lean": "lr",
+      "cat": "Politics"
+    },
+    {
+      "title": "Trump Gold Coin Approval Sparks Outrage: 'Wildly Out of Touch'",
+      "deck": "The move represents an unprecedented step toward depicting a sitting president on a U.",
+      "link": "https://www.newsweek.com/trump-gold-coin-approval-sparks-outrage-wildly-out-of-touch-11707482",
+      "pub": 1773975626000,
+      "src": "NWWK",
+      "srcFull": "Newsweek",
+      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -1913,16 +2623,6 @@
       "cat": "Opinion"
     },
     {
-      "title": "Dietician who bluffed her way into senior NHS job is struck off after colleagues discovered she didn't know where the intestines were, what a gallbladder did or how to calculate BMI",
-      "deck": "Ifenyinwa Chizube Ndulue-Nonso claimed to have experience working with a range of different health problems but her colleagues quickly discovered there were gaps in her knowledge.",
-      "link": "https://www.dailymail.co.uk/news/article-15660581/Dietician-bluffed-way-senior-NHS-job-struck-colleagues-discovered-didnt-know-intestines-gallbladder-did-calculate-BMI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773974833000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
       "title": "Mortified footy star's hilarious gaffe that left Danika Mason in stitches",
       "deck": "Bulldogs NRL star Viliame Kikau was left red-faced on live television on Thursday following a post-game interview with Channel Nine presenter Danika Mason.",
       "link": "https://www.dailymail.co.uk/sport/nrl/article-15663135/Viliame-Kikau-Bulldogs-NRL-hilarious-gaffe-left-Danika-Mason-Channel-Nine-stitches.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1973,7 +2673,7 @@
       "cat": "Business"
     },
     {
-      "title": "Heat records topple as the West bakes",
+      "title": "Tens of millions under heat alerts as record temperatures hit the West",
       "deck": "An early-season heat wave that has been baking the West this week obliterated numerous all-time records in California and Arizona.",
       "link": "https://www.nbcnews.com/weather/heat/heat-wave-record-temperatures-california-arizona-rcna264343",
       "pub": 1773974142000,
@@ -1983,6 +2683,16 @@
       "cat": "Politics"
     },
     {
+      "title": "Heat records topple as the West bakes",
+      "deck": "",
+      "link": "https://www.yahoo.com/news/articles/heat-records-topple-west-bakes-023542223.html",
+      "pub": 1773974142000,
+      "src": "YAH",
+      "srcFull": "Yahoo News",
+      "lean": "ll",
+      "cat": "Science"
+    },
+    {
       "title": "Teenager who rammed two cyclists then stamped on driver's head because he thought he was from rival gang is jailed for seven years",
       "deck": "Ishaaq Hurayrah, 19, used his white Toyota Corolla as a weapon when he attacked Nurridin Jama and Adam Gogarty as they rode their bikes along Morpeth Street in Bethnal Green.",
       "link": "https://www.dailymail.co.uk/news/article-15662101/Teenager-rammed-two-cyclists-stamped-drivers-head-thought-rival-gang-jailed-seven-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1990,16 +2700,6 @@
       "src": "Mail",
       "srcFull": "Daily Mail",
       "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "UK set for temperature rollercoaster as chilly nights follow warm days",
-      "deck": "March is a fickle time for temperatures in the UK and can see some huge swings from day to night.",
-      "link": "https://www.bbc.com/weather/articles/c99500mplgeo?at_medium=RSS&at_campaign=rss",
-      "pub": 1773973856000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
       "cat": "Politics"
     },
     {
@@ -2223,16 +2923,6 @@
       "cat": "Opinion"
     },
     {
-      "title": "How even just one phone call or email could land expats fleeing Dubai with a £75,000 tax bill. Here's how to find out if you are liable (and how to avoid it)",
-      "deck": "Dubai's alluring tax free status has enticed hundreds of thousands of Britons to move to the desert metropolis in a bid to maximise their income.",
-      "link": "https://www.dailymail.co.uk/money/mailplus/article-15660791/Expats-Dubai-tax-bill-hmrc.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773971120000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
       "title": "What to Know About the Sexual Abuse Allegations Against Cesar Chavez",
       "deck": "The accusations of assault have rattled communities across the country that have revered the labor icon for decades.",
       "link": "https://www.nytimes.com/2026/03/19/us/what-to-know-cesar-chavez-sex-abuse.html",
@@ -2283,16 +2973,6 @@
       "cat": "Politics"
     },
     {
-      "title": "Treasury to collect federal student loan debt as Education Department dismantled",
-      "deck": "The Treasury Department will take on a central role in collecting federal student loan debt under a new agreement with the Department of Education, a shift officials said is part of the broader Trump administration effort to scale back and shut down the latter department.",
-      "link": "https://www.washingtonexaminer.com/policy/education/4498329/treasury-student-loans-education-department/",
-      "pub": 1773970408000,
-      "src": "EXAM",
-      "srcFull": "Washington Examiner",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
       "title": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
       "deck": "The move comes after President Trump sharply criticized Prime Minister Keir Starmer for not supporting his initial military strikes on Iran.",
       "link": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
@@ -2321,686 +3001,6 @@
       "srcFull": "New York Times",
       "lean": "ll",
       "cat": "Business"
-    },
-    {
-      "title": "EDEN CONFIDENTIAL: Cheerleader for Harry and Meghan chides 'colonial' King",
-      "deck": "Determined to welcome the president of Nigeria, Bola Tinubu, and his wife Remi on their country's first state visit to Britain for 37 years, King Charles made a series of unprecedented changes.",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15662487/harry-meghan-markle-royals-sussexes-king-charles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773969981000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "ALISON BOSHOFF: Night Andrew took his 'plus one' Ghislaine to meet elite of Hollywood",
-      "deck": "Showbiz folk have long memories and, with awards season in full flow, some have been reminiscing about the night Andrew introduced his friend Ghislaine Maxwell to the cream of Hollywood.",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15662389/alison-boshoff-prince-andrew-mountbatten-windsor-ghislaine-maxwell-jeffrey-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773969966000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Several injured as turbulence hits Delta flight into Sydney",
-      "deck": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport.",
-      "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
-      "pub": 1773969961000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
-      "cat": "World"
-    },
-    {
-      "title": "Kent Tells Tucker: 'Imminent Threat' Was From Israel, Not Iran; Ordered To Halt Charlie Kirk Investigation",
-      "deck": "Kent Tells Tucker: 'Imminent Threat' Was From Israel, Not Iran; Ordered To Halt Charlie Kirk Investigation Joe Kent, former Director of the National Counterterrorism Center who was President Trump’s principal counterterrorism advisor, appeared on Tucker Carlson's show to explain his side of the story after stepping down from the administration.",
-      "link": "https://www.zerohedge.com/political/kent-tells-tucker-imminent-threat-was-israel-not-iran-ordered-halt-charlie-kirk",
-      "pub": 1773969900000,
-      "src": "ZH",
-      "srcFull": "ZeroHedge",
-      "lean": "lr",
-      "cat": "Business"
-    },
-    {
-      "title": "Sydney Sweeney's net worth 'jumps by $30million in just two years' thanks to lucrative brand deals and controversial American Eagle campaign",
-      "deck": "The actress, 28, became the subject of controversy over her American Eagle 'great jeans' ad campaign but it didn't harm her bank balance one bit as she is now richer than ever.",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15663073/Sydney-Sweeneys-net-worth-jumps-30million-just-two-years-thanks-lucrative-brand-deals-controversial-American-Eagle-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773969840000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "‘Bachelorette’ Season With Taylor Frankie Paul Canceled After Assault Video",
-      "deck": "Taylor Frankie Paul, who was set to star in the TV show, had pleaded guilty to aggravated assault after an encounter with her partner in 2023.",
-      "link": "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html",
-      "pub": 1773969457000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Diary of 'woman driven to suicide by abusive husband' had final three days of entries missing, court hears",
-      "deck": "Tarryn Baird's diary was found by police years after she hanged herself aged 34 at her home in Swindon, Wiltshire, on November 28, 2017.",
-      "link": "https://www.dailymail.co.uk/news/article-15662011/Diary-woman-suicide-abusive-husband-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773969438000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Judge Rules That R.F.K. Jr. Overstepped on Transgender Care",
-      "deck": "The ruling provides temporary relief for 21 states seeking to stop the Trump administration from ending federal funding to hospitals that provide gender-transition care.",
-      "link": "https://www.nytimes.com/2026/03/19/us/rfk-jr-transgender-care-ruling.html",
-      "pub": 1773969352000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Heartbreak as five-day-old baby girl is mauled to death by family's pet dog",
-      "deck": "The toddler's heartbroken grandmother revealed that she never had the chance to meet her and said the baby 'should have never been left alone.",
-      "link": "https://www.dailymail.co.uk/news/article-15662509/baby-girl-attacked-dog-death-michigan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773969309000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "In Texas race, House GOP leaders back ‘AK Guy’ criticized for past remarks",
-      "deck": "Brandon Herrera, the de facto Republican nominee after Rep.",
-      "link": "https://www.washingtonpost.com/politics/2026/03/19/herrera-gonzales-affair-house-endorsement/",
-      "pub": 1773969302000,
-      "src": "WaPo",
-      "srcFull": "Washington Post",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Good Riddance to Corporate Social Responsibility",
-      "deck": "The end of an unnecessary fiction.",
-      "link": "https://www.realclearpolitics.com/2026/03/19/good_riddance_to_corporate_social_responsibility_694816.html",
-      "pub": 1773969241000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Can St. Louis Make a Comeback?",
-      "deck": "After decades of drift, the troubled city has a chance to restore public order and competitiveness.",
-      "link": "https://www.realclearpolitics.com/2026/03/19/can_st_louis_make_a_comeback_694807.html",
-      "pub": 1773969239000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Warren Endorses Platner for Senate in Maine",
-      "deck": "The leading progressive acknowledged Platner's controversial past statements in an interview with HuffPost.",
-      "link": "https://www.realclearpolitics.com/2026/03/19/warren_endorses_platner_for_senate_in_maine_694817.html",
-      "pub": 1773969238000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Ed Martin Probed the DC Bar. Then They Targeted Him",
-      "deck": "The charges against Ed Martin didn't emerge in a vacuum.",
-      "link": "https://www.realclearpolitics.com/2026/03/19/ed_martin_probed_the_dc_bar_then_they_targeted_him_694758.html",
-      "pub": 1773969236000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Israel Drove Decision on Iran, We've Had To React",
-      "deck": "",
-      "link": "https://www.realclearpolitics.com/video/2026/03/18/joe_kent_israelis_drove_the_decision_to_take_action_which_we_knew_would_set_off_a_series_of_retaliations_by_iran.html",
-      "pub": 1773969235000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Iran Is Losing. What Happens Next Is Uncertain",
-      "deck": "",
-      "link": "https://www.realclearpolitics.com/articles/2026/03/19/iran_is_losing_what_happens_next_is_uncertain.html",
-      "pub": 1773969233000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Is Iran Digging In for Protracted Conflict?",
-      "deck": "Islamic regime is digging in for a protracted conflict as it seeks to ensure the US and Israel will not attack again",
-      "link": "https://www.realclearpolitics.com/2026/03/19/is_iran_digging_in_for_protracted_conflict_694813.html",
-      "pub": 1773969232000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Powell's Bizarre Plan To Stay On at the Fed",
-      "deck": "",
-      "link": "https://www.realclearpolitics.com/articles/2026/03/19/freekevin_153957.html",
-      "pub": 1773969229000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Democrats Don't Have a Growth Program",
-      "deck": "They're not even interested.",
-      "link": "https://www.realclearpolitics.com/2026/03/19/democrats_dont_have_a_growth_program_694799.html",
-      "pub": 1773969227000,
-      "src": "RCP",
-      "srcFull": "RealClear Politics",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Fashion heiress loses battle to keep $35million home which belonged to Jackie O's designer",
-      "deck": "Marianne Nestor and her sister, Peggy, have been trying to keep Nestor's husband Oleg Cassini's former showroom in the family for years, but the sale was forced on Tuesday.",
-      "link": "https://www.dailymail.co.uk/news/article-15661955/marianne-peggy-nestor-oleg-cassini-jackie-kennedy-manhattan-mansion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773969214000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "U.S. prosecutors charge Super Micro Computer employees with smuggling Nvidia chips to China",
-      "deck": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China.",
-      "link": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-      "pub": 1773969213000,
-      "src": "CNBC",
-      "srcFull": "CNBC",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "Traitors, Amandaland and Idris Elba - get set for Comic Relief",
-      "deck": "The charity telethon takes place on Friday night and will be hosted by Davina McCall.",
-      "link": "https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&at_campaign=rss",
-      "pub": 1773969002000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
-      "cat": "Politics"
-    },
-    {
-      "title": "Dr Jonathan White was diagnosed with cruel multiple sclerosis after he developed blurred vision. Specialists insisted nothing could be done - but then he made a life-changing discovery",
-      "deck": "Ten years ago, Dr Jonathan White marched into his local A&E and told the front desk: 'I need an MRI scan - I think I've got MS.",
-      "link": "https://www.dailymail.co.uk/health/article-15658135/Dr-Jonathan-White-multiple-sclerosis-lifestyle-changes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968895000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Health"
-    },
-    {
-      "title": "Syndicate accused of shipping 150 stolen luxury Toyotas to the Middle East busted as $20M plot unravels",
-      "deck": "A syndicate accused of sending 150 stolen Toyotas to the Middle East has been busted by cops.",
-      "link": "https://www.dailymail.co.uk/news/article-15663213/Syndicate-accused-shipping-150-stolen-luxury-Toyotas-Middle-East-busted-20M-plot-unravels.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968857000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Airbnb hosts devastated as guests break into arcade game after life-sized board was destroyed at their Monopoly House",
-      "deck": "David Prescot, the owner of Maple Rock Resorts, and his handyman, Julia, were inspecting the damage done to their Monopoly House in British Columbia, Canada when they noticed the damage.",
-      "link": "https://www.dailymail.co.uk/news/article-15662863/Monopoly-house-Airbnb-destroyed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968852000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "General Says U.S. Boat Strikes Are Not Answer to Country’s Drug Problem",
-      "deck": "Gen. Francis L. Donovan, the head of the military’s Southern Command, said he was working with regional allies on the issue.",
-      "link": "https://www.nytimes.com/2026/03/19/us/politics/boat-strikes-caribbean.html",
-      "pub": 1773968645000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Judge blasts footballers for 'disgusting way' they talked about sexually assaulting 14-year-old girl as pair learn their fate",
-      "deck": "A judge has slammed the 'abhorrent male bravado' of two footballers as he jailed for them for their sex crimes against a 14-year-old girl",
-      "link": "https://www.dailymail.co.uk/sport/afl/article-15662773/Judge-blasts-footballers-disgusting-way-talked-sexually-assaulting-14-year-old-girl-pair-learn-fate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968536000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Sports"
-    },
-    {
-      "title": "James Comey subpoenaed as part of wider 'conspiracy' to take down Trump",
-      "deck": "The former FBI director has been subpoenaed in a federal probe looking into the possibility of a conspiracy between officials to investigate President Donald Trump.",
-      "link": "https://www.dailymail.co.uk/news/article-15663021/James-Comey-conspiracy-probe-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968514000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches",
-      "deck": "SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches Authored by Jack Phillips via The Epoch Times, Health officials warned that some Southern California beaches may be unsafe for swimming due to elevated bacterial levels this week amid elevated temperatures across the region.",
-      "link": "https://www.zerohedge.com/weather/socal-heat-wave-prompts-warning-high-bacteria-levels-los-angeles-beaches",
-      "pub": 1773968400000,
-      "src": "ZH",
-      "srcFull": "ZeroHedge",
-      "lean": "lr",
-      "cat": "Business"
-    },
-    {
-      "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
-      "deck": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes.",
-      "link": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
-      "pub": 1773968369000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
-      "cat": "World"
-    },
-    {
-      "title": "Cesar Chavez rape scandal rocks schools as teachers told to dump lessons",
-      "deck": "California schoolteachers are being asked to scratch or change references to disgraced leader Cesar Chavez.",
-      "link": "https://nypost.com/2026/03/19/us-news/cesar-chavez-scandal-rocks-schools-as-teachers-dump-lessons/",
-      "pub": 1773968256000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Footy coach left fuming after requiring STITCHES when window shattered at crumbling Canberra Stadium",
-      "deck": "Bulldogs coach Cameron Ciraldo has called for Canberra's GIO Stadium to undergo a facelift after he was involved in an incident moments from fulltime on Thursday.",
-      "link": "https://www.dailymail.co.uk/sport/nrl/article-15662767/Cameron-Ciraldo-Bulldogs-NRL-coach-fuming-required-stitches-window-shattered-crumbling-Canberra-Stadium.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968168000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Sports"
-    },
-    {
-      "title": "Jaxson Dart ripped for 'dressing like a pilgrim' in loved-up pictures with stunning girlfriend Marissa Ayers",
-      "deck": "New York Giants quarterback Jaxson Dart has been ripped by his own college coach Lane Kiffin after the latest pictures of him and girlfriend Marissa Ayres went viral.",
-      "link": "https://www.dailymail.co.uk/sport/nfl/article-15662667/jaxson-dart-pilgrim-outfit-marissa-ayers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968133000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Sports"
-    },
-    {
-      "title": "Socceroos coach Tony Popovic's warning shot for ENTITLED young stars defecting to other nations - there will be no free ride under my watch",
-      "deck": "Socceroos coach Tony Popovic is adamant international caps need to be earned, rather than handed out.",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15662781/Socceroos-coach-Tony-Popovic-unloads-rising-stars-brushing-national-team-Adrian-Segecic-ahead-2026-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773968015000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Sports"
-    },
-    {
-      "title": "Wife of NYC's socialist mayor shuts down old X account after her n-word, homophobic and pro-Palestinian terrorism posts were unearthed",
-      "deck": "Mayor Zohran Mamdani's wife has been accused of sharing offensive content, including use of the n-word and pro-Palestinian terrorism posts, on Tumblr and X accounts she allegedly used as a teen.",
-      "link": "https://www.dailymail.co.uk/news/article-15662539/Zohran-Mamdani-wife-Rama-Duwaji-social-media.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773967994000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
-      "deck": "Prosecutors said the men, including a co-founder of the company, Super Micro, had diverted servers containing Nvidia A.",
-      "link": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
-      "pub": 1773967837000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Technology"
-    },
-    {
-      "title": "On Joe Rogan, Pierre Poilievre Talks Trump, Canada Tariffs and Bruce Lee",
-      "deck": "Floundering in the polls, Pierre Poilievre, the leader of Canada’s Conservatives, sat down with the popular podcaster in hopes of raising his standing at home and abroad.",
-      "link": "https://www.nytimes.com/2026/03/19/world/canada/joe-rogan-pierre-poilievre-canada-trump.html",
-      "pub": 1773967828000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
-      "title": "Lady Gabriella Windsor's late husband Thomas Kingston left her £660,000 after taking his own life",
-      "deck": "Thomas Kingston, who took his life in February 2024, never wrote a will and passed his entire estate to Lady Gabriella Kingston.",
-      "link": "https://www.dailymail.co.uk/news/article-15662125/Lady-Gabriellas-late-husband-Thomas-Kingston-left-660-000-taking-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773967791000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Three men charged with illegally smuggling advanced AI chips into China",
-      "deck": "Three people affiliated with server maker Supermicro were charged Thursday in connection with allegations they conspired to smuggle advanced Nvidia chips into China, in violation of U.",
-      "link": "https://www.nbcnews.com/tech/tech-news/three-men-charged-illegally-smuggling-advanced-ai-chips-china-rcna264371",
-      "pub": 1773967703000,
-      "src": "NBC",
-      "srcFull": "NBC News",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "90,000 bottles of children's ibuprofen recalled nationwide, FDA says",
-      "deck": "The FDA has recalled nearly 90,000 bottles of children's ibuprofen after complaints of a gel-like mass and black particles in the product.",
-      "link": "https://www.foxbusiness.com/economy/bottles-childrens-ibuprofen-recalled-nationwide-fda-says",
-      "pub": 1773967564000,
-      "src": "FoxB",
-      "srcFull": "Fox Business",
-      "lean": "lr",
-      "cat": "Business"
-    },
-    {
-      "title": "What Is A Collapsed Lung? Piston Cade Cunningham Out At Least 2 Weeks",
-      "deck": "Detroit Pistons All-Star guard Cade Cunningham suffered a left pneumothorax and a collapsed lung apparently after colliding with Washington Wizards Tre Johnson.",
-      "link": "https://www.forbes.com/sites/brucelee/2026/03/19/what-is-a-collapsed-lung-piston-cade-cunningham-out-at-least-2-weeks/",
-      "pub": 1773967558000,
-      "src": "FORB",
-      "srcFull": "Forbes",
-      "lean": "ct",
-      "cat": "Technology"
-    },
-    {
-      "title": "Japanese PM toasts 'very tall, good-looking' Barron Trump's birthday: 'It's clear where he got it'",
-      "deck": "Japanese Prime Minister Sanae Takaichi gave a toast to Barron Trump's birthday as she was hosted for dinner by President Donald Trump in the State Dining Room Thursday night.",
-      "link": "https://www.dailymail.co.uk/news/article-15663117/japanese-prime-minister-barron-trump-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773967402000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Labour MPs threaten vote to show opposition to Mahmood's migration plans",
-      "deck": "Opponents are considering using parliamentary procedure to force a vote to highlight their concerns.",
-      "link": "https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss",
-      "pub": 1773967369000,
-      "src": "BBC",
-      "srcFull": "BBC News",
-      "lean": "ct",
-      "cat": "Politics"
-    },
-    {
-      "title": "Labor Secretary Lori Chavez-DeRemer’s security guard resigns amid probe into allegations of ‘inappropriate’ relationship: sources",
-      "deck": "Lori Chavez-DeRemer allegedly abused “her position” by seeking out the “inappropriate” workplace romance with her subordinate, The Post first revealed in January.",
-      "link": "https://nypost.com/2026/03/19/us-news/labor-secretary-lori-chavez-deremers-security-guard-resigns-amid-misconduct-probe/",
-      "pub": 1773967356000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
-      "deck": "President Trump said he told Prime Minister Benjamin Netanyahu of Israel he disapproved of the attack, which sent energy markets reeling.",
-      "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html",
-      "pub": 1773967158000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Eerie photos of two-decade-old crime scene released in new push to find sexual predator hiding in plain sight",
-      "deck": "Chilling photos of a two-decade-old crime scene have been released in a new push to find a sexual predator who attacked four women and evaded capture.",
-      "link": "https://www.dailymail.co.uk/news/article-15663115/albury-cbd-sexual-predator-nsw-victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773967114000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "My psoriasis was so bad one cruel stranger asked if I had ringworm. But after 17 years trying countless treatments and giving up refined sugar, alcohol, dairy and wheat - THIS is what really works for me",
-      "deck": "One night, I was in the pub with a friend when a man came up to me.",
-      "link": "https://www.dailymail.co.uk/lifestyle/fitness-wellbeing/article-15661655/psoriasis-cruel-countless-treatments-really-works-ringworm-health-doctors-rash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773967074000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Angry NJ drivers aim to slay NY’s hated congestion toll — here’s how",
-      "deck": "The MTA won one court case, but the ruling didn’t resolve the bigger issue: whether it ever had the legal authority to start charging tolls on Manhattan’s streets in the first place.",
-      "link": "https://nypost.com/2026/03/19/opinion/how-nj-drivers-aim-to-slay-nys-hated-congestion-pricing/",
-      "pub": 1773967069000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
-      "cat": "Opinion"
-    },
-    {
-      "title": "Bezos Plots Colossal $100 Billion Fund To Transform Companies Using AI: WSJ",
-      "deck": "Bezos Plots Colossal $100 Billion Fund To Transform Companies Using AI: WSJ Amazon founder Jeff Bezos is in early discussions to raise as much as $100 billion for a new investment vehicle aimed at acquiring and revitalizing manufacturing companies through the application of artificial intelligence, according to the Wall Street Journal.",
-      "link": "https://www.zerohedge.com/ai/bezos-plots-colossal-100-billion-fund-transform-companies-using-ai-wsj",
-      "pub": 1773966900000,
-      "src": "ZH",
-      "srcFull": "ZeroHedge",
-      "lean": "lr",
-      "cat": "Business"
-    },
-    {
-      "title": "With Japanese prime minister at his side, Trump makes Pearl Harbor joke",
-      "deck": "President Donald Trump joked about Pearl Harbor in a meeting Thursday with the Japanese prime minister.",
-      "link": "https://www.washingtonpost.com/politics/2026/03/19/trump-pearl-harbor-joke/",
-      "pub": 1773966767000,
-      "src": "WaPo",
-      "srcFull": "Washington Post",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Hawaii braces for more rain as storms take aim at wildfire burn scars",
-      "deck": "Hawaii is bracing for another deluge on Thursday, less than a week after a record-breaking storm buckled roadways and collapsed buildings.",
-      "link": "https://www.nbcnews.com/weather/storms/hawaii-rain-storms-wildfire-scars-flooding-rcna264167",
-      "pub": 1773966744000,
-      "src": "NBC",
-      "srcFull": "NBC News",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
-      "deck": "President Trump and Prime Minister Benjamin Netanyahu of Israel suggested that the war with Iran could end soon, but that there were still more attacks ahead.",
-      "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html",
-      "pub": 1773966719000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
-      "title": "U.S. approves $6.2 billion merger set to reshape local TV",
-      "deck": "A single TV company will serve 80 percent of American households, after the Nexstar-Tegna merger was approved by the Justice Department and the FCC.",
-      "link": "https://www.washingtonpost.com/business/2026/03/19/nexstar-tegna-tv-merger-approved/",
-      "pub": 1773966634000,
-      "src": "WaPo",
-      "srcFull": "Washington Post",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "Student Loan Office to Leave the Education Department",
-      "deck": "The office will move to the Treasury Department as the Trump administration slowly dismantles the agency overseeing federal education policy.",
-      "link": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html",
-      "pub": 1773966590000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
-      "deck": "The new unified app aims to help OpenAI streamline the user experience.",
-      "link": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
-      "pub": 1773966576000,
-      "src": "CNBC",
-      "srcFull": "CNBC",
-      "lean": "ll",
-      "cat": "Business"
-    },
-    {
-      "title": "Europe's best city for digital nomads revealed - with cheap accommodation and fast internet for just £14 a month",
-      "deck": "By analysing 35 of the continent's most visited destinations, experts found Central and Eastern European cities to offer the best value for money, while Northern and Western Europe is costlier.",
-      "link": "https://www.dailymail.co.uk/travel/article-15661869/europe-best-city-digital-nomads-revealed-cheap-accommodation-fast-internet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773966370000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "I was the last person to see JFK Jr and Carolyn Bessette alive: What was said that night is unthinkably haunting... this is the truth about their runway fight and death spiral",
-      "deck": "Kyle watched with alarm as the novice pilot readied his plane.",
-      "link": "https://www.dailymail.co.uk/news/article-15654695/jfk-jr-carolyn-bessette-plane-crash-kyle-bailey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773966330000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Jesy Nelson shares emotional update on her twin daughters' health battle as she reveals they have been fitted with leg splints: 'It made me feel really sad'",
-      "deck": "The Little Mix star, 34, welcomed her daughters Ocean and Story in 2025, but in January she shared both babies had been diagnosed with Spinal Muscular Atrophy Type 1 (SMA1).",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15662625/Jesy-Nelson-emotional-update-twin-daughters-health-battle-leg-splints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773966313000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "How Zendaya had the last laugh after race row with Giuliana Rancic over an 'outrageously offensive' slur saw her reach dizzying heights while Fashion Police host faded from the spotlight",
-      "deck": "When Zendaya attended her first Oscars in 2015, little did she know just how much global attention she'd garner after being subject to ridicule on E!",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15660325/Zendaya-race-row-Giuliana-Rancic-Fashion-Police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773966262000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Nonprofit touted by Gavin Newsom hung up on trans child — after he expressed concerns about transitioning",
-      "deck": "Joni Skinner, a 23-year-old Michigan man now detransitioning after identifying as transgender when he was younger, told lawmakers that he was placed on puberty blockers and estrogen as a teenager.",
-      "link": "https://nypost.com/2026/03/19/us-news/trevor-project-hung-up-on-trans-child-after-he-expressed-concerns-about-transitioning/",
-      "pub": 1773966243000,
-      "src": "NYP",
-      "srcFull": "New York Post",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Rogue mechanics who illegally repaired cars to sell on AutoTrader are hit with £150K court bill after row over parking with ice cream man neighbour",
-      "deck": "Rocco Grasso, his siblings and his cousins had sought to assert a historical right to park in the lane behind terraced homes they own in Arnos Grove, north London.",
-      "link": "https://www.dailymail.co.uk/news/article-15638749/Rogue-mechanics-illegally-repaired-cars-sell-AutoTrader-hit-150K-court-bill-row-parking-ice-cream-man-neighbour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773966152000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.",
-      "deck": "A gathering in Brussels was meant to concentrate on jump-starting the E.",
-      "link": "https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html",
-      "pub": 1773965911000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
-      "title": "Who placed monster bets on Maduro to be snatched and the Ayatollah to be killed just hours before both happened, asks TOM LEONARD",
-      "deck": "Predictably enough, the US-led raids that killed Iranian supreme leader Ayatollah Ali Khamenei and snatched Venezuelan President Nicolas Maduro were hatched amid intense secrecy.",
-      "link": "https://www.dailymail.co.uk/news/article-15662989/placed-bets-maduro-snatched-ayatollah-killed-hours-happened.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773965897000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "Politics"
-    },
-    {
-      "title": "3/19: The Takeout with Major Garrett",
-      "deck": "Israel strikes a key Iranian natural gas field; Pentagon asking for an additional $200 billion for the Iran war, the Washington Post reports.",
-      "link": "https://www.cbsnews.com/video/031926-the-takeout-with-major-garrett/",
-      "pub": 1773965760000,
-      "src": "CBS",
-      "srcFull": "CBS News",
-      "lean": "ll",
-      "cat": "Politics"
-    },
-    {
-      "title": "GOP grapples with $200 billion Pentagon funding ask for Iran war",
-      "deck": "Presented by Lanteris Space Systems {beacon} Defense &National Security Defense &National Security PRESENTED BY The Big Story GOP grapples with $200 billion Pentagon funding ask for Iran war GOP lawmakers are grappling with how to handle the massive $200 billion request for supplemental funding for the war with Iran.",
-      "link": "https://thehill.com/newsletters/defense-national-security/5792787-gop-grapples-with-200-billion-pentagon-funding-ask-for-iran-war/",
-      "pub": 1773965759000,
-      "src": "HILL",
-      "srcFull": "The Hill",
-      "lean": "ct",
-      "cat": "Politics"
-    },
-    {
-      "title": "Iran hits US F-35 stealth fighter jet, destroys Israeli oil refinery with missile and threatens 'zero restraint' if energy sites are hit again as oil price soars: Recap",
-      "deck": "Recap the Daily Mail's live coverage of the US-Israel war with Iran after Donald Trump threatened to blow up an Iranian gas field at the centre of a major escalation in the conflict.",
-      "link": "https://www.dailymail.co.uk/news/article-15660163/Trump-threatens-massively-blow-Iran-gas-field-oil-prices-spike-Tehran-blitzes-Gulf-energy-sites-Live-updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pub": 1773965741000,
-      "src": "Mail",
-      "srcFull": "Daily Mail",
-      "lean": "lr",
-      "cat": "World"
-    },
-    {
-      "title": "Here’s What Happened in the War in the Middle East on Thursday",
-      "deck": "Strikes continued in the region as attacks on energy infrastructure rattled global markets.",
-      "link": "https://www.nytimes.com/2026/03/19/world/middleeast/iran-war-middle-east-recap.html",
-      "pub": 1773965710000,
-      "src": "NYT",
-      "srcFull": "New York Times",
-      "lean": "ll",
-      "cat": "World"
-    },
-    {
-      "title": "U.S. gold coin with image of Trump gets approved by president's hand-picked panel",
-      "deck": "The Commission of Fine Arts approved a 24-carat commemorative coin that features an image of President Donald Trump.",
-      "link": "https://www.nbcnews.com/politics/donald-trump/us-gold-coin-image-trump-commission-fine-arts-250th-anniversary-rcna264367",
-      "pub": 1773965615000,
-      "src": "NBC",
-      "srcFull": "NBC News",
-      "lean": "ll",
-      "cat": "Politics"
     }
   ]
 }
