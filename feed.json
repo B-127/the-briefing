@@ -1,19 +1,55 @@
 {
-  "generated": "2026-03-23T07:50:42.668Z",
+  "generated": "2026-03-23T08:57:02.634Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Oil prices rise as Iran rejects Trump threat to blow up power plants unless Strait of Hormuz is unblocked: Live updates",
-      "pub": 1774252144000,
-      "lean": "lr",
+      "title": "ProPublica Adds Ownership Search to Nursing Home Inspect Database",
+      "pub": 1774256100000,
+      "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Oil prices rise as Iran rejects Trump threat to blow up power plants unless Strait of Hormuz is unblocked: Live updates",
-          "deck": "LIVE UPDATES: Follow the Daily Mail's live coverage of the US-Israel war.",
-          "link": "https://www.dailymail.co.uk/news/article-15670549/iran-israel-war-trump-netanyahu-oil-live-updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774252144000,
+          "title": "ProPublica Adds Ownership Search to Nursing Home Inspect Database",
+          "deck": "The post ProPublica Adds Ownership Search to Nursing Home Inspect Database appeared first on ProPublica.",
+          "link": "https://www.propublica.org/article/nursing-home-inspect-database-update",
+          "pub": 1774256100000,
+          "src": "PROP",
+          "srcFull": "ProPublica",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
+      "pub": 1774255969000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
+          "deck": "A ground stop was in effect early Monday as the Fire Department said it was responding to a runway incident.",
+          "link": "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/laguardia-groundstop-flights",
+          "pub": 1774255969000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Pep Guardiola lingers for a sweet moment with daughter Maria on the Wembley pitch as he weighs up whether to QUIT Manchester City despite Carabao Cup final success",
+      "pub": 1774255969000,
+      "lean": "lr",
+      "cat": "Sports",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pep Guardiola lingers for a sweet moment with daughter Maria on the Wembley pitch as he weighs up whether to QUIT Manchester City despite Carabao Cup final success",
+          "deck": "Pep Guardiola took time away from Manchester City's Carabao Cup celebrations to share the moment with his daughter Maria on the pitch at Wembley.",
+          "link": "https://www.dailymail.co.uk/sport/football/article-15670565/Pep-Guardiola-sweet-moment-daughter-Maria-Wembley-pitch-QUIT-Manchester-City-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774255969000,
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
@@ -21,17 +57,575 @@
       ]
     },
     {
-      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
-      "pub": 1774252116000,
+      "title": "Cabinet minister is dubbed a 'hypocrite' for letting staff work four-day weeks on full pay",
+      "pub": 1774255708000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Cabinet minister is dubbed a 'hypocrite' for letting staff work four-day weeks on full pay",
+          "deck": "Communities Secretary Steve Reed wrote to all council leaders in England at the end of last year warning them not to introduce four-day working weeks.",
+          "link": "https://www.dailymail.co.uk/news/article-15669937/Minister-hypocrite-staff-work-4-day-weeks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774255708000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "I've become a victim of a London phone snatcher - except the thief wasn't balaclava-clad and on a bike... he was well dressed, perfectly groomed and targeted me in a pub",
+      "pub": 1774255686000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "I've become a victim of a London phone snatcher - except the thief wasn't balaclava-clad and on a bike... he was well dressed, perfectly groomed and targeted me in a pub",
+          "deck": "When I arrived in London, phone theft was something I thought of as urban folklore - the kind of grim anecdote you hear, shake your head at and file away under 'thankfully not me'.",
+          "link": "https://www.dailymail.co.uk/news/article-15555131/victim-London-phone-snatcher-thief-balaclava-pub.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774255686000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Power cuts across Tehran after new Israeli strikes as Trump threatens to blow up energy sites: Live updates",
+      "pub": 1774255605000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Power cuts across Tehran after new Israeli strikes as Trump threatens to blow up energy sites: Live updates",
+          "deck": "LIVE UPDATES: Follow the Daily Mail's live coverage of the US-Israel war.",
+          "link": "https://www.dailymail.co.uk/news/article-15670549/iran-israel-war-trump-netanyahu-oil-live-updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774255605000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "New York's LaGuardia Airport closed after jet collides with firefighting vehicle",
+      "pub": 1774255591000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "New York's LaGuardia Airport closed after jet collides with firefighting vehicle",
+          "deck": "An Air Canada regional jet struck a fire truck on the runway after landing at New York's LaGuardia Airport late Sunday night.",
+          "link": "https://www.npr.org/2026/03/23/g-s1-114773/new-york-laguardia-jet-collides-with-vehicle",
+          "pub": 1774255591000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "So, where is the HMS Dragon three weeks after the Iranian drone strike on RAF Akrotiri? 'On its way...'",
+      "pub": 1774255560000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "So, where is the HMS Dragon three weeks after the Iranian drone strike on RAF Akrotiri? 'On its way...'",
+          "deck": "Quizzed on the whereabouts of the Type 45 Destroyer yesterday, Labour Housing Minister Steve Reed could only say it is 'on its way to the region'.",
+          "link": "https://www.dailymail.co.uk/news/article-15669979/HMS-Dragon-crew-sail-Cyprus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774255560000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
+      "pub": 1774255430000,
+      "lean": "ll",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
+          "deck": "A nutritionist helps us navigate how to eat healthfully if you are on a GLP-1 drug, and what to make of all the marketing around these obesity treatments.",
+          "link": "https://www.npr.org/2026/03/23/nx-s1-5699407/what-does-a-glp-1-friendly-diet-look-like-we-asked-nutritionists",
+          "pub": 1774255430000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Worried about a shaky stock market? This is what financial advisers suggest you do",
+      "pub": 1774255415000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Worried about a shaky stock market? This is what financial advisers suggest you do",
+          "deck": "The war with Iran has rattled markets and Americans' retirement accounts.",
+          "link": "https://www.npr.org/2026/03/23/nx-s1-5742568/worried-about-a-shaky-stock-market-this-is-what-financial-advisers-suggest-you-do",
+          "pub": 1774255415000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainians are growing more pessimistic about the prospects for peace, survey says",
+      "pub": 1774255400000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ukrainians are growing more pessimistic about the prospects for peace, survey says",
+          "deck": "As the Iran war delays peace talks for Ukraine -- and global supplies of air defense missiles -- there are signs that fewer Ukrainians are willing to endure Russia's war for as long as necessary.",
+          "link": "https://www.npr.org/2026/03/23/nx-s1-5754745/ukrainians-are-growing-more-pessimistic-about-the-prospects-for-peace-survey-says",
+          "pub": 1774255400000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran War Live: Tehran Warns of Power Plant Strikes as Trump Deadline Looms",
+      "pub": 1774255336000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
-          "deck": "An Air Canada Express plane suffered significant damage after the collision.",
-          "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-          "pub": 1774252116000,
+          "title": "Iran War Live: Tehran Warns of Power Plant Strikes as Trump Deadline Looms",
+          "deck": "Several Gulf states reported fresh missile and drone attacks overnight.",
+          "link": "https://www.newsweek.com/iran-war-live-update-power-plant-strikes-warning-trump-deadline-11718848",
+          "pub": 1774255336000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "'Elizabethtown' and 'Attleetown' are among seven new towns being built under Labour plans - is one popping up near YOU?",
+      "pub": 1774255174000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Elizabethtown' and 'Attleetown' are among seven new towns being built under Labour plans - is one popping up near YOU?",
+          "deck": "'Elizabethtown' and 'Attleetown' were named by the government and are set to see between 15,000 and 40,000 new homes built in each location.",
+          "link": "https://www.dailymail.co.uk/news/article-15669857/Seven-new-towns-set-swamp-British-countryside-one-popping-near-you.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774255174000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Stocks Tumble as Oil Prices Rise",
+      "pub": 1774255146000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Stocks Tumble as Oil Prices Rise",
+          "deck": "Investors braced for a fourth week of market turmoil caused by the war in the Middle East",
+          "link": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html",
+          "pub": 1774255146000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88",
+      "pub": 1774255111000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/former-french-prime-minister-lionel-081639771.html",
+          "pub": 1774255111000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "LaGuardia Plane Crash Live Updates: Two Dead After Collision",
+      "pub": 1774255071000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "LaGuardia Plane Crash Live Updates: Two Dead After Collision",
+          "deck": "An Air Canada Plane has collided with a firetruck at LaGuardia Airport.",
+          "link": "https://www.newsweek.com/laguardia-airport-crash-new-york-latest-updates-11718911",
+          "pub": 1774255071000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "STEPHEN GLOVER: I believe Trump will declare victory soon. He can't afford to let this war go on. But we will be left with an even more vengeful Iran",
+      "pub": 1774254929000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "STEPHEN GLOVER: I believe Trump will declare victory soon. He can't afford to let this war go on. But we will be left with an even more vengeful Iran",
+          "deck": "The shocking news that Iran has missiles that may be able to reach London should make even critics of Trump's war - among whom I number myself - ponder deeply.",
+          "link": "https://www.dailymail.co.uk/debate/article-15669719/STEPHEN-GLOVER-Trump-declare-victory-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774254929000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Palantir's Stock Valuation Still Looks Absurd. Here's Why Investors Keep Buying It Anyway.",
+      "pub": 1774254780000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Palantir's Stock Valuation Still Looks Absurd. Here's Why Investors Keep Buying It Anyway.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-stock-valuation-still-looks-083300374.html",
+          "pub": 1774254780000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran War Live Updates: Power Outages Are Reported in Tehran as Israel Launches Strikes",
+      "pub": 1774254724000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran War Live Updates: Power Outages Are Reported in Tehran as Israel Launches Strikes",
+          "deck": "Residents reported widespread power outages across the capital.",
+          "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
+          "pub": 1774254724000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: This Will Be Micron's Stock Price by Late 2027",
+      "pub": 1774254720000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Prediction: This Will Be Micron's Stock Price by Late 2027",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-microns-stock-price-2027-083200113.html",
+          "pub": 1774254720000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Aussie drivers are targeted in an infuriating resurgence of a 'retro' crime as fuel prices skyrocket to record levels",
+      "pub": 1774254718000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Aussie drivers are targeted in an infuriating resurgence of a 'retro' crime as fuel prices skyrocket to record levels",
+          "deck": "A number of motorists have reported the issue after what appears to have been a crime spree in Victoria.",
+          "link": "https://www.dailymail.co.uk/news/article-15670445/Australia-fuel-siphon-theft-Iran-oil-petrol.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774254718000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hawaii's worst flooding in 20 years caused over $1BILLION in damage as crews desperately search for woman swept away in deluge",
+      "pub": 1774254694000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hawaii's worst flooding in 20 years caused over $1BILLION in damage as crews desperately search for woman swept away in deluge",
+          "deck": "Hawaii Governor Josh Green estimated that the damage to both public and private sectors will cost over $1 billion, as a statewide flood watch remains in effect through Sunday.",
+          "link": "https://www.dailymail.co.uk/news/article-15669117/hawaii-historic-flood-one-billion-damage-missing-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774254694000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Four Jewish ambulances set alight outside London synagogue in antisemitic hate crime: cops",
+      "pub": 1774254667000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Four Jewish ambulances set alight outside London synagogue in antisemitic hate crime: cops",
+          "deck": "Four ambulances belonging to a Jewish volunteer group parked outside a UK synagogue have been set alight as cops probe an antisemitic hate crime.",
+          "link": "https://nypost.com/2026/03/23/world-news/four-jewish-ambulances-set-alight-outside-london-synagogue-in-antisemitic-hate-crime-cops/",
+          "pub": 1774254667000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "FTSE 100 Live: Shares sink to three-month low after Trump's Hormuz warning",
+      "pub": 1774254660000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "FTSE 100 Live: Shares sink to three-month low after Trump's Hormuz warning",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-shares-set-071700266.html",
+          "pub": 1774254660000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Factbox-The world's worst air crashes in recent years",
+      "pub": 1774254635000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Factbox-The world's worst air crashes in recent years",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/factbox-worlds-worst-air-crashes-083035811.html",
+          "pub": 1774254635000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Carrie Anne Fleming Cause of Death: ‘Supernatural’ Actress Dies Age 51",
+      "pub": 1774254591000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Carrie Anne Fleming Cause of Death: ‘Supernatural’ Actress Dies Age 51",
+          "deck": "The actress Carrie Anne Fleming died of breast cancer complications, her Supernatural co-star has confirmed.",
+          "link": "https://www.newsweek.com/entertainment/carrie-anne-fleming-actress-death-izombie-supernatural-11718925",
+          "pub": 1774254591000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Two dead in airplane collision at LaGuardia Airport in New York City",
+      "pub": 1774254379000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Two dead in airplane collision at LaGuardia Airport in New York City",
+          "deck": "Shortly before midnight on Sunday, an Air Canada regional jet collided with a Port Authority of New York and New Jersey aircraft rescue and firefighting vehicle at LaGuardia Airport in New York City.",
+          "link": "https://www.washingtonexaminer.com/news/4500037/two-dead-airplane-collision-laguardia-airport/",
+          "pub": 1774254379000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+      "pub": 1774254330000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+          "deck": "Tensions in the opposition Nationalist Party could surface this week as lawmakers debate defense funding intended to counter Beijing’s growing might.",
+          "link": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html",
+          "pub": 1774254330000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Britain has failed white working-class boys who are 'stuck at the bottom of the class', race report chief says",
+      "pub": 1774254307000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Britain has failed white working-class boys who are 'stuck at the bottom of the class', race report chief says",
+          "deck": "Lord Sewell was the chairman of the Commission on Race and Ethnic Disparities, a group set up by Boris Johnson to investigate whether Britain was a racist country.",
+          "link": "https://www.dailymail.co.uk/news/article-15668051/Britain-failed-white-working-class-boys-Starmer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774254307000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The secret Iranian armada hell-bent on sinking a US aircraft carrier in Strait of Hormuz: Speedboats armed with torpedoes, explosive drones and a fleet of mini-subs: IAN GALLAGHER",
+      "pub": 1774254160000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The secret Iranian armada hell-bent on sinking a US aircraft carrier in Strait of Hormuz: Speedboats armed with torpedoes, explosive drones and a fleet of mini-subs: IAN GALLAGHER",
+          "deck": "Slipping through sonar blind spots, the Ghadir-class mini subs silently shadow their prey, despatch their underwater anti-ship cruise missiles or homing torpedoes, then simply vanish.",
+          "link": "https://www.dailymail.co.uk/news/article-15667843/secret-Iranian-armada-sinking-US-aircraft-carrier-Strait-Hormuz-Speedboats-armed-torpedoes-explosive-drones-fleet-mini-subs-IAN-GALLAGHER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774254160000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Elderly DoorDash driver receives check for almost $1MILLION and reveals surprising plans for the future after strangers flooded fundraiser",
+      "pub": 1774253997000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Elderly DoorDash driver receives check for almost $1MILLION and reveals surprising plans for the future after strangers flooded fundraiser",
+          "deck": "Richard Pulley, 78, was seen on doorbell footage struggling to climb the stairs as he slowly made his way to Brittany Smith's front door earlier this month to deliver a Starbucks order.",
+          "link": "https://www.dailymail.co.uk/news/article-15670273/DoorDash-driver-check-1MILLION-retire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774253997000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Awkward! Starmer's 20-minute Iran war call with Trump… hours after President posted SNL sketch mocking him as a 'coward' and 'out of his depth'",
+      "pub": 1774253884000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Awkward! Starmer's 20-minute Iran war call with Trump… hours after President posted SNL sketch mocking him as a 'coward' and 'out of his depth'",
+          "deck": "Keir Starmer discussed the Iran war and how to reopen the crucial Strait of Hormuz with Donald Trump in a 20-minute call last night.",
+          "link": "https://www.dailymail.co.uk/news/article-15670601/Starmers-Iran-war-call-Trump-President-SNL-sketch-coward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774253884000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Joe Kent Makes Genuine Plea To Trump: \"Address The Israeli Issue\"",
+      "pub": 1774253700000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Joe Kent Makes Genuine Plea To Trump: \"Address The Israeli Issue\"",
+          "deck": "Joe Kent Makes Genuine Plea To Trump: \"Address The Israeli Issue\" Recently-resigned director of the U.",
+          "link": "https://www.zerohedge.com/geopolitical/joe-kent-makes-genuine-plea-trump-address-israeli-issue",
+          "pub": 1774253700000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump promises 'total decimation' of Iran and says 'it's gonna work out very good' as he gives deadline of tonight for reopening Strait and oil prices surge towards record highs",
+      "pub": 1774253508000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump promises 'total decimation' of Iran and says 'it's gonna work out very good' as he gives deadline of tonight for reopening Strait and oil prices surge towards record highs",
+          "deck": "Donald Trump last night promised the 'total decimation' of Iran as reports emerged of US plans for a lengthy ground war in the Middle East.",
+          "link": "https://www.dailymail.co.uk/news/article-15669963/The-clock-ticking-Trump-warns-Iran-President-issues-deadline-tonight-reopen-Strait-mullahs-threaten-wipe-energy-plants.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774253508000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Asia stocks slide as US and Iran threaten to escalate war",
+      "pub": 1774253461000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Asia stocks slide as US and Iran threaten to escalate war",
+          "deck": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "pub": 1774253461000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -39,8 +633,62 @@
       ]
     },
     {
+      "title": "America's second key oil route out of Middle East could be blitzed in DAYS if pack of terrorist rebels join Iran's fight",
+      "pub": 1774253423000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "America's second key oil route out of Middle East could be blitzed in DAYS if pack of terrorist rebels join Iran's fight",
+          "deck": "Iran has 'complete control' of the Strait of Hormuz, but a second key oil route could be hit next if the Houthis, a terrorist rebels group, enter the fight.",
+          "link": "https://www.dailymail.co.uk/news/article-15668611/iran-israel-war-oil-strait-hormuz-red-sea-houthi-terrotist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774253423000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The dark side of Manchester's most expensive suburb: How AK47-wielding ganglords live side by side with millionaire celebrities in £4m mansions",
+      "pub": 1774253416000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The dark side of Manchester's most expensive suburb: How AK47-wielding ganglords live side by side with millionaire celebrities in £4m mansions",
+          "deck": "To the average person, bespectacled Jones looked like a typical middle-class resident in one of the city's most expensive enclaves.",
+          "link": "https://www.dailymail.co.uk/news/article-15530659/The-dark-Manchesters-expensive-suburb-AK47-wielding-ganglords-live-millionaire-celebrities-4m-mansions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774253416000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Millions Advised To Stay Inside in Florida",
+      "pub": 1774253409000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Millions Advised To Stay Inside in Florida",
+          "deck": "The EPA recommends that sensitive groups, such as the elderly and individuals with heart or lung issues, limit outdoor activities.",
+          "link": "https://www.newsweek.com/millions-advised-stay-inside-florida-11718836",
+          "pub": 1774253409000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Two dead and multiple injured after Air Canada flight crashes into ground vehicle on runway at New York City's LaGuardia Airport",
-      "pub": 1774252098000,
+      "pub": 1774253373000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
@@ -49,10 +697,208 @@
           "title": "Two dead and multiple injured after Air Canada flight crashes into ground vehicle on runway at New York City's LaGuardia Airport",
           "deck": "Emergency crews responded to a crash between an Air Canada flight and a Port Authority vehicle on Sunday night.",
           "link": "https://www.dailymail.co.uk/news/article-15670365/LaGuardia-Airport-New-York-emergency.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774252098000,
+          "pub": 1774253373000,
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ian Huntley 'will not get a funeral': Child killer to be cremated and his ashes handed to his family",
+      "pub": 1774253335000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ian Huntley 'will not get a funeral': Child killer to be cremated and his ashes handed to his family",
+          "deck": "Ian Huntley, 52, had been serving life in prison at HMP Frankland for the murder of 10-year-olds Holly Wells and Jessica Chapman in 2002.",
+          "link": "https://www.dailymail.co.uk/news/article-15670045/Child-killer-Ian-Huntley-not-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774253335000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "European stocks open 1.6% lower as Trump sets Hormuz deadline",
+      "pub": 1774253237000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "European stocks open 1.6% lower as Trump sets Hormuz deadline",
+          "deck": "European stocks started the new trading week sharply lower as the war in Iran drags on global market sentiment.",
+          "link": "https://www.cnbc.com/2026/03/23/european-markets-stoxx-ftse-dax-cac-iran-news-oil-prices.html",
+          "pub": 1774253237000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "LaGuardia Plane Crash Audio Reveals Aftermath of Collision: 'I Messed Up'",
+      "pub": 1774253135000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "LaGuardia Plane Crash Audio Reveals Aftermath of Collision: 'I Messed Up'",
+          "deck": "An Air Canada regional jet struck a firetruck on the runway of New York’s LaGuardia Airport late Sunday.",
+          "link": "https://www.newsweek.com/laguardia-plane-crash-audio-reveals-aftermath-of-collision-i-messed-up-11718776",
+          "pub": 1774253135000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Corey Lewandowski is 'not expected' to land another job in Trump administration after DHS exit over controversies",
+      "pub": 1774252908000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Corey Lewandowski is 'not expected' to land another job in Trump administration after DHS exit over controversies",
+          "deck": "Corey Lewandowski, a top aide to Kristi Noem at the Department of Homeland Security, is 'not expected' to land another job in the Trump administration after the secretary's sensational departure.",
+          "link": "https://www.dailymail.co.uk/news/article-15669363/corey-lewandowski-trump-administration-kristi-noem.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774252908000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Brickbat: Motor City Menace",
+      "pub": 1774252855000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brickbat: Motor City Menace",
+          "deck": "An officer with the Detroit Police Department faces felony charges after prosecutors say he illegally sent himself explicit photos from a… The post Brickbat: Motor City Menace appeared first on Reason.",
+          "link": "https://reason.com/2026/03/23/brickbat-motor-city-menace/",
+          "pub": 1774252855000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
+      "pub": 1774252829000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
+          "deck": "Iran widened its warnings to target buyers of U.",
+          "link": "https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html",
+          "pub": 1774252829000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Beatrice is all smiles with Edo - despite Epstein crisis 'dividing pair' and Princess being 'left in floods of tears'",
+      "pub": 1774252786000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Beatrice is all smiles with Edo - despite Epstein crisis 'dividing pair' and Princess being 'left in floods of tears'",
+          "deck": "Princess Beatrice, 37, was all smiles as she was seen leaving a swanky bar in London's Notting Hill with her 42-year-old husband Edoardo Mapelli Mozzi",
+          "link": "https://www.dailymail.co.uk/news/royals/article-15669911/Beatrice-smiles-Edo-despite-Epstein-crisis-dividing-pair-Princess-left-floods-tears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774252786000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Suspected hate crime as 4 Jewish group ambulances set ablaze in London",
+      "pub": 1774252715000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Suspected hate crime as 4 Jewish group ambulances set ablaze in London",
+          "deck": "Police in London are investigating a suspected antisemitic hate crime after vehicles belonging to a Jewish ambulance service were set on fire early Monday morning.",
+          "link": "https://www.cbsnews.com/news/suspected-antisemitic-hate-crime-4-ambulances-jewish-group-fire-london/",
+          "pub": 1774252715000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump posts sketch brutally MOCKING Starmer for being too afraid to call him",
+      "pub": 1774252619000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Donald Trump posts sketch brutally MOCKING Starmer for being too afraid to call him",
+          "deck": "Donald Trump spread a toe-curling clip from the British version of 'Saturday Night Live' on his Truth Social platform this afternoon.",
+          "link": "https://www.dailymail.co.uk/news/article-15669293/Donald-Trump-Saturday-Night-Live-sketch-Starmer-Special-Relationsion-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774252619000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Charlie Kirk 'mentor' and cheerleading tycoon dies in freak pickleball accident",
+      "pub": 1774252483000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Charlie Kirk 'mentor' and cheerleading tycoon dies in freak pickleball accident",
+          "deck": "Jeff Webb died Thursday from a head injury sustained two weeks earlier while playing pickleball.",
+          "link": "https://www.dailymail.co.uk/news/article-15670101/charlie-kirk-jeff-webb-pickleball-death-Jeff-Webb.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+          "pub": 1774252483000,
+          "src": "Mail",
+          "srcFull": "Daily Mail",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+      "pub": 1774252433000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+          "deck": "An Air Canada Express plane suffered significant damage after the collision.",
+          "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+          "pub": 1774252433000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -111,24 +957,6 @@
       ]
     },
     {
-      "title": "Trump promises 'total decimation' of Iran and says 'it's gonna work out very good' as he gives deadline of tonight for reopening Strait and oil prices surge towards record highs",
-      "pub": 1774251916000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump promises 'total decimation' of Iran and says 'it's gonna work out very good' as he gives deadline of tonight for reopening Strait and oil prices surge towards record highs",
-          "deck": "Donald Trump last night promised the 'total decimation' of Iran as reports emerged of US plans for a lengthy ground war in the Middle East.",
-          "link": "https://www.dailymail.co.uk/news/article-15669963/The-clock-ticking-Trump-warns-Iran-President-issues-deadline-tonight-reopen-Strait-mullahs-threaten-wipe-energy-plants.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774251916000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Nine people killed and 15 injured as tour bus through Peruvian mountains plunges off the road",
       "pub": 1774251900000,
       "lean": "lr",
@@ -140,24 +968,6 @@
           "deck": "Local firefighters said around 25 tourists and their guides were on the vehicle which was about 10 miles from the famous 17,969ft Rajuntay mountain when it crashed.",
           "link": "https://www.dailymail.co.uk/news/article-15670545/Nine-people-killed-15-injured-tour-bus-Peruvian-mountains-plunges-road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
           "pub": 1774251900000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "'Elizabethtown' and 'Attleetown' are among seven new towns being built under Labour plans - is one popping up near YOU?",
-      "pub": 1774251877000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "'Elizabethtown' and 'Attleetown' are among seven new towns being built under Labour plans - is one popping up near YOU?",
-          "deck": "'Elizabethtown' and 'Attleetown' were named by the government and are set to see between 15,000 and 40,000 new homes built in each location.",
-          "link": "https://www.dailymail.co.uk/news/article-15669857/Seven-new-towns-set-swamp-British-countryside-one-popping-near-you.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774251877000,
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
@@ -179,24 +989,6 @@
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Stocks Tumble as Oil Prices Rise",
-      "pub": 1774251824000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Stocks Tumble as Oil Prices Rise",
-          "deck": "Investors braced for a fourth week of market turmoil caused by the war in the Middle East",
-          "link": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html",
-          "pub": 1774251824000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -255,60 +1047,6 @@
       ]
     },
     {
-      "title": "The Headlines Are Scary. Your Investment Plan Shouldn't Be.",
-      "pub": 1774251300000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Headlines Are Scary. Your Investment Plan Shouldn't Be.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/headlines-scary-investment-plan-shouldnt-073500297.html",
-          "pub": 1774251300000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Can Ohio learn from an immigration crackdown a century ago?",
-      "pub": 1774251055000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Can Ohio learn from an immigration crackdown a century ago?",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/ohio-learn-immigration-crackdown-century-073055520.html",
-          "pub": 1774251055000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "FTSE 100 Live: Shares set to sink to three-month low after Trump's Hormuz warning",
-      "pub": 1774251000000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "FTSE 100 Live: Shares set to sink to three-month low after Trump's Hormuz warning",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-shares-set-071700266.html",
-          "pub": 1774251000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "'Become MPs To Protect Your Homeland!' - Alarm Bells In Spain As Moroccan Diaspora Seeks Political Mobilization",
       "pub": 1774251000000,
       "lean": "lr",
@@ -323,60 +1061,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Asia stocks slide as US and Iran threaten to escalate war",
-      "pub": 1774250952000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Asia stocks slide as US and Iran threaten to escalate war",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-slide-us-iran-030245366.html",
-          "pub": 1774250952000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Asia stocks slide as US and Iran threaten to escalate war",
-      "pub": 1774250949000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Asia stocks slide as US and Iran threaten to escalate war",
-          "deck": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "pub": 1774250949000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "IEA: Global economy faces ‘major, major threat’ because of Iran war",
-      "pub": 1774250929000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "IEA: Global economy faces ‘major, major threat’ because of Iran war",
-          "deck": "",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/iea-global-economy-faces-major-072849486.html",
-          "pub": 1774250929000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -399,14 +1083,14 @@
       ]
     },
     {
-      "title": "'Players are fed up' - are autograph hunters going too far?",
+      "title": "Are autograph hunters going too far?",
       "pub": 1774250876000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "'Players are fed up' - are autograph hunters going too far?",
+          "title": "Are autograph hunters going too far?",
           "deck": "BBC Sport explores how footballers and managers feel about professional autograph hunters, after a series of controversial incidents.",
           "link": "https://www.bbc.com/sport/football/articles/c78x77wz6q7o?at_medium=RSS&at_campaign=rss",
           "pub": 1774250876000,
@@ -467,42 +1151,6 @@
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Beatrice is all smiles with Edo - despite Epstein crisis 'dividing pair' and Princess being 'left in floods of tears'",
-      "pub": 1774250341000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Beatrice is all smiles with Edo - despite Epstein crisis 'dividing pair' and Princess being 'left in floods of tears'",
-          "deck": "Princess Beatrice, 37, was all smiles as she was seen leaving a swanky bar in London's Notting Hill with her 42-year-old husband Edoardo Mapelli Mozzi",
-          "link": "https://www.dailymail.co.uk/news/royals/article-15669911/Beatrice-smiles-Edo-despite-Epstein-crisis-dividing-pair-Princess-left-floods-tears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774250341000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Energy agency chief: further oil stock releases possible",
-      "pub": 1774250285000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Energy agency chief: further oil stock releases possible",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/videos/energy-agency-chief-further-oil-071805835.html",
-          "pub": 1774250285000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -629,24 +1277,6 @@
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
-      "pub": 1774249511000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
-          "deck": "A ground stop was in effect early Monday as the Fire Department said it was responding to a runway incident.",
-          "link": "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/laguardia-groundstop-flights",
-          "pub": 1774249511000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -831,24 +1461,6 @@
       ]
     },
     {
-      "title": "STEPHEN GLOVER: I believe Trump will declare victory soon. He can't afford to let this war go on. But we will be left with an even more vengeful Iran",
-      "pub": 1774248647000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "STEPHEN GLOVER: I believe Trump will declare victory soon. He can't afford to let this war go on. But we will be left with an even more vengeful Iran",
-          "deck": "The shocking news that Iran has missiles that may be able to reach London should make even critics of Trump's war - among whom I number myself - ponder deeply.",
-          "link": "https://www.dailymail.co.uk/debate/article-15669719/STEPHEN-GLOVER-Trump-declare-victory-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774248647000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Is Meghan Markle planning an Aussie cash grab? Duchess makes big move ahead of her trip Down Under after her Netflix deal comes to an end",
       "pub": 1774248505000,
       "lean": "lr",
@@ -863,24 +1475,6 @@
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Tehran Is Defiant After Trump Threatens Power Plants",
-      "pub": 1774248468000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tehran Is Defiant After Trump Threatens Power Plants",
-          "deck": "Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.",
-          "link": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
-          "pub": 1774248468000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -1047,24 +1641,6 @@
       ]
     },
     {
-      "title": "Corey Lewandowski is 'not expected' to land another job in Trump administration after DHS exit over controversies",
-      "pub": 1774248006000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Corey Lewandowski is 'not expected' to land another job in Trump administration after DHS exit over controversies",
-          "deck": "Corey Lewandowski, a top aide to Kristi Noem at the Department of Homeland Security, is 'not expected' to land another job in the Trump administration after the secretary's sensational departure.",
-          "link": "https://www.dailymail.co.uk/news/article-15669363/corey-lewandowski-trump-administration-kristi-noem.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774248006000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime",
       "pub": 1774247990000,
       "lean": "ll",
@@ -1137,24 +1713,6 @@
       ]
     },
     {
-      "title": "Elderly DoorDash driver receives check for almost $1MILLION and reveals surprising plans for the future after strangers flooded fundraiser",
-      "pub": 1774247337000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Elderly DoorDash driver receives check for almost $1MILLION and reveals surprising plans for the future after strangers flooded fundraiser",
-          "deck": "Richard Pulley, 78, was seen on doorbell footage struggling to climb the stairs as he slowly made his way to Brittany Smith's front door earlier this month to deliver a Starbucks order.",
-          "link": "https://www.dailymail.co.uk/news/article-15670273/DoorDash-driver-check-1MILLION-retire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774247337000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "AI Swarm Attacks Are Coming, Is Your Business Ready?",
       "pub": 1774247244000,
       "lean": "ct",
@@ -1205,24 +1763,6 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "European stocks head for slump as Trump sets Hormuz deadline",
-      "pub": 1774246896000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "European stocks head for slump as Trump sets Hormuz deadline",
-          "deck": "European stocks are expected to start the new trading week sharply lower as the war in Iran drags on global market sentiment.",
-          "link": "https://www.cnbc.com/2026/03/23/european-markets-stoxx-ftse-dax-cac-iran-news-oil-prices.html",
-          "pub": 1774246896000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
         }
       ]
     },
@@ -1542,24 +2082,6 @@
       ]
     },
     {
-      "title": "Charlie Kirk 'mentor' and cheerleading tycoon dies in freak pickleball accident",
-      "pub": 1774244308000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Charlie Kirk 'mentor' and cheerleading tycoon dies in freak pickleball accident",
-          "deck": "Jeff Webb died Thursday from a head injury sustained two weeks earlier while playing pickleball.",
-          "link": "https://www.dailymail.co.uk/news/article-15670101/charlie-kirk-jeff-webb-pickleball-death-Jeff-Webb.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774244308000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Bryce Hopkins makes St. John’s March Madness history as shooting tear continues",
       "pub": 1774244076000,
       "lean": "lr",
@@ -1596,14 +2118,14 @@
       ]
     },
     {
-      "title": "Air Canada flight collides with a Port Authority vehicle at New York's LaGuardia Airport",
+      "title": "2 people killed in collision between jet and vehicle at New York's LaGuardia Airport, source says",
       "pub": 1774243742000,
       "lean": "ll",
       "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Air Canada flight collides with a Port Authority vehicle at New York's LaGuardia Airport",
+          "title": "2 people killed in collision between jet and vehicle at New York's LaGuardia Airport, source says",
           "deck": "",
           "link": "https://www.yahoo.com/news/articles/air-canada-flight-collides-port-052902928.html",
           "pub": 1774243742000,
@@ -1704,14 +2226,32 @@
       ]
     },
     {
-      "title": "Pilot, co-pilot killed after Air Canada plane and vehicle collide at La Guardia Airport, sources say",
+      "title": "20-Year-Old Kentucky Woman Arrested After Allegedly Driving Into Crowd While Drunk, Injuring Four",
+      "pub": 1774242988000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "20-Year-Old Kentucky Woman Arrested After Allegedly Driving Into Crowd While Drunk, Injuring Four",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/20-old-kentucky-woman-arrested-051628736.html",
+          "pub": 1774242988000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Pilot, co-pilot killed after Air Canada plane and vehicle collide at LaGuardia Airport, sources say",
       "pub": 1774242799000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Pilot, co-pilot killed after Air Canada plane and vehicle collide at La Guardia Airport, sources say",
+          "title": "Pilot, co-pilot killed after Air Canada plane and vehicle collide at LaGuardia Airport, sources say",
           "deck": "A pilot and co-pilot were killed when an Air Canada passenger plane collided with a fire truck on a LaGuardia Airport runway late Sunday, according to two sources familiar with the investigation",
           "link": "https://www.nbcnews.com/news/us-news/incident-reported-plane-vehicle-new-yorks-la-guardia-airport-rcna264677",
           "pub": 1774242799000,
@@ -1830,24 +2370,6 @@
       ]
     },
     {
-      "title": "Iran threatens to start hitting Gulf power plants as Israel launches new wave of attacks",
-      "pub": 1774241713000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran threatens to start hitting Gulf power plants as Israel launches new wave of attacks",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/iran-threatens-attack-mideast-electrical-045513561.html",
-          "pub": 1774241713000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ian Jackson delivered the all-around performance St. John’s needed in March Madness win over Kansas",
       "pub": 1774241701000,
       "lean": "lr",
@@ -1884,15 +2406,15 @@
       ]
     },
     {
-      "title": "Two Port Authority cops seriously injured, 2 pilots dead as Air Canada flight, emergency vehicle collide at LaGuardia: sources",
+      "title": "Two pilots dead, 2 Port Authority cops seriously injured dead as Air Canada flight, emergency vehicle collide at LaGuardia, causing airport closure: sources",
       "pub": 1774241240000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Two Port Authority cops seriously injured, 2 pilots dead as Air Canada flight, emergency vehicle collide at LaGuardia: sources",
-          "deck": "An Air Canada flight arriving at LaGuardia Airport crashed into a firetruck on Sunday night -- leaving four firefighters critically injured, according to sources.",
+          "title": "Two pilots dead, 2 Port Authority cops seriously injured dead as Air Canada flight, emergency vehicle collide at LaGuardia, causing airport closure: sources",
+          "deck": "An Air Canada flight arriving at LaGuardia Airport crashed into a firetruck on Sunday night.",
           "link": "https://nypost.com/2026/03/23/us-news/air-canada-flight-firetruck-collide-at-laguardia-reports/",
           "pub": 1774241240000,
           "src": "NYP",
@@ -1933,24 +2455,6 @@
           "pub": 1774240924000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
-      "pub": 1774240874000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
-          "deck": "Iran widened its warnings to target buyers of U.",
-          "link": "https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html",
-          "pub": 1774240874000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
           "lean": "ll"
         }
       ]
@@ -2204,6 +2708,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Gold extends losses amid 'brutal flush' as inflation worries mount",
+      "pub": 1774238668000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gold extends losses amid 'brutal flush' as inflation worries mount",
+          "deck": "",
+          "link": "https://finance.yahoo.com/news/gold-extends-losses-amid-brutal-flush-as-inflation-worries-mount-040428981.html",
+          "pub": 1774238668000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -2550,24 +3072,6 @@
       ]
     },
     {
-      "title": "So, where is the HMS Dragon three weeks after the Iranian drone strike on RAF Akrotiri? 'On its way...'",
-      "pub": 1774236806000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "So, where is the HMS Dragon three weeks after the Iranian drone strike on RAF Akrotiri? 'On its way...'",
-          "deck": "Quizzed on the whereabouts of the Type 45 Destroyer yesterday, Labour Housing Minister Steve Reed could only say it is 'on its way to the region'.",
-          "link": "https://www.dailymail.co.uk/news/article-15669979/HMS-Dragon-crew-sail-Cyprus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774236806000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Horrifying moment stalker nearly chokes woman to death after tormenting her for months and trying to contact her 234 times in three days: 'Want to kill her'",
       "pub": 1774236789000,
       "lean": "lr",
@@ -2829,24 +3333,6 @@
       ]
     },
     {
-      "title": "Suspect arrested in 22-year-old cold case murder in California",
-      "pub": 1774235170000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Suspect arrested in 22-year-old cold case murder in California",
-          "deck": "Corey Sampson, 45, from Hesperia, was arrested roughly 22 years after allegedly gunning down Israel Rangel in Moreno Valley.",
-          "link": "https://nypost.com/2026/03/22/us-news/california-man-arrested-in-22-year-old-cold-case-murder/",
-          "pub": 1774235170000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "William's expression of his 'quiet faith' is not a Damascene flash, but he has a clear-headed grasp of reality",
       "pub": 1774235038000,
       "lean": "lr",
@@ -2937,20 +3423,38 @@
       ]
     },
     {
-      "title": "Scotland begins testing newborn babies for rare genetic condition",
+      "title": "Scotland becomes first in UK to test newborns for rare genetic condition",
       "pub": 1774234552000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Scotland begins testing newborn babies for rare genetic condition",
+          "title": "Scotland becomes first in UK to test newborns for rare genetic condition",
           "deck": "Spinal Muscular Atrophy (SMA) causes progressive muscle weakness and, without treatment, can limit life expectancy to just two years.",
           "link": "https://www.bbc.com/news/articles/cx26glrw310o?at_medium=RSS&at_campaign=rss",
           "pub": 1774234552000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "CNN Data Guru Is Stunned at Trump’s Economic Approval",
+      "pub": 1774234424000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "CNN Data Guru Is Stunned at Trump’s Economic Approval",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/cnn-data-guru-stunned-trump-025344669.html",
+          "pub": 1774234424000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3405,24 +3909,6 @@
       ]
     },
     {
-      "title": "Ian Huntley 'will not get a funeral': Child killer to be cremated and his ashes handed to his family",
-      "pub": 1774232304000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ian Huntley 'will not get a funeral': Child killer to be cremated and his ashes handed to his family",
-          "deck": "Ian Huntley, 52, had been serving life in prison at HMP Frankland for the murder of 10-year-olds Holly Wells and Jessica Chapman in 2002.",
-          "link": "https://www.dailymail.co.uk/news/article-15670045/Child-killer-Ian-Huntley-not-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774232304000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Channel Nine controversy magnet Tony Jones storms off the set over AFL player's Rebecca Judd joke",
       "pub": 1774232282000,
       "lean": "lr",
@@ -3617,6 +4103,24 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "MAGA Explodes at Bloodthirsty Senator for Chilling War Call",
+      "pub": 1774230924000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "MAGA Explodes at Bloodthirsty Senator for Chilling War Call",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/maga-explodes-bloodthirsty-senator-chilling-015524215.html",
+          "pub": 1774230924000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4449,24 +4953,6 @@
       ]
     },
     {
-      "title": "The dark side of Manchester's most expensive suburb: How AK47-wielding ganglords live side by side with millionaire celebrities in £4m mansions",
-      "pub": 1774227486000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The dark side of Manchester's most expensive suburb: How AK47-wielding ganglords live side by side with millionaire celebrities in £4m mansions",
-          "deck": "To the average person, bespectacled Jones looked like a typical middle-class resident in one of the city's most expensive enclaves.",
-          "link": "https://www.dailymail.co.uk/news/article-15530659/The-dark-Manchesters-expensive-suburb-AK47-wielding-ganglords-live-millionaire-celebrities-4m-mansions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774227486000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Stan Van Gundy Warns Duke After St. John's Beats Kansas in Thriller",
       "pub": 1774227446000,
       "lean": "ct",
@@ -4481,24 +4967,6 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump posts sketch brutally MOCKING Starmer for being too afraid to call him",
-      "pub": 1774227399000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Donald Trump posts sketch brutally MOCKING Starmer for being too afraid to call him",
-          "deck": "Donald Trump spread a toe-curling clip from the British version of 'Saturday Night Live' on his Truth Social platform this afternoon.",
-          "link": "https://www.dailymail.co.uk/news/article-15669293/Donald-Trump-Saturday-Night-Live-sketch-Starmer-Special-Relationsion-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774227399000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
         }
       ]
     },
@@ -4539,24 +5007,6 @@
       ]
     },
     {
-      "title": "Cabinet minister is dubbed a 'hypocrite' for letting staff work four-day weeks on full pay",
-      "pub": 1774227122000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cabinet minister is dubbed a 'hypocrite' for letting staff work four-day weeks on full pay",
-          "deck": "Communities Secretary Steve Reed wrote to all council leaders in England at the end of last year warning them not to introduce four-day working weeks.",
-          "link": "https://www.dailymail.co.uk/news/article-15669937/Minister-hypocrite-staff-work-4-day-weeks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774227122000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Shock as man found NOT guilty by reason of insanity in killing of mom-to-be, 34, and her unborn child in random attack",
       "pub": 1774226867000,
       "lean": "lr",
@@ -4571,24 +5021,6 @@
           "src": "Mail",
           "srcFull": "Daily Mail",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Rick Pitino Reveals What Dylan Darling Told Him Before Buzzer-Beater Over Kansas",
-      "pub": 1774226850000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rick Pitino Reveals What Dylan Darling Told Him Before Buzzer-Beater Over Kansas",
-          "deck": "St. John’s head coach Rick Pitino revealed what Dylan Darling told him moments before hitting the buzzer-beater to defeat Kansas.",
-          "link": "https://www.newsweek.com/sports/ncaa/rick-pitino-reveals-what-dylan-darling-told-him-before-buzzer-beater-over-kansas-11718348",
-          "pub": 1774226850000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -4791,42 +5223,6 @@
       ]
     },
     {
-      "title": "How to Watch Alabama vs Texas Tech: Live Stream NCAA Tournament for Free, TV Channel",
-      "pub": 1774224900000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How to Watch Alabama vs Texas Tech: Live Stream NCAA Tournament for Free, TV Channel",
-          "deck": "Alabama and Texas Tech meet in the Round of 32 on Sunday as teams look to extend their stay in the 2026 NCAA Tournament.",
-          "link": "https://www.newsweek.com/how-to-watch-alabama-vs-texas-tech-live-stream-ncaa-tournament-for-free-tv-channel-11714468",
-          "pub": 1774224900000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ilhan Omar’s Daughter Says She Is ‘Honored’ To Be in Cuba",
-      "pub": 1774224749000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ilhan Omar’s Daughter Says She Is ‘Honored’ To Be in Cuba",
-          "deck": "Isra Hirsi defended her Cuba visit on X, with Rep.",
-          "link": "https://www.newsweek.com/ilhan-omars-daughter-says-she-is-honored-to-be-in-cuba-11718265",
-          "pub": 1774224749000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Pro-Palestinian Activists Rally in Support of Freed Columbia Protester",
       "pub": 1774224678000,
       "lean": "ll",
@@ -5021,402 +5417,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Rogue Judge Threatens Kennedy's Health Reforms",
-      "pub": 1774224350000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rogue Judge Threatens Kennedy's Health Reforms",
-          "deck": "Murphy's Latest Power Grab Threatens Kennedy's Lawful Health Reforms",
-          "link": "https://www.realclearpolitics.com/2026/03/22/rogue_judge_threatens_kennedys_health_reforms_694703.html",
-          "pub": 1774224350000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Grisly or just country life? The mole photos dividing social media",
-      "pub": 1774224318000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Grisly or just country life? The mole photos dividing social media",
-          "deck": "A hill walker shares a snap of moles hanging on barbed wire and is surprised by the huge response.",
-          "link": "https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
-          "pub": 1774224318000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Evan Davis: Heat pumps work for me - but they're not yet a money saver",
-      "pub": 1774224285000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Evan Davis: Heat pumps work for me - but they're not yet a money saver",
-          "deck": "The government wants Britons to embrace heat pumps.",
-          "link": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss",
-          "pub": 1774224285000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Backward Road of American Trucking",
-      "pub": 1774224261000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Backward Road of American Trucking",
-          "deck": "For everyone's sake, those behind the wheels of trucks should have proper training.",
-          "link": "https://www.realclearpolitics.com/2026/03/22/the_backward_road_of_american_trucking_694990.html",
-          "pub": 1774224261000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Two Biggest Myths About AI Data Centers",
-      "pub": 1774224221000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Two Biggest Myths About AI Data Centers",
-          "deck": "Across the country, Americans are flocking to city council, planning commission, and water board meetings trying to stop data centers from being built.",
-          "link": "https://www.realclearpolitics.com/2026/03/22/the_two_biggest_myths_about_ai_data_centers_695029.html",
-          "pub": 1774224221000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Illegal migrant suspected of executing college student, 18, was caught then RELEASED under Biden, says DHS",
-      "pub": 1774224209000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Illegal migrant suspected of executing college student, 18, was caught then RELEASED under Biden, says DHS",
-          "deck": "Jose Medina-Medina was previously caught by US Border Patrol on May 9, 2023 under the Biden administration, but was released into the United States, according to the DHS.",
-          "link": "https://www.dailymail.co.uk/news/article-15669677/Illegal-migrant-Jose-Medina-Sheridan-Gorman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774224209000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Germany has a shortage of workers - so it's turning to India for help",
-      "pub": 1774224205000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Germany has a shortage of workers - so it's turning to India for help",
-          "deck": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
-          "link": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
-          "pub": 1774224205000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Call to cancel threat of prison for council tax non-payment",
-      "pub": 1774224172000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Call to cancel threat of prison for council tax non-payment",
-          "deck": "Debt charity StepChange says there are clear differences between councils when chasing unpaid tax.",
-          "link": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
-          "pub": 1774224172000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Magic Faraway Tree's Andrew Garfield: Our attention is abused by tech companies",
-      "pub": 1774224164000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Magic Faraway Tree's Andrew Garfield: Our attention is abused by tech companies",
-          "deck": "Garfield stars alongside Claire Foy and Nicola Coughlan in an adaptation of Enid Blyton's The Magic Faraway Tree.",
-          "link": "https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
-          "pub": 1774224164000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Hey, Parents, Leave Your Kids Alone",
-      "pub": 1774224138000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hey, Parents, Leave Your Kids Alone",
-          "deck": "On a sunny weekend morning, I was walking with a friend through a quiet suburb when we passed a girl of about 10 who had a small overnight bag slung over one shoulder and a look of secret exaltation on her face.",
-          "link": "https://www.realclearpolitics.com/2026/03/22/hey_parents_leave_your_kids_alone_694516.html",
-          "pub": 1774224138000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Iran threatens to ‘completely’ close Strait of Hormuz after Trump ultimatum",
-      "pub": 1774224136000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran threatens to ‘completely’ close Strait of Hormuz after Trump ultimatum",
-          "deck": "The United States and Iran are threatening to target critical infrastructure as the war in the Middle East puts lives and livelihoods at risk.",
-          "link": "https://www.csmonitor.com/World/Middle-East/2026/0322/iran-war-trump-hormuz?icid=rss",
-          "pub": 1774224136000,
-          "src": "CSM",
-          "srcFull": "Christian Science Monitor",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Logan Paul offers sarcastic apology to Tom Brady and flag football rivals as social media rages at WWE star",
-      "pub": 1774224075000,
-      "lean": "lr",
-      "cat": "Sports",
-      "single": true,
-      "versions": [
-        {
-          "title": "Logan Paul offers sarcastic apology to Tom Brady and flag football rivals as social media rages at WWE star",
-          "deck": "After acting out in his typical manner, WWE superstar and content creator Logan Paul offered up a fake and sarcastic apology to Tom Brady and other competitors he played against.",
-          "link": "https://www.dailymail.co.uk/sport/nfl/article-15669759/logan-paul-apology-tom-brady-flag-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774224075000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "How an island became ferret free - thanks, in part, to Woody the wonderdog",
-      "pub": 1774224016000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How an island became ferret free - thanks, in part, to Woody the wonderdog",
-          "deck": "More than 400 traps were laid across the island in a £4.",
-          "link": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
-          "pub": 1774224016000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Far-right, centrist parties strengthen positions in French regional voting",
-      "pub": 1774224000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Far-right, centrist parties strengthen positions in French regional voting",
-          "deck": "The vote is the last nationwide election before French voters pick a successor to Emmanuel Macron next year",
-          "link": "https://justthenews.com/world/europe/far-right-centrist-parties-strengthen-positions-french-regional-voting?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
-          "pub": 1774224000000,
-          "src": "JTN",
-          "srcFull": "Just the News",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Air Canada plane on-the-ground crash closes LaGuardia; at least two dead",
-      "pub": 1774224000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Air Canada plane on-the-ground crash closes LaGuardia; at least two dead",
-          "deck": "The regional aircraft crashed with an airport support vehicle.",
-          "link": "https://justthenews.com/nation/states/air-canada-plane-ground-crash-closes-laguardia-least-two-dead?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
-          "pub": 1774224000000,
-          "src": "JTN",
-          "srcFull": "Just the News",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Jeff Webb, Who Built a Competitive Cheerleading Empire, Dies at 76",
-      "pub": 1774223996000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jeff Webb, Who Built a Competitive Cheerleading Empire, Dies at 76",
-          "deck": "Through Varsity Spirit, the company he established in 1974, he turned cheerleading into a multibillion-dollar juggernaut and exerted control over almost every aspect of it.",
-          "link": "https://www.nytimes.com/2026/03/22/business/jeff-webb-dead-cheerleading.html",
-          "pub": 1774223996000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
-      "pub": 1774223588000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
-          "deck": "France’s far right hoped for major gains in Sunday’s municipal elections, a key bellwether moment before a presidential election next year.",
-          "link": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html",
-          "pub": 1774223588000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Flying soon? The crucial warnings for Australians as war drives up jet fuel and airfares",
-      "pub": 1774223416000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Flying soon? The crucial warnings for Australians as war drives up jet fuel and airfares",
-          "deck": "There are some important implications for how global air travel functions, right now and in the future.",
-          "link": "https://www.dailymail.co.uk/news/article-15669771/qantas-flights.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774223416000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Professor sacked for sending texts, poems and a photo of himself in his boxers to a student WINS his job back after university's 'mistake'",
-      "pub": 1774223312000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Professor sacked for sending texts, poems and a photo of himself in his boxers to a student WINS his job back after university's 'mistake'",
-          "deck": "A professor who sent his PhD student a string of romantic messages and a photo of himself in his boxer shorts has learned his fate after appealing a uni's decision to sack him.",
-          "link": "https://www.dailymail.co.uk/news/article-15641525/Professor-sacked-sending-texts-poems-photo-boxers-student-WINS-job-universitys-mistake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774223312000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Oil & Stocks Mixed To Start Week As War Escalates & Gamma Unclenches",
-      "pub": 1774223280000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Oil & Stocks Mixed To Start Week As War Escalates & Gamma Unclenches",
-          "deck": "Oil & Stocks Mixed To Start Week As War Escalates & Gamma Unclenches Update (1845ET): After an initial kneejerk higher in oil and lower in stocks, things have settled a little with both hovering around unch.",
-          "link": "https://www.zerohedge.com/markets/oil-stocks-down-start-week-war-escalates-gamma-unclenches",
-          "pub": 1774223280000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "British fitness instructor, 35, in desperate need of a lung transplant is trapped in Middle East waiting for urgent medical evacuation to UK",
-      "pub": 1774223125000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "British fitness instructor, 35, in desperate need of a lung transplant is trapped in Middle East waiting for urgent medical evacuation to UK",
-          "deck": "Laura Storr, 35, from Shenfield, Essex, moved to the Saudi Arabian city of Riyadh in late 2020 to help open a new franchise of the boutique gym chain she works for.",
-          "link": "https://www.dailymail.co.uk/news/article-15661373/British-fitness-instructor-35-desperate-need-lung-transplant-trapped-Middle-East-waiting-urgent-medical-evacuation-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774223125000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "University embroiled in legal battle after student, 20, suspended for making a 'tea-towel' joke about Pro-Palestine activist's headscarf",
-      "pub": 1774223099000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "University embroiled in legal battle after student, 20, suspended for making a 'tea-towel' joke about Pro-Palestine activist's headscarf",
-          "deck": "'Non-Jewish Zionist' Brodie Mitchell, 20, was reprimanded by Royal Holloway, University of London, for likening Huda El-Jamal's keffiyeh scarf to a tea towel.",
-          "link": "https://www.dailymail.co.uk/news/article-15668811/university-student-suspended-palestine-activist-headscarf.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-          "pub": 1774223099000,
-          "src": "Mail",
-          "srcFull": "Daily Mail",
-          "lean": "lr"
         }
       ]
     }
