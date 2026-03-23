@@ -191,12 +191,11 @@ body  {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* stagger — applied via JS inline style */
-
 /* source column */
 .item-src {
   font-family: var(--mono); font-size: 8px; letter-spacing: .09em;
   text-transform: uppercase; color: var(--ink-5); padding-top: 2px; line-height: 1.5;
+  min-width: 0;
 }
 .item-src-name { font-weight: 500; color: var(--ink-3); display: block; }
 .lean-pip {
@@ -206,10 +205,26 @@ body  {
 .pip-ct { background: var(--grn-lean); }
 .pip-lr { background: var(--red-lean); }
 
-/* headline column */
+/* ── BODY COLUMN min-width fix ────────────────────────────────────────────────
+   The middle (1fr) column in every grid row contains the headline text.
+   Without min-width:0, a grid child refuses to shrink below its content width,
+   causing headlines to overflow their column regardless of the 1fr track size.
+   Targeting the second direct child covers the anonymous div in cluster rows
+   where the body column carries no class of its own.
+── */
+.cluster-single  > div:nth-child(2),
+.cluster-summary > div:nth-child(2),
+.feed-item       > div:nth-child(2) {
+  min-width: 0;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* headline */
 .item-hl {
   font-family: var(--serif); font-size: 15px; font-weight: 600;
-  line-height: 1.38; color: var(--ink); transition: color .12s; display: block; margin-bottom: 4px;
+  line-height: 1.38; color: var(--ink); transition: color .12s; display: block;
+  margin-bottom: 4px; min-width: 0; overflow-wrap: break-word;
 }
 .item-deck {
   font-family: var(--serif); font-size: 13px; font-weight: 400; font-style: italic;
@@ -275,19 +290,23 @@ body  {
 
 /* ── RESPONSIVE ── */
 @media (max-width: 600px) {
-  .pub-name             { font-size: 26px; }
-  .feed-item            { grid-template-columns: 44px 1fr; }
-  .item-cat             { display: none; }
-  .masthead-right       { display: none; }
-  .toolbar-divider      { display: none; }
-  .search-box           { width: 160px; }
-  .edition-counts       { display: none; }
+  .pub-name        { font-size: 26px; }
+  .feed-item       { grid-template-columns: 44px 1fr; }
+  .cluster-single  { grid-template-columns: 44px 1fr; }
+  .cluster-summary { grid-template-columns: 44px 1fr; }
+  .item-cat        { display: none; }
+  .masthead-right  { display: none; }
+  .toolbar-divider { display: none; }
+  .search-box      { width: 160px; }
+  .edition-counts  { display: none; }
 }
 
 /* ── REDUCED MOTION ── */
 @media (prefers-reduced-motion: reduce) {
   .feed-item, .spinner { animation: none; }
   .feed-item           { opacity: 1; transform: none; }
+  .cluster-row         { animation: none; opacity: 1; }
+  .cluster-chevron     { transition: none; }
 }
 
 /* ── SOURCE DROPDOWN ── */
@@ -307,26 +326,26 @@ body  {
 @media (max-width: 600px) { .source-wrap { display: none; } }
 
 /* ── CLUSTER ROWS ── */
-
-/* Single-source: inherits old feed-item styles, inner <a> fills the grid */
 .cluster-row { animation: fadeUp .35s ease both; }
+
+/* Single-source cluster */
 .cluster-single {
   display: grid; grid-template-columns: 56px 1fr auto; gap: 0 18px;
   padding: 14px 0; text-decoration: none; color: inherit; cursor: pointer;
   transition: background .1s;
 }
-.cluster-single:hover                { background: rgba(35,83,71,.04); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
-.cluster-single:hover .item-hl      { color: var(--green); }
-.cluster-single:focus-visible        { outline: 2px solid var(--green); outline-offset: 2px; }
+.cluster-single:hover            { background: rgba(35,83,71,.04); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
+.cluster-single:hover .item-hl  { color: var(--green); }
+.cluster-single:focus-visible    { outline: 2px solid var(--green); outline-offset: 2px; }
 
 /* Multi-source summary row */
 .cluster-summary {
   display: grid; grid-template-columns: 56px 1fr auto; gap: 0 18px;
   padding: 14px 0; cursor: pointer; transition: background .1s; align-items: start;
 }
-.cluster-summary:hover               { background: rgba(35,83,71,.04); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
-.cluster-summary:hover .item-hl     { color: var(--green); }
-.cluster-summary:focus-visible       { outline: 2px solid var(--green); outline-offset: 2px; }
+.cluster-summary:hover           { background: rgba(35,83,71,.04); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
+.cluster-summary:hover .item-hl { color: var(--green); }
+.cluster-summary:focus-visible   { outline: 2px solid var(--green); outline-offset: 2px; }
 
 /* Stacked lean pips for multi-source */
 .pip-stack { display: flex; flex-direction: column; gap: 4px; padding-top: 4px; }
@@ -374,31 +393,26 @@ body  {
   border-bottom: 1px solid var(--rule-lt);
   transition: background .1s; align-items: baseline;
 }
-.version-row:last-child { border-bottom: none; }
-.version-row:hover      { background: rgba(35,83,71,.06); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
+.version-row:last-child    { border-bottom: none; }
+.version-row:hover         { background: rgba(35,83,71,.06); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
 .version-row:focus-visible { outline: 2px solid var(--green); outline-offset: 1px; }
 
 .version-src {
   font-family: var(--mono); font-size: 8px; font-weight: 500;
   letter-spacing: .09em; text-transform: uppercase; color: var(--ink-4);
-  display: flex; flex-direction: column; gap: 4px;
+  display: flex; flex-direction: column; gap: 4px; min-width: 0;
 }
 .version-src-name { color: var(--ink-3); }
 
 .version-title {
   font-family: var(--serif); font-size: 13px; font-weight: 400;
   line-height: 1.4; color: var(--ink-3);
+  min-width: 0; overflow-wrap: break-word;
 }
 .version-row:hover .version-title { color: var(--green); }
 
 .version-time {
   font-family: var(--mono); font-size: 7.5px;
   color: var(--ink-5); letter-spacing: .04em;
-  text-align: right; white-space: nowrap;
-}
-
-/* Reduce motion */
-@media (prefers-reduced-motion: reduce) {
-  .cluster-row { animation: none; opacity: 1; }
-  .cluster-chevron { transition: none; }
+  text-align: right; white-space: nowrap; flex-shrink: 0;
 }
