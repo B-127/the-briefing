@@ -324,8 +324,14 @@ function buildClusterRow(cluster, animDelay) {
     pip.setAttribute('title', leanLabel(primary.lean));
     srcDiv.appendChild(pip);
 
-    // Body col
+    // Body col — cat tag sits above headline inside the body column
     const bodyDiv = document.createElement('div');
+
+    const catDiv = document.createElement('div');
+    catDiv.className   = 'item-cat';
+    catDiv.textContent = cluster.cat;
+    bodyDiv.appendChild(catDiv);
+
     const hl = document.createElement('span');
     hl.className   = 'item-hl';
     hl.textContent = cluster.title;
@@ -343,14 +349,8 @@ function buildClusterRow(cluster, animDelay) {
     timeEl.textContent = relativeTime(primary.pub);
     bodyDiv.appendChild(timeEl);
 
-    // Cat col
-    const catDiv = document.createElement('div');
-    catDiv.className   = 'item-cat';
-    catDiv.textContent = cluster.cat;
-
     a.appendChild(srcDiv);
     a.appendChild(bodyDiv);
-    a.appendChild(catDiv);
     wrapper.appendChild(a);
     return wrapper;
   }
