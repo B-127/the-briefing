@@ -166,25 +166,15 @@ body  {
 .feed { margin-top: 4px; }
 
 .feed-item {
-  display: grid;
-  grid-template-columns: 56px 1fr;
-  gap: 0 18px;
-  padding: 14px 0;
+  display: block;
+  padding: 0;
   border-bottom: 1px solid var(--rule-lt);
-  cursor: pointer;
-  transition: background .1s;
   animation: fadeUp .35s ease both;
-  text-decoration: none;
-  color: inherit;
 }
-.feed-item:last-child    { border-bottom: none; }
-.feed-item:hover         { background: rgba(35,83,71,.04); margin: 0 -12px; padding-left: 12px; padding-right: 12px; }
-.feed-item:hover .item-hl { color: var(--green); }
-.feed-item:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+.feed-item:last-child { border-bottom: none; }
 
 /* Items with no link should not appear interactive */
 .feed-item:not([href]) { cursor: default; }
-.feed-item:not([href]):hover { background: transparent; margin: 0; padding-left: 0; padding-right: 0; }
 
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(7px); }
@@ -205,18 +195,10 @@ body  {
 .pip-ct { background: var(--grn-lean); }
 .pip-lr { background: var(--red-lean); }
 
-/* ── BODY COLUMN min-width fix ────────────────────────────────────────────────
-   The middle (1fr) column in every grid row contains the headline text.
-   Without min-width:0, a grid child refuses to shrink below its content width,
-   causing headlines to overflow their column regardless of the 1fr track size.
-   Targeting the second direct child covers the anonymous div in cluster rows
-   where the body column carries no class of its own.
-── */
+/* min-width:0 allows the 1fr body column to shrink below content width */
 .cluster-single  > div:nth-child(2),
-.cluster-summary > div:nth-child(2),
-.feed-item       > div:nth-child(2) {
+.cluster-summary > div:nth-child(2) {
   min-width: 0;
-
 }
 
 /* headline */
@@ -290,7 +272,6 @@ body  {
 /* ── RESPONSIVE ── */
 @media (max-width: 600px) {
   .pub-name        { font-size: 26px; }
-  .feed-item       { grid-template-columns: 44px 1fr; }
   .cluster-single  { grid-template-columns: 44px 1fr; }
   .cluster-summary { grid-template-columns: 44px 1fr auto; }
   .item-cat        { display: none; }
@@ -303,7 +284,6 @@ body  {
 /* ── REDUCED MOTION ── */
 @media (prefers-reduced-motion: reduce) {
   .feed-item, .spinner { animation: none; }
-  .feed-item           { opacity: 1; transform: none; }
   .cluster-row         { animation: none; opacity: 1; }
   .cluster-chevron     { transition: none; }
 }
