@@ -167,7 +167,7 @@ body  {
 
 .feed-item {
   display: grid;
-  grid-template-columns: 56px 1fr auto;
+  grid-template-columns: 56px 1fr;
   gap: 0 18px;
   padding: 14px 0;
   border-bottom: 1px solid var(--rule-lt);
@@ -239,7 +239,7 @@ body  {
   font-family: var(--mono); font-size: 7.5px; letter-spacing: .1em;
   text-transform: uppercase; color: var(--ink-5); background: var(--paper-2);
   border: 1px solid var(--rule-lt); padding: 2px 6px; border-radius: 1px;
-  align-self: start; justify-self: end; white-space: nowrap; margin-top: 3px;
+  display: inline-block; white-space: nowrap; margin-bottom: 6px;
 }
 
 /* ── STATES ── */
@@ -292,7 +292,7 @@ body  {
   .pub-name        { font-size: 26px; }
   .feed-item       { grid-template-columns: 44px 1fr; }
   .cluster-single  { grid-template-columns: 44px 1fr; }
-  .cluster-summary { grid-template-columns: 44px 1fr; }
+  .cluster-summary { grid-template-columns: 44px 1fr auto; }
   .item-cat        { display: none; }
   .masthead-right  { display: none; }
   .toolbar-divider { display: none; }
@@ -329,7 +329,7 @@ body  {
 
 /* Single-source cluster */
 .cluster-single {
-  display: grid; grid-template-columns: 56px 1fr auto; gap: 0 18px;
+  display: grid; grid-template-columns: 56px 1fr; gap: 0 18px;
   padding: 14px 0; text-decoration: none; color: inherit; cursor: pointer;
   transition: background .1s;
 }
@@ -386,7 +386,7 @@ body  {
 
 /* Individual version rows inside the panel */
 .version-row {
-  display: grid; grid-template-columns: 64px 1fr auto;
+  display: grid; grid-template-columns: 64px 1fr;
   gap: 0 12px; padding: 9px 0;
   text-decoration: none; color: inherit;
   border-bottom: 1px solid var(--rule-lt);
