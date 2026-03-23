@@ -591,10 +591,45 @@ async function loadFeed() {
 
 // ── Initialise ────────────────────────────────────────────────────────────────
 
-document.getElementById('live-date').textContent =
-  new Date().toLocaleDateString('en-GB', {
-    weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
-  });
+// Set live date in Sri Lanka time (UTC+5:30)
+(function setDateAndEdition() {
+  // Sri Lanka is UTC+5:30 — use Intl to get the local hour there
+  const now = new Date();
+
+  // Get current hour in Sri Lanka time
+  const sltHour = parseInt(
+    new Intl.DateTimeFormat('en-LK', {
+      timeZone: 'Asia/Colombo',
+      hour: 'numeric',
+      hour12: false
+    }).format(now),
+    10
+  );
+
+  // Set the date display
+  document.getElementById('live-date').textContent =
+    new Intl.DateTimeFormat('en-GB', {
+      timeZone: 'Asia/Colombo',
+      weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+    }).format(now);
+
+  // Set edition label based on Sri Lanka time of day
+  // Morning:   5:00 – 11:59
+  // Afternoon: 12:00 – 16:59
+  // Evening:   17:00 – 20:59
+  // Night:     21:00 – 4:59
+  let edition;
+  if (sltHour >= 5  && sltHour < 12) edition = 'Morning edition';
+  else if (sltHour >= 12 && sltHour < 17) edition = 'Afternoon edition';
+  else if (sltHour >= 17 && sltHour < 21) edition = 'Evening edition';
+  else                                     edition = 'Night edition';
+
+  const editionEl = document.getElementById('edition-text');
+  if (editionEl) {
+    // textContent — computed string only, safe
+    editionEl.textContent = edition + ' · 37 outlets · RSS aggregator';
+  }
+})();
 
 buildSourceDropdown();
 loadFeed();
