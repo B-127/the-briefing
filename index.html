@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="The Briefing — news from every perspective, aggregated from 37 RSS sources.">
+  <meta name="description" content="The Red Box — news from every perspective, aggregated from 37 RSS sources.">
+
+  <!--
+    base href tells the browser that all relative paths resolve from
+    /the-briefing/ — this is the single fix for GitHub Pages subdirectory hosting.
+    Change "the-briefing" if your repo is named differently.
+  -->
   <base href="/the-briefing/">
 
   <meta http-equiv="Content-Security-Policy"
@@ -25,7 +31,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,300;1,8..60,400;1,8..60,600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/app.css">
 
-  <title>The Briefing</title>
+  <title>The Red Box</title>
 </head>
 <body>
 
@@ -33,7 +39,7 @@
   <header class="masthead">
     <div class="masthead-inner">
       <div class="masthead-left">
-        <div class="pub-name">The Briefing</div>
+        <div class="pub-name">The Red Box</div>
         <div class="pub-tagline">News from every perspective</div>
       </div>
       <div class="masthead-right">
@@ -74,8 +80,6 @@
   <!-- ── TOOLBAR ── -->
   <div class="toolbar" role="search">
     <div class="toolbar-inner">
-
-      <!-- Search -->
       <label class="search-label" for="search-input">Search</label>
       <input
         class="search-box"
@@ -87,10 +91,7 @@
         maxlength="200"
         aria-label="Search headlines and sources"
       >
-
       <div class="toolbar-divider" role="separator"></div>
-
-      <!-- Lean buttons -->
       <span class="lean-label" id="lean-label">Lean</span>
       <div role="group" aria-labelledby="lean-label">
         <button class="lean-btn all active" data-lean="all" type="button">All</button>
@@ -98,19 +99,12 @@
         <button class="lean-btn ct"         data-lean="ct"  type="button">Centre</button>
         <button class="lean-btn lr"         data-lean="lr"  type="button">Right</button>
       </div>
-
       <div class="toolbar-divider" role="separator"></div>
 
-      <!-- Source dropdown -->
+      <!-- Source dropdown — options built by app.js, never from feed data -->
       <label class="search-label" for="source-select">Source</label>
       <div class="source-wrap">
-        <select
-          id="source-select"
-          class="source-select"
-          aria-label="Filter by source"
-        >
-          <!-- Options built by app.js — never from user input or feed data -->
-        </select>
+        <select id="source-select" class="source-select" aria-label="Filter by source"></select>
       </div>
 
       <div class="toolbar-spacer"></div>
@@ -138,7 +132,7 @@
   <!-- ── FOOTER ── -->
   <footer class="footer">
     <div class="footer-inner">
-      <div class="footer-name">The Briefing</div>
+      <div class="footer-name">The Red Box</div>
       <nav class="footer-links" aria-label="Footer links">
         <a class="footer-link"
            href="https://github.com/johndoe/the-briefing"
