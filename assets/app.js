@@ -1,5 +1,5 @@
 /**
- * app.js  —  The Brief front-end
+ * app.js  —  The Briefing front-end
  *
  * feed.json now contains `clusters` instead of `items`.
  * Each cluster has:
@@ -536,7 +536,7 @@ async function loadFeed() {
 
     ALL_CLUSTERS = data.clusters.filter(c => {
       if (isValidCluster(c)) return true;
-      console.warn('[The Brief] Dropped invalid cluster', c);
+      console.warn('[The Briefing] Dropped invalid cluster', c);
       return false;
     });
 
