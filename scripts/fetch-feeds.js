@@ -308,6 +308,25 @@ function makeItem(title, deck, link, pub, source, cat) {
   return { title, deck, link, pub, src: source.abbr, srcFull: source.name, lean: source.lean, cat };
 }
 
+// ── Pre-clustering deduplication ─────────────────────────────────────────────
+/**
+ * Before clustering, remove duplicate articles from the same source.
+ * A single source (e.g. NBC) publishes to multiple feeds (politics, world, health).
+ * The same article appears in each — same title, same source abbr, different cat.
+ * We keep only the newest version per (src, normalised-title) pair so each source
+ * contributes at most one version of each story to the clustering step.
+ */
+function preDeduplicateBySrcAndTitle(items) {
+  const seen = new Map(); // key: "src::normalisedTitle" → best item so far
+  for (const item of items) {
+    const key = item.src + '::' + normaliseTitle(item.title);
+    if (!seen.has(key) || item.pub > seen.get(key).pub) {
+      seen.set(key, item);
+    }
+  }
+  return [...seen.values()];
+}
+
 // ── Story clustering ──────────────────────────────────────────────────────────
 
 /**
@@ -531,8 +550,11 @@ async function main() {
     results.forEach(items => allItems.push(...items));
   }
 
-  console.log(`\n  Clustering ${allItems.length} raw articles…`);
-  const clusters = clusterArticles(allItems);
+  // Pre-dedup: one version per (source, title) before clustering
+  const preClustered = preDeduplicateBySrcAndTitle(allItems);
+  console.log(`\n  Pre-dedup: ${allItems.length} raw -> ${preClustered.length} unique per-source`);
+  console.log(`  Clustering ${preClustered.length} articles…`);
+  const clusters = clusterArticles(preClustered);
 
   // Validate clusters before write
   const validated = clusters.filter(c => {
