@@ -167,7 +167,7 @@ body  {
 
 .feed-item {
   display: grid;
-  grid-template-columns: 56px 1fr 90px;
+  grid-template-columns: 56px 1fr auto;
   gap: 0 18px;
   padding: 14px 0;
   border-bottom: 1px solid var(--rule-lt);
@@ -311,7 +311,7 @@ body  {
 /* Single-source: inherits old feed-item styles, inner <a> fills the grid */
 .cluster-row { animation: fadeUp .35s ease both; }
 .cluster-single {
-  display: grid; grid-template-columns: 56px 1fr 90px; gap: 0 18px;
+  display: grid; grid-template-columns: 56px 1fr auto; gap: 0 18px;
   padding: 14px 0; text-decoration: none; color: inherit; cursor: pointer;
   transition: background .1s;
 }
@@ -368,7 +368,7 @@ body  {
 
 /* Individual version rows inside the panel */
 .version-row {
-  display: grid; grid-template-columns: 64px 1fr 56px;
+  display: grid; grid-template-columns: 64px 1fr auto;
   gap: 0 12px; padding: 9px 0;
   text-decoration: none; color: inherit;
   border-bottom: 1px solid var(--rule-lt);
