@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * fetch-feeds.js  —  The Red Box RSS aggregator
+ * fetch-feeds.js  —  The Briefing RSS aggregator
  *
  * Story clustering replaces simple deduplication:
  *   - Articles with similar titles are grouped into a single cluster
@@ -508,7 +508,7 @@ async function fetchOneFeed(source, feed, allowlist) {
 }
 
 async function main() {
-  console.log(`\n📡 The Red Box — RSS fetch started at ${new Date().toISOString()}\n`);
+  console.log(`\n📡 The Briefing — RSS fetch started at ${new Date().toISOString()}\n`);
 
   let sources;
   try { sources = loadAndValidateSources(); }
