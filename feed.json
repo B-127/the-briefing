@@ -1,19 +1,793 @@
 {
-  "generated": "2026-08-02T09:34:31.361Z",
+  "generated": "2026-08-02T11:13:01.522Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-      "pub": 1785663060000,
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "pub": 1785669120000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "deck": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "pub": 1785669120000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        },
+        {
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-says-cancelling-strikes-iran-021918188.html",
+          "pub": 1785664254000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "pub": 1785668756000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+          "deck": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.",
+          "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+          "pub": 1785668756000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How Mamdani’s dangerous rhetoric is reshaping New York City",
+      "pub": 1785668700000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Mamdani’s dangerous rhetoric is reshaping New York City",
+          "deck": "On a Thursday afternoon, as Jews across the world sat on low stools and read the Book of Lamentations to mark Tisha B’Av — the fast day that mourns the destruction of the First and Second Temples and the long catalog of catastrophes that have befallen the Jewish people ever since — a man stabbed […]",
+          "link": "https://www.washingtonexaminer.com/premium/4668717/mamdani-dangerous-rhetoric-shaping-new-york-city/",
+          "pub": 1785668700000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Why is the rate of premature births so high in this community?",
+      "pub": 1785668627000,
+      "lean": "ll",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why is the rate of premature births so high in this community?",
+          "deck": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely.",
+          "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+          "pub": 1785668627000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Christopher Nolan Stared Into Elon Musk’s Soul",
+      "pub": 1785668539000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Christopher Nolan Stared Into Elon Musk’s Soul",
+          "deck": "Then he turned toward Stephen Miller.",
+          "link": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+          "pub": 1785668539000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Why Trump Quietly Carved Out Doctors From His Own Visa Freeze",
+      "pub": 1785668421000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Trump Quietly Carved Out Doctors From His Own Visa Freeze",
+          "deck": "By lifting the hold on foreign physicians, the Trump administration tacitly admitted its broad immigration restrictions aren't working.",
+          "link": "https://reason.com/2026/08/02/trump-blinks-on-doctor-visas/",
+          "pub": 1785668421000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "World War Two-and-a-Half Is Breaking Out",
+      "pub": 1785668418000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "World War Two-and-a-Half Is Breaking Out",
+          "deck": "Whatever is happening in Iran, it isn’t working.",
+          "link": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+          "pub": 1785668418000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Today in Supreme Court History: August 2, 1923",
+      "pub": 1785668418000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Today in Supreme Court History: August 2, 1923",
+          "deck": "8/2/1923: President Calvin Coolidge's Inauguration.",
+          "link": "https://reason.com/volokh/2026/08/02/today-in-supreme-court-history-august-2-1923-11/",
+          "pub": 1785668418000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "What's behind the $4B cut in federal funding for California's high-speed rail?",
+      "pub": 1785668412000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What's behind the $4B cut in federal funding for California's high-speed rail?",
+          "deck": "Records reveal California twice missed deadlines to buy the trains at the center of a federal funding fight — then quietly dropped its lawsuit weeks after missing its new deadline.",
+          "link": "https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/",
+          "pub": 1785668412000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jared Leto and Hollywood’s Open Secrets",
+      "pub": 1785668411000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jared Leto and Hollywood’s Open Secrets",
+          "deck": "Whispers can fester for years before anyone faces consequences.",
+          "link": "https://www.nytimes.com/2026/08/02/opinion/jared-leto-hollywood-secrets-abuse-metoo.html",
+          "pub": 1785668411000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Baseball Is Weird, Illogical, Asymmetrical. Robot Umps Do Not Belong.",
+      "pub": 1785668405000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Baseball Is Weird, Illogical, Asymmetrical. Robot Umps Do Not Belong.",
+          "deck": "Can we have one small square of America that is A.",
+          "link": "https://www.nytimes.com/2026/08/02/opinion/baseball-robot-umpires-ai.html",
+          "pub": 1785668405000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Talking Shop (and travel essentials) with Brian Kelly, a.k.a. The Points Guy",
+      "pub": 1785668400000,
+      "lean": "ll",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Talking Shop (and travel essentials) with Brian Kelly, a.k.a. The Points Guy",
+          "deck": "The Points Guy Brian Kelly is the top travel expert.",
+          "link": "https://www.nbcnews.com/select/shopping/brian-kelly-the-points-guy-travel-essentials-rcna590263",
+          "pub": 1785668400000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "REI has a secret outlet with up to 70% off summer outdoor gear",
+      "pub": 1785668400000,
+      "lean": "ll",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "REI has a secret outlet with up to 70% off summer outdoor gear",
+          "deck": "REI is offering up to 70% off shorts, trail sandals, backpacks and more while summer is still in full swing.",
+          "link": "https://www.nbcnews.com/select/shopping/rei-outlet-summer-sale-rcna590331",
+          "pub": 1785668400000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The nation needs a pandemic inquiry. Not a diary investigation.",
+      "pub": 1785668400000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The nation needs a pandemic inquiry. Not a diary investigation.",
+          "deck": "Releasing Fauci’s personal notes fuels grudge match instead of reform.",
+          "link": "https://www.washingtonpost.com/opinions/2026/08/02/fauci-diary-release-keeps-washington-trapped-covid-blame-game/",
+          "pub": 1785668400000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Vivian Tu says Americans feel 'really crazy' about the economy being strong while necessities slip out of reach",
+      "pub": 1785668400000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-          "deck": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
+          "title": "Vivian Tu says Americans feel 'really crazy' about the economy being strong while necessities slip out of reach",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/vivian-tu-says-americans-feel-110000797.html",
+          "pub": 1785668400000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A Common Childhood Diet May Hurt Memory Long After You Stop",
+      "pub": 1785668400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Common Childhood Diet May Hurt Memory Long After You Stop",
+          "deck": "\"I've said for a long time that the gut is the most overlooked thing in modern medicine,\" a biologist told Newsweek.",
+          "link": "https://www.newsweek.com/a-common-childhood-diet-may-hurt-memory-long-after-you-stop-12270464",
+          "pub": 1785668400000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "You Can’t Brainrot Your Way to Hope",
+      "pub": 1785668400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "You Can’t Brainrot Your Way to Hope",
+          "deck": "Absurdism is no answer to a search for meaning.",
+          "link": "https://thedispatch.com/newsletter/dispatch-faith/absurdism-social-media-shitposting/",
+          "pub": 1785668400000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Barr and Craig team up to bring hemp regulation bill to table with 100 days left until ban takes effect",
+      "pub": 1785668400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Barr and Craig team up to bring hemp regulation bill to table with 100 days left until ban takes effect",
+          "deck": "On Nov. 12, over 90% of current hemp products on the U.S. market will be deemed illegal and taken off commercial shelves unless Congress amends a 2025 ban on the products. The impending hemp ban is championed by drug safety advocates and alcohol councils alike, but dreaded by farmers, suppliers, and businesses of the hemp […]",
+          "link": "https://www.washingtonexaminer.com/news/house/4671780/barr-craig-hemp-ban-bill/",
+          "pub": 1785668400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What Darline Graham Nordone isn’t saying",
+      "pub": 1785668400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What Darline Graham Nordone isn’t saying",
+          "deck": "When Sen. Darline Graham Nordone (R-SC) released her first campaign ad, she thanked South Carolinians for their prayers, President Donald Trump for his endorsement, and then stated her positions on three issues. “I am a conservative Republican and I believe this,” she said, looking into the camera. “Every life is precious.” South Carolina is a […]",
+          "link": "https://www.washingtonexaminer.com/news/senate/4671348/what-darline-graham-isnt-saying-trans-women-in-sports-more-domestic-focused/",
+          "pub": 1785668400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fauci’s diary details how his relationship with Trump soured",
+      "pub": 1785668400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fauci’s diary details how his relationship with Trump soured",
+          "deck": "Dr. Anthony Fauci and President Donald Trump went from close collaborators during the early days of the COVID-19 pandemic response to political adversaries in one of the most consequential and public breakdowns of Trump’s first term. At the outset, Trump regularly praised Fauci, the nation’s top infectious disease expert, calling him “a terrific guy” and […]",
+          "link": "https://www.washingtonexaminer.com/news/white-house/4671370/fauci-diary-details-trump-relationship-soured/",
+          "pub": 1785668400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Less anonymity is not the solution to all society’s problems",
+      "pub": 1785668400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Less anonymity is not the solution to all society’s problems",
+          "deck": "Although unarticulated, there seems to be a growing consensus within certain circles that every societal problem, no matter how minor, could be solved if only the American people had less anonymity.",
+          "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4669922/less-anonymity-not-solution-societys-problems/",
+          "pub": 1785668400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "No, The Spanish Invaders Have Not All Just 'Gone Home'",
+      "pub": 1785668400000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "No, The Spanish Invaders Have Not All Just 'Gone Home'",
+          "deck": "No, The Spanish Invaders Have Not All Just 'Gone Home' Authored by Steve Watson via Modernity News, Spanish authorities and their leftist allies are pushing the line that the tens of thousands of migrants who stormed Ceuta have mostly \"gone home.",
+          "link": "https://www.zerohedge.com/geopolitical/no-spanish-invaders-have-not-all-just-gone-home",
+          "pub": 1785668400000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Runner on smashing Alps ultramarathon record by six days",
+      "pub": 1785668395000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Runner on smashing Alps ultramarathon record by six days",
+          "deck": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+          "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+          "pub": 1785668395000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
+      "pub": 1785668196000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
+          "deck": "A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.",
+          "link": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
+          "pub": 1785668196000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "pub": 1785668084000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+          "deck": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+          "pub": 1785668084000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Analysts Are Predicting a Huge Move in SpaceX Stock by Mid-2027",
+      "pub": 1785667800000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Wall Street Analysts Are Predicting a Huge Move in SpaceX Stock by Mid-2027",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-huge-105000118.html",
+          "pub": 1785667800000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Confirmed death toll from Ceuta crisis rises to 72",
+      "pub": 1785667700000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Confirmed death toll from Ceuta crisis rises to 72",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/confirmed-death-toll-ceuta-crisis-104820899.html",
+          "pub": 1785667700000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "pub": 1785667645000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": false,
+      "versions": [
+        {
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/five-dead-41-missing-indonesia-100223616.html",
+          "pub": 1785667645000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "deck": "The vessel with at least 250 people on board caught fire off Madura island.",
+          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785667607000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Home is where the grandparents are",
+      "pub": 1785667500000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Home is where the grandparents are",
+          "deck": "“Failure to launch” is a big concern among the parents of Gen Z, as this generation — its oldest members are pushing 30 — is much more likely to live at home.",
+          "link": "https://www.washingtonexaminer.com/premium/4665846/home-is-where-the-grandparents-are/",
+          "pub": 1785667500000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Multiple people killed in shooting at Idaho In-N-Out, suspect also dead",
+      "pub": 1785667089000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Multiple people killed in shooting at Idaho In-N-Out, suspect also dead",
+          "deck": "A shooting at an Idaho In-N-Out left multiple people dead, with authorities confirming the suspect also died.",
+          "link": "https://thehill.com/homenews/state-watch/6004064-in-n-out-burger-shooting-idaho/",
+          "pub": 1785667089000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg Says He's Betting Big on AI Compute Even as Meta's Free Cash Flow Craters. Here's What Investors Should Watch.",
+      "pub": 1785666900000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mark Zuckerberg Says He's Betting Big on AI Compute Even as Meta's Free Cash Flow Craters. Here's What Investors Should Watch.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-says-hes-betting-103500621.html",
+          "pub": 1785666900000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "1 Thing Every Investor Needs to Know About Buying the S&P 500 Right Now",
+      "pub": 1785666780000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "1 Thing Every Investor Needs to Know About Buying the S&P 500 Right Now",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/1-thing-every-investor-needs-103300961.html",
+          "pub": 1785666780000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+      "pub": 1785666748000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+          "deck": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785666748000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Rolling Stones Know How to Grow Old",
+      "pub": 1785666659000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Rolling Stones Know How to Grow Old",
+          "deck": "On Foreign Tongues, the band remains rooted in the blues — and intent on whatever comes next.",
+          "link": "https://www.nationalreview.com/2026/08/the-rolling-stones-know-how-to-grow-old/",
+          "pub": 1785666659000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "A Little Lemon Goes a Long Way",
+      "pub": 1785666645000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Little Lemon Goes a Long Way",
+          "deck": "Life has given us this special citrus.",
+          "link": "https://www.nationalreview.com/2026/08/a-little-lemon-goes-a-long-way/",
+          "pub": 1785666645000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "A Peek into the Fauci Diaries",
+      "pub": 1785666643000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Peek into the Fauci Diaries",
+          "deck": "Reading the doctor’s private notes is an eye-opening experience.",
+          "link": "https://www.nationalreview.com/2026/08/a-peek-into-the-fauci-diaries/",
+          "pub": 1785666643000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Another Media Freak-Out over Another Non-Scandal at CBS",
+      "pub": 1785666636000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Another Media Freak-Out over Another Non-Scandal at CBS",
+          "deck": "The loss of curiosity strikes again.",
+          "link": "https://www.nationalreview.com/2026/08/another-media-freak-out-over-another-non-scandal-at-cbs/",
+          "pub": 1785666636000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+      "pub": 1785666634000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+          "deck": "Anti-immigration campaigners were set to hold a rally in the Spanish territory to call for tougher action, after thousands of migrants entered the exclave last week.",
+          "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+          "pub": 1785666634000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Liberty and the Adventure of Life",
+      "pub": 1785666609000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Liberty and the Adventure of Life",
+          "deck": "The indirect journey toward meaningful objectives — the pursuit of happiness — drives the American story.",
+          "link": "https://www.nationalreview.com/2026/08/liberty-and-the-adventure-of-life/",
+          "pub": 1785666609000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The photographs that complicate America’s most enduring myth",
+      "pub": 1785666600000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The photographs that complicate America’s most enduring myth",
+          "deck": "From portrait studios to tintypes, Native photographers reveal a history rarely told this way.",
+          "link": "https://www.washingtonpost.com/opinions/interactive/2026/08/02/photographs-indigenous-life-that-shatter-americas-enduring-myths/",
+          "pub": 1785666600000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Americans Can’t Buy Chinese EVs. Waymo Is Importing Thousands",
+      "pub": 1785666600000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Americans Can’t Buy Chinese EVs. Waymo Is Importing Thousands",
+          "deck": "The U.S. has used tariffs and security rules to keep Chinese cars off dealer lots. Alphabet’s robotaxi company appears to be buying them by the boatload.",
+          "link": "https://www.forbes.com/sites/alanohnsman/2026/08/02/americans-cant-buy-chinese-evs-waymo-is-importing-thousands/",
+          "pub": 1785666600000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The house always wins — and it’s coming for yours",
+      "pub": 1785666600000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The house always wins — and it’s coming for yours",
+          "deck": "There was a time when you’d have to fly to Nevada, take a trip to a reservation, or deal with a criminal bookie if you wanted to wager on sports.",
+          "link": "https://www.washingtonexaminer.com/premium/4668895/legalized-gambling-ruining-sports-house-always-wins-affordability/",
+          "pub": 1785666600000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
+      "pub": 1785665915000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
+          "deck": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off on attacks after 'the perimeters of a deal has been agreed to.'",
           "link": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-          "pub": 1785663060000,
+          "pub": 1785665915000,
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
@@ -21,10 +795,298 @@
       ]
     },
     {
+      "title": "It’s OK to be nostalgic about Woody Allen’s ‘Midnight in Paris’",
+      "pub": 1785665700000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "It’s OK to be nostalgic about Woody Allen’s ‘Midnight in Paris’",
+          "deck": "Nostalgia, the old joke goes, ain’t what it used to be.",
+          "link": "https://www.washingtonexaminer.com/premium/4664723/woody-allen-midnight-in-paris-great-but-wrong/",
+          "pub": 1785665700000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "pub": 1785665486000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+          "deck": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+          "pub": 1785665486000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Map Shows Spokane Wildfires as Washington Declares State of Emergency",
+      "pub": 1785665302000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Map Shows Spokane Wildfires as Washington Declares State of Emergency",
+          "deck": "Spokane wildfires have forced evacuations and a statewide emergency has been declared in Washington.",
+          "link": "https://www.newsweek.com/map-shows-spokane-wildfires-washington-declares-state-emergency-12274716",
+          "pub": 1785665302000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Keeping calm and carrying on in Afghanistan",
+      "pub": 1785665100000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Keeping calm and carrying on in Afghanistan",
+          "deck": "One of the Army values is respect.",
+          "link": "https://www.washingtonexaminer.com/premium/4664772/life-in-uniform-helping-hand-for-panic-stricken/",
+          "pub": 1785665100000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Archives: August/September 2026",
+      "pub": 1785664858000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Archives: August/September 2026",
+          "deck": "Excerpts from Reason's vaults",
+          "link": "https://reason.com/2026/08/02/archives-august-september-2026/",
+          "pub": 1785664858000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "A democratic socialist in the White House? Activists are thinking big.",
+      "pub": 1785664801000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A democratic socialist in the White House? Activists are thinking big.",
+          "deck": "The Democratic Socialists of America summit was abuzz about whether to endorse a presidential candidate, potentially Alexandria Ocasio-Cortez.",
+          "link": "https://www.washingtonpost.com/politics/2026/08/02/democratic-socialists-are-already-eyeing-2028-with-aoc-mind/",
+          "pub": 1785664801000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump slashes Medicare drug subsidies, cutting against affordability message",
+      "pub": 1785664800000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump slashes Medicare drug subsidies, cutting against affordability message",
+          "deck": "The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's message of cutting drug costs.",
+          "link": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
+          "pub": 1785664800000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "​A tale of 2 Sullivans: Alaska voters see double on Senate primary ballot",
+      "pub": 1785664800000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "​A tale of 2 Sullivans: Alaska voters see double on Senate primary ballot",
+          "deck": "Sen. Dan Sullivan (R) is running for reelection in Alaska — and he faces a primary challenge from Dan Sullivan. Early voting kicks off in the state Monday after an Alaska judge ruled in June that a candidate with the same name and party affiliation as the incumbent Republican — whose full name is Dan S. Sullivan — can stay on the...",
+          "link": "https://thehill.com/homenews/campaign/5986910-alaska-senate-dan-sullivan-same-name/",
+          "pub": 1785664800000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "First round of August Social Security payments goes out in 10 days",
+      "pub": 1785664800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "First round of August Social Security payments goes out in 10 days",
+          "deck": "The first round of August Social Security payments for retirees, now capped at $5,181, will be issued in 10 days.",
+          "link": "https://www.washingtonexaminer.com/news/4649880/first-round-august-social-security-payments-10-days/",
+          "pub": 1785664800000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Electricity: The big guys get a deal — you get the bill",
+      "pub": 1785664800000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Electricity: The big guys get a deal — you get the bill",
+          "deck": "When a large industrial plant wants electricity, it often does not pay the same price a household pays.",
+          "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4669880/electricity-big-guys-get-a-deal-you-get-the-bill/",
+          "pub": 1785664800000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Education Department’s Title VI rule makes students safer",
+      "pub": 1785664800000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Education Department’s Title VI rule makes students safer",
+          "deck": "When teachers are asked what wears them down most, they say it’s not worrying over their paycheck, but the behavior of students.",
+          "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4671131/education-department-title-vi-rule-students-safe/",
+          "pub": 1785664800000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "pub": 1785664563000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+          "deck": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.",
+          "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+          "pub": 1785664563000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "‘Yesteryear’ is a cartoonish, simplistic look at tradwife movement",
+      "pub": 1785663900000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Yesteryear’ is a cartoonish, simplistic look at tradwife movement",
+          "deck": "Imagine if a 2026 tradwife fell back into the 1850s: Would it be the life she always wanted, or is her nostalgic cosplay from a world that never existed?",
+          "link": "https://www.washingtonexaminer.com/premium/4666194/books-understand-tradwives-before-satirizing-them-mystery/",
+          "pub": 1785663900000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "England beaten by Australia to netball bronze",
+      "pub": 1785663705000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "England beaten by Australia to netball bronze",
+          "deck": "England's netballers are outclassed 68-50 by Australia in their quest to win bronze at the Commonwealth Games.",
+          "link": "https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785663705000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iranian revolution can happen ‘any day now’ as protest leaders try to arm: sources",
+      "pub": 1785663670000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iranian revolution can happen ‘any day now’ as protest leaders try to arm: sources",
+          "deck": "The streets of Iran are near a breaking point over public executions, economic collapse and a war with no end in sight, anti-regime figures based in Tehran told The Post.",
+          "link": "https://nypost.com/2026/08/02/world-news/iranian-revolution-can-happen-any-day-now-as-protest-leaders-try-to-arm-sources/",
+          "pub": 1785663670000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Idaho In-N-Out worker was shot dead by ‘disgusting human who doesn’t value lives of others or his own,’ chain owner says",
+      "pub": 1785663367000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Idaho In-N-Out worker was shot dead by ‘disgusting human who doesn’t value lives of others or his own,’ chain owner says",
+          "deck": "\"My heart is broken, my chest is heavy, my eyes burn from the tears I've shed,\" Snyder wrote in a statement.",
+          "link": "https://nypost.com/2026/08/02/us-news/idaho-in-n-out-worker-was-shot-dead-by-disgusting-human-who-doesnt-value-lives-of-others-or-his-own-chain-owner-lynsi-snyder-says/",
+          "pub": 1785663367000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "What ‘The Beverly Hillbillies’ can teach us about banking",
       "pub": 1785663000000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -39,10 +1101,28 @@
       ]
     },
     {
+      "title": "MK Sharren Haskel testifies at Lahav 433 in connection with comptroller election scandal",
+      "pub": 1785662709000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "MK Sharren Haskel testifies at Lahav 433 in connection with comptroller election scandal",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/mk-sharren-haskel-testifies-lahav-092509038.html",
+          "pub": 1785662709000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "‘Hotel Exile’ offers wartime Paris in a microcosm",
       "pub": 1785662100000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -57,92 +1137,20 @@
       ]
     },
     {
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "pub": 1785661851000,
+      "title": "Teenager dies at Kendal Calling festival",
+      "pub": 1785661642000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-          "deck": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "pub": 1785661851000,
+          "title": "Teenager dies at Kendal Calling festival",
+          "deck": "Cumbria Police says the 17-year-old girl suffered a medical episode.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9dz3xvz1wo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785661642000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "What is a \"rate check\" in foreign exchange?",
-      "pub": 1785661751000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "What is a \"rate check\" in foreign exchange?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/rate-check-foreign-exchange-090911245.html",
-          "pub": 1785661751000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Columbia council plans votes on fees, utility rates at regular meeting",
-      "pub": 1785661565000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Columbia council plans votes on fees, utility rates at regular meeting",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/columbia-council-plans-votes-fees-090605741.html",
-          "pub": 1785661565000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive: NASA's new KSC chief tackles Artemis deadlines, aging infrastructure",
-      "pub": 1785661522000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Exclusive: NASA's new KSC chief tackles Artemis deadlines, aging infrastructure",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/exclusive-nasas-ksc-chief-tackles-090522366.html",
-          "pub": 1785661522000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Billionaire Steve Cohen Is Buying This Overlooked Stock While Dumping Big Tech",
-      "pub": 1785661440000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Billionaire Steve Cohen Is Buying This Overlooked Stock While Dumping Big Tech",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-steve-cohen-buying-overlooked-090400208.html",
-          "pub": 1785661440000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -158,24 +1166,6 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/world/articles/death-toll-flash-flood-china-090316297.html",
           "pub": 1785661396000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Diverse Backgrounds Produce Partners Carving A Business Out Of Stone",
-      "pub": 1785661370000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Diverse Backgrounds Produce Partners Carving A Business Out Of Stone",
-          "deck": "",
-          "link": "https://www.yahoo.com/lifestyle/articles/diverse-backgrounds-produce-partners-carving-090250837.html",
-          "pub": 1785661370000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -266,24 +1256,6 @@
           "deck": "The law firm Paul Weiss led the legal resistance against President Trump.",
           "link": "https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html",
           "pub": 1785661265000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
-      "pub": 1785661258000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
-          "deck": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.",
-          "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
-          "pub": 1785661258000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -525,16 +1497,16 @@
       ]
     },
     {
-      "title": "‘250 Great American Things’: A playful, patriotic celebration",
+      "title": "Pass the Lindsey Graham Act",
       "pub": 1785661200000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
-          "title": "‘250 Great American Things’: A playful, patriotic celebration",
-          "deck": "What if, in celebration of America’s 250th birthday, we eschewed UFC fights on the White House lawn and Grand Prix races around the streets of Washington, D.",
-          "link": "https://www.washingtonexaminer.com/premium/4666985/books-more-than-a-few-of-our-favorite-things-list-county-highway-volume/",
+          "title": "Pass the Lindsey Graham Act",
+          "deck": "The late Sen.",
+          "link": "https://www.washingtonexaminer.com/opinion/editorials/4671065/pass-lindsey-graham-sanctioning-russia-act/",
           "pub": 1785661200000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -546,31 +1518,13 @@
       "title": "What the father of America’s youngest hostage killed in Oct. 7 wants for Israel for his son’s legacy",
       "pub": 1785661200000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
           "title": "What the father of America’s youngest hostage killed in Oct. 7 wants for Israel for his son’s legacy",
           "deck": "“What is the bigger meaning?",
           "link": "https://www.washingtonexaminer.com/policy/foreign-policy/4668039/father-israel-hostage-killed-normalization-saudi-abraham-accords/",
-          "pub": 1785661200000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Pass the Lindsey Graham Act",
-      "pub": 1785661200000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pass the Lindsey Graham Act",
-          "deck": "The late Sen.",
-          "link": "https://www.washingtonexaminer.com/opinion/editorials/4671065/pass-lindsey-graham-sanctioning-russia-act/",
           "pub": 1785661200000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -777,24 +1731,6 @@
       ]
     },
     {
-      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
-      "pub": 1785656905000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/iran-threatens-strike-other-nations-223317203.html",
-          "pub": 1785656905000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Trump Calls Off Iran Strikes, Demands Strait of Hormuz Reopened",
       "pub": 1785656539000,
       "lean": "ct",
@@ -839,7 +1775,7 @@
       "versions": [
         {
           "title": "Idaho Shooting: Man Exchanged Fire With In-N-Out Gunman, Witness Says",
-          "deck": "A witness said an armed bystander exchanged gunfire with the suspect during the deadly Idaho In-N-Out shooting.",
+          "deck": "Three people were killed and at least seven others were injured in the shooting in Twin Falls.",
           "link": "https://www.newsweek.com/idaho-shooting-man-exchanged-fire-with-in-n-out-gunman-witness-says-12274685",
           "pub": 1785655944000,
           "src": "NWWK",
@@ -868,7 +1804,7 @@
     },
     {
       "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "pub": 1785655801000,
+      "pub": 1785655802000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -877,7 +1813,7 @@
           "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
           "deck": "Europe sheltered many refugees in 2015.",
           "link": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-          "pub": 1785655801000,
+          "pub": 1785655802000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -939,42 +1875,6 @@
       ]
     },
     {
-      "title": "Baseless claims of new Indonesian mobile phone levy spread online",
-      "pub": 1785654345000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Baseless claims of new Indonesian mobile phone levy spread online",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/baseless-claims-indonesian-mobile-phone-070545561.html",
-          "pub": 1785654345000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Two killed in Ukrainian drone attack in Russia's Engels",
-      "pub": 1785654204000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Two killed in Ukrainian drone attack in Russia's Engels",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/two-killed-ukrainian-drone-attack-070324027.html",
-          "pub": 1785654204000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Solar Eclipse Glasses: Where To Buy Them And How To Check They’re Safe",
       "pub": 1785654180000,
       "lean": "ct",
@@ -989,24 +1889,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
-      "pub": 1785654160000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
-          "deck": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.",
-          "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-          "pub": 1785654160000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -1061,24 +1943,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trust, grief and betrayal: Inside the Legacy funeral case",
-      "pub": 1785653752000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trust, grief and betrayal: Inside the Legacy funeral case",
-          "deck": "From a police tip-off to sentencing, a correspondent reflects on covering an unprecedented case.",
-          "link": "https://www.bbc.co.uk/news/articles/ce3456dw32no?at_medium=RSS&at_campaign=rss",
-          "pub": 1785653752000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -1392,7 +2256,7 @@
       "title": "This Is What My Father’s Assassination Taught Me About the War in Iran",
       "pub": 1785649305000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1403,24 +2267,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "pub": 1785649242000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-          "deck": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-          "pub": 1785649242000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -1443,24 +2289,6 @@
       ]
     },
     {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "pub": 1785648399000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-          "deck": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "pub": 1785648399000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
       "pub": 1785647901000,
       "lean": "ll",
@@ -1474,6 +2302,24 @@
           "pub": 1785647901000,
           "src": "CNBC",
           "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalanche",
+      "pub": 1785647563000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalanche",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/world-renowned-mountaineer-nirmal-purja-124604923.html",
+          "pub": 1785647563000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1516,16 +2362,16 @@
     },
     {
       "title": "The ‘Civil War’ Is a Lie. Let’s Call It the ‘Slaveholders’ Rebellion’ Again.",
-      "pub": 1785646804000,
+      "pub": 1785646805000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
           "title": "The ‘Civil War’ Is a Lie. Let’s Call It the ‘Slaveholders’ Rebellion’ Again.",
           "deck": "To face our own history, we must be honest about it.",
           "link": "https://www.nytimes.com/2026/08/02/opinion/civil-war-slaveholders-rebellion-slavery.html",
-          "pub": 1785646804000,
+          "pub": 1785646805000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -1551,24 +2397,6 @@
       ]
     },
     {
-      "title": "Arvell Reese’s overlooked coverage skills could fill huge Giants need",
-      "pub": 1785646693000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Arvell Reese’s overlooked coverage skills could fill huge Giants need",
-          "deck": "All the draft hype surrounding Arvell Reese centered around his potential as a pass-rusher.",
-          "link": "https://nypost.com/2026/08/02/sports/arvell-reeses-overlooked-coverage-skills-could-fill-huge-giants-need/",
-          "pub": 1785646693000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Parents save on school uniforms at city swap shop",
       "pub": 1785646423000,
       "lean": "ct",
@@ -1583,24 +2411,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Jets’ Harrison Phillips echoes cries for stadiums to use real grass after World Cup change",
-      "pub": 1785646333000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jets’ Harrison Phillips echoes cries for stadiums to use real grass after World Cup change",
-          "deck": "Like many NFL players, Jets veteran defensive tackle Harrison Phillips noticed the grass field being used at MetLife Stadium for the World Cup.",
-          "link": "https://nypost.com/2026/08/02/sports/jets-harrison-phillips-echoes-cries-for-stadiums-to-use-real-grass-after-world-cup-change/",
-          "pub": 1785646333000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1634,42 +2444,6 @@
           "deck": "The list of 34 candidates standing in the Clacton by-election is nearly a metre long.",
           "link": "https://www.bbc.co.uk/news/articles/clyem5lg78qo?at_medium=RSS&at_campaign=rss",
           "pub": 1785646171000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
-      "pub": 1785646027000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
-          "deck": "A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.",
-          "link": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
-          "pub": 1785646027000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
-      "pub": 1785645363000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
-          "deck": "John Healey's vow to crackdown on grocery \"price gouging\" and the Fifa World Cup scandal dominate Sunday's front pages.",
-          "link": "https://www.bbc.co.uk/news/articles/crk5jd6r1rmo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785645363000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -1713,6 +2487,24 @@
       ]
     },
     {
+      "title": "The Allure and Peril of Riding an Alaskan Wave for Six Miles",
+      "pub": 1785643271000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Allure and Peril of Riding an Alaskan Wave for Six Miles",
+          "deck": "The tidal bore that rockets up the Turnagain Arm south of Anchorage can carry a surfer for an hour; it can also kill.",
+          "link": "https://www.nytimes.com/2026/08/02/us/bore-tide-surfing-alaska.html",
+          "pub": 1785643271000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Iran's leaders show a united front over the war but are divided over what the goal is",
       "pub": 1785643253000,
       "lean": "ll",
@@ -1727,24 +2519,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Rep. Max Miller to make ‘special announcement’ as scrutiny of candidacy grows",
-      "pub": 1785642408000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rep. Max Miller to make ‘special announcement’ as scrutiny of candidacy grows",
-          "deck": "Rep. Max Miller (R-OH) said on Saturday he will make a “special announcement” Sunday morning as pressure mounts for him to announce whether or not he will remain in his House race after the incumbent lawmaker’s past came under renewed scrutiny last week. Miller’s ex-wife Emily Moreno, the daughter of Sen. Bernie Moreno (D-OH), has […]",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4672064/max-miller-special-announcement/",
-          "pub": 1785642408000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -2073,6 +2847,24 @@
       ]
     },
     {
+      "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+      "pub": 1785634840000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/saudi-crown-prince-urges-trump-014040218.html",
+          "pub": 1785634840000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
       "pub": 1785634550000,
       "lean": "ll",
@@ -2140,24 +2932,6 @@
           "pub": 1785633614000,
           "src": "NYP",
           "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Three people killed and several injured in shooting at In-N-Out in Twin Falls, Idaho: Officials",
-      "pub": 1785633403000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Three people killed and several injured in shooting at In-N-Out in Twin Falls, Idaho: Officials",
-          "deck": "Three people were killed and seven more were injured on Saturday afternoon in a shooting in Twin Falls, Idaho, near an In-N-Out restaurant, according to local authorities.",
-          "link": "https://www.washingtonexaminer.com/news/crime/4672056/people-killed-shooting-in-n-out-twin-falls-idaho/",
-          "pub": 1785633403000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
           "lean": "lr"
         }
       ]
@@ -2235,24 +3009,6 @@
       ]
     },
     {
-      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
-      "pub": 1785632116000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
-          "deck": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785632116000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Japan’s Rescuers Battle Cruel Heat After Major Earthquake",
       "pub": 1785632073000,
       "lean": "ll",
@@ -2307,26 +3063,8 @@
       ]
     },
     {
-      "title": "Democratic socialist headed for $142K legislature salary begs for rent handout, deletes post after backlash",
-      "pub": 1785631769000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democratic socialist headed for $142K legislature salary begs for rent handout, deletes post after backlash",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/democratic-socialist-headed-142k-legislature-004929083.html",
-          "pub": 1785631769000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
-      "pub": 1785631767000,
+      "pub": 1785631768000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -2335,7 +3073,7 @@
           "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
           "deck": "Jeanine Pirro, the U.",
           "link": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
-          "pub": 1785631767000,
+          "pub": 1785631768000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -2454,7 +3192,7 @@
       "title": "Tourist plane crashes in Peru, killing 13",
       "pub": 1785630595000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -2501,24 +3239,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Evacuations ordered in Washington state as wildfire spreads through Spokane County",
-      "pub": 1785629228000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Evacuations ordered in Washington state as wildfire spreads through Spokane County",
-          "deck": "Gov. Bob Ferguson (D-WA) declared a state of emergency on Saturday as “unusually high temperatures and high winds” exacerbated record-setting wildfires and prompted evacuations throughout Spokane County and surrounding areas. “More than 200,000 acres are burning in 12 large fires” across eastern Washington, the announcement said, as the state “is in the midst of a […]",
-          "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4672053/evacuations-washington-state-wildfire-spreads-spokane-county/",
-          "pub": 1785629228000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -2694,14 +3414,14 @@
       ]
     },
     {
-      "title": "Love Island has a problem, say fans: 'There hasn't been much love'",
+      "title": "Love Island has a problem, say fans - 'there hasn't been much love'",
       "pub": 1785628008000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Love Island has a problem, say fans: 'There hasn't been much love'",
+          "title": "Love Island has a problem, say fans - 'there hasn't been much love'",
           "deck": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
           "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
           "pub": 1785628008000,
@@ -2910,6 +3630,33 @@
       ]
     },
     {
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "pub": 1785626540000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": false,
+      "versions": [
+        {
+          "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/trump-says-ll-revive-anti-232220276.html",
+          "pub": 1785626540000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+          "deck": "Trump threatened to “push hard” to keep a $1.",
+          "link": "https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370",
+          "pub": 1785603274000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "The Bengals Player to Keep Your Eye on in Training Camp",
       "pub": 1785626461000,
       "lean": "ct",
@@ -3099,6 +3846,24 @@
       ]
     },
     {
+      "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+      "pub": 1785625415000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+          "deck": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+          "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+          "pub": 1785625415000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
       "pub": 1785625395000,
       "lean": "ct",
@@ -3174,7 +3939,7 @@
       "title": "The Sopranos star Vincent Pastore dies aged 80",
       "pub": 1785625075000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3189,55 +3954,19 @@
       ]
     },
     {
-      "title": "Multiple people killed in shooting at Idaho In-N-Out, suspect also dead",
+      "title": "In-N-Out confirms worker died in shooting that left multiple dead in Idaho",
       "pub": 1785624788000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Multiple people killed in shooting at Idaho In-N-Out, suspect also dead",
+          "title": "In-N-Out confirms worker died in shooting that left multiple dead in Idaho",
           "deck": "The shooting suspect has died, and police continue interviewing witnesses.",
           "link": "https://www.newsnationnow.com/crime/shooting-in-n-out-burger-twin-falls-idaho/",
           "pub": 1785624788000,
           "src": "NWSN",
           "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
-      "pub": 1785624591000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
-          "deck": "President Trump vowed to restore the Reflecting Pool, a defining feature of Washington.",
-          "link": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html",
-          "pub": 1785624591000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-      "pub": 1785624098000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-          "deck": "There were no pacers and no wave lights.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785624098000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -3459,24 +4188,6 @@
       ]
     },
     {
-      "title": "State Department issues warning to Americans in the Middle East",
-      "pub": 1785622682000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "State Department issues warning to Americans in the Middle East",
-          "deck": "The State Department released a security alert Saturday morning advising Americans in the Middle East to “exercise caution and heightened vigilance” amid reports the United States might launch escalatory strikes at Iranian energy infrastructure over the weekend.",
-          "link": "https://www.washingtonexaminer.com/news/world/4672047/state-department-warning-americans-middle-east/",
-          "pub": 1785622682000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Federal Court Rules Against Rhode Island Town's Use of Eminent Domain for NIMBY Purposes",
       "pub": 1785622641000,
       "lean": "ct",
@@ -3506,24 +4217,6 @@
           "deck": "A new poll found Ocasio-Cortez's low favorability rating may complicate her emergence as a unifying figure within the party.",
           "link": "https://www.newsweek.com/aocs-low-favorability-complicates-democrats-push-for-change-poll-12274197",
           "pub": 1785622471000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Broncos to 'Explore' Veteran QB With Experience Under Sean Payton",
-      "pub": 1785622000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Broncos to 'Explore' Veteran QB With Experience Under Sean Payton",
-          "deck": "The Denver Broncos could add a veteran quarterback who has experience with Sean Payton during their time with the Saints.",
-          "link": "https://www.newsweek.com/sports/nfl/broncos-to-explore-veteran-qb-with-experience-under-sean-payton-12274269",
-          "pub": 1785622000000,
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
@@ -3639,24 +4332,6 @@
       ]
     },
     {
-      "title": "Massie Accuses GOP of Hypocrisy Over Ceuta Crisis",
-      "pub": 1785620442000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Massie Accuses GOP of Hypocrisy Over Ceuta Crisis",
-          "deck": "Massie says fellow Republicans condemning the Ceuta migrant surge backed language favorable to Morocco's claim on Ceuta.",
-          "link": "https://www.newsweek.com/massie-accuses-gop-of-hypocrisy-over-ceuta-crisis-12274450",
-          "pub": 1785620442000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "‘Spider-Man: Brand New Day’ Slings Record Brand Deals. The Brands On Screen Tell The Real Story.",
       "pub": 1785620100000,
       "lean": "ct",
@@ -3759,7 +4434,7 @@
       "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
       "pub": 1785619422000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3810,6 +4485,24 @@
       ]
     },
     {
+      "title": "Father of 10-year-old boy breaks silence after viral beach rescue: 'No way I could ever repay him'",
+      "pub": 1785618415000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Father of 10-year-old boy breaks silence after viral beach rescue: 'No way I could ever repay him'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/father-10-old-boy-breaks-210655649.html",
+          "pub": 1785618415000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Shittu 'robbed' - are AI boxing judges the answer?",
       "pub": 1785618312000,
       "lean": "ct",
@@ -3831,7 +4524,7 @@
       "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
       "pub": 1785618222000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4170,24 +4863,6 @@
       ]
     },
     {
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "pub": 1785614967000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-          "deck": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-          "pub": 1785614967000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67",
       "pub": 1785614934000,
       "lean": "ct",
@@ -4292,24 +4967,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "US General tells Pentagon he cannot defend Israel from Iranian missile attack: Report",
-      "pub": 1785614257000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "US General tells Pentagon he cannot defend Israel from Iranian missile attack: Report",
-          "deck": "A top U.S. general reportedly warned his superiors this week that Washington lacks sufficient military power to protect the United States’ allies in the Middle East. The U.S. has positioned naval destroyers in the eastern Mediterranean Sea to stabilize the Middle East and bolster Israel’s security for years, with the destroyers rising to particular use […]",
-          "link": "https://www.washingtonexaminer.com/policy/defense/4672016/us-general-pentagon-cannot-defend-israel/",
-          "pub": 1785614257000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -4472,6 +5129,24 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Assisted living center sent resident to doctor's appointment after giving him 18 shots, 5 am beer: officials",
+      "pub": 1785612105000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Assisted living center sent resident to doctor's appointment after giving him 18 shots, 5 am beer: officials",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/assisted-living-sent-resident-doctors-192145030.html",
+          "pub": 1785612105000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4674,24 +5349,6 @@
       ]
     },
     {
-      "title": "Maher knocks democratic socialists as communists: 'They’re not trying to hide it'",
-      "pub": 1785609880000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Maher knocks democratic socialists as communists: 'They’re not trying to hide it'",
-          "deck": "Political commentator Bill Maher attacked the rise of democratic socialism on his talk show, fretting how the movement has entered the Democratic party.",
-          "link": "https://thehill.com/homenews/campaign/6003816-maher-knocks-democratic-socialists-as-communists-theyre-not-trying-to-hide-it/",
-          "pub": 1785609880000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Medicare’s GLP-1 Bridge Program Offers Access, But Isn’t Straightforward",
       "pub": 1785609633000,
       "lean": "ct",
@@ -4705,24 +5362,6 @@
           "pub": 1785609633000,
           "src": "FORB",
           "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Root in 'very different place' over Test captaincy",
-      "pub": 1785609363000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Root in 'very different place' over Test captaincy",
-          "deck": "England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a \"very different place\" to when he stepped down from the role four years ago.",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785609363000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -4764,6 +5403,24 @@
       ]
     },
     {
+      "title": "Here’s when you’ll get your Social Security check in August",
+      "pub": 1785608483000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s when you’ll get your Social Security check in August",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/ll-social-security-check-august-182123508.html",
+          "pub": 1785608483000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "California farmers destroy perfect lettuce crops amid outbreak of explosive diarrhea parasite",
       "pub": 1785608335000,
       "lean": "lr",
@@ -4796,636 +5453,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "22 EU Leaders Demand \"Immediate Action\" As Migrant Invasion Raises Fear Of Hybrid Warfare",
-      "pub": 1785607800000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "22 EU Leaders Demand \"Immediate Action\" As Migrant Invasion Raises Fear Of Hybrid Warfare",
-          "deck": "22 EU Leaders Demand \"Immediate Action\" As Migrant Invasion Raises Fear Of Hybrid Warfare Summary: 22 EU Leaders Demand \"Immediate Action\" Italy Suspends Schengen Travel Agreement With Spain After Horrifying Ceuta Invasion Spain's Border Invasion Is An Optics Disaster For Open-Border Democrats Crazy Footage Shows Migrants Rampaging, Breaking Into Homes After Invading Spain 22 EU Leaders Demand \"Immediate Action\" To Spanish Enclaves of Ceuta and Melilla Invasion European leaders criticized Madrid",
-          "link": "https://www.zerohedge.com/geopolitical/crazy-footage-shows-migrants-rampaging-breaking-homes-after-invading-spain",
-          "pub": 1785607800000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?",
-      "pub": 1785607725000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?",
-          "deck": "UEFA said Saturday it had lost confidence in FIFA's leadership despite President Gianni Infantino's decision to abandon his plan to invite private investors into a new commercial venture tied to the World Cup.",
-          "link": "https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/",
-          "pub": 1785607725000,
-          "src": "TIME",
-          "srcFull": "TIME",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Republicans can win the House in 2026 through Puerto Rican voters",
-      "pub": 1785607200000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Republicans can win the House in 2026 through Puerto Rican voters",
-          "deck": "Republican leadership is urged to support Puerto Rican statehood to secure critical swing districts and maintain control of the House during the upcoming midterm elections.",
-          "link": "https://thehill.com/opinion/campaign/6002626-poll-shows-puerto-rican-gop-support/",
-          "pub": 1785607200000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump rips Pirro decision as DOJ looks to drop Reflecting Pool case: 'I don't agree'",
-      "pub": 1785607047000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump rips Pirro decision as DOJ looks to drop Reflecting Pool case: 'I don't agree'",
-          "deck": "President Trump called out U.",
-          "link": "https://thehill.com/homenews/administration/6003765-donald-trump-jeanine-pirro-doj-reflecting-pool-vandalism-case/",
-          "pub": 1785607047000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
-      "pub": 1785607017000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
-          "deck": "The crisis in Ceuta, on the African coast, instantly became a touchstone in the global migrant debate as suspicions swirled that the viral incident was orchestrated.",
-          "link": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
-          "pub": 1785607017000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "pub": 1785606706000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Italy putting nearly all major cities on highest heat alert",
-          "deck": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-          "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785606706000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Right Can’t Even Make a Revenge Movie Well",
-      "pub": 1785605485000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Right Can’t Even Make a Revenge Movie Well",
-          "deck": "‘Citizen Vigilante’ is a bargain-bin movie for the ages.",
-          "link": "https://www.nytimes.com/2026/08/01/opinion/citizen-vigilante-right-revenge-movie.html",
-          "pub": 1785605485000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Real Threat To Young Americans' Jobs Isn't AI. It's The National Debt...",
-      "pub": 1785605100000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Real Threat To Young Americans' Jobs Isn't AI. It's The National Debt...",
-          "deck": "The Real Threat To Young Americans' Jobs Isn't AI.",
-          "link": "https://www.zerohedge.com/personal-finance/real-threat-young-americans-jobs-isnt-ai-its-national-debt",
-          "pub": 1785605100000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Troy Jackson launches first general election ad in Maine Senate race",
-      "pub": 1785604650000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Troy Jackson launches first general election ad in Maine Senate race",
-          "deck": "Maine’s Democratic Senate nominee Troy Jackson is launching his first general election ad, highlighting his own background as a labor organizer and going after Republican Sen.",
-          "link": "https://www.nbcnews.com/politics/2028-election/troy-jackson-launches-general-election-ad-maine-senate-susan-collins-rcna590380",
-          "pub": 1785604650000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "‘Trump threw us all a curveball’: South Carolina Republicans are stewing about Lindsey Graham’s old Senate seat",
-      "pub": 1785604570000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Trump threw us all a curveball’: South Carolina Republicans are stewing about Lindsey Graham’s old Senate seat",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
-          "pub": 1785604570000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
-      "pub": 1785604336000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
-          "deck": "The Douglas DC-3 was mass-produced during World War II.",
-          "link": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
-          "pub": 1785604336000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The insane left and more: Letters to the Editor — Aug. 2, 2026",
-      "pub": 1785603807000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The insane left and more: Letters to the Editor — Aug. 2, 2026",
-          "deck": "NY Post readers discuss extremism on the left and more.",
-          "link": "https://nypost.com/2026/08/01/opinion/the-insane-left-and-more-letters/",
-          "pub": 1785603807000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Stephen Curry's deal with a Chinese company puts profit over conscience",
-      "pub": 1785603659000,
-      "lean": "ct",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Stephen Curry's deal with a Chinese company puts profit over conscience",
-          "deck": "He is lending his good name to a company shadowed by one of the great human rights scandals of our time.",
-          "link": "https://thehill.com/opinion/civil-rights/6002607-curry-china-endorsement-controversy/",
-          "pub": 1785603659000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Karen Bass banks huge fundraising lead heading into mayoral runoff",
-      "pub": 1785603312000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Karen Bass banks huge fundraising lead heading into mayoral runoff",
-          "deck": "This marks a comeback for Bass, who was outraised by ex-reality star Spencer Pratt in the primary’s final weeks.",
-          "link": "https://nypost.com/2026/08/01/us-news/karen-bass-banks-huge-fundraising-lead-heading-into-mayoral-runoff/",
-          "pub": 1785603312000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
-      "pub": 1785603274000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
-          "deck": "Trump threatened to “push hard” to keep a $1.",
-          "link": "https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370",
-          "pub": 1785603274000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Verizon Blames 'Human Error' For Burying A Jack Smith Subpoena From Congress",
-      "pub": 1785603000000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Verizon Blames 'Human Error' For Burying A Jack Smith Subpoena From Congress",
-          "deck": "Verizon Blames 'Human Error' For Burying A Jack Smith Subpoena From Congress Senate Judiciary Chairman Chuck Grassley (R-IA) and fifteen colleagues sent a letter to Verizon on Thursday demanding the telecom giant explain how a 2023 grand jury subpoena tied to Jack Smith's \"Arctic Frost\" investigation vanished from its own paperwork for more than two years - only to resurface after the company chalked the omission up to \"human error.",
-          "link": "https://www.zerohedge.com/political/verizon-blames-human-error-burying-jack-smith-subpoena-congress",
-          "pub": 1785603000000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "To Find Happiness, I Stopped Talking. It Helped.",
-      "pub": 1785602496000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "To Find Happiness, I Stopped Talking. It Helped.",
-          "deck": "A silent retreat turned out to be exactly what I needed.",
-          "link": "https://www.nytimes.com/2026/08/01/opinion/happiness-silent-retreat.html",
-          "pub": 1785602496000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
-      "pub": 1785601942000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
-          "deck": "A previously undisclosed subpoena, involving reporting on a failed SEAL Team 6 mission in North Korea, reflects the government’s expanding campaign to investigate leaks of secrets.",
-          "link": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
-          "pub": 1785601942000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Nicole ‘Snooki’ Polizzi reveals hysterectomy after cervical cancer diagnosis",
-      "pub": 1785601839000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Nicole ‘Snooki’ Polizzi reveals hysterectomy after cervical cancer diagnosis",
-          "deck": "An emotional Nicole “Snooki” Polizzi announced on Friday that she underwent a hysterectomy operation to treat Stage 1 cervical cancer, months after first disclosing her diagnosis.",
-          "link": "https://www.nbcnews.com/health/womens-health/nicole-snooki-polizzi-reveals-hysterectomy-rcna590374",
-          "pub": 1785601839000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "GOP hopeful predicts Dems’ lefty ‘crazy train’ will turn Michigan Senate seat red",
-      "pub": 1785601700000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "GOP hopeful predicts Dems’ lefty ‘crazy train’ will turn Michigan Senate seat red",
-          "deck": "Former Rep.",
-          "link": "https://nypost.com/2026/08/01/us-news/mike-rogers-predicts-dems-left-turn-will-turn-michigan-senate-seat-red/",
-          "pub": 1785601700000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Newt Gingrich details plan for senators to win big in November: Exploit ‘weird’ socialist values",
-      "pub": 1785601366000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Newt Gingrich details plan for senators to win big in November: Exploit ‘weird’ socialist values",
-          "deck": "Former House Speaker Newt Gingrich wants congressional Republicans to ride to victory in November by going full-bore at DSA, “Big Government Socialism” and “weird values.",
-          "link": "https://nypost.com/2026/08/01/us-news/gingrich-tells-senators-to-exploit-weird-socialist-values-to-win/",
-          "pub": 1785601366000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "pub": 1785600976000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-          "deck": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-          "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785600976000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Leftists Now Claim US And Israel Behind The Migrant Invasion Of Spain",
-      "pub": 1785600900000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Leftists Now Claim US And Israel Behind The Migrant Invasion Of Spain",
-          "deck": "Leftists Now Claim US And Israel Behind The Migrant Invasion Of Spain A clear pattern is emerging: When the political left or their favorite pet migrants wreak havoc and commit heinous crimes, the immediate canned response from the activist fold is to blame the \"right wing\" or blame those devious Israelis.",
-          "link": "https://www.zerohedge.com/political/leftists-now-claim-us-and-israel-behind-migrant-invasion-spain",
-          "pub": 1785600900000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Why Climateflation Will Drive Food Prices More Than War",
-      "pub": 1785600519000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Climateflation Will Drive Food Prices More Than War",
-          "deck": "Economists expect this summer's heatwaves to drive 2027 food prices more than the Iran war.",
-          "link": "https://www.forbes.com/sites/we-dont-have-time/2026/08/01/why-climateflation-will-drive-food-prices-more-than-war/",
-          "pub": 1785600519000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Migration Surge on the Spain-Morocco Border",
-      "pub": 1785600067000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Migration Surge on the Spain-Morocco Border",
-          "deck": "Our Madrid bureau chief, Jason Horowitz, visits the coastal town of Ceuta, a Spanish territory in North Africa where there has been an unprecedented influx of migrants crossing the border from Morocco.",
-          "link": "https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html",
-          "pub": 1785600067000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Elon Musk is right: Secure borders, safe cities and sensible spending aren't 'fringe'",
-      "pub": 1785600000000,
-      "lean": "ct",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Elon Musk is right: Secure borders, safe cities and sensible spending aren't 'fringe'",
-          "deck": "We live in highly polarized, siloed and dangerous times.",
-          "link": "https://thehill.com/opinion/campaign/6002825-musk-economist-interview-fringe/",
-          "pub": 1785600000000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "N.Y. Judge Rejects School's Request for \"Red Flag\" Order Against 13-Year-Old, Including No-Knock Search Warrant",
-      "pub": 1785599803000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "N.Y. Judge Rejects School's Request for \"Red Flag\" Order Against 13-Year-Old, Including No-Knock Search Warrant",
-          "deck": "Some excerpts from N.",
-          "link": "https://reason.com/volokh/2026/08/01/n-y-judge-rejects-schools-request-for-red-flag-order-against-13-year-old-including-no-knock-search-warrant/",
-          "pub": 1785599803000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "International Mahjong Day spotlights global popularity of tile game",
-      "pub": 1785599437000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "International Mahjong Day spotlights global popularity of tile game",
-          "deck": "The game gained popularity in the United States during the 1920s.",
-          "link": "https://www.newsnationnow.com/good-news/international-mahjong-day/",
-          "pub": 1785599437000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Leopold Aschenbrenner's Short Seller Fairy Tale",
-      "pub": 1785598800000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Leopold Aschenbrenner's Short Seller Fairy Tale",
-          "deck": "Leopold Aschenbrenner's Short Seller Fairy Tale Submitted by QTR's Fringe Finance Leopold Aschenbrenner’s hedge fund, stuffed like the ass of a Thanksgiving turkey with every trendy AI name you could throw a dart at, reportedly suffered one of the most spectacular drawdowns of recent memory, losing roughly 67% in July after a series of heavily leveraged bets went violently against it.",
-          "link": "https://www.zerohedge.com/markets/leopold-aschenbrenners-short-seller-fairy-tale",
-          "pub": 1785598800000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Hunter Biden claims under oath that his family is broke amid fight over $17M legal bill",
-      "pub": 1785598734000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hunter Biden claims under oath that his family is broke amid fight over $17M legal bill",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/hunter-biden-claims-under-oath-153854500.html",
-          "pub": 1785598734000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Smithsonian's Disdain for America",
-      "pub": 1785598554000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Smithsonian's Disdain for America",
-          "deck": "The head of the National Museum of American History doesn't want to talk about her exhibits.",
-          "link": "https://www.realclearpolitics.com/2026/08/01/the_smithsonians_disdain_for_america_706820.html",
-          "pub": 1785598554000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "New blood test may predict when ALS symptoms will begin",
-      "pub": 1785598416000,
-      "lean": "ct",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "New blood test may predict when ALS symptoms will begin",
-          "deck": "A new blood test may help predict when ALS symptoms will start, potentially giving patients valuable time to prepare.",
-          "link": "https://www.newsnationnow.com/health/als-blood-test-predict-symptoms-study/",
-          "pub": 1785598416000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Europe continues to celebrate Pride after attack on Berlin parade",
-      "pub": 1785598204000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Europe continues to celebrate Pride after attack on Berlin parade",
-          "deck": "Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.",
-          "link": "https://www.cbsnews.com/news/berlin-pride-parade-attack-hamburg-amsterdam-security-safety/",
-          "pub": 1785598204000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-      "pub": 1785597885000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-          "deck": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court.",
-          "link": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html",
-          "pub": 1785597885000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Zelensky seeks Trump's help to persuade Musk to broaden Starlink access",
-      "pub": 1785597832000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Zelensky seeks Trump's help to persuade Musk to broaden Starlink access",
-          "deck": "Ukrainian President Volodymyr Zelensky reportedly asked President Trump to help him persuade Elon Musk to allow the country to use Starlink in drone strikes against Russia.",
-          "link": "https://thehill.com/policy/international/6003675-zelensky-asks-trump-starlink-access-musk/",
-          "pub": 1785597832000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     }
