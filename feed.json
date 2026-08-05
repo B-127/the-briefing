@@ -1,12 +1,1803 @@
 {
-  "generated": "2026-08-05T01:53:54.764Z",
+  "generated": "2026-08-05T05:00:11.575Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "7 Indiana University fraternity members charged with hazing pledges with twisted workouts, sending 2 to the hospital",
+      "pub": 1785905935000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "7 Indiana University fraternity members charged with hazing pledges with twisted workouts, sending 2 to the hospital",
+          "deck": "The brutal workouts included \"brother squats,\" in which the Phi Kappa Psi pledges would lock arms and perform squats simultaneously to the point of exhaustion.",
+          "link": "https://nypost.com/2026/08/05/us-news/2-indiana-u-pledges-are-sent-to-hospital-after-sadistic-hazing-ritual/",
+          "pub": 1785905935000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+      "pub": 1785905914000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+          "deck": "The Reserve Bank of India has kept interest rates unchanged amid creeping inflation.",
+          "link": "https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html",
+          "pub": 1785905914000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Woman, 36, collapsed, began turning blue during bar exam at Hofstra University — and proctors ordered test takers to keep working: lawsuit",
+      "pub": 1785905059000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woman, 36, collapsed, began turning blue during bar exam at Hofstra University — and proctors ordered test takers to keep working: lawsuit",
+          "deck": "The 36-year-old began \"gasping for her air\" on the floor, lost consciousness and started turning blue, while the exam's proctors ordered the hundreds in the exam room to carry on with the test -- delaying Jung critical \"early minutes\" during her alleged medical crisis.",
+          "link": "https://nypost.com/2026/08/05/us-news/woman-collapsed-began-turning-blue-during-bar-exam-at-hofstra-university-lawsuit/",
+          "pub": 1785905059000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close",
+      "pub": 1785904749000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close",
+          "deck": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
+          "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+          "pub": 1785904749000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+      "pub": 1785904688000,
+      "lean": "ll",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/russian-ballistic-missile-strike-kyiv-013541436.html",
+          "pub": 1785904688000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+          "deck": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785904685000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "William Lawrence Wins Primary in Battleground Michigan House District",
+      "pub": 1785904653000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "William Lawrence Wins Primary in Battleground Michigan House District",
+          "deck": "William Lawrence defeated two moderate candidates to challenge a vulnerable Republican incumbent, but some worry his views could hurt his chances in November.",
+          "link": "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html",
+          "pub": 1785904653000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Indian central bank holds rates as expected, taking comfort in still-modest inflation",
+      "pub": 1785904527000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Indian central bank holds rates as expected, taking comfort in still-modest inflation",
+          "deck": "",
+          "link": "https://finance.yahoo.com/news/indian-central-bank-holds-rates-043324344.html",
+          "pub": 1785904527000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Morning Bid: Semis fly again as AI capex shoots the moon",
+      "pub": 1785904485000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Morning Bid: Semis fly again as AI capex shoots the moon",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-semis-fly-again-043445622.html",
+          "pub": 1785904485000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Q2 GDP slows to 5.29% y/y, but beats forecast",
+      "pub": 1785904473000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Indonesia Q2 GDP slows to 5.29% y/y, but beats forecast",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/indonesia-q2-gdp-slows-5-043433812.html",
+          "pub": 1785904473000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX posts $541m loss despite revenue surge in record IPO quarter",
+      "pub": 1785904416000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "SpaceX posts $541m loss despite revenue surge in record IPO quarter",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-posts-541m-loss-despite-043336977.html",
+          "pub": 1785904416000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Marathon Petroleum Profit Quadruples on Higher Refining Margins",
+      "pub": 1785904290000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Marathon Petroleum Profit Quadruples on Higher Refining Margins",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/marathon-petroleum-profit-quadruples-higher-043130949.html",
+          "pub": 1785904290000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Arizona fake sober homes billed taxpayers $8K a day: Former worker",
+      "pub": 1785903534000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Arizona fake sober homes billed taxpayers $8K a day: Former worker",
+          "deck": "Hundreds of people are reportedly missing, some even dead.",
+          "link": "https://www.newsnationnow.com/us-news/southwest/arizona-fake-sober-home/",
+          "pub": 1785903534000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "I’m Begging You: Never Write With A.I.",
+      "pub": 1785903486000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "I’m Begging You: Never Write With A.I.",
+          "deck": "It’s bad for your brain and worse for democracy.",
+          "link": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
+          "pub": 1785903486000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Yankees bullpen rebounds in big way after rough first game following deadline",
+      "pub": 1785903126000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Yankees bullpen rebounds in big way after rough first game following deadline",
+          "deck": "Every game after a trade deadline in which the Yankees did not add to their bullpen (and in fact subtracted) can feel like a referendum on Brian Cashman’s Aug.",
+          "link": "https://nypost.com/2026/08/05/sports/yankees-bullpen-rebounds-in-big-way-after-rough-first-game-following-deadline/",
+          "pub": 1785903126000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "When A.I. Goes Rogue",
+      "pub": 1785903027000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "When A.I. Goes Rogue",
+          "deck": "It was the stuff of science fiction — until recently.",
+          "link": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
+          "pub": 1785903027000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Should retirees be worried about Medicare subsidy program ending?",
+      "pub": 1785902976000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Should retirees be worried about Medicare subsidy program ending?",
+          "deck": "Retirees shouldn't be alarmed by the ending of a Biden-era Medicare premium subsidy program, an industry expert says.",
+          "link": "https://www.newsnationnow.com/health/retirees-medicare-subsidy-program-ending/",
+          "pub": 1785902976000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "I took a solo trip for my birthday instead of celebrating with friends. It helped me rethink my mid-30s.",
+      "pub": 1785902896000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "I took a solo trip for my birthday instead of celebrating with friends. It helped me rethink my mid-30s.",
+          "deck": "",
+          "link": "https://travel.yahoo.com/advice/lifestyle/articles/took-solo-trip-birthday-instead-040816057.html",
+          "pub": 1785902896000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Beloved LA TV anchors resurface after savage firings as new details emerge about their final days on air",
+      "pub": 1785902776000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Beloved LA TV anchors resurface after savage firings as new details emerge about their final days on air",
+          "deck": "“They treated us like s–t at the end.",
+          "link": "https://nypost.com/2026/08/05/us-news/former-la-tv-stars-mark-return-after-being-fired-for-internal-strife/",
+          "pub": 1785902776000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Home where astronaut Neil Armstrong's boyhood dreams of flying took off is for sale",
+      "pub": 1785902749000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Home where astronaut Neil Armstrong's boyhood dreams of flying took off is for sale",
+          "deck": "",
+          "link": "https://www.yahoo.com/lifestyle/articles/home-where-astronaut-neil-armstrongs-040549128.html",
+          "pub": 1785902749000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mullin admits corruption inspired by cartels is 'frustrating'",
+      "pub": 1785902649000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mullin admits corruption inspired by cartels is 'frustrating'",
+          "deck": "Mullin spoke exclusively to NewsNation's senior immigration correspondent Ali Bradley for \"Bradley on the Border.",
+          "link": "https://www.newsnationnow.com/podcasts-newsnation/bradley-on-the-border-podcast/mullin-admits-corruption-inspired-by-cartels-is-frustrating/",
+          "pub": 1785902649000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Bouchard, Hines to clash for open James seat in competitive Michigan House race",
+      "pub": 1785902542000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bouchard, Hines to clash for open James seat in competitive Michigan House race",
+          "deck": "Former prosecutor Christina Hines is projected to win the Democratic nomination for Michigan’s 10th Congressional District, according to Decision Desk HQ, setting up a closely-watched battle against GOP nominee Mike Bouchard in November.",
+          "link": "https://thehill.com/homenews/campaign/6000027-bouchard-hines-michigan-house/",
+          "pub": 1785902542000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive-North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
+      "pub": 1785902519000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Exclusive-North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/exclusive-north-korean-missile-unit-040159772.html",
+          "pub": 1785902519000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Dropped Cases Against Alleged Reflecting Pool Vandals Followed a Rush to Judgment",
+      "pub": 1785902515000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dropped Cases Against Alleged Reflecting Pool Vandals Followed a Rush to Judgment",
+          "deck": "Trump still seems to think the question of individual guilt or innocence is irrelevant.",
+          "link": "https://reason.com/2026/08/05/dropped-cases-against-alleged-reflecting-pool-vandals-reflected-a-rush-to-judgment/",
+          "pub": 1785902515000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "pub": 1785902482000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+          "deck": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785902482000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Here’s the latest.",
+      "pub": 1785902426000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s the latest.",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest",
+          "pub": 1785902426000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "pub": 1785902404000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+          "deck": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.",
+          "link": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+          "pub": 1785902404000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+      "pub": 1785902400000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+          "deck": "For their commissioner of the future, MLS owners chose a soccer native.",
+          "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+          "pub": 1785902400000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
+      "pub": 1785902229000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
+          "deck": "Trump-endorsed Rick Brattin won the GOP primary for Missouri's 5th Congressional District, CBS News projects, setting up a battle against an 11-term Democrat in a district that was made far more GOP-leaning.",
+          "link": "https://www.cbsnews.com/news/missouri-5-gop-primary-rick-brattin-emanuel-cleaver-redistricting-trump/",
+          "pub": 1785902229000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Rick Brattin wins Republican primary for Missouri seat redrawn to favor GOP",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/rick-brattin-wins-republican-primary-035709767.html",
+          "pub": 1785902229000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump-backed Hassan falls short in Michigan House primary to take on McDonald Rivet",
+      "pub": 1785902194000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump-backed Hassan falls short in Michigan House primary to take on McDonald Rivet",
+          "deck": "President Trump's pick to take on first-term Rep.",
+          "link": "https://thehill.com/homenews/campaign/5986241-mcdonald-rivet-hassan-michigan-house/",
+          "pub": 1785902194000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Ryan Weathers isn’t making looming Yankees rotation decision any easier",
+      "pub": 1785901595000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ryan Weathers isn’t making looming Yankees rotation decision any easier",
+          "deck": "Carlos Rodón and Clarke Schmidt are both tracking toward rehab assignments, though Schmidt’s live batting practice Tuesday ended after two ups instead of three with forearm cramps that, at the very least, created a temporary scare.",
+          "link": "https://nypost.com/2026/08/04/sports/ryan-weathers-isnt-making-looming-yankees-rotation-decision-any-easier/",
+          "pub": 1785901595000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "'Profits of war' and 'Super-rain'",
+      "pub": 1785901548000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Profits of war' and 'Super-rain'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/profits-war-super-rain-004241034.html",
+          "pub": 1785901548000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "UK papers: 'Profits of war' and 'Super-rain'",
+      "pub": 1785901542000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "UK papers: 'Profits of war' and 'Super-rain'",
+          "deck": "Among Wednesday's headlines are oil companies' profits from the Iran war and \"super-rain\" in Britain.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx8484plwzo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785901542000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Woman makes death-defying escape from car as man smashes it with tractor in fit of rage",
+      "pub": 1785901494000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woman makes death-defying escape from car as man smashes it with tractor in fit of rage",
+          "deck": "One midnight argument in Southern California escalated into a full blown rage after a man used a tractor to crush a vehicle following an argument on Saturday.",
+          "link": "https://nypost.com/2026/08/04/us-news/california-man-allegedly-crushed-womans-car-with-tractor-in-santa-maria/",
+          "pub": 1785901494000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "pub": 1785901470000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "deck": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "pub": 1785901470000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Jefry Yan is bringing signature strikeout celebration to the Mets",
+      "pub": 1785901134000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jefry Yan is bringing signature strikeout celebration to the Mets",
+          "deck": "The demonstrative lefty reliever Jefry Yan was called up from Triple-A Syracuse on Monday, landing him with the Mets as a 29-year-old rookie ready for his major league debut.",
+          "link": "https://nypost.com/2026/08/04/sports/jefry-yan-is-bringing-signature-strikeout-celebration-to-mets/",
+          "pub": 1785901134000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
+      "pub": 1785901020000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "John James wins Michigan Republican gubernatorial primary, CBS News projects",
+          "deck": "U.S. Rep. John James, endorsed by President Trump, is projected to be the winner of Tuesday's Republican gubernatorial primary race in Michigan, according to CBS News.",
+          "link": "https://www.cbsnews.com/news/john-james-perry-johnson-michigan-governor-republican-primary/",
+          "pub": 1785901020000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Progress made in Strait of Hormuz talks, Rubio says",
+      "pub": 1785900975000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Progress made in Strait of Hormuz talks, Rubio says",
+          "deck": "The secretary of state said progress has been made in the Iran-Oman talks but that no final agreement has been reached, adding, \"We're hoping that ‌will happen very ‌shortly.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
+          "pub": 1785900975000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Posts falsely link recycled Japanese quake footage to deadly July 2026 tremor",
+      "pub": 1785900810000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Posts falsely link recycled Japanese quake footage to deadly July 2026 tremor",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/posts-falsely-recycled-japanese-quake-033330144.html",
+          "pub": 1785900810000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary",
+      "pub": 1785900727000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/democrat-marie-gluesenkamp-perez-survives-033207269.html",
+          "pub": 1785900727000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Freddy Peralta’s Mets struggles followed him into ugly first Rays start",
+      "pub": 1785900580000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Freddy Peralta’s Mets struggles followed him into ugly first Rays start",
+          "deck": "Freddy Peralta’s stat line isn’t getting any better even after he was traded by the Mets before Monday’s deadline.",
+          "link": "https://nypost.com/2026/08/04/sports/freddy-peraltas-struggles-followed-him-into-ugly-first-rays-start/",
+          "pub": 1785900580000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Gary Cohen and Keith Hernandez saved from ‘awkward conversation’ by Mets double play",
+      "pub": 1785900577000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gary Cohen and Keith Hernandez saved from ‘awkward conversation’ by Mets double play",
+          "deck": "A Mets double play saved Gary Cohen and Keith Hernandez from an “awkward conversation” during the SNY broadcast on Tuesday night.",
+          "link": "https://nypost.com/2026/08/04/sports/snys-gary-cohen-keith-hernandez-from-awkward-conversation-by-mets-double-play/",
+          "pub": 1785900577000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bernie Sanders-backed William Lawrence wins Democratic primary in key Michigan swing district",
+      "pub": 1785900448000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bernie Sanders-backed William Lawrence wins Democratic primary in key Michigan swing district",
+          "deck": "The Bernie Sanders-endorsed activist and Sunrise Movement co-founder beat former US Ambassador to Ukraine Bridget Brink and veteran Matt Maasdam in Michigan’s 7th Congressional District Democratic primary.",
+          "link": "https://nypost.com/2026/08/04/us-news/bernie-sanders-backed-william-lawrence-wins-democratic-primary-in-key-michigan-swing-district/",
+          "pub": 1785900448000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "McKinney, Duresky to battle for Newhouse's House seat in Washington",
+      "pub": 1785900445000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "McKinney, Duresky to battle for Newhouse's House seat in Washington",
+          "deck": "Washington's 4th Congressional District candidates Amanda McKinney (R) and John Duresky (D) are projected to advance to the November general election in the battle for retiring Rep.",
+          "link": "https://thehill.com/homenews/campaign/5994858-mckinney-duresky-washington-house-newhouse-primary/",
+          "pub": 1785900445000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "William Lawrence wins crowded primary to take on Tom Barrett, threatening Democrats’ chances in swing seat",
+      "pub": 1785900398000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "William Lawrence wins crowded primary to take on Tom Barrett, threatening Democrats’ chances in swing seat",
+          "deck": "William Lawrence, a progressive insurgent, upset the Democratic establishment Tuesday to win the tense primary to run against Rep.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4672791/william-lawrence-wins-crowded-primary-to-take-on-tom-barrett-threatening-democrats-chances-in-swing-seat/",
+          "pub": 1785900398000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump reacts to arrest of heavily armed suspect at golf course ahead of his California visit",
+      "pub": 1785900383000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump reacts to arrest of heavily armed suspect at golf course ahead of his California visit",
+          "deck": "President Trump dismissed a security scare near his Southern California fundraiser.",
+          "link": "https://nypost.com/2026/08/04/us-news/trump-reacts-to-arrest-of-heavily-armed-suspect-at-golf-course-ahead-of-his-visit-i-am-definitely-consequential/",
+          "pub": 1785900383000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Last Places Standing When The Sky Turns To Ash",
+      "pub": 1785900300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Last Places Standing When The Sky Turns To Ash",
+          "deck": "The Last Places Standing When The Sky Turns To Ash Authored by Madge Waggy, “We are standing at the precipice of something we cannot comprehend, and the silence from those who know is deafening.",
+          "link": "https://www.zerohedge.com/geopolitical/last-places-standing-when-sky-turns-ash",
+          "pub": 1785900300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Huizenga to face McCann in tight Michigan House contest",
+      "pub": 1785900278000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Huizenga to face McCann in tight Michigan House contest",
+          "deck": "Incumbent GOP Rep.",
+          "link": "https://thehill.com/homenews/campaign/5994598-huizenga-mccann-michigan-house-primary/",
+          "pub": 1785900278000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Marie Gluesenkamp Perez to face Trump-backed John Braun in November",
+      "pub": 1785900168000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Marie Gluesenkamp Perez to face Trump-backed John Braun in November",
+          "deck": "Washington Senate Minority Leader John Braun will face Rep.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4672912/marie-gluesenkamp-perez-face-john-braun-washington-3rd/",
+          "pub": 1785900168000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+      "pub": 1785899999000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/israel-approves-37m-seize-more-031959876.html",
+          "pub": 1785899999000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
+      "pub": 1785899982000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
+          "deck": "Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep.",
+          "link": "https://thehill.com/homenews/campaign/5999908-braun-glusenkamp-perez-washington-house/",
+          "pub": 1785899982000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "William Lawrence wins Democratic primary in Michigan House race, NBC News projects",
+      "pub": 1785899956000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "William Lawrence wins Democratic primary in Michigan House race, NBC News projects",
+          "deck": "Democrat William Lawrence, the co-founder of the progressive Sunrise Movement, has won his party’s primary in Michigan’s 7th Congressional District, NBC News projects.",
+          "link": "https://www.nbcnews.com/now/video/william-lawrence-wins-democratic-primary-in-michigan-house-race-nbc-news-projects-267785285687",
+          "pub": 1785899956000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Oil Markets Price In An Iran Deal That Does Not Exist Yet",
+      "pub": 1785899852000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Oil Markets Price In An Iran Deal That Does Not Exist Yet",
+          "deck": "Oil Markets Price In An Iran Deal That Does Not Exist Yet Oil prices tumbled Tuesday as traders once again priced in a U.",
+          "link": "https://www.zerohedge.com/markets/oil-markets-price-iran-deal-does-not-exist-yet",
+          "pub": 1785899852000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Prominent Progressive Activist Wins Democratic Primary In Michigan House Race",
+      "pub": 1785899537000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Prominent Progressive Activist Wins Democratic Primary In Michigan House Race",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/prominent-progressive-activist-wins-democratic-031217744.html",
+          "pub": 1785899537000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rep. Wesley Bell speaks to voters after projected primary win in Missouri",
+      "pub": 1785899475000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rep. Wesley Bell speaks to voters after projected primary win in Missouri",
+          "deck": "Rep. Wesley Bell told voters, ”Progressives are supposed to make progress,” following his win over former Rep. Cori Bush in the St. Louis-based district's Democratic primary rematch.",
+          "link": "https://www.nbcnews.com/video/rep-wesley-bell-speaks-to-voters-after-projected-primary-win-in-missouri-267785797708",
+          "pub": 1785899475000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Tennessee governor bucks Trump, endorses against Ogles in primary",
+      "pub": 1785899423000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tennessee governor bucks Trump, endorses against Ogles in primary",
+          "deck": "Tennessee Gov.",
+          "link": "https://thehill.com/homenews/house/6009695-lee-bucks-trump-hatcher-endorsement/",
+          "pub": 1785899423000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Progressive activist wins Democratic primary in one of the country’s biggest House races",
+      "pub": 1785899231000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Progressive activist wins Democratic primary in one of the country’s biggest House races",
+          "deck": "Sunrise Movement co-founder William Lawrence is the Democratic nominee in Michigan’s 7th District, NBC News projects, a key battleground in the fight for the House majority.",
+          "link": "https://www.nbcnews.com/politics/2026-election/progressive-activist-wins-democratic-primary-one-nations-biggest-house-rcna590892",
+          "pub": 1785899231000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+      "pub": 1785899195000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+          "deck": "The Senate Judiciary Committee voted along party lines to advance Todd Blanche's nomination for attorney general.",
+          "link": "https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/",
+          "pub": 1785899195000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "‘The Real Housewives Ultimate Girls Trip: Roaring 20th’ premiere red carpet: Kyle Richards, Teresa Giudice, Porsha Williams and more",
+      "pub": 1785899036000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘The Real Housewives Ultimate Girls Trip: Roaring 20th’ premiere red carpet: Kyle Richards, Teresa Giudice, Porsha Williams and more",
+          "deck": "Take a trip with Kyle Richards, Teresa Giudice, Porsha Williams and more.",
+          "link": "https://pagesix.com/2026/08/04/photos/the-real-housewives-ultimate-girls-trip-roaring-20th-premiere-red-carpet-kyle-richards-teresa-giudice-porsha-williams-and-more/",
+          "pub": 1785899036000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Primaries Test Direction of Democratic Party",
+      "pub": 1785899004000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Primaries Test Direction of Democratic Party",
+          "deck": "Tuesday, August 4th on RealClearPolitics - Joined by Jim Peyser, Fmr.",
+          "link": "https://www.realclearpolitics.com/video/2026/08/04/rcp_podcast_primaries_supreme_court_approval.html",
+          "pub": 1785899004000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The En Banc 11th Circuit Granted Relief In Drag Show Case Where Justices Kavanaugh and Barrett Did Not",
+      "pub": 1785898954000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The En Banc 11th Circuit Granted Relief In Drag Show Case Where Justices Kavanaugh and Barrett Did Not",
+          "deck": "After three years on the \"interim\" docket, Hamburger Mary will no longer be able to show \"adult live performances\" to minors.",
+          "link": "https://reason.com/volokh/2026/08/04/the-en-banc-11th-circuit-granted-relief-in-drag-show-case-where-justices-kavanaugh-and-barrett-did-not/",
+          "pub": 1785898954000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal showered with boos, taunts as he takes loss in Dodgers debut",
+      "pub": 1785898948000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tarik Skubal showered with boos, taunts as he takes loss in Dodgers debut",
+          "deck": "CHICAGO –– Outside the ballpark, there was signage calling him overrated.",
+          "link": "https://nypost.com/2026/08/04/sports/tarik-skubal-taunts-boos-loss-to-cubs/",
+          "pub": 1785898948000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan launches major war games to test command flexibility",
+      "pub": 1785898944000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taiwan launches major war games to test command flexibility",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/taiwan-launches-major-war-games-030224202.html",
+          "pub": 1785898944000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rowdy cruise passengers blare false alarm that Italian ship was floating adrift: report",
+      "pub": 1785898739000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rowdy cruise passengers blare false alarm that Italian ship was floating adrift: report",
+          "deck": "A crew of unruly passengers on an Italian cruise ship were arrested after they allegedly broadcast fake emergency announcements over the ship’s PA system on Thursday, police said.",
+          "link": "https://nypost.com/2026/08/04/world-news/creepy-cruise-passengers-blare-false-alarm-on-italian-ship-report/",
+          "pub": 1785898739000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Florida hospital launches ‘game changer’ drones to air-drop life-saving blood directly to trauma scenes",
+      "pub": 1785898645000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Florida hospital launches ‘game changer’ drones to air-drop life-saving blood directly to trauma scenes",
+          "deck": "When a 911 call involves a patient experiencing trauma such as severe blood loss, dispatchers will direct emergency responders to the scene, who can simultaneously deploy the drones armed with life-saving blood.",
+          "link": "https://nypost.com/2026/08/04/us-news/florida-hospital-launches-drones-to-drop-blood-to-trauma-scenes/",
+          "pub": 1785898645000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Kohberger couldn't stand victims taking the spotlight: Netflix producer",
+      "pub": 1785898524000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kohberger couldn't stand victims taking the spotlight: Netflix producer",
+          "deck": "\"The Idaho Murders: College Nightmare\" posted a very strong debut with more than 18.",
+          "link": "https://www.newsnationnow.com/crime/idaho-college-killings/kohberger-victims-spotlight-producer/",
+          "pub": 1785898524000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Benson wins Michigan Democratic gubernatorial primary, CBS News projects",
+      "pub": 1785898510000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Benson wins Michigan Democratic gubernatorial primary, CBS News projects",
+          "deck": "Michigan Secretary of State Jocelyn Benson is projected to be the winner of Tuesday's Democratic gubernatorial primary race, according to CBS News.",
+          "link": "https://www.cbsnews.com/news/jocelyn-benson-chris-swanson-michigan-governor-demoratic-primary/",
+          "pub": 1785898510000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "WNBA fan’s half-court shot goes hilariously wrong: ‘Bob, are you OK?",
+      "pub": 1785898305000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "WNBA fan’s half-court shot goes hilariously wrong: ‘Bob, are you OK?",
+          "deck": "Toyota, which sponsors contest, didn’t have to worry about having to give away a free car.",
+          "link": "https://nypost.com/2026/08/04/sports/wnba-fans-half-court-shot-goes-hilariously-wrong-bob-are-you-ok/",
+          "pub": 1785898305000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What One Witness Saw Before a Spokane Wildfire Started",
+      "pub": 1785898263000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What One Witness Saw Before a Spokane Wildfire Started",
+          "deck": "A resident of Spokane County, Wash.",
+          "link": "https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html",
+          "pub": 1785898263000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The parts of Sammy Stafura’s game that enticed his beloved Mets were honed in their backyard",
+      "pub": 1785898241000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The parts of Sammy Stafura’s game that enticed his beloved Mets were honed in their backyard",
+          "deck": "Spring practice or games at Walter Panas High in Cortlandt Manor, N.",
+          "link": "https://nypost.com/2026/08/04/sports/the-parts-of-sammy-stafuras-game-that-enticed-beloved-mets-were-honed-in-their-backyard/",
+          "pub": 1785898241000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Perez Hilton livestreams apparent self-harming video, cops respond to celeb blogger’s Miami home",
+      "pub": 1785898148000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Perez Hilton livestreams apparent self-harming video, cops respond to celeb blogger’s Miami home",
+          "deck": "The celebrity blogger is father to three children welcomed via surrogacy.",
+          "link": "https://pagesix.com/2026/08/04/celebrity-news/perez-hilton-livestreams-apparent-self-harming-video-cops-respond/",
+          "pub": 1785898148000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What to know about primaries in 5 states today: Michigan, Virginia and more",
+      "pub": 1785898089000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What to know about primaries in 5 states today: Michigan, Virginia and more",
+          "deck": "Voters are deciding primary races Tuesday in five states: Michigan, Virginia, Missouri, Kansas and Washington.",
+          "link": "https://www.cbsnews.com/news/primaries-michigan-senate-abdul-el-sayed-haley-stevens-virginia-missouri-washington/",
+          "pub": 1785898089000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Man carrying ammunition arrested near Trump National Golf Club before president's visit",
+      "pub": 1785897859000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Man carrying ammunition arrested near Trump National Golf Club before president's visit",
+          "deck": "Federal authorities arrested a man who appeared to be monitoring security-planning activities at Trump National Golf Club in LA County ahead of the president's Southern California visit.",
+          "link": "https://www.cbsnews.com/news/president-trump-los-angeles-county-golf-club-armed-suspect-arrested/",
+          "pub": 1785897859000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Progressives clinch win with Lawrence's victory in House primary to face Barrett in Michigan",
+      "pub": 1785897763000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Progressives clinch win with Lawrence's victory in House primary to face Barrett in Michigan",
+          "deck": "Sunrise Movement co-founder Will Lawrence, backed by Sen.",
+          "link": "https://thehill.com/homenews/campaign/6006681-lawrence-wins-michigan-house-primary/",
+          "pub": 1785897763000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Pro wrestling legend Dory Funk Jr. dead at 85",
+      "pub": 1785897655000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pro wrestling legend Dory Funk Jr. dead at 85",
+          "deck": "Dory Funk Jr.",
+          "link": "https://nypost.com/2026/08/04/sports/dory-funk-jr-pro-wrestling-legend-dead-at-85/",
+          "pub": 1785897655000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Alex Nowrasteh on \"Ten Democratic Socialists of America (DSA) Arguments for Socialism and Why They're Wrong\"",
+      "pub": 1785897491000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Alex Nowrasteh on \"Ten Democratic Socialists of America (DSA) Arguments for Socialism and Why They're Wrong\"",
+          "deck": "An insightful critique of ten ideas advocated by leading American \"democratic socialists.",
+          "link": "https://reason.com/volokh/2026/08/04/alex-nowrasteh-on-ten-democratic-socialists-of-america-dsa-arguments-for-socialism-and-why-theyre-wrong/",
+          "pub": 1785897491000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Diversity, Equity and Confabulation",
+      "pub": 1785897426000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Diversity, Equity and Confabulation",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/articles/2026/08/04/diversity_equity_and_confabulation_154392.html",
+          "pub": 1785897426000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The DNC Is Stuck in a Death Spiral",
+      "pub": 1785897424000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The DNC Is Stuck in a Death Spiral",
+          "deck": "The Democratic National Committee is weathering an onslaught of brutal press reports, less than 100 days before the midterms.",
+          "link": "https://www.realclearpolitics.com/2026/08/04/the_dnc_is_stuck_in_a_death_spiral_707040.html",
+          "pub": 1785897424000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "It's OK To Dream of a Blue Texas",
+      "pub": 1785897419000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "It's OK To Dream of a Blue Texas",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/04/its_ok_to_dream_of_a_blue_texas_707080.html",
+          "pub": 1785897419000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Case for the DNC's Ken Martin. Really",
+      "pub": 1785897417000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Case for the DNC's Ken Martin. Really",
+          "deck": "Martin is being excoriated, but he's taking on the consultant class, building a strong grassroots operation, and raising tons of money.",
+          "link": "https://www.realclearpolitics.com/2026/08/01/the_case_for_the_dncs_ken_martin_really_706766.html",
+          "pub": 1785897417000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Why Trump Is at War With the ICC",
+      "pub": 1785897416000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Trump Is at War With the ICC",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/01/why_trump_is_at_war_with_the_icc_706824.html",
+          "pub": 1785897416000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Democrats Want ID for Groceries--But Not for Voting?",
+      "pub": 1785897414000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democrats Want ID for Groceries--But Not for Voting?",
+          "deck": "Mamdani wants ID for city-run grocery stores-but opposes it for voting.",
+          "link": "https://www.realclearpolitics.com/2026/08/04/democrats_want_id_for_groceries--but_not_for_voting_707053.html",
+          "pub": 1785897414000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Morocco, Spain and the Makings of a Crisis",
+      "pub": 1785897411000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Morocco, Spain and the Makings of a Crisis",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/04/morocco_spain_and_the_makings_of_a_crisis_707081.html",
+          "pub": 1785897411000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fauci and 'Good Faith'",
+      "pub": 1785897408000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fauci and 'Good Faith'",
+          "deck": "He put the correct mortality estimate in his own notebook, published it under his own name, and gave Congress a figure three to five times higher.",
+          "link": "https://www.realclearpolitics.com/2026/08/01/fauci_and_good_faith_706842.html",
+          "pub": 1785897408000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Indiana nutjob confessed to biting infant’s face until child looked like ‘busted up egg’: report",
+      "pub": 1785897348000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Indiana nutjob confessed to biting infant’s face until child looked like ‘busted up egg’: report",
+          "deck": "Authorities say Kaden Manuel Lewis Shurm, 18, began by \"nibbling\" on the 9-day-old baby’s cheek before repeatedly biting in a \"chomping down\" motion, according to FOX59.",
+          "link": "https://nypost.com/2026/08/04/us-news/indiana-nutjob-confessed-to-biting-infants-face-until-child-looked-like-busted-up-egg-report/",
+          "pub": 1785897348000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Abbott Orders Pause On Texas Data Center Approvals Pending Audit",
+      "pub": 1785897300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Abbott Orders Pause On Texas Data Center Approvals Pending Audit",
+          "deck": "Abbott Orders Pause On Texas Data Center Approvals Pending Audit Texas Governor Greg Abbott just ordered a pause on approving new data center projects via the state's grid interconnection process over concerns that a surge in electricity demand could threaten reliability amid growing opposition to the projects.",
+          "link": "https://www.zerohedge.com/political/abbott-orders-pause-texas-data-center-approvals-pending-audit",
+          "pub": 1785897300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump backs House-passed bill to make daylight savings time permanent",
+      "pub": 1785897135000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump backs House-passed bill to make daylight savings time permanent",
+          "deck": "President Trump on Tuesday reiterated his support for making permanent daylight saving time, roughly three weeks after the House passed a bill that proposes implementing the change.",
+          "link": "https://thehill.com/homenews/administration/6009651-trump-backs-house-passed-bill-to-make-daylight-savings-time-permanent/",
+          "pub": 1785897135000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+      "pub": 1785897001000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+          "deck": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.",
+          "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+          "pub": 1785897001000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "GOP Rep. John James to face off against Democrat Jocelyn Benson in Michigan governor race",
+      "pub": 1785896893000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "GOP Rep. John James to face off against Democrat Jocelyn Benson in Michigan governor race",
+          "deck": "Rep. John James clinched the Republican nomination for Michigan governor.",
+          "link": "https://nypost.com/2026/08/04/us-news/gop-rep-john-james-to-face-off-against-jocelyn-benson-in-michigan-governor-race/",
+          "pub": 1785896893000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Cindy Holscher wins Democratic primary for Kansas governor, NBC News projects",
+      "pub": 1785896751000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Cindy Holscher wins Democratic primary for Kansas governor, NBC News projects",
+          "deck": "Republican state Senate President Ty Masterson will face Democratic state Sen.",
+          "link": "https://www.nbcnews.com/now/video/cindy-holscher-wins-democratic-primary-for-kansas-governor-nbc-news-projects-267782213707",
+          "pub": 1785896751000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Gavin Newsom can’t blame Donald Trump for his own failures in California",
+      "pub": 1785896468000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gavin Newsom can’t blame Donald Trump for his own failures in California",
+          "deck": "Gavin Newsom greeted President Donald Trump’s arrival in California on Tuesday by defending his own record in a social media post.",
+          "link": "https://nypost.com/2026/08/04/opinion/gavin-newsom-cant-blame-donald-trump-for-his-own-failures/",
+          "pub": 1785896468000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+      "pub": 1785896370000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+          "deck": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM when she was re-appointed as minister.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+          "pub": 1785896370000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Michael Goodwin: Mamdani spreads hate to everything and everyone in NYC — including his rich donors",
+      "pub": 1785896289000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Michael Goodwin: Mamdani spreads hate to everything and everyone in NYC — including his rich donors",
+          "deck": "Let it never be said that Zohran Mamdani loves New York.",
+          "link": "https://nypost.com/2026/08/04/opinion/michael-goodwin-mamdani-spreads-hate-to-everything-and-everyone-in-nyc-including-his-rich-donors/",
+          "pub": 1785896289000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
+      "pub": 1785895989000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
+          "deck": "Rep. John James has won Michigan’s Republican nomination for governor, NBC News projects.",
+          "link": "https://www.nbcnews.com/politics/2026-election/trump-backed-john-james-wins-michigans-gop-primary-governor-rcna590045",
+          "pub": 1785895989000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        },
+        {
+          "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-backed-john-james-wins-021309874.html",
+          "pub": 1785895989000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Socialist Wisconsin Gov Candidate Won't Back Down After Calling To \"Cancel Thanksgiving\"",
+      "pub": 1785895800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Socialist Wisconsin Gov Candidate Won't Back Down After Calling To \"Cancel Thanksgiving\"",
+          "deck": "Socialist Wisconsin Gov Candidate Won't Back Down After Calling To \"Cancel Thanksgiving\" Far-left Wisconsin gubernatorial contender Francesca Hong appeared to double down on resurfaced comments demanding that Thanksgiving be abolished, declining to walk back the post when confronted about it on national television.",
+          "link": "https://www.zerohedge.com/political/wisconsins-socialist-frontrunner-wont-say-whether-thanksgiving-should-still-be-canceled",
+          "pub": 1785895800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Live updates: Stevens, El-Sayed duke it out in closely-watched Michigan Senate primary",
+      "pub": 1785895435000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Live updates: Stevens, El-Sayed duke it out in closely-watched Michigan Senate primary",
+          "deck": "Michigan voters were at the polls Tuesday to decide which Democrat to back in the Senate race: progressive Abdul El-Sayed and moderate Rep.",
+          "link": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
+          "pub": 1785895435000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
+      "pub": 1785895422000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
+          "deck": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+          "pub": 1785895422000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Nithya Raman could bring Zohran Mamdani’s failing policies to LA",
+      "pub": 1785895128000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Nithya Raman could bring Zohran Mamdani’s failing policies to LA",
+          "deck": "LA City Councilwoman Nithya Raman is a socialist with many of the same views as New York City Mayor Zohran Mamdani — and could bring his toxic policies to LA, if she wins in November.",
+          "link": "https://nypost.com/2026/08/04/opinion/nithya-raman-could-bring-zohran-mamdanis-failing-policies-to-la/",
+          "pub": 1785895128000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Holscher defeats Kelly-backed Corson to clinch Democratic nod in Kansas governor's race",
+      "pub": 1785895031000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Holscher defeats Kelly-backed Corson to clinch Democratic nod in Kansas governor's race",
+          "deck": "Democratic state Sen.",
+          "link": "https://thehill.com/homenews/campaign/6002986-holscher-kansas-democratic-governor-primary/",
+          "pub": 1785895031000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
     {
       "title": "The ‘harm reduction’ model failed to stop drugs in San Francisco",
       "pub": 1785894779000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -17,60 +1808,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "George Lombard Jr. gives the Yankees everything they’d been missing in dazzling debut",
-      "pub": 1785894737000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "George Lombard Jr. gives the Yankees everything they’d been missing in dazzling debut",
-          "deck": "The Yankees have not referred to George Lombard Jr.",
-          "link": "https://nypost.com/2026/08/04/sports/george-lombard-jr-gave-yankees-everything-in-dazzling-debut/",
-          "pub": 1785894737000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "What to know about primaries in 5 states today: Michigan, Virginia and more",
-      "pub": 1785894730000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to know about primaries in 5 states today: Michigan, Virginia and more",
-          "deck": "Voters are deciding primary races Tuesday in five states: Michigan, Virginia, Missouri, Kansas and Washington.",
-          "link": "https://www.cbsnews.com/news/primaries-michigan-senate-abdul-el-sayed-haley-stevens-virginia-missouri-washington/",
-          "pub": 1785894730000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Patriots Rookie Gabe Jacas Speaks for First Time After Contract Dispute",
-      "pub": 1785894698000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Patriots Rookie Gabe Jacas Speaks for First Time After Contract Dispute",
-          "deck": "Patriots second-round pick Gabe Jacas breaks his silence after a knee injury and contract impasse delayed his rookie debut.",
-          "link": "https://www.newsweek.com/sports/nfl/patriots-rookie-gabe-jacas-speaks-for-first-time-after-contract-dispute-12284776",
-          "pub": 1785894698000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -111,24 +1848,6 @@
       ]
     },
     {
-      "title": "Here’s the latest.",
-      "pub": 1785894538000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Here’s the latest.",
-          "deck": "",
-          "link": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest",
-          "pub": 1785894538000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
       "pub": 1785894462000,
       "lean": "ll",
@@ -147,35 +1866,17 @@
       ]
     },
     {
-      "title": "Missouri voters reject abolishing state income tax",
+      "title": "Missouri voters overwhelmingly reject abolishing state income tax",
       "pub": 1785894427000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Missouri voters reject abolishing state income tax",
+          "title": "Missouri voters overwhelmingly reject abolishing state income tax",
           "deck": "While nine states have phased out individual income taxes, Missouri voters apparently feared an increase in other forms of taxation to make up for the revenue loss.",
           "link": "https://nypost.com/2026/08/04/us-news/missouri-voters-reject-abolishing-state-income-tax/",
           "pub": 1785894427000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "When Does ‘Ted Lasso’ Season 4 Episode 2 Come Out On Apple TV? How Many Episodes Are In ‘Ted Lasso’ Season 4?",
-      "pub": 1785894300000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "When Does ‘Ted Lasso’ Season 4 Episode 2 Come Out On Apple TV? How Many Episodes Are In ‘Ted Lasso’ Season 4?",
-          "deck": "Find out when we're headed back to Richmond.",
-          "link": "https://decider.com/2026/08/04/when-does-ted-lasso-season-4-episode-2-come-out-how-many-episodes-ted-lasso-season-4/",
-          "pub": 1785894300000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
@@ -273,28 +1974,10 @@
       ]
     },
     {
-      "title": "Chiefs Have Concerning Plan for Injured Rookie",
-      "pub": 1785894186000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chiefs Have Concerning Plan for Injured Rookie",
-          "deck": "The Kansas City Chiefs expect a rookie to start in Week 1, but can't be a full participant early in training camp due to injury.",
-          "link": "https://www.newsweek.com/sports/nfl/chiefs-have-concerning-plan-for-injured-rookie-12284782",
-          "pub": 1785894186000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Welcome, Alexandra Macedo –– and good riddance to scandal-riddled Heath Flora",
       "pub": 1785894118000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -305,24 +1988,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Asia shares surge on tech mood swing, oil retreats",
-      "pub": 1785894092000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Asia shares surge on tech mood swing, oil retreats",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html",
-          "pub": 1785894092000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -341,24 +2006,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Angel Reese Sends Heartfelt Message to Fans on Dream Barbie Promotion",
-      "pub": 1785894015000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Angel Reese Sends Heartfelt Message to Fans on Dream Barbie Promotion",
-          "deck": "Dream star Angel Reese sent a heartfelt message to fans after her comments on her new Barbie doll and promotional night.",
-          "link": "https://www.newsweek.com/sports/angel-reese-sends-heartfelt-message-to-fans-on-dream-barbie-promotion-12284654",
-          "pub": 1785894015000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -399,51 +2046,6 @@
       ]
     },
     {
-      "title": "Wesley Bell defeats Cori Bush in Missouri Democratic primary rematch, NBC News projects",
-      "pub": 1785893770000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wesley Bell defeats Cori Bush in Missouri Democratic primary rematch, NBC News projects",
-          "deck": "Rep. Wesley Bell defeated former Rep. Cori Bush in a Democratic primary rematch, NBC News projects. NBC News’ Sahil Kapur reported from Bell’s headquarters on the response to the win.",
-          "link": "https://www.nbcnews.com/now/video/wesley-bell-defeats-cori-bush-in-missouri-democratic-primary-rematch-nbc-news-projects-267779141843",
-          "pub": 1785893770000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-      "pub": 1785893741000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
-      "versions": [
-        {
-          "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/russian-ballistic-missile-strike-kyiv-013541436.html",
-          "pub": 1785893741000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-          "deck": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785893729000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Shannon Taylor Wins Democratic Primary for Virginia House Race",
       "pub": 1785893710000,
       "lean": "ll",
@@ -458,60 +2060,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Dansby Swanson nukes Dodgers’ Tarik Skubal with first-of-season home run",
-      "pub": 1785893682000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dansby Swanson nukes Dodgers’ Tarik Skubal with first-of-season home run",
-          "deck": "The first two innings of Tarik Skubal’s Los Angeles Dodgers debut could not have gone smoother.",
-          "link": "https://nypost.com/2026/08/04/sports/dodgers-ace-tarik-skubal-rocked-by-dansby-swanson-in-season-first/",
-          "pub": 1785893682000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Rams: NFL Insider Provides Update on QB2 Battle",
-      "pub": 1785893675000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams: NFL Insider Provides Update on QB2 Battle",
-          "deck": "The Los Angeles Rams provided an update on quarterback battle in training camp between Ty Simpson and Stetson Bennett IV.",
-          "link": "https://www.newsweek.com/sports/nfl/rams-nfl-insider-provides-update-on-qb2-battle-12284697",
-          "pub": 1785893675000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Conor McGregor Needed 5 Surgeries After ACL Injury vs Max Holloway",
-      "pub": 1785893595000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Conor McGregor Needed 5 Surgeries After ACL Injury vs Max Holloway",
-          "deck": "Conor McGregor revealed he's had multiple surgeries after suffering a knee injury against Max Holloway at UFC 329 last month.",
-          "link": "https://www.newsweek.com/sports/mma/conor-mcgregor-needed-5-surgeries-after-acl-injury-vs-max-holloway-12284983",
-          "pub": 1785893595000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -552,42 +2100,6 @@
       ]
     },
     {
-      "title": "Broncos' Sean Payton Provides Injury Update on All-Pro Pass Rusher Nik Bonitto",
-      "pub": 1785893340000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Broncos' Sean Payton Provides Injury Update on All-Pro Pass Rusher Nik Bonitto",
-          "deck": "Nik Bonitto, coming off a career-high 14 sacks, limped off the field at Broncos practice.",
-          "link": "https://www.newsweek.com/sports/nfl/broncos-sean-payton-provides-injury-update-on-all-pro-pass-rusher-nik-bonitto-12284676",
-          "pub": 1785893340000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "What One Witness Saw Before a Spokane Wildfire Started",
-      "pub": 1785893333000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What One Witness Saw Before a Spokane Wildfire Started",
-          "deck": "A resident of Spokane County, Wash.",
-          "link": "https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html",
-          "pub": 1785893333000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
       "pub": 1785893226000,
       "lean": "ll",
@@ -624,96 +2136,6 @@
       ]
     },
     {
-      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
-      "pub": 1785893187000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
-          "deck": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
-          "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
-          "pub": 1785893187000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jeffery Simmons Throws Punch, Removed From Practice",
-      "pub": 1785893118000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jeffery Simmons Throws Punch, Removed From Practice",
-          "deck": "Tennessee Titans defensive tackle Jeffery Simmons threw a punch during Tuesday's practice and was subsequently ejected.",
-          "link": "https://www.newsweek.com/sports/nfl/jeffery-simmons-throws-punch-removed-from-practice-12284254",
-          "pub": 1785893118000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Hollywood actor sicko used ‘casting calls’ to lure teenage victims",
-      "pub": 1785893103000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hollywood actor sicko used ‘casting calls’ to lure teenage victims",
-          "deck": "Gledhill claimed that he lives a “straight-edge lifestyle\" and has worked with a vast network of stars.",
-          "link": "https://nypost.com/2026/08/04/us-news/actor-shane-ryan-gledhill-arrested-on-15-felony-sex-abuse-charges/",
-          "pub": 1785893103000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fed's Schmid says finances around AI buildout merit watching",
-      "pub": 1785893003000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fed's Schmid says finances around AI buildout merit watching",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/feds-schmid-says-finances-around-012323993.html",
-          "pub": 1785893003000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Paulson Adebo eyes bounce-back season as Giants seek lockdown corner",
-      "pub": 1785892970000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Paulson Adebo eyes bounce-back season as Giants seek lockdown corner",
-          "deck": "Paulson Adebo is aiming to rebound from a disappointing first Giants season and emerge as the lockdown cornerback their potentially dominant defense needs.",
-          "link": "https://nypost.com/2026/08/04/sports/paulson-adebo-eyes-bounce-back-season-as-giants-seek-lockdown-corner/",
-          "pub": 1785892970000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Wesley Bell beats Cori Bush in Missouri Democratic House primary rematch",
       "pub": 1785892941000,
       "lean": "ll",
@@ -727,78 +2149,6 @@
           "pub": 1785892941000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
-      "pub": 1785892876000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/ceuta-melilla-why-europe-african-012116054.html",
-          "pub": 1785892876000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Lions Work Out Four Running Backs, Including Former 1st Round Pick",
-      "pub": 1785892875000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lions Work Out Four Running Backs, Including Former 1st Round Pick",
-          "deck": "The Detroit Lions worked out four running backs on Aug.",
-          "link": "https://www.newsweek.com/sports/nfl/clyde-edwards-helaire-work-out-four-running-backs-12284517",
-          "pub": 1785892875000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Why Microsoft Stock Surged 24.6% in July While the Market Was Flat",
-      "pub": 1785892803000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Microsoft Stock Surged 24.6% in July While the Market Was Flat",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-surged-24-012003330.html",
-          "pub": 1785892803000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Greg Abel Just Sold 2.3 Million Shares of Amazon Stock. Here's Why That Could Be a Huge Mistake.",
-      "pub": 1785892800000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Greg Abel Just Sold 2.3 Million Shares of Amazon Stock. Here's Why That Could Be a Huge Mistake.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-sold-2-012000416.html",
-          "pub": 1785892800000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -876,42 +2226,6 @@
       ]
     },
     {
-      "title": "At least one killed in Russian ballistic missile attack on Kiev",
-      "pub": 1785892720000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "At least one killed in Russian ballistic missile attack on Kiev",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/least-one-killed-russian-ballistic-011840373.html",
-          "pub": 1785892720000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "North Carolina man born on the 7th of 1977 wins $1M triple red 777 jackpot prize: ‘Seven is my number’",
-      "pub": 1785892712000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "North Carolina man born on the 7th of 1977 wins $1M triple red 777 jackpot prize: ‘Seven is my number’",
-          "deck": "“Seven is my number,” Tomas Munoz said.",
-          "link": "https://nypost.com/2026/08/04/us-news/north-carolina-man-born-on-the-7th-in-1977-wins-1m-triple-red-777-jackpot-prize-seven-is-my-number/",
-          "pub": 1785892712000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "What Was on the Minds of Michigan Voters? Many Cited the Economy and Trump.",
       "pub": 1785892640000,
       "lean": "ll",
@@ -926,42 +2240,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "George Lombard Jr. has long prepared for the Yankees challenge now facing him: ‘Bred for this’",
-      "pub": 1785892616000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "George Lombard Jr. has long prepared for the Yankees challenge now facing him: ‘Bred for this’",
-          "deck": "Lombard was beginning his major league career, batting eighth for the Yankees and unofficially anointed as the next hopeful heir of Jeter’s throne.",
-          "link": "https://nypost.com/2026/08/04/sports/george-lombard-jr-prepared-for-the-yankees-challenge-now-facing-him/",
-          "pub": 1785892616000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Benson, James set to showdown in Michigan governor's race",
-      "pub": 1785892575000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Benson, James set to showdown in Michigan governor's race",
-          "deck": "Michigan Secretary of State Jocelyn Benson (D) and President Trump-endorsed Rep.",
-          "link": "https://thehill.com/homenews/campaign/6006165-benson-james-michigan-governor-race/",
-          "pub": 1785892575000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -984,60 +2262,6 @@
       ]
     },
     {
-      "title": "Travis Hunter Undergoes Major Transformation Ahead of Second NFL Season",
-      "pub": 1785892536000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Travis Hunter Undergoes Major Transformation Ahead of Second NFL Season",
-          "deck": "Jacksonville Jaguars star Travis Hunter has changed his body in a significant way ahead of the 2026 season.",
-          "link": "https://www.newsweek.com/sports/nfl/travis-hunter-undergoes-major-transformation-ahead-of-second-nfl-season-12284610",
-          "pub": 1785892536000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Who Is Jeanine John Taele? Armed Man Arrested at Trump Golf Course",
-      "pub": 1785892477000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Who Is Jeanine John Taele? Armed Man Arrested at Trump Golf Course",
-          "deck": "The incident comes amid an already heightened security environment surrounding Trump following attempted attacks targeting him.",
-          "link": "https://www.newsweek.com/who-is-jeanine-john-taele-armed-man-arrested-at-trump-golf-course-12284892",
-          "pub": 1785892477000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "BOJ debated mounting price risks even upon hiking rates in June, minutes show",
-      "pub": 1785892436000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "BOJ debated mounting price risks even upon hiking rates in June, minutes show",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/boj-debated-mounting-price-risks-011356557.html",
-          "pub": 1785892436000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Judge sets trial date for Paramount Skydance-Warner Bros. antitrust lawsuit",
       "pub": 1785892408000,
       "lean": "lr",
@@ -1051,60 +2275,6 @@
           "pub": 1785892408000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "SF Giants trade deadline: Where 8 new prospects fit in farm system",
-      "pub": 1785892386000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "SF Giants trade deadline: Where 8 new prospects fit in farm system",
-          "deck": "The San Francisco Giants were among the busiest teams in Major League Baseball ahead of Monday’s trade deadline.",
-          "link": "https://nypost.com/2026/08/04/sports/where-giants-8-trade-deadline-prospects-fit-farm-system/",
-          "pub": 1785892386000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Commanders: Veteran WR on 'Radar'",
-      "pub": 1785892354000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Commanders: Veteran WR on 'Radar'",
-          "deck": "The Washington Commanders are reportedly showing interest in a veteran wide receiver who could help Jayden Daniels.",
-          "link": "https://www.newsweek.com/sports/nfl/commanders-veteran-wr-on-radar-12284522",
-          "pub": 1785892354000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A-lister replacing Carson Daly as host of ‘The Voice’ after 30 seasons revealed",
-      "pub": 1785892311000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A-lister replacing Carson Daly as host of ‘The Voice’ after 30 seasons revealed",
-          "deck": "Daly has been the only host of the NBC singing competition since it premiered in 2011.",
-          "link": "https://pagesix.com/2026/08/04/entertainment/a-lister-replacing-carson-daly-as-host-of-the-voice-after-30-seasons-revealed/",
-          "pub": 1785892311000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -1128,29 +2298,11 @@
       ]
     },
     {
-      "title": "Israeli man accused of transporting two illegal residents from Gaza in exchange for NIS 50",
-      "pub": 1785892273000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israeli man accused of transporting two illegal residents from Gaza in exchange for NIS 50",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/israeli-man-accused-transporting-two-011113524.html",
-          "pub": 1785892273000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Kansas voters reject GOP-backed measure to directly elect state Supreme Court justices",
       "pub": 1785892241000,
       "lean": "ll",
       "cat": "Politics",
-      "single": true,
+      "single": false,
       "versions": [
         {
           "title": "Kansas voters reject GOP-backed measure to directly elect state Supreme Court justices",
@@ -1160,24 +2312,15 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jaguars HC Liam Coen Has 'Better Feel' for How to Deploy Travis Hunter in 2026",
-      "pub": 1785892199000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
+        },
         {
-          "title": "Jaguars HC Liam Coen Has 'Better Feel' for How to Deploy Travis Hunter in 2026",
-          "deck": "Jaguars coach Liam Coen explains how the team plans to maximize Travis Hunter's unique two-way skill set in 2026.",
-          "link": "https://www.newsweek.com/sports/nfl/jaguars-coach-says-team-has-a-better-feel-for-travis-hunters-role-in-2026-12284594",
-          "pub": 1785892199000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
+          "title": "Kansas voters reject GOP-backed measure to directly elect state Supreme Court justices",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/kansas-voters-reject-gop-backed-011041988.html",
+          "pub": 1785892241000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -1195,60 +2338,6 @@
           "pub": 1785892159000,
           "src": "NR",
           "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s DC National Guard Deployment to Cost Another $1.4B: Crime Update",
-      "pub": 1785892151000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s DC National Guard Deployment to Cost Another $1.4B: Crime Update",
-          "deck": "Trump’s decision to keep National Guard troops deployed in D.",
-          "link": "https://www.newsweek.com/trumps-dc-national-guard-deployment-to-cost-another-1-4b-crime-update-12284003",
-          "pub": 1785892151000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Wesley Bell Beats Back Cori Bush Comeback Bid",
-      "pub": 1785892142000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wesley Bell Beats Back Cori Bush Comeback Bid",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/wesley-bell-beats-back-cori-010902202.html",
-          "pub": 1785892142000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Heliot Ramos eager to carve out Yankees role after emotional Giants exit",
-      "pub": 1785892056000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Heliot Ramos eager to carve out Yankees role after emotional Giants exit",
-          "deck": "When Heliot Ramos found out about his trade to the Yankees on Monday, he started shaking.",
-          "link": "https://nypost.com/2026/08/04/sports/heliot-ramos-eager-to-carve-out-yankees-role-after-emotional-giants-exit/",
-          "pub": 1785892056000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -1290,78 +2379,6 @@
       ]
     },
     {
-      "title": "Head Coach Brian Schottenheimer Declares Winner of Cowboys' Top Camp Battle",
-      "pub": 1785891976000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Head Coach Brian Schottenheimer Declares Winner of Cowboys' Top Camp Battle",
-          "deck": "After a tight camp battle, the Cowboys' left tackle job has a winner — and Dak Prescott's blind side protection is set for 2026.",
-          "link": "https://www.newsweek.com/sports/nfl/head-coach-brian-schottenheimer-declares-winner-of-cowboys-top-camp-battle-12284505",
-          "pub": 1785891976000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Cleaver to fight for political life against Brattin in Missouri House race",
-      "pub": 1785891970000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cleaver to fight for political life against Brattin in Missouri House race",
-          "deck": "Democratic Rep.",
-          "link": "https://thehill.com/homenews/campaign/5994313-cleaver-brattin-missouri-house-primary/",
-          "pub": 1785891970000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "pub": 1785891921000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-          "deck": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785891921000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Kansas rejects direct Supreme Court elections in a blow to conservatives",
-      "pub": 1785891912000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kansas rejects direct Supreme Court elections in a blow to conservatives",
-          "deck": "Voters in Kansas are projected to reject a ballot measure Tuesday that would allow the direct election of state Supreme Court justices — a blow to conservatives unhappy with the high court's liberal slant, according to Decision Desk HQ.",
-          "link": "https://thehill.com/homenews/state-watch/6002207-kansas-rejects-direct-supreme-court-election/",
-          "pub": 1785891912000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Wesley Bell Defeats Cori Bush in Missouri",
       "pub": 1785891899000,
       "lean": "ll",
@@ -1376,42 +2393,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "UFC Lost Staggering Amount of Money Putting on Freedom 250 Card at White House",
-      "pub": 1785891849000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "UFC Lost Staggering Amount of Money Putting on Freedom 250 Card at White House",
-          "deck": "The UFC knew it would lose money with the Freedom 250 card at the White House, but the final number was an eyebrow-raiser.",
-          "link": "https://www.newsweek.com/sports/mma/ufc-lost-staggering-amount-of-money-putting-on-freedom-250-card-at-white-house-12284966",
-          "pub": 1785891849000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump's pick for Kansas governor wins GOP primary",
-      "pub": 1785891836000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump's pick for Kansas governor wins GOP primary",
-          "deck": "Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a crowded field of Republican candidates to advance to the general election, according to preliminary results from Decision Desk HQ (DDHQ).",
-          "link": "https://thehill.com/homenews/campaign/5997716-masterson-kansas-governor-primary-trump/",
-          "pub": 1785891836000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -1452,24 +2433,6 @@
       ]
     },
     {
-      "title": "Marshall set to face pastor in Kansas Senate election",
-      "pub": 1785891728000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Marshall set to face pastor in Kansas Senate election",
-          "deck": "Sen. Roger Marshall (R-Kans.) is projected to win the GOP primary to face off against Democrat pastor Adam Hamilton in the Sunflower State this November, according to Decision Desk HQ (DDHQ). Marshall is seeking a second term in the Senate and is projected to defeat Arch Naramore in Tuesday's contest, per DDHQ. The non-partisan Cook...",
-          "link": "https://thehill.com/homenews/campaign/5978635-kansas-senate-marshall-hamilton/",
-          "pub": 1785891728000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump administration cancels Brazilian ambassador’s visa in tit-for-tat",
       "pub": 1785891697000,
       "lean": "ll",
@@ -1488,14 +2451,14 @@
       ]
     },
     {
-      "title": "Trump-backed Ty Masterson wins Republican nomination for Kansas governor",
+      "title": "GOP’s Ty Masterson and Democrat Cindy Holscher to meet in Kansas governor’s race",
       "pub": 1785891631000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Trump-backed Ty Masterson wins Republican nomination for Kansas governor",
+          "title": "GOP’s Ty Masterson and Democrat Cindy Holscher to meet in Kansas governor’s race",
           "deck": "NBC News projects that Masterson, the state Senate president, emerged from the primary in a contest that represents a top pickup opportunity for the GOP this fall.",
           "link": "https://www.nbcnews.com/politics/2026-election/kansas-governor-masterson-trump-holscher-corson-republican-democrat-rcna590030",
           "pub": 1785891631000,
@@ -1524,24 +2487,6 @@
       ]
     },
     {
-      "title": "Tree poisoner on the loose in Lake Tahoe after spate of attacks at popular beach cove",
-      "pub": 1785891562000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tree poisoner on the loose in Lake Tahoe after spate of attacks at popular beach cove",
-          "deck": "A string of suspected tree poisonings at a popular Lake Tahoe beach has prompted another investigation by authorities.",
-          "link": "https://nypost.com/2026/08/04/us-news/lake-tahoe-tree-poisoning-probe-expands-after-more-cases-reported/",
-          "pub": 1785891562000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Man armed with pistol arrested at Trump’s Southern California golf course",
       "pub": 1785891519000,
       "lean": "lr",
@@ -1556,24 +2501,6 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Man carrying ammunition arrested near Trump National Golf Club before president's visit",
-      "pub": 1785891507000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man carrying ammunition arrested near Trump National Golf Club before president's visit",
-          "deck": "Federal authorities arrested a man who appeared to be monitoring security-planning activities at Trump National Golf Club in LA County ahead of the president's Southern California visit.",
-          "link": "https://www.cbsnews.com/news/president-trump-los-angeles-county-golf-club-armed-suspect-arrested/",
-          "pub": 1785891507000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
         }
       ]
     },
@@ -1614,96 +2541,6 @@
       ]
     },
     {
-      "title": "Hornets' Brandon Miller Gets Honest About LaMelo Ball Trade",
-      "pub": 1785891164000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hornets' Brandon Miller Gets Honest About LaMelo Ball Trade",
-          "deck": "The Charlotte Hornets ended an era earlier this offseason, sending LaMelo Ball to the Minnesota Timberwolves in a trade.",
-          "link": "https://www.newsweek.com/sports/nba/hornets-brandon-miller-gets-honest-about-lamelo-ball-trade-12284548",
-          "pub": 1785891164000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Sean ‘Diddy’ Combs’ release date pushed back after prison fight",
-      "pub": 1785891160000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sean ‘Diddy’ Combs’ release date pushed back after prison fight",
-          "deck": "The music mogul will now be spending more time behind bars.",
-          "link": "https://pagesix.com/2026/08/04/celebrity-news/sean-diddy-combs-release-date-changed-yet-again/",
-          "pub": 1785891160000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox Designate Pitcher for Assignment",
-      "pub": 1785890985000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Red Sox Designate Pitcher for Assignment",
-          "deck": "The Boston Red Sox have made a roster move, as they have designated relief pitcher Ryan Watson for assignment.",
-          "link": "https://www.newsweek.com/sports/mlb/red-sox-designate-pitcher-for-assignment-12284541",
-          "pub": 1785890985000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Marine Fauthoux delivering undeniable impact after long Liberty wait",
-      "pub": 1785890925000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Marine Fauthoux delivering undeniable impact after long Liberty wait",
-          "deck": "Since being inserted into the rotation Fauthoux is playing more than 18 minutes per game, averaging 6.",
-          "link": "https://nypost.com/2026/08/04/sports/marine-fauthoux-makingundeniable-impact-after-long-liberty-wait/",
-          "pub": 1785890925000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "UK papers: 'Profits of war' and 'Super-rain'",
-      "pub": 1785890554000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "UK papers: 'Profits of war' and 'Super-rain'",
-          "deck": "Among Wednesday's headlines are oil companies' profits from the Iran war and \"super-rain\" in Britain.",
-          "link": "https://www.bbc.co.uk/news/articles/cdx8484plwzo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785890554000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
       "pub": 1785890423000,
       "lean": "ct",
@@ -1717,24 +2554,6 @@
           "pub": 1785890423000,
           "src": "BBC",
           "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Vikings QB Disappoints Fans With Training Camp Performance",
-      "pub": 1785890400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Vikings QB Disappoints Fans With Training Camp Performance",
-          "deck": "Vikings quarterback J.",
-          "link": "https://www.newsweek.com/sports/nfl/vikings-qb-disappoints-fans-with-training-camp-performance-12284439",
-          "pub": 1785890400000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -1754,24 +2573,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Chargers Not Expected to Make Big WR Move for Playoff Push",
-      "pub": 1785889985000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chargers Not Expected to Make Big WR Move for Playoff Push",
-          "deck": "The Los Angeles Chargers are not expected to reunite with veteran wide receiver Keenan Allen for a playoff push.",
-          "link": "https://www.newsweek.com/sports/nfl/chargers-not-expected-to-make-big-wr-move-for-playoff-push-12284127",
-          "pub": 1785889985000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1798,7 +2599,7 @@
       "pub": 1785889922000,
       "lean": "ll",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Virginia's 2nd District to see rematch between Kiggans, Luria",
@@ -1807,15 +2608,6 @@
           "pub": 1785889922000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        },
-        {
-          "title": "Virginia's 2nd District to see rematch between Kiggans, Luria",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/virginias-2nd-district-see-rematch-234114098.html",
-          "pub": 1785889922000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1835,6 +2627,24 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Watch: Moment passenger train crashes into trailer carrying straw bales",
+      "pub": 1785889888000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Watch: Moment passenger train crashes into trailer carrying straw bales",
+          "deck": "Railway authorities in Poland said the driver was intoxicated when he stopped his vehicle on the tracks as barriers closed.",
+          "link": "https://www.bbc.co.uk/news/videos/c2351drzx7ko?at_medium=RSS&at_campaign=rss",
+          "pub": 1785889888000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -1915,7 +2725,7 @@
       "pub": 1785889783000,
       "lean": "ll",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Shannon Taylor wins Democratic primary in Virginia's 1st District",
@@ -1924,15 +2734,6 @@
           "pub": 1785889783000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        },
-        {
-          "title": "Shannon Taylor wins Democratic primary in Virginia's 1st District",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/shannon-taylor-wins-democratic-primary-002943644.html",
-          "pub": 1785889783000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1952,24 +2753,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump arrives in Los Angeles for GOP fundraiser. Newsom bemoans 'overdue' wildfire relief",
-      "pub": 1785889748000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump arrives in Los Angeles for GOP fundraiser. Newsom bemoans 'overdue' wildfire relief",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-arrives-los-angeles-gop-002908070.html",
-          "pub": 1785889748000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2006,60 +2789,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Chris Jones Puts Patrick Mahomes' ACL Concerns to Rest: 'Nothing's Changed'",
-      "pub": 1785889666000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chris Jones Puts Patrick Mahomes' ACL Concerns to Rest: 'Nothing's Changed'",
-          "deck": "Chiefs' Chris Jones says Patrick Mahomes \"looks like Pat Mahomes,\" showing no signs of the ACL injury that ended his 2025 season.",
-          "link": "https://www.newsweek.com/sports/nfl/chris-jones-puts-patrick-mahomes-acl-concerns-to-rest-nothings-changed-12284214",
-          "pub": 1785889666000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "I’m Begging You: Never Write With A.I.",
-      "pub": 1785889561000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I’m Begging You: Never Write With A.I.",
-          "deck": "It’s bad for your brain and worse for democracy.",
-          "link": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
-          "pub": 1785889561000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Defiant Miller insists he'll stay in the race, denies allegations of domestic violence and drug use",
-      "pub": 1785889329000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Defiant Miller insists he'll stay in the race, denies allegations of domestic violence and drug use",
-          "deck": "Rep. Max Miller (R-Ohio) on Tuesday forcefully denied allegations of domestic violence and addressed claims of illegal drug use in a defiant CNN interview, while making clear he has no intention of abandoning his bid for reelection despite mounting scrutiny. The interview on \"The Lead with Jake Tapper\" came shortly after the House Ethics Committee...",
-          "link": "https://thehill.com/homenews/house/6009509-max-miller-domestic-abuse-drug-use-allegations/",
-          "pub": 1785889329000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -2298,24 +3027,6 @@
       ]
     },
     {
-      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-      "pub": 1785888859000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-          "deck": "The Senate Judiciary Committee voted along party lines to advance Todd Blanche's nomination for attorney general.",
-          "link": "https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/",
-          "pub": 1785888859000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "House Ethics probing Rep. Max Miller for alleged domestic violence, drug use",
       "pub": 1785888463000,
       "lean": "ll",
@@ -2357,24 +3068,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Live updates: Stevens, El-Sayed duke it out in closely-watched Michigan Senate primary",
-      "pub": 1785888364000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Live updates: Stevens, El-Sayed duke it out in closely-watched Michigan Senate primary",
-          "deck": "Michigan voters are at the polls Tuesday to decide which Democrat to back in the Senate race: progressive Abdul El-Sayed and moderate Rep.",
-          "link": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
-          "pub": 1785888364000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -2472,7 +3165,7 @@
       "title": "Ebola deaths top 1,700 in eastern Congo",
       "pub": 1785888012000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -2559,17 +3252,17 @@
       ]
     },
     {
-      "title": "Chipotle removes jalapenos linked to Minnesota salmonella outbreak",
-      "pub": 1785887561000,
+      "title": "Chipotle removes jalapeños linked to Minnesota salmonella outbreak",
+      "pub": 1785887520000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Chipotle removes jalapenos linked to Minnesota salmonella outbreak",
+          "title": "Chipotle removes jalapeños linked to Minnesota salmonella outbreak",
           "deck": "The restaurant chain said it pulled the peppers and replaced them with product from another grower amid a food-poisoning probe.",
           "link": "https://www.cbsnews.com/news/chipotle-jalapenos-minnesota-salmonella-outbreak/",
-          "pub": 1785887561000,
+          "pub": 1785887520000,
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
@@ -2596,7 +3289,7 @@
     },
     {
       "title": "Salmonella outbreak possibly linked to Chipotle jalapeños under investigation in Minnesota",
-      "pub": 1785887104000,
+      "pub": 1785887100000,
       "lean": "ll",
       "cat": "Health",
       "single": true,
@@ -2604,8 +3297,8 @@
         {
           "title": "Salmonella outbreak possibly linked to Chipotle jalapeños under investigation in Minnesota",
           "deck": "At least 110 people have fallen ill from salmonella in Minnesota, the vast majority of whom reported having eaten at the Mexican chain Chipotle.",
-          "link": "https://www.cbsnews.com/video/salmonella-outbreak-possibly-linked-to-chipotle-jalapeos-under-investigation-in-minnesota/",
-          "pub": 1785887104000,
+          "link": "https://www.cbsnews.com/video/salmonella-outbreak-possibly-linked-to-chipotle-jalapenos-under-investigation-in-minnesota/",
+          "pub": 1785887100000,
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
@@ -2645,6 +3338,24 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk says SpaceX data centers will crush competitors because its rocket scientists are like the Yankees ‘playing a little league team’",
+      "pub": 1785886661000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Elon Musk says SpaceX data centers will crush competitors because its rocket scientists are like the Yankees ‘playing a little league team’",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-spacex-data-233741515.html",
+          "pub": 1785886661000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -2721,24 +3432,6 @@
       ]
     },
     {
-      "title": "Thune on Max Miller allegations: 'It's a House matter. It's a family issue too'",
-      "pub": 1785886238000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Thune on Max Miller allegations: 'It's a House matter. It's a family issue too'",
-          "deck": "Senate Majority Leader John Thune (R-S.",
-          "link": "https://thehill.com/homenews/senate/6009438-thune-max-miller-house-moreno/",
-          "pub": 1785886238000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
       "pub": 1785886064000,
       "lean": "ll",
@@ -2807,42 +3500,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Divided Democrats face critical Michigan Senate primary",
-      "pub": 1785885740000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Divided Democrats face critical Michigan Senate primary",
-          "deck": "Establishment-backed Rep.",
-          "link": "https://www.nbcnews.com/nightly-news/video/divided-democrats-face-critical-michigan-senate-primary-267771461647",
-          "pub": 1785885740000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Taylor looks to unseat Wittman in key Virginia House race",
-      "pub": 1785885731000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Taylor looks to unseat Wittman in key Virginia House race",
-          "deck": "Democrat Shannon Taylor is projected to face off against Rep.",
-          "link": "https://thehill.com/homenews/campaign/6004695-taylor-wittman-virginia-house-race/",
-          "pub": 1785885731000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -3066,7 +3723,7 @@
       "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
       "pub": 1785884984000,
       "lean": "ct",
-      "cat": "Business",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -3174,7 +3831,7 @@
       "title": "U.S. Treasury Secy. Bessent says the Strait of Hormuz could reopen 'today or tomorrow'",
       "pub": 1785884615000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3185,24 +3842,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Susan Collins to oppose Todd Blanche nomination for attorney general",
-      "pub": 1785884448000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Susan Collins to oppose Todd Blanche nomination for attorney general",
-          "deck": "Sen. Susan Collins (R-ME) will vote “no” on Todd Blanche‘s nomination for attorney general, narrowing his path to confirmation in a chamber where Republicans can only afford to lose two GOP votes. Collins announced her decision the same day Blanche narrowly advanced out of the Senate Judiciary Committee. She is running for reelection in a […]",
-          "link": "https://www.washingtonexaminer.com/news/senate/4675099/susan-collins-oppose-todd-blanche-nomination-attorney-general/",
-          "pub": 1785884448000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3261,24 +3900,6 @@
       ]
     },
     {
-      "title": "Trump returns to California as Newsom feud escalates ahead of 2028",
-      "pub": 1785884286000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump returns to California as Newsom feud escalates ahead of 2028",
-          "deck": "President Donald Trump returns to California on Tuesday for the first time in more than a year, breathing fresh life into one of the country’s fiercest political rivalries as he and Gov.",
-          "link": "https://www.washingtonexaminer.com/news/white-house/4674937/trump-returns-california-newsom-feud-escalates-2028-national-profile-escalated/",
-          "pub": 1785884286000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call si...",
       "pub": 1785884130000,
       "lean": "ll",
@@ -3308,24 +3929,6 @@
           "deck": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago.",
           "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
           "pub": 1785883965000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "When A.I. Goes Rogue",
-      "pub": 1785883921000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "When A.I. Goes Rogue",
-          "deck": "It was the stuff of science fiction — until recently.",
-          "link": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
-          "pub": 1785883921000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3531,24 +4134,6 @@
       ]
     },
     {
-      "title": "Progress made in Strait of Hormuz talks, Rubio says",
-      "pub": 1785882681000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Progress made in Strait of Hormuz talks, Rubio says",
-          "deck": "The secretary of state said progress has been made in the Iran-Oman talks but that no final agreement has been reached, adding, \"We're hoping that ‌will happen very ‌shortly.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
-          "pub": 1785882681000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Wednesday, August 5",
       "pub": 1785882613000,
       "lean": "ct",
@@ -3563,6 +4148,24 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "8/4: CBS Evening News",
+      "pub": 1785882600000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "8/4: CBS Evening News",
+          "deck": "Police arrest arson suspect in Spokane fires; Chipotle suspected in salmonella outbreak.",
+          "link": "https://www.cbsnews.com/video/080426-cbs-evening-news/",
+          "pub": 1785882600000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
         }
       ]
     },
@@ -3747,6 +4350,24 @@
       ]
     },
     {
+      "title": "Trump’s White House helipad being partially disassembled, images show",
+      "pub": 1785881958000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s White House helipad being partially disassembled, images show",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-white-house-helipad-being-221918426.html",
+          "pub": 1785881958000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
       "pub": 1785881400000,
       "lean": "ct",
@@ -3874,7 +4495,7 @@
     },
     {
       "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-      "pub": 1785881137000,
+      "pub": 1785881138000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -3883,7 +4504,7 @@
           "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
           "deck": "The S&P 500 rose 1.",
           "link": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
-          "pub": 1785881137000,
+          "pub": 1785881138000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3905,24 +4526,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Watch: South Carolina Republican primary debate for U.S. Senate",
-      "pub": 1785881087000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Watch: South Carolina Republican primary debate for U.S. Senate",
-          "deck": "U.S. Senate candidates will meet in a South Carolina Republican primary debate.",
-          "link": "https://www.newsnationnow.com/politics/south-carolina-republican-primary-debate-us-senate/",
-          "pub": 1785881087000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
         }
       ]
     },
@@ -4017,24 +4620,6 @@
       ]
     },
     {
-      "title": "It’s Primary Night in Michigan and Four Other States",
-      "pub": 1785880803000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "It’s Primary Night in Michigan and Four Other States",
-          "deck": "Plus, an arrest in the Spokane wildfires.",
-          "link": "https://www.nytimes.com/2026/08/04/briefing/michigan-primary-spokane.html",
-          "pub": 1785880803000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Watch SpaceX launch 3 giant BlueBird direct-to-cell satellites early on Aug. 5",
       "pub": 1785880800000,
       "lean": "ll",
@@ -4049,24 +4634,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "pub": 1785880639000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-          "deck": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-          "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-          "pub": 1785880639000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -4139,24 +4706,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Stressed? Overwhelmed? Have You Tried Being Jack Johnson Instead?",
-      "pub": 1785880315000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Stressed? Overwhelmed? Have You Tried Being Jack Johnson Instead?",
-          "deck": "His frozen-in-time anthems, odes to going with the flow, are the soundtrack to a summer of “hopecore.",
-          "link": "https://www.nytimes.com/2026/08/04/style/jack-johnson-summer-surfilmusic.html",
-          "pub": 1785880315000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -4354,24 +4903,6 @@
           "pub": 1785879154000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "WWE Hall of Famer Dory Funk Jr. dead at 85",
-      "pub": 1785879116000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "WWE Hall of Famer Dory Funk Jr. dead at 85",
-          "deck": "The legendary grappler, whose career spanned decades, was the last surviving member of the Funk wrestling family.",
-          "link": "https://www.nbcnews.com/news/us-news/wwe-hall-famer-dory-funk-jr-dead-85-rcna590868",
-          "pub": 1785879116000,
-          "src": "NBC",
-          "srcFull": "NBC News",
           "lean": "ll"
         }
       ]
@@ -4756,16 +5287,16 @@
     },
     {
       "title": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
-      "pub": 1785877205000,
+      "pub": 1785877206000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
           "title": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
           "deck": "South Korea, which has one of the world’s lowest fertility rates, is in the throes of a breakdown in emergency care.",
           "link": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
-          "pub": 1785877205000,
+          "pub": 1785877206000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -4913,528 +5444,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A centrist split boosted progressive hopes in a Democratic House primary in Michigan.",
-      "pub": 1785876303000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A centrist split boosted progressive hopes in a Democratic House primary in Michigan.",
-          "deck": "",
-          "link": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/how-a-centrist-split-boosted-progressive-hopes-in-a-democratic-house-primary-in-michigan",
-          "pub": 1785876303000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "China narrows America’s AI lead as Huawei expands its global tech footprint, former US official warns",
-      "pub": 1785876233000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "China narrows America’s AI lead as Huawei expands its global tech footprint, former US official warns",
-          "deck": "Keith Krach says the U.",
-          "link": "https://www.foxbusiness.com/technology/china-narrows-americas-ai-lead-huawei-expands-global-tech-footprint-former-us-official-warns",
-          "pub": 1785876233000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Video: Dolphin Carries Dead Calf in What Experts Call Mourning",
-      "pub": 1785876230000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Video: Dolphin Carries Dead Calf in What Experts Call Mourning",
-          "deck": "Footage posted by a conservancy group offers an unusual glimpse of a common behavior by dolphins that often goes unobserved.",
-          "link": "https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html",
-          "pub": 1785876230000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX reports 92% revenue surge despite Wall Street AI jitters — first report card since historic IPO",
-      "pub": 1785876132000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "SpaceX reports 92% revenue surge despite Wall Street AI jitters — first report card since historic IPO",
-          "deck": "SpaceX posted an operating loss of $143 million and an earnings per share loss of $0.",
-          "link": "https://nypost.com/2026/08/04/business/spacex-reports-92-revenue-surge-despite-wall-street-ai-jitters-first-report-card-since-historic-ipo/",
-          "pub": 1785876132000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "College students’ use of AI has surged — despite boos at graduation ceremonies",
-      "pub": 1785876096000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "College students’ use of AI has surged — despite boos at graduation ceremonies",
-          "deck": "The share of business school students relying on artificial intelligence as a routine part of their academic experience has surged over the past few years, according to a new survey.",
-          "link": "https://nypost.com/2026/08/04/tech/college-students-use-of-ai-has-surged-despite-boos-at-graduation-ceremonies/",
-          "pub": 1785876096000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Slides Despite Big Revenue Beat, Tame CapEx",
-      "pub": 1785875964000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "SpaceX Slides Despite Big Revenue Beat, Tame CapEx",
-          "deck": "SpaceX Slides Despite Big Revenue Beat, Tame CapEx Ahead of the SpaceX earnings today - its first as a public company - we said that investor focus is increasingly shifting beyond the quarter itself, and while revenue and EBITDA performance will matter, the August 6 lockup expiration appears likely to be the bigger near-term driver, opening the door to the first meaningful wave of insider selling just days after results.",
-          "link": "https://www.zerohedge.com/markets/spacex-slides-despite-big-revenue-beat-tame-capex",
-          "pub": 1785875964000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Apple iPhone Foldable Release Date: What A New Report Reveals About September",
-      "pub": 1785875751000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Apple iPhone Foldable Release Date: What A New Report Reveals About September",
-          "deck": "Apple’s next special event is barely a month away, but exactly when will the first foldable iPhone go on sale, and will it be late?",
-          "link": "https://www.forbes.com/sites/davidphelan/2026/08/04/apple-iphone-foldable-release-date-what-a-new-report-reveals-about-september/",
-          "pub": 1785875751000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Medicaid Urges States to Increase Autism Therapy Oversight",
-      "pub": 1785875475000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Medicaid Urges States to Increase Autism Therapy Oversight",
-          "deck": "The program’s spending on the therapy has quintupled since 2021, far outstripping the growth in diagnoses and raising concerns about overprescribing and fraud.",
-          "link": "https://www.nytimes.com/2026/08/04/health/autism-therapy-medicaid.html",
-          "pub": 1785875475000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "NYC’s Theater District provides ideal home for new Diner 24 featuring singing waitstaff",
-      "pub": 1785875386000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "NYC’s Theater District provides ideal home for new Diner 24 featuring singing waitstaff",
-          "deck": "The new two-story space is slated to open late next month at 1674 Broadway.",
-          "link": "https://nypost.com/2026/08/04/business/nycs-theater-district-provides-ideal-home-for-new-diner-24-featuring-singing-waitstaff/",
-          "pub": 1785875386000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-      "pub": 1785875333000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-          "deck": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran.",
-          "link": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
-          "pub": 1785875333000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Fifth Circuit Websites Gets A Glow-Up!",
-      "pub": 1785875101000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Fifth Circuit Websites Gets A Glow-Up!",
-          "deck": "The new design is much improved.",
-          "link": "https://reason.com/volokh/2026/08/04/the-fifth-circuit-websites-gets-a-glowup/",
-          "pub": 1785875101000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "LinkedIn adds 'seems like AI slop' button",
-      "pub": 1785875094000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "LinkedIn adds 'seems like AI slop' button",
-          "deck": "The button allows users to identify posts that appear to be written with AI in an attempt to reduce the amount of \"slop.",
-          "link": "https://www.newsnationnow.com/business/tech/ai/linkedin-adds-seems-like-ai-slop-button/",
-          "pub": 1785875094000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Hasan Piker, Abdul El-Sayed mock James Carville threatening to leave Democrats and 'sweetening the deal'",
-      "pub": 1785874984000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hasan Piker, Abdul El-Sayed mock James Carville threatening to leave Democrats and 'sweetening the deal'",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/hasan-piker-abdul-el-sayed-202304646.html",
-          "pub": 1785874984000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Reality Denied",
-      "pub": 1785874800000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Reality Denied",
-          "deck": "Reality Denied Authored by James Thorne via RealClearPolitics.",
-          "link": "https://www.zerohedge.com/political/reality-denied",
-          "pub": 1785874800000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
-      "pub": 1785874603000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
-          "deck": "Oregon has been having an extremely active fire season.",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
-          "pub": 1785874603000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine's air defenses are proving to be a weak point",
-      "pub": 1785874593000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukraine's air defenses are proving to be a weak point",
-          "deck": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles.",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point",
-          "pub": 1785874593000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How do newborns react to the smell of their fathers?",
-      "pub": 1785874589000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "How do newborns react to the smell of their fathers?",
-          "deck": "A new study tests the scent of fathers and newborns recognition of dad's smell",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5910665/how-do-newborns-react-to-the-smell-of-their-fathers",
-          "pub": 1785874589000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "One Maine community's fight to save a birthing center",
-      "pub": 1785874586000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "One Maine community's fight to save a birthing center",
-          "deck": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
-          "pub": 1785874586000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
-      "pub": 1785874527000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
-          "deck": "Stocks notched new record highs on Tuesday as oil prices dipped and companies reported healthy profits.",
-          "link": "https://www.cbsnews.com/news/us-stocks-surge-dow-sp-500-iran-strait-hormuz/",
-          "pub": 1785874527000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-      "pub": 1785874418000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-          "deck": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
-          "link": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
-          "pub": 1785874418000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Infantino calls executive meeting as criticism mounts",
-      "pub": 1785874383000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Infantino calls executive meeting as criticism mounts",
-          "deck": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
-          "pub": 1785874383000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Novo Nordisk shares slide after guidance disappoints investors",
-      "pub": 1785874340000,
-      "lean": "ll",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "Novo Nordisk shares slide after guidance disappoints investors",
-          "deck": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
-          "link": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
-          "pub": 1785874340000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How A Village Of 66 In Spain Is Preparing For The Eclipse — By Closing Its Mountain",
-      "pub": 1785874259000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "How A Village Of 66 In Spain Is Preparing For The Eclipse — By Closing Its Mountain",
-          "deck": "Jabaloyas in Aragon, Spain, will close vehicle access to El Javalón during the 2026 total solar eclipse, putting public safety and the environment ahead of tourism.",
-          "link": "https://www.forbes.com/sites/jamiecartereurope/2026/08/04/how-a-village-of-66-in-spain-is-preparing-for-the-eclipse---by-closing-its-mountain/",
-          "pub": 1785874259000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Senate Democrats Release Memo On Reforms To Make Health Insurance More Affordable",
-      "pub": 1785874246000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senate Democrats Release Memo On Reforms To Make Health Insurance More Affordable",
-          "deck": "The debate between Medicare for All and Medicare by Choice advocates, both of whom seek better affordability, is shaping up to be an interesting one in the coming years.",
-          "link": "https://www.forbes.com/sites/joshuacohen/2026/08/04/senate-democrats-release-memo-on-reforms-to-make-health-insurance-more-affordable/",
-          "pub": 1785874246000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme",
-      "pub": 1785874214000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme",
-          "deck": "Dr. Stephen Dubin, a wound care doctor in Nevada, is accused of applying unneeded, expensive wound coverings to seniors. He used the profits to buy yachts, the department said.",
-          "link": "https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html",
-          "pub": 1785874214000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Meet the Bee Vet, Now Making Hive Calls",
-      "pub": 1785874208000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Meet the Bee Vet, Now Making Hive Calls",
-          "deck": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
-          "link": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
-          "pub": 1785874208000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Chipotle removes jalapeños from some restaurants after Salmonella outbreak, probe targets supply chain",
-      "pub": 1785874204000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chipotle removes jalapeños from some restaurants after Salmonella outbreak, probe targets supply chain",
-          "deck": "Chipotle removed jalapeños from certain restaurants after identifying the ingredient as a potential common link in a Salmonella outbreak under investigation by health officials",
-          "link": "https://www.foxbusiness.com/lifestyle/chipotle-pulls-jalapenos-linked-salmonella-outbreak",
-          "pub": 1785874204000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fauci’s COVID Senate hearing: Letters to the Editor — Aug. 5, 2026",
-      "pub": 1785874095000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fauci’s COVID Senate hearing: Letters to the Editor — Aug. 5, 2026",
-          "deck": "NY Post readers discuss Anthony Fauci invoking the Fifth Amendment 111 times during his Senate hearing.",
-          "link": "https://nypost.com/2026/08/04/opinion/faucis-covid-senate-hearing-letters/",
-          "pub": 1785874095000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Chipotle removes jalapeños connected to Minnesota salmonella outbreak after 110 people get sick",
-      "pub": 1785874093000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chipotle removes jalapeños connected to Minnesota salmonella outbreak after 110 people get sick",
-          "deck": "Mexican fast-food chain Chipotle is replacing jalapeños at some of its eateries amid a salmonella outbreak in Minnesota, the company said Tuesday.",
-          "link": "https://nypost.com/2026/08/04/business/chipotle-removes-jalapenos-connected-to-minnesota-salmonella-outbreak-sending-stock-tumbling/",
-          "pub": 1785874093000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     }
