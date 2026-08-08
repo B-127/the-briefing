@@ -1,17 +1,539 @@
 {
-  "generated": "2026-08-08T14:57:08.214Z",
+  "generated": "2026-08-08T15:26:54.719Z",
   "count": 300,
   "clusters": [
     {
-      "title": "University of Michigan will hide grades, scrub transcripts to curb student ‘mental health crisis’",
+      "title": "Resurfaced Mamdani interview sparks severe backlash over alleged ‘fake’ Ugandan accent",
+      "pub": 1786202788000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Resurfaced Mamdani interview sparks severe backlash over alleged ‘fake’ Ugandan accent",
+          "deck": "While promoting his mother's film in 2016, Mamdani discussed Ugandan culture, dance and music, telling the host he was \"from Uganda\" but also grew up in New York.",
+          "link": "https://nypost.com/2026/08/08/us-news/resurfaced-mamdani-interview-sparks-severe-backlash-over-alleged-fake-ugandan-accent/",
+          "pub": 1786202788000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
+      "pub": 1786202400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
+          "deck": "Health and Human Services (HHS) Secretary Robert F.",
+          "link": "https://thehill.com/homenews/administration/6018546-kennedy-visits-atlanta-cdc-office/",
+          "pub": 1786202400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+      "pub": 1786202363000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+          "deck": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
+          "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+          "pub": 1786202363000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "pub": 1786202201000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
+          "deck": "Iran's military stressed that the crucial waterway would only be reopened when the U.",
+          "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+          "pub": 1786202201000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "pub": 1786202117000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+          "deck": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+          "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786202117000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Champion transgender cyclist Veronica Ivy now beating biological women for titles in second sport",
+      "pub": 1786202083000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Champion transgender cyclist Veronica Ivy now beating biological women for titles in second sport",
+          "deck": "Transgender athlete Veronia Ivy is now dominating a second sport.",
+          "link": "https://nypost.com/2026/08/08/sports/champion-transgender-cyclist-veronica-ivy-now-dominating-golf/",
+          "pub": 1786202083000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Maher rips Paul for publishing Fauci diaries: 'Your entire brand is Senator Right to Privacy’",
+      "pub": 1786202052000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Maher rips Paul for publishing Fauci diaries: 'Your entire brand is Senator Right to Privacy’",
+          "deck": "Comedian Bill Maher ripped Sen.",
+          "link": "https://thehill.com/homenews/media/6018518-maher-rand-paul-anthony-fauci-criticism/",
+          "pub": 1786202052000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Lancet: Wildfires the Latest “Health Emergency”",
+      "pub": 1786201968000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Lancet: Wildfires the Latest “Health Emergency”",
+          "deck": "The plan here could not be more obvious: Treat fires as a public health emergency and justify increasingly coercive regulation of individual freedom.",
+          "link": "https://www.nationalreview.com/corner/the-lancet-wildfires-the-latest-health-emergency/",
+          "pub": 1786201968000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox can thank the Yankees for stunning about-face in more ways than one",
+      "pub": 1786201914000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Red Sox can thank the Yankees for stunning about-face in more ways than one",
+          "deck": "The Red Sox sit a half-game back of the Yankees now for the top wild card and five behind the Rays for the best record in the AL East and league.",
+          "link": "https://nypost.com/2026/08/08/sports/red-sox-can-thank-the-yankees-for-stunning-about-face-in-more-ways-than-one/",
+          "pub": 1786201914000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "pub": 1786201900000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "deck": "The head of Iran’s Supreme National Security Council said that the waterway will remain closed until the United States meets certain conditions.",
+          "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+          "pub": 1786201900000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Kourtney Kardashian’s ex-nanny Leah Barrs addresses rumors she had sex with Travis Barker",
+      "pub": 1786201895000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kourtney Kardashian’s ex-nanny Leah Barrs addresses rumors she had sex with Travis Barker",
+          "deck": "The \"Million Dollar Nannies\" star reflected on her scandal on Harry Jowsey's podcast.",
+          "link": "https://pagesix.com/2026/08/08/celebrity-news/kourtney-kardashians-ex-nanny-leah-barrs-addresses-travis-barker-sex-rumors/",
+          "pub": 1786201895000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jimmy Kimmel Says Trump’s Presidency Is Hurting Late-Night TV: “A Different President Would Be a Good Start”",
+      "pub": 1786201716000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jimmy Kimmel Says Trump’s Presidency Is Hurting Late-Night TV: “A Different President Would Be a Good Start”",
+          "deck": "The ABC host thinks he knows exactly what the late-night scene needs.",
+          "link": "https://decider.com/2026/08/08/jimmy-kimmel-trump-presidency-hurting-late-night-tv/",
+          "pub": 1786201716000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Publix struggles to reverse concerning customer behavior",
+      "pub": 1786201620000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Publix struggles to reverse concerning customer behavior",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/publix-struggles-reverse-concerning-customer-150700423.html",
+          "pub": 1786201620000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "What Sent Sandisk Shares Tumbling Nearly 20% Last Month",
+      "pub": 1786201500000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "What Sent Sandisk Shares Tumbling Nearly 20% Last Month",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/sent-sandisk-shares-tumbling-nearly-150500119.html",
+          "pub": 1786201500000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Yankees vs. Braves prediction: MLB Saturday odds, picks, props",
+      "pub": 1786201500000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Yankees vs. Braves prediction: MLB Saturday odds, picks, props",
+          "deck": "Yankees ace Gerrit Cole faces Braves slugger Matt Olson, who is 0-for-21 lifetime against him.",
+          "link": "https://nypost.com/2026/08/08/betting/yankees-vs-braves-prediction-mlb-saturday-odds-picks-props/",
+          "pub": 1786201500000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hillary Clinton Warns Dems: GOP's Anti-Communist Messaging \"Very Effective\" As Marxist Hijack Party",
+      "pub": 1786201500000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hillary Clinton Warns Dems: GOP's Anti-Communist Messaging \"Very Effective\" As Marxist Hijack Party",
+          "deck": "Hillary Clinton Warns Dems: GOP's Anti-Communist Messaging \"Very Effective\" As Marxist Hijack Party Former Secretary of State Hillary Clinton told Kara Swisher on the \"Pivot\" podcast that Republicans are deploying what she called a \"very effective\" anti-communist attack against the Democratic Party's rising class of far-left candidates, who are increasingly defeating establishment Democrats in primary races.",
+          "link": "https://www.zerohedge.com/political/hillary-clinton-warns-dems-gops-anti-communist-messaging-very-effective-marxist-left",
+          "pub": 1786201500000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Kinetik Q2 Earnings Call Highlights",
+      "pub": 1786201438000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kinetik Q2 Earnings Call Highlights",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/kinetik-q2-earnings-call-highlights-150358584.html",
+          "pub": 1786201438000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Kimbell Royalty Q2 Earnings Call Highlights",
+      "pub": 1786201438000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kimbell Royalty Q2 Earnings Call Highlights",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/kimbell-royalty-q2-earnings-call-150358324.html",
+          "pub": 1786201438000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Karman Q2 Earnings Call Highlights",
+      "pub": 1786201438000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Karman Q2 Earnings Call Highlights",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/karman-q2-earnings-call-highlights-150358501.html",
+          "pub": 1786201438000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+      "pub": 1786201289000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/uae-says-iran-targeted-adnoc-150129043.html",
+          "pub": 1786201289000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "pub": 1786201201000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+          "deck": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
+          "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+          "pub": 1786201201000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "What happens when progressives stop reproducing?",
+      "pub": 1786201200000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What happens when progressives stop reproducing?",
+          "deck": "A research finding indicates that a significant demographic divide is emerging in America, where lower birth rates among progressive, highly educated populations contrast with the stable fertility levels of conservative, religious communities.",
+          "link": "https://thehill.com/opinion/healthcare/6017413-politics-divides-us-birth-rates/",
+          "pub": 1786201200000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Kalshi promo code NYPMAX: Trade $25, get up to $500 for NFL Award markets",
+      "pub": 1786201200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kalshi promo code NYPMAX: Trade $25, get up to $500 for NFL Award markets",
+          "deck": "Trade $25 on NFL Award Markets, get up to $500 in bonuses with Kalshi promo code NYPMAX.",
+          "link": "https://nypost.com/2026/08/08/betting/kalshi-promo-code-nypmax-trade-25-get-up-to-500-for-nfl-award-markets/",
+          "pub": 1786201200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Smoking is cool again? We asked Gen Z New Yorkers and their take is shocking",
+      "pub": 1786201200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Smoking is cool again? We asked Gen Z New Yorkers and their take is shocking",
+          "deck": "Smoking rates have been dropping for decades thanks to well-documented health and lung cancer risks.",
+          "link": "https://nypost.com/video/smoking-is-cool-again-we-asked-gen-z-new-yorkers-and-their-take-is-shocking/",
+          "pub": 1786201200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bo Dietl reveals late pal Vincent Pastore’s heartbreaking reaction to being killed off ‘Sopranos’: ‘Like he died in real life’",
+      "pub": 1786201200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bo Dietl reveals late pal Vincent Pastore’s heartbreaking reaction to being killed off ‘Sopranos’: ‘Like he died in real life’",
+          "deck": "The late actor was deeply upset by his character’s death on the HBO hit.",
+          "link": "https://pagesix.com/2026/08/08/entertainment/vincent-pastores-pal-details-late-actors-reaction-to-being-killed-off-sopranos/",
+          "pub": 1786201200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "‘Sterling Point’ Has Stronger Ties To ‘Camp Rock 3’ Than Just Connor’s ‘Camp Rock’-Themed Birthday Party: “We Filmed Some of The Outdoor Stuff At The Exact Spot That ‘Camp Rock’ Was Filmed At”",
+      "pub": 1786201200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Sterling Point’ Has Stronger Ties To ‘Camp Rock 3’ Than Just Connor’s ‘Camp Rock’-Themed Birthday Party: “We Filmed Some of The Outdoor Stuff At The Exact Spot That ‘Camp Rock’ Was Filmed At”",
+          "deck": "Creator Megan Park told DECIDER that the series being released just over a week ahead of Camp Rock 3 was a \"happy accident.",
+          "link": "https://decider.com/2026/08/08/sterling-point-camp-rock-3-connors-birthday-party/",
+          "pub": 1786201200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Iran nears Strait of Hormuz deal, but conditions remain",
+      "pub": 1786201189000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran nears Strait of Hormuz deal, but conditions remain",
+          "deck": "Iranian Foreign Minister Abbas Araqchi said reopening the strait would depend on other conditions, including compensation from the United States.",
+          "link": "https://www.newsnationnow.com/politics/iran-nears-strait-of-hormuz-deal/",
+          "pub": 1786201189000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "If Edwin Diaz doesn’t improve, Roki Sasaki can be Dodgers’ playoff closer again",
+      "pub": 1786201048000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "If Edwin Diaz doesn’t improve, Roki Sasaki can be Dodgers’ playoff closer again",
+          "deck": "What if the Dodgers burned $69 million on Diaz a year after they flushed $72 million down the toilet to sign Tanner Scott?",
+          "link": "https://nypost.com/2026/08/08/sports/if-edwin-diaz-cant-get-right-dodgers-can-turn-to-roki-sasaki/",
+          "pub": 1786201048000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "pub": 1786201044000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+          "deck": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+          "link": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+          "pub": 1786201044000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "University of Michigan will hide students’ grades, scrub transcripts to curb ‘mental health crisis’",
       "pub": 1786201005000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "University of Michigan will hide grades, scrub transcripts to curb student ‘mental health crisis’",
-          "deck": "The University of Michigan said grades for incoming freshman during their first semester will be hidden and excluded from their transcripts to \"curb the mental health crisis\" among students.",
+          "title": "University of Michigan will hide students’ grades, scrub transcripts to curb ‘mental health crisis’",
+          "deck": "Starting this fall, freshmen will be graded in their first semester solely on a pass/no credit basis instead of letter grades, the school announced in a statement.",
           "link": "https://nypost.com/2026/08/08/us-news/university-of-michigan-to-hide-grades-for-students-mental-health/",
           "pub": 1786201005000,
           "src": "NYP",
@@ -52,6 +574,24 @@
           "pub": 1786200870000,
           "src": "HILL",
           "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "NYT ‘Connections’ Hints And Answers For Sunday, August 9",
+      "pub": 1786200599000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "NYT ‘Connections’ Hints And Answers For Sunday, August 9",
+          "deck": "Looking for today's NYT Connections hints?",
+          "link": "https://www.forbes.com/sites/erikkain/2026/08/08/nyt-connections-hints-and-answers-for-sunday-august-9/",
+          "pub": 1786200599000,
+          "src": "FORB",
+          "srcFull": "Forbes",
           "lean": "ct"
         }
       ]
@@ -183,42 +723,6 @@
       ]
     },
     {
-      "title": "Ukraine warns of tough winter as Russia strikes kill 4 in Kyiv region",
-      "pub": 1786200053000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukraine warns of tough winter as Russia strikes kill 4 in Kyiv region",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/ukraines-zelensky-visits-russian-ally-063305954.html",
-          "pub": 1786200053000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The stark reality facing Andy Burnham’s council housebuilding revolution",
-      "pub": 1786199968000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The stark reality facing Andy Burnham’s council housebuilding revolution",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/stark-reality-facing-andy-burnham-102057678.html",
-          "pub": 1786199968000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
       "pub": 1786199966000,
       "lean": "ll",
@@ -273,24 +777,6 @@
       ]
     },
     {
-      "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport",
-      "pub": 1786199819000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/2-drones-spotted-flying-over-143659789.html",
-          "pub": 1786199819000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "How melatonin can mess with kids’ sleep — and may impact memory, learning and emotional development",
       "pub": 1786199786000,
       "lean": "lr",
@@ -305,42 +791,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets",
-      "pub": 1786199755000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/firebird-opens-region-largest-ai-143555418.html",
-          "pub": 1786199755000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jeff Bezos' Amazon Just Raised Its AI Spending to $220 Billion for 2026. Here's What That Capex Hike Means for Investors.",
-      "pub": 1786199700000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jeff Bezos' Amazon Just Raised Its AI Spending to $220 Billion for 2026. Here's What That Capex Hike Means for Investors.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/jeff-bezos-amazon-just-raised-143500710.html",
-          "pub": 1786199700000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -516,14 +966,14 @@
       ]
     },
     {
-      "title": "Sullivan attends West Ham game despite advice not to",
+      "title": "Former West Ham co-chair Sullivan attends home game despite advice not to",
       "pub": 1786199036000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Sullivan attends West Ham game despite advice not to",
+          "title": "Former West Ham co-chair Sullivan attends home game despite advice not to",
           "deck": "Former West Ham co-chairman David Sullivan attends their Carabao Cup match against Portsmouth despite being advised he should stay away.",
           "link": "https://www.bbc.co.uk/sport/football/articles/c07rx4r40ngo?at_medium=RSS&at_campaign=rss",
           "pub": 1786199036000,
@@ -606,35 +1056,17 @@
       ]
     },
     {
-      "title": "‘Often overlooked’: 540-million-year-old poop ‘revolution’ may be the source life as we know it",
+      "title": "540-million-year-old poop ‘revolution’ may be the source of life as we know it: ‘Often overlooked’",
       "pub": 1786198708000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "‘Often overlooked’: 540-million-year-old poop ‘revolution’ may be the source life as we know it",
+          "title": "540-million-year-old poop ‘revolution’ may be the source of life as we know it: ‘Often overlooked’",
           "deck": "They went with their gut on this one.",
           "link": "https://nypost.com/2026/08/08/science/the-answer-to-how-life-evolved-on-earth-lies-in-poop-study/",
           "pub": 1786198708000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fleetwood Mac’s Lindsey Buckingham reveals where he stands with Stevie Nicks after years-long feud",
-      "pub": 1786198649000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fleetwood Mac’s Lindsey Buckingham reveals where he stands with Stevie Nicks after years-long feud",
-          "deck": "The exes and former bandmates famously had a falling out while making their 1977 album \"Rumours.",
-          "link": "https://pagesix.com/2026/08/08/celebrity-news/fleetwood-macs-lindsey-buckingham-gives-update-on-stevie-nicks-feud/",
-          "pub": 1786198649000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
@@ -674,24 +1106,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Missing Florida teen Sophia Cover’s distraught great-grandma begs her to come home: ‘I’m waiting for you’",
-      "pub": 1786198521000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Missing Florida teen Sophia Cover’s distraught great-grandma begs her to come home: ‘I’m waiting for you’",
-          "deck": "The devastated great-grandma of missing teenager Sophia Cover has issued a desperate plea for her grandchild to return home.",
-          "link": "https://nypost.com/2026/08/08/us-news/missing-florida-teen-sophia-covers-great-grandma-begs-her-to-come-home/",
-          "pub": 1786198521000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -750,24 +1164,6 @@
       ]
     },
     {
-      "title": "Bill Maher’s Ariana Grande Weight Jokes On ‘Real Time’ Get Mixed Audience Reaction",
-      "pub": 1786198189000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bill Maher’s Ariana Grande Weight Jokes On ‘Real Time’ Get Mixed Audience Reaction",
-          "deck": "Maher doubled down on a punchline that earned him more groans than laughs.",
-          "link": "https://decider.com/2026/08/08/bill-maher-ariana-grande-weight-jokes-real-time-audience-reaction/",
-          "pub": 1786198189000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Here’s how we played the massive rebound in AI stocks this week",
       "pub": 1786198050000,
       "lean": "ll",
@@ -782,24 +1178,6 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ex-NBA player, GOP Senate hopeful Royce White to declare for WNBA Draft as transgender",
-      "pub": 1786197949000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ex-NBA player, GOP Senate hopeful Royce White to declare for WNBA Draft as transgender",
-          "deck": "Former NBA player and GOP Senate hopeful Royce White announced he will declare for the 2027 WNBA Draft, claiming he identifies as transgender.",
-          "link": "https://nypost.com/2026/08/08/sports/ex-nba-player-royce-white-to-declare-for-wnba-draft-as-transgender/",
-          "pub": 1786197949000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -890,96 +1268,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Inside one man’s crazy plan to create Broadway’s version of Woodstock in upstate New York — including a ‘Rent’ reunion",
-      "pub": 1786197600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Inside one man’s crazy plan to create Broadway’s version of Woodstock in upstate New York — including a ‘Rent’ reunion",
-          "deck": "Forget regret!",
-          "link": "https://nypost.com/2026/08/08/lifestyle/one-mans-crazy-plan-to-create-broadways-version-of-woodstock/",
-          "pub": 1786197600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1,000 matched in FanCash for Orioles vs. Rangers",
-      "pub": 1786197600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1,000 matched in FanCash for Orioles vs. Rangers",
-          "deck": "Register for Fanatics Sportsbook with promo code NYPOST26 to get up to $1,000 matched in FanCash for Saturday MLB games.",
-          "link": "https://nypost.com/2026/08/08/betting/fanatics-sportsbook-promo-code-nypost26-get-up-to-1000-matched-in-fancash-for-orioles-vs-rangers/",
-          "pub": 1786197600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Charlie Bushnell Says Luke Will Look “Rough” In Season 3 of ‘Percy Jackson and the Olympians’: “He Looks Like He Hasn’t Showered In Months”",
-      "pub": 1786197600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Charlie Bushnell Says Luke Will Look “Rough” In Season 3 of ‘Percy Jackson and the Olympians’: “He Looks Like He Hasn’t Showered In Months”",
-          "deck": "Luke is going to be going through it in Percy Jackson and the Olympians Season 3.",
-          "link": "https://decider.com/2026/08/08/charlie-bushnell-percy-jackson-season-3/",
-          "pub": 1786197600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "MLB predictions: The Astros have the edge in baseball’s worst division race",
-      "pub": 1786197600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "MLB predictions: The Astros have the edge in baseball’s worst division race",
-          "deck": "The Red Sox aren't the only surging team in the American League.",
-          "link": "https://nypost.com/2026/08/08/betting/mlb-predictions-the-astros-have-the-edge-in-baseballs-worst-division-race/",
-          "pub": 1786197600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Bay Area high school makes stunning Pride flag decision just days before classes begin",
-      "pub": 1786197600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bay Area high school makes stunning Pride flag decision just days before classes begin",
-          "deck": "School President Kim Walsh said the move follows a year of discussions after flags became a “lightning rod” on campus.",
-          "link": "https://nypost.com/2026/08/08/us-news/oakland-school-to-remove-pride-flags-from-classrooms/",
-          "pub": 1786197600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1087,24 +1375,6 @@
           "pub": 1786197300000,
           "src": "ZH",
           "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Meghan Markle wears Princess Diana’s diamond and sapphire earrings on date night with Prince Harry",
-      "pub": 1786197129000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Meghan Markle wears Princess Diana’s diamond and sapphire earrings on date night with Prince Harry",
-          "deck": "The \"Suits\" alum paid homage to her late mother-in-law's style at a gala for David Foster's foundation.",
-          "link": "https://pagesix.com/2026/08/08/style/meghan-markle-wears-princess-dianas-diamond-and-sapphire-earrings-on-prince-harry-date-night/",
-          "pub": 1786197129000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -1285,24 +1555,6 @@
           "pub": 1786196674000,
           "src": "RCP",
           "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "‘Unsafe condition’: Flight canceled after unruly toddler stood on seat, refused to fasten seatbelt",
-      "pub": 1786196632000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Unsafe condition’: Flight canceled after unruly toddler stood on seat, refused to fasten seatbelt",
-          "deck": "They treated it like a plane-ground.",
-          "link": "https://nypost.com/2026/08/08/lifestyle/flight-canceled-after-toddler-refused-to-buckle-seatbelt/",
-          "pub": 1786196632000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -1489,20 +1741,11 @@
     },
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "pub": 1786195781000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
+      "pub": 1786195778000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
       "versions": [
-        {
-          "title": "Child among three killed in Russian missile attacks near Kyiv",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/child-among-three-killed-russian-042340321.html",
-          "pub": 1786195781000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Child among three killed in Russian missile attacks near Kyiv",
           "deck": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -1691,24 +1934,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
-      "pub": 1786194390000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
-          "deck": "Iran's military stressed that the crucial waterway would only be reopened when the U.",
-          "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-          "pub": 1786194390000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
         }
       ]
     },
@@ -2136,24 +2361,6 @@
       ]
     },
     {
-      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-      "pub": 1786191264000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-          "deck": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
-          "link": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-          "pub": 1786191264000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Bristol Airport disruption a 'shambles' as flights restart",
       "pub": 1786191134000,
       "lean": "ct",
@@ -2499,7 +2706,7 @@
       "title": "A Lot of the Attacks on Higher Ed Are Unfair. Not This One.",
       "pub": 1786189901000,
       "lean": "ll",
-      "cat": "Opinion",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -2640,24 +2847,6 @@
       ]
     },
     {
-      "title": "Bill Ackman’s $35 billion hedge fund has under 50 employees and all of them — from janitors to receptionists — own millions in company stock",
-      "pub": 1786188600000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bill Ackman’s $35 billion hedge fund has under 50 employees and all of them — from janitors to receptionists — own millions in company stock",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/bill-ackman-35-billion-hedge-113000653.html",
-          "pub": 1786188600000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Child among 4 people killed in Russian attacks on Ukraine",
       "pub": 1786188462000,
       "lean": "ll",
@@ -2697,7 +2886,7 @@
       "title": "Hello, Democrats? Are You Listening?",
       "pub": 1786188140000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2726,6 +2915,24 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Norwegian soldiers say they're training Ukrainian soldiers with a 'Viking mentality' built for harsh conditions",
+      "pub": 1786188001000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Norwegian soldiers say they're training Ukrainian soldiers with a 'Viking mentality' built for harsh conditions",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/norwegian-soldiers-theyre-training-ukrainian-112001425.html",
+          "pub": 1786188001000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3594,6 +3801,96 @@
       ]
     },
     {
+      "title": "Trump proved America can host the world. Don’t let politics score an own goal now",
+      "pub": 1786183200000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump proved America can host the world. Don’t let politics score an own goal now",
+          "deck": "The summer of 2026 will be remembered as the moment the FIFA World Cup reminded the world of the magic of the United States.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4676623/us-travel-tourism-policy-world-cup-momentum-appeals-system-ban/",
+          "pub": 1786183200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "If ever a policy belonged in a Monty Python sketch, this is it",
+      "pub": 1786183200000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "If ever a policy belonged in a Monty Python sketch, this is it",
+          "deck": "I read an article in the Guardian about Westminster Council’s draft licensing policy that would restrict “vertical drinking” — standing at a bar to order a drink or chatting with a drink in hand.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4678843/westminster-council-vertical-drinking-policy/",
+          "pub": 1786183200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Why Gen Alpha will make Gen Z look conservative",
+      "pub": 1786183200000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Gen Alpha will make Gen Z look conservative",
+          "deck": "“If you think Gen Z is bad, just wait until you see Gen Alpha.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4677392/gen-alpha-more-progressive-than-gen-z/",
+          "pub": 1786183200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Blame Pedro Sanchez for Ceuta. Not Spain",
+      "pub": 1786183200000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blame Pedro Sanchez for Ceuta. Not Spain",
+          "deck": "The invasion of the Spanish city of Ceuta by tens of thousands of young, marauding Moroccans is, like Charles Dickens’s A Christmas Carol, a tale of how the future could look unless one takes action in the present.",
+          "link": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4678211/blame-pedro-sanchez-ceuta-immigration-spain/",
+          "pub": 1786183200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fauci and the art of turning accountability into the villain",
+      "pub": 1786183200000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fauci and the art of turning accountability into the villain",
+          "deck": "After Dr. Anthony Fauci invoked the Fifth Amendment before the Senate Homeland Security Committee last week, Sen. Andy Kim (D-NJ) warned that the hearing could have a “chilling effect” on scientists considering public service. Young researchers, he argued, would think twice before following in Fauci’s footsteps after watching one of the country’s best-known public health […]",
+          "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4679680/fauci-art-turning-accountability-into-villain/",
+          "pub": 1786183200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "Former Marine Is Unresponsive After Mistreatment in Russian Detention, Family Says",
       "pub": 1786183131000,
       "lean": "ll",
@@ -3616,7 +3913,7 @@
       "pub": 1786182880000,
       "lean": "ct",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
@@ -3625,15 +3922,6 @@
           "pub": 1786182880000,
           "src": "NWSN",
           "srcFull": "NewsNation",
-          "lean": "ct"
-        },
-        {
-          "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
-          "deck": "The Senate early Saturday morning confirmed Todd Blanche as the next attorney general, with the nominee narrowly securing sufficient GOP backing after making a number of promises about how he would handle his tenure as the country’s top law enforcement officer.",
-          "link": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/",
-          "pub": 1786178056000,
-          "src": "HILL",
-          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -3653,6 +3941,24 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Schumer said ‘Democrats support voter ID’ — then every Senate Democrat voted against GOP bill",
+      "pub": 1786182493000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Schumer said ‘Democrats support voter ID’ — then every Senate Democrat voted against GOP bill",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
+          "pub": 1786182493000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3747,24 +4053,6 @@
       ]
     },
     {
-      "title": "Senators head for the exits without meeting Trump's demands for voting bill",
-      "pub": 1786180505000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senators head for the exits without meeting Trump's demands for voting bill",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
-          "pub": 1786180505000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Scientists turn to sharks to improve hurricane predictions",
       "pub": 1786180284000,
       "lean": "ll",
@@ -3778,24 +4066,6 @@
           "pub": 1786180284000,
           "src": "YAH",
           "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "pub": 1786179745000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-          "deck": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
-          "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-          "pub": 1786179745000,
-          "src": "NYT",
-          "srcFull": "New York Times",
           "lean": "ll"
         }
       ]
@@ -3887,24 +4157,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
-      "pub": 1786179631000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
-          "deck": "The Senate adjourned for a five-week recess early Saturday morning after passing a bill to fund the federal government until Dec.",
-          "link": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/",
-          "pub": 1786179631000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -4013,6 +4265,24 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s empty threats are prolonging the Iran war",
+      "pub": 1786179600000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s empty threats are prolonging the Iran war",
+          "deck": "America’s war with Iran is at an impasse.",
+          "link": "https://www.washingtonexaminer.com/opinion/editorials/4678046/trumps-empty-threats-are-prolonging-the-iran-war/",
+          "pub": 1786179600000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
         }
       ]
     },
@@ -4166,42 +4436,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-      "pub": 1786176005000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-          "deck": "The Senate voted early Saturday morning to fund the federal government until Dec.",
-          "link": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
-          "pub": 1786176005000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "CEO of the world’s largest workspace provider says commuting will be extinct by 2040—and your kids will think it’s ‘mad stuff’ professionals once did",
-      "pub": 1786176000000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "CEO of the world’s largest workspace provider says commuting will be extinct by 2040—and your kids will think it’s ‘mad stuff’ professionals once did",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/articles/ceo-world-largest-workspace-provider-080000790.html",
-          "pub": 1786176000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -4687,6 +4921,24 @@
           "pub": 1786161691000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The US Navy’s plan for almost 20 guided-missile subs and why that will matter around China",
+      "pub": 1786161689000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "The US Navy’s plan for almost 20 guided-missile subs and why that will matter around China",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/us-navy-plan-almost-20-040129474.html",
+          "pub": 1786161689000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -5191,276 +5443,6 @@
           "pub": 1786151612000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Will Donald Trump, villain to celebs, make Hollywood great again?",
-      "pub": 1786151327000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Will Donald Trump, villain to celebs, make Hollywood great again?",
-          "deck": "No industry loathes President Donald Trump quite like Hollywood.",
-          "link": "https://nypost.com/2026/08/07/opinion/will-donald-trump-villain-to-celebs-make-hollywood-great-again/",
-          "pub": 1786151327000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Inside Ezra Klein’s Listening Habits",
-      "pub": 1786150760000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Inside Ezra Klein’s Listening Habits",
-          "deck": "“Having spaces where I am an experiencer, not a creator, is important for me.",
-          "link": "https://www.nytimes.com/video/opinion/100000011066322/inside-ezra-kleins-listening-habits.html",
-          "pub": 1786150760000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
-      "pub": 1786150728000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/us-expects-deal-soon-strait-230159419.html",
-          "pub": 1786150728000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ezra Klein’s Art of Interviewing",
-      "pub": 1786150628000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ezra Klein’s Art of Interviewing",
-          "deck": "“It’s supposed to be a space for you to think in, not for me to tell you what to think,” the Opinion columnist Ezra Klein says of his interview philosophy on a special “ask me anything” episode of “The Ezra Klein Show.",
-          "link": "https://www.nytimes.com/video/opinion/100000011066321/ezra-kleins-art-of-interviewing.html",
-          "pub": 1786150628000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What Else Are They Hiding?",
-      "pub": 1786150500000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "What Else Are They Hiding?",
-          "deck": "What Else Are They Hiding?",
-          "link": "https://www.zerohedge.com/political/what-else-are-they-hiding",
-          "pub": 1786150500000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
-      "pub": 1786150344000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
-          "deck": "SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.",
-          "link": "https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building",
-          "pub": 1786150344000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "pub": 1786150276000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scale of devastation shocks US city's fire-seasoned residents",
-          "deck": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-          "link": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786150276000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "I went for a full body MOT and the results came as a shock",
-      "pub": 1786150188000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I went for a full body MOT and the results came as a shock",
-          "deck": "The private body scan industry is booming, but is it doing more harm than good?",
-          "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
-          "pub": 1786150188000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Pentagon accuses former Air Force secretary of leaking classified information about Air Force One",
-      "pub": 1786150027000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pentagon accuses former Air Force secretary of leaking classified information about Air Force One",
-          "deck": "“Effective immediately, the Department of War has REVOKED former Secretary of the Air Force Frank Kendall’s eligibility for access to classified information and his ability to hold any sensitive position,” Pentagon spokesman Sean Parnell announced on X.",
-          "link": "https://nypost.com/2026/08/07/us-news/pentagon-accuses-former-air-force-secretary-of-leaking-classified-information-about-air-force-one/",
-          "pub": 1786150027000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mary Eberstadt’s Upcoming Novel, The Washington Zoo",
-      "pub": 1786149728000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mary Eberstadt’s Upcoming Novel, The Washington Zoo",
-          "deck": "I have it on good authority — which should not be a surprise to anyone who knows the author — that this is not a thinly veiled tell-all.",
-          "link": "https://www.nationalreview.com/corner/mary-eberstadts-upcoming-novel-washington-zoo/",
-          "pub": 1786149728000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
-      "pub": 1786149462000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
-          "deck": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains",
-          "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
-          "pub": 1786149462000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Iran Launches Battlefield Trophy Propaganda Campaign With Captured US Reaper Drone",
-      "pub": 1786149000000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran Launches Battlefield Trophy Propaganda Campaign With Captured US Reaper Drone",
-          "deck": "Iran Launches Battlefield Trophy Propaganda Campaign With Captured US Reaper Drone The off-ramp narrative is growing louder.",
-          "link": "https://www.zerohedge.com/military/iran-launches-battlefield-trophy-propaganda-campaign-captured-us-reaper-drone",
-          "pub": 1786149000000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "pub": 1786148967000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-          "deck": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-          "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786148967000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Water rationing begins in Puerto Rico amid drought crisis: \"It's brutal\"",
-      "pub": 1786148757000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Water rationing begins in Puerto Rico amid drought crisis: \"It's brutal\"",
-          "deck": "Puerto Rico's massive rationing measure comes amid a severe drought on top of shortages due to infrastructure issues.",
-          "link": "https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/",
-          "pub": 1786148757000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Two adults, child who disappeared while tubing on river found safe",
-      "pub": 1786148428000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Two adults, child who disappeared while tubing on river found safe",
-          "deck": "Two women and a 9-year-old who disappeared while tubing on a Michigan river earlier this week were found safe Friday afternoon, authorities said.",
-          "link": "https://www.nbcnews.com/news/us-news/two-adults-child-disappeared-tubing-michigan-river-found-safe-rcna591446",
-          "pub": 1786148428000,
-          "src": "NBC",
-          "srcFull": "NBC News",
           "lean": "ll"
         }
       ]
