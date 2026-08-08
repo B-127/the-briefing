@@ -1,22 +1,670 @@
 {
-  "generated": "2026-08-08T08:32:13.586Z",
+  "generated": "2026-08-08T09:30:54.431Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Woman Reveals 4 Symptoms She Ignored Before Multiple Sclerosis Diagnosis",
-      "pub": 1786177800000,
+      "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+      "pub": 1786181042000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+          "deck": "Two grandparents and their 3-year-old grandson were killed after multiple Russian drones destroyed their home.",
+          "link": "https://nypost.com/2026/08/08/world-news/russian-attacks-kill-4-in-kyiv-and-surrounding-region-as-air-defenses-fall-short/",
+          "pub": 1786181042000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Chapman could return to UK next week after brain bleed",
+      "pub": 1786180817000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Woman Reveals 4 Symptoms She Ignored Before Multiple Sclerosis Diagnosis",
-          "deck": "\"I was exhausted all of the time,\" 33-year-old Becky Lee told Newsweek.",
-          "link": "https://www.newsweek.com/woman-reveals-4-symptoms-she-ignored-before-multiple-sclerosis-diagnosis-12296740",
-          "pub": 1786177800000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
+          "title": "Chapman could return to UK next week after brain bleed",
+          "deck": "British boxer Raven Chapman could fly back to the UK next week after undergoing a second successful surgery on a brain bleed she suffered following a sparring session in Denmark.",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2jyzgzv7jo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786180817000,
+          "src": "BBC",
+          "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Senators head for the exits without meeting Trump's demands for voting bill",
+      "pub": 1786180505000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senators head for the exits without meeting Trump's demands for voting bill",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
+          "pub": 1786180505000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Progressives win in Michigan, and a pop star announces a break: The news quiz",
+      "pub": 1786180500000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Progressives win in Michigan, and a pop star announces a break: The news quiz",
+          "deck": "A rocket collides with the moon, restaurants grapple with salmonella, and the CDC finally has a permanent leader.",
+          "link": "https://www.nbcnews.com/news/news-quiz/michigan-senate-news-quiz-rcna591078",
+          "pub": 1786180500000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Child among four people killed in Russian attacks on Ukraine",
+      "pub": 1786180374000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Child among four people killed in Russian attacks on Ukraine",
+          "deck": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least four people",
+          "link": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/",
+          "pub": 1786180374000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A $1.8 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
+      "pub": 1786180189000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "A $1.8 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/options/articles/1-8-million-portfolio-two-090949022.html",
+          "pub": 1786180189000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Oshkosh council member urges city to pass on data centers",
+      "pub": 1786180085000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Oshkosh council member urges city to pass on data centers",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/oshkosh-council-member-urges-city-090805300.html",
+          "pub": 1786180085000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Unemployment rate is falling, but for 'the wrong reason,’ experts say",
+      "pub": 1786179971000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Unemployment rate is falling, but for 'the wrong reason,’ experts say",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/unemployment-rate-falling-wrong-reason-090611257.html",
+          "pub": 1786179971000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Scientists turn to sharks to improve hurricane predictions",
+      "pub": 1786179870000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Scientists turn to sharks to improve hurricane predictions",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/scientists-turn-sharks-improve-hurricane-090430994.html",
+          "pub": 1786179870000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
+      "pub": 1786179840000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-were-3rd-090400850.html",
+          "pub": 1786179840000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Gerdau Q2 Earnings Call Highlights",
+      "pub": 1786179824000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gerdau Q2 Earnings Call Highlights",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/gerdau-q2-earnings-call-highlights-090344592.html",
+          "pub": 1786179824000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "pub": 1786179745000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+          "deck": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
+          "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+          "pub": 1786179745000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+      "pub": 1786179739000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+          "deck": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
+          "pub": 1786179739000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
+      "pub": 1786179735000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
+          "deck": "The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html",
+          "pub": 1786179735000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
+      "pub": 1786179726000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
+          "deck": "Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol.",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html",
+          "pub": 1786179726000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
+      "pub": 1786179722000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
+          "deck": "Brian Poindexter, an ironworker, is in the spotlight in Ohio’s 7th Congressional District, where Mr.",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
+          "pub": 1786179722000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "After a Poisonous Primary, Michigan Democrats Promise to Get Along",
+      "pub": 1786179720000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "After a Poisonous Primary, Michigan Democrats Promise to Get Along",
+          "deck": "The party is racing to get behind Dr.",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html",
+          "pub": 1786179720000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Medicare Advantage’s Perks Are Getting Scrutiny",
+      "pub": 1786179654000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Medicare Advantage’s Perks Are Getting Scrutiny",
+          "deck": "Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs.",
+          "link": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
+          "pub": 1786179654000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
+      "pub": 1786179635000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
+          "deck": "The “Hall of Fame Village” was pitched in 2014 as a boon to the city.",
+          "link": "https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html",
+          "pub": 1786179635000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
+      "pub": 1786179631000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
+          "deck": "The Senate adjourned for a five-week recess early Saturday morning after passing a bill to fund the federal government until Dec.",
+          "link": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/",
+          "pub": 1786179631000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Senate passes bill to avert government shutdown before midterm elections",
+      "pub": 1786179615000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate passes bill to avert government shutdown before midterm elections",
+          "deck": "The bill, which now heads to the House, would prevent a shutdown starting Oct.",
+          "link": "https://www.washingtonpost.com/business/2026/08/08/senate-passes-bill-avert-government-shutdown-before-midterm-elections/",
+          "pub": 1786179615000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "pub": 1786179600000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+          "deck": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers.",
+          "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+          "pub": 1786179600000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Democratic voters who used to back Susan Collins aren’t so sure anymore",
+      "pub": 1786179600000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democratic voters who used to back Susan Collins aren’t so sure anymore",
+          "deck": "Sen. Susan Collins (R-Maine) has counted on split-ticket voters to help her win office in a blue state. Some of those supporters are more reluctant to vote for her again.",
+          "link": "https://www.washingtonpost.com/politics/2026/08/08/democratic-voters-who-used-back-susan-collins-arent-so-sure-anymore/",
+          "pub": 1786179600000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s empty threats are prolonging the Iran war",
+      "pub": 1786179600000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s empty threats are prolonging the Iran war",
+          "deck": "America’s war with Iran is at an impasse.",
+          "link": "https://www.washingtonexaminer.com/opinion/editorials/4678046/trumps-empty-threats-are-prolonging-the-iran-war/",
+          "pub": 1786179600000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Local governments keep misusing federal money meant for crime victims: DOJ inspectors",
+      "pub": 1786179600000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Local governments keep misusing federal money meant for crime victims: DOJ inspectors",
+          "deck": "Officials and private employees across the country are making costly mistakes with federal dollars in a crime victims’ support program, according to the Department of Justice’s inspector general.",
+          "link": "https://www.washingtonexaminer.com/news/investigations/4679220/local-governments-misusing-federal-money-crime-victims-doj/",
+          "pub": 1786179600000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump Treasury pushes banks to stop doing business with illegal immigrants",
+      "pub": 1786179600000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Treasury pushes banks to stop doing business with illegal immigrants",
+          "deck": "President Donald Trump’s second-term crackdown on immigration is increasingly focused on pressuring U.",
+          "link": "https://www.washingtonexaminer.com/policy/finance-and-economy/4679643/trump-treasury-pushes-banks-stop-business-illegal-immigrants/",
+          "pub": 1786179600000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+      "pub": 1786178834000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+          "deck": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
+          "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
+          "pub": 1786178834000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Senate votes to confirm Todd Blanche as attorney general",
+      "pub": 1786178799000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate votes to confirm Todd Blanche as attorney general",
+          "deck": "The Senate narrowly confirmed Todd Blanche as U.",
+          "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+          "pub": 1786178799000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Apple iPhone 18 Pro Could Sell Out Faster Than Ever, New Data Warns",
+      "pub": 1786178716000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Apple iPhone 18 Pro Could Sell Out Faster Than Ever, New Data Warns",
+          "deck": "The next iPhones could sell out fast, as much from low stocks as high demand, it seems.",
+          "link": "https://www.forbes.com/sites/davidphelan/2026/08/08/apple-iphone-18-pro-could-sell-out-faster-than-ever-new-data-warns/",
+          "pub": 1786178716000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Senate confirms Todd Blanche as Trump’s attorney general in 50-49 vote",
+      "pub": 1786178317000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate confirms Todd Blanche as Trump’s attorney general in 50-49 vote",
+          "deck": "Two Republicans, Sens.",
+          "link": "https://nypost.com/2026/08/08/us-news/todd-blanche-confirmed-by-senate-as-trumps-attorney-general-in-50-49-vote/",
+          "pub": 1786178317000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general",
+      "pub": 1786178115000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate confirms Todd Blanche as attorney general",
+          "deck": "In a narrow 50-49 vote, President Trump's former defense lawyer was confirmed as attorney general in a vote early Saturday.",
+          "link": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/",
+          "pub": 1786178115000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Posts misrepresent 2021 suicide-prevention initiative as reaction to South Korean stock market losses",
+      "pub": 1786178074000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Posts misrepresent 2021 suicide-prevention initiative as reaction to South Korean stock market losses",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/posts-misrepresent-2021-suicide-prevention-083434449.html",
+          "pub": 1786178074000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
+      "pub": 1786178056000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
+          "deck": "The Senate early Saturday morning confirmed Todd Blanche as the next attorney general, with the nominee narrowly securing sufficient GOP backing after making a number of promises about how he would handle his tenure as the country’s top law enforcement officer.",
+          "link": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/",
+          "pub": 1786178056000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Senate narrowly approves Blanche as AG, capping tough confirmation fight",
+      "pub": 1786178048000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate narrowly approves Blanche as AG, capping tough confirmation fight",
+          "deck": "The vote grants President Donald Trump’s former criminal defense lawyer a full stint as the head of the Justice Department, which has been rocked by vacancies and controversies.",
+          "link": "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/",
+          "pub": 1786178048000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "pub": 1786178030000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+          "deck": "After weeks of uncertainty, Todd Blanche was confirmed as U.",
+          "link": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457",
+          "pub": 1786178030000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "‘The Simpsons’ actress Nancy Cartwright predicts when hit show will end",
+      "pub": 1786177969000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘The Simpsons’ actress Nancy Cartwright predicts when hit show will end",
+          "deck": "The animation is also getting its second feature film next year, nearly 20 years after 2007’s “The Simpsons Movie.",
+          "link": "https://pagesix.com/2026/08/08/entertainment/the-simpsons-actress-nancy-cartwright-predicts-when-hit-show-will-end/",
+          "pub": 1786177969000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
+      "pub": 1786177935000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/todd-blanche-narrowly-confirmed-trumps-083215319.html",
+          "pub": 1786177935000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -35,6 +683,24 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event",
+      "pub": 1786176670000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event",
+          "deck": "Apple’s next iPhones will go on sale in just over a month.",
+          "link": "https://www.forbes.com/sites/davidphelan/2026/08/08/heres-when-apple-will-reveal-its-iphone-18-pro-special-event-date/",
+          "pub": 1786176670000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -75,114 +741,6 @@
       ]
     },
     {
-      "title": "Illinois transportation company announces mass layoffs",
-      "pub": 1786176261000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Illinois transportation company announces mass layoffs",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/articles/illinois-transportation-company-announces-mass-080421218.html",
-          "pub": 1786176261000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "fuboTV Q3 Earnings Call Highlights",
-      "pub": 1786176241000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "fuboTV Q3 Earnings Call Highlights",
-          "deck": "",
-          "link": "https://finance.yahoo.com/media-advertising/articles/fubotv-q3-earnings-call-highlights-080401998.html",
-          "pub": 1786176241000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Flotek Industries Q2 Earnings Call Highlights",
-      "pub": 1786176241000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Flotek Industries Q2 Earnings Call Highlights",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/flotek-industries-q2-earnings-call-080401091.html",
-          "pub": 1786176241000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Fortuna Mining Q2 Earnings Call Highlights",
-      "pub": 1786176241000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fortuna Mining Q2 Earnings Call Highlights",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/fortuna-mining-q2-earnings-call-080401098.html",
-          "pub": 1786176241000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Shift4 Payments Q2 Earnings Call Highlights",
-      "pub": 1786176240000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Shift4 Payments Q2 Earnings Call Highlights",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/shift4-payments-q2-earnings-call-080400070.html",
-          "pub": 1786176240000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Senate passes bill to avert government shutdown before midterm elections",
-      "pub": 1786176198000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senate passes bill to avert government shutdown before midterm elections",
-          "deck": "The bill, which now heads to the House, would prevent a shutdown starting Oct.",
-          "link": "https://www.washingtonpost.com/business/2026/08/08/senate-passes-bill-avert-government-shutdown-before-midterm-elections/",
-          "pub": 1786176198000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
       "pub": 1786176049000,
       "lean": "ll",
@@ -191,7 +749,7 @@
       "versions": [
         {
           "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
-          "deck": "WASHINGTON — The Senate voted 90-6 to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
+          "deck": "WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
           "link": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359",
           "pub": 1786176049000,
           "src": "NBC",
@@ -214,6 +772,24 @@
           "pub": 1786176009000,
           "src": "FORB",
           "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
+      "pub": 1786176005000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
+          "deck": "The Senate voted early Saturday morning to fund the federal government until Dec.",
+          "link": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
+          "pub": 1786176005000,
+          "src": "HILL",
+          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -673,7 +1249,7 @@
       "pub": 1786169576000,
       "lean": "ct",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -683,15 +1259,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        },
-        {
-          "title": "Child among three killed in Russian missile attacks near Kyiv",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/child-among-three-killed-russian-042340321.html",
-          "pub": 1786166154000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -714,24 +1281,6 @@
       ]
     },
     {
-      "title": "Child among three people killed in Russian attacks on Ukraine",
-      "pub": 1786168902000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Child among three people killed in Russian attacks on Ukraine",
-          "deck": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least three people",
-          "link": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/",
-          "pub": 1786168902000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "10 Things To Know About Next Week’s Total Solar Eclipse",
       "pub": 1786168800000,
       "lean": "ct",
@@ -745,6 +1294,24 @@
           "pub": 1786168800000,
           "src": "FORB",
           "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Woman attacked by bed bugs during Travelodge stay",
+      "pub": 1786168702000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woman attacked by bed bugs during Travelodge stay",
+          "deck": "Hannah Stephenson says the red bites have left her feeling self-conscious and embarrassed.",
+          "link": "https://www.bbc.co.uk/news/articles/cgewxl759r5o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786168702000,
+          "src": "BBC",
+          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -1056,24 +1623,6 @@
       ]
     },
     {
-      "title": "All Eyes Are on AJ Brown During Patriots' Training Camp",
-      "pub": 1786162590000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "All Eyes Are on AJ Brown During Patriots' Training Camp",
-          "deck": "Of course, A.",
-          "link": "https://www.newsweek.com/sports/nfl/all-eyes-are-on-aj-brown-during-patriots-training-camp-12299061",
-          "pub": 1786162590000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "TikTok food critic, 29, details ‘miserable’ experience of contracting ‘explosive diarrhea’ parasite",
       "pub": 1786162526000,
       "lean": "lr",
@@ -1088,24 +1637,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox Extend Improbable Winning Streak in Wild Way",
-      "pub": 1786161883000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Red Sox Extend Improbable Winning Streak in Wild Way",
-          "deck": "The Boston Red Sox pushed their winning streak to nine games on Friday, bringing their record to 27-4 since July 1.",
-          "link": "https://www.newsweek.com/sports/mlb/red-sox-extend-improbable-winning-streak-in-wild-way-12299682",
-          "pub": 1786161883000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1236,24 +1767,6 @@
       ]
     },
     {
-      "title": "James Talarico Pulls Ahead of Ken Paxton for First Time in New Texas Poll",
-      "pub": 1786160072000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "James Talarico Pulls Ahead of Ken Paxton for First Time in New Texas Poll",
-          "deck": "Democrats view flipping the Texas seat as a potential pathway to reclaiming the upper chamber.",
-          "link": "https://www.newsweek.com/james-talarico-pulls-ahead-of-ken-paxton-in-new-texas-poll-12299600",
-          "pub": 1786160072000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "TPS protections terminated for Myanmar, South Sudan migrants",
       "pub": 1786159945000,
       "lean": "ct",
@@ -1308,24 +1821,6 @@
       ]
     },
     {
-      "title": "Aaron Rodgers Reveals 1 Thing He’ll Never Do With His Family Again",
-      "pub": 1786159502000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Aaron Rodgers Reveals 1 Thing He’ll Never Do With His Family Again",
-          "deck": "It's clear that Steelers QB Aaron Rodgers values his privacy, and posting photos with his family has taught him a valuable lesson.",
-          "link": "https://www.newsweek.com/sports/nfl/aaron-rodgers-reveals-1-thing-hell-never-do-with-his-family-again-12299715",
-          "pub": 1786159502000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Pillagers Vs Producers: There's Only Two Ways To Save The Western World",
       "pub": 1786159500000,
       "lean": "lr",
@@ -1346,10 +1841,19 @@
     {
       "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
       "pub": 1786159023000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": false,
       "versions": [
+        {
+          "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/thune-trump-senate-conservatives-reach-031703866.html",
+          "pub": 1786159023000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
         {
           "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
           "deck": "Senate Majority Leader John Thune (R-S.",
@@ -1416,24 +1920,6 @@
       ]
     },
     {
-      "title": "Packers Fans Savagely Roast Top CB After He Got Badly Burned in Practice",
-      "pub": 1786158411000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Packers Fans Savagely Roast Top CB After He Got Badly Burned in Practice",
-          "deck": "Green Bay Packers WR Matthew Golden torched CB Keisean Nixon on a drill in practice, and fans didn't let him live it down.",
-          "link": "https://www.newsweek.com/sports/nfl/packers-fans-savagely-roast-top-cb-after-he-got-badly-burned-in-practice-12299687",
-          "pub": 1786158411000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Senate GOP punts party-line budget fight until after August recess",
       "pub": 1786158313000,
       "lean": "lr",
@@ -1466,42 +1952,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Michael Brockers gives honest opinion about Aaron Donald’s health",
-      "pub": 1786158112000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Michael Brockers gives honest opinion about Aaron Donald’s health",
-          "deck": "Over the last week, momentum has been at an all-time high regarding a potential reunion between Aaron Donald and the Los Angeles Rams and whether Donald can still play at the level he once did.",
-          "link": "https://nypost.com/2026/08/07/sports/michael-brockers-says-aaron-donald-will-want-to-be-100-before-making-decision/",
-          "pub": 1786158112000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox Announce Start of Adley Rutschman's Rehab Assignment",
-      "pub": 1786158059000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Red Sox Announce Start of Adley Rutschman's Rehab Assignment",
-          "deck": "Boston Red Sox interim manager Chad Tracy announced the start date of catcher Adley Rutschman's rehab assignment.",
-          "link": "https://www.newsweek.com/sports/mlb/red-sox-announce-start-of-adley-rutschmans-rehab-assignment-12299599",
-          "pub": 1786158059000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1560,46 +2010,10 @@
       ]
     },
     {
-      "title": "Giants Coach John Harbaugh Drops Exciting Update on Malik Nabers' Recovery",
-      "pub": 1786157731000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Giants Coach John Harbaugh Drops Exciting Update on Malik Nabers' Recovery",
-          "deck": "Giants coach John Harbaugh says this is the best he's seen Malik Nabers look since his knee injury.",
-          "link": "https://www.newsweek.com/sports/nfl/giants-coach-john-harbaugh-drops-exciting-update-on-malik-nabers-recovery-12299571",
-          "pub": 1786157731000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Two of Nolan Wells’ friends returned to island where teen went missing on July 4 boat trip, attorneys say",
-      "pub": 1786157356000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Two of Nolan Wells’ friends returned to island where teen went missing on July 4 boat trip, attorneys say",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/three-nolan-wells-friends-return-162027537.html",
-          "pub": 1786157356000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ghouls are cheering NY’s new suicide law, but look what happened in the Netherlands",
       "pub": 1786157140000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1607,24 +2021,6 @@
           "deck": "New York’s pro-death community must have celebrated Wednesday when the state’s Medical Aid in Dying law kicked in.",
           "link": "https://nypost.com/2026/08/07/opinion/ghouls-are-cheering-nys-new-suicide-law-but-look-what-happened-in-the-netherlands/",
           "pub": 1786157140000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "How UCLA’s Nico Iamaleava plans to absorb fewer hits while protecting body",
-      "pub": 1786156895000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How UCLA’s Nico Iamaleava plans to absorb fewer hits while protecting body",
-          "deck": "Nico Iamaleava’s coaches didn’t have any gripes about his play last season … well, maybe one.",
-          "link": "https://nypost.com/2026/08/07/sports/how-uclas-nico-iamaleava-plans-to-absorb-fewer-hits-while-protecting-body/",
-          "pub": 1786156895000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
@@ -1645,24 +2041,6 @@
           "pub": 1786156879000,
           "src": "NWSN",
           "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Major Update Emerges on Tony Romo’s Future at CBS",
-      "pub": 1786156804000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Major Update Emerges on Tony Romo’s Future at CBS",
-          "deck": "The latest development regarding Tony Romo and CBS doesn't appear to be trending in the ex-Dallas Cowboys QB's favor.",
-          "link": "https://www.newsweek.com/sports/nfl/major-update-emerges-on-tony-romos-future-at-cbs-12299647",
-          "pub": 1786156804000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -1754,24 +2132,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Josh Allen Says He's Never Seen a Bills Team Like This Before",
-      "pub": 1786154634000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Josh Allen Says He's Never Seen a Bills Team Like This Before",
-          "deck": "Josh Allen says this Bills team feels different.",
-          "link": "https://www.newsweek.com/sports/nfl/josh-allen-says-hes-never-seen-a-bills-team-like-this-before-12299475",
-          "pub": 1786154634000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -2100,42 +2460,6 @@
       ]
     },
     {
-      "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "pub": 1786151216000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-          "deck": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
-          "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
-          "pub": 1786151216000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Alabama Linebacker Ranked Among Best Pass Rushers in Nation",
-      "pub": 1786151011000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Alabama Linebacker Ranked Among Best Pass Rushers in Nation",
-          "deck": "Alabama linebacker Yhonzae Pierre is hoping a big 2026 sets him up to be a first-round draft pick.",
-          "link": "https://www.newsweek.com/sports/alabama-linebacker-ranked-among-best-pass-rushers-in-nation-12299519",
-          "pub": 1786151011000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Inside Ezra Klein’s Listening Habits",
       "pub": 1786150760000,
       "lean": "ll",
@@ -2150,42 +2474,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
-      "pub": 1786150728000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/us-expects-deal-soon-strait-230159419.html",
-          "pub": 1786150728000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Hall of Fame QB Heaps Praise on Cardinals Rookie Carson Beck After Debut",
-      "pub": 1786150655000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hall of Fame QB Heaps Praise on Cardinals Rookie Carson Beck After Debut",
-          "deck": "NFL Hall of Fame quarterback Kurt Warner was impressed by Cardinals rookie QB Carson Beck after his preseason debut.",
-          "link": "https://www.newsweek.com/sports/nfl/hall-of-fame-qb-heaps-praise-on-cardinals-rookie-carson-beck-after-debut-12299468",
-          "pub": 1786150655000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -2316,24 +2604,6 @@
       ]
     },
     {
-      "title": "SEC Has Top 3 Edge Rushers in Country, Analyst Says",
-      "pub": 1786149899000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "SEC Has Top 3 Edge Rushers in Country, Analyst Says",
-          "deck": "NFL Draft analyst Todd McShay thinks the best pass-rushing talent in the country is in the SEC.",
-          "link": "https://www.newsweek.com/sports/sec-has-top-3-edge-rushers-in-country-analyst-says-12299467",
-          "pub": 1786149899000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Mary Eberstadt’s Upcoming Novel, Washington Zoo",
       "pub": 1786149728000,
       "lean": "lr",
@@ -2406,24 +2676,6 @@
       ]
     },
     {
-      "title": "Angels Claim 6-Foot-5 Pitcher Off Waivers From Red Sox",
-      "pub": 1786148882000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Angels Claim 6-Foot-5 Pitcher Off Waivers From Red Sox",
-          "deck": "The Los Angeles Angels have made a move, as they have claimed pitcher Ryan Watson off of waivers from the Boston Red Sox.",
-          "link": "https://www.newsweek.com/sports/mlb/angels-claim-6-foot-5-pitcher-off-waivers-from-red-sox-12299493",
-          "pub": 1786148882000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Water rationing begins in Puerto Rico amid drought crisis: \"It's brutal\"",
       "pub": 1786148757000,
       "lean": "ll",
@@ -2474,24 +2726,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "AJ Brown Shares What's Different About His First Camp With the Patriots",
-      "pub": 1786148397000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "AJ Brown Shares What's Different About His First Camp With the Patriots",
-          "deck": "The Patriots' blockbuster trade for A.",
-          "link": "https://www.newsweek.com/sports/nfl/aj-brown-shares-whats-different-about-his-first-camp-with-the-patriots-12299454",
-          "pub": 1786148397000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -2622,20 +2856,20 @@
       ]
     },
     {
-      "title": "Lindsay Clancy Murder Trial: 5 Biggest Bombshells of Second Week Testimony",
-      "pub": 1786147295000,
-      "lean": "ct",
+      "title": "Senate confirms Blanche as attorney general",
+      "pub": 1786147200000,
+      "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Lindsay Clancy Murder Trial: 5 Biggest Bombshells of Second Week Testimony",
-          "deck": "The second week of Lindsay Clancy’s murder trial was marked by rising tensions in the courtroom.",
-          "link": "https://www.newsweek.com/lindsay-clancy-murder-trial-5-biggest-bombshells-of-second-week-testimony-12298550",
-          "pub": 1786147295000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
+          "title": "Senate confirms Blanche as attorney general",
+          "deck": "The final vote was 50-49, with Republican Sens.",
+          "link": "https://justthenews.com/government/congress/senate-confirms-blanche-attorney-general?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+          "pub": 1786147200000,
+          "src": "JTN",
+          "srcFull": "Just the News",
+          "lean": "lr"
         }
       ]
     },
@@ -2708,24 +2942,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Cooper Kupp Gets Glowing Review From Seahawks Teammate Ahead of 2026",
-      "pub": 1786147044000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cooper Kupp Gets Glowing Review From Seahawks Teammate Ahead of 2026",
-          "deck": "Cooper Kupp's production dropped in Seattle last year, but his teammates say his value to the team has never been higher.",
-          "link": "https://www.newsweek.com/sports/nfl/cooper-kupp-gets-glowing-review-from-seahawks-teammate-ahead-of-2026-12299348",
-          "pub": 1786147044000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -2955,14 +3171,14 @@
       ]
     },
     {
-      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
       "pub": 1786144992000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
           "deck": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
           "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
           "pub": 1786144992000,
@@ -2973,19 +3189,19 @@
       ]
     },
     {
-      "title": "Who Is Frank Kendall? Ex-Air Force Secretary’s Classified Access Revoked",
-      "pub": 1786144819000,
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "pub": 1786144992000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Who Is Frank Kendall? Ex-Air Force Secretary’s Classified Access Revoked",
-          "deck": "The move comes as questions continue over the handling of classified information and government oversight.",
-          "link": "https://www.newsweek.com/who-is-frank-kendall-ex-air-force-secretarys-classified-access-revoked-12299333",
-          "pub": 1786144819000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "deck": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786144992000,
+          "src": "BBC",
+          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -3063,24 +3279,6 @@
       ]
     },
     {
-      "title": "Kevin Durant Calls Out Disrespect From NBA 2K Video Game",
-      "pub": 1786144309000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kevin Durant Calls Out Disrespect From NBA 2K Video Game",
-          "deck": "Kevin Durant took exception to the rating the NBA 2K video game gave him for a specific aspect of his game.",
-          "link": "https://www.newsweek.com/sports/nba/kevin-durant-calls-out-disrespect-from-nba-2k-video-game-12299272",
-          "pub": 1786144309000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Pentagon yanks former Air Force secretary's access to classified info",
       "pub": 1786144280000,
       "lean": "ct",
@@ -3149,24 +3347,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Justice Alito Says He Won't Decide Cases Based on Correlation With Trump",
-      "pub": 1786143868000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justice Alito Says He Won't Decide Cases Based on Correlation With Trump",
-          "deck": "Alito says he will continue deciding cases based on his interpretation of the law rather than any perceived alignment with Trump.",
-          "link": "https://www.newsweek.com/justice-alito-says-he-wont-decide-cases-based-on-correlation-with-trump-12298789",
-          "pub": 1786143868000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -3621,42 +3801,6 @@
       ]
     },
     {
-      "title": "Trump restarts effort to fire Fed's Lisa Cook",
-      "pub": 1786141066000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump restarts effort to fire Fed's Lisa Cook",
-          "deck": "President Trump is reportedly renewing his effort to boot Federal Reserve Governor Lisa Cook from her position, despite the Supreme Court thwarting his earlier attempt in June.",
-          "link": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
-          "pub": 1786141066000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ex-White House official nominated as DOI watchdog",
-      "pub": 1786141024000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ex-White House official nominated as DOI watchdog",
-          "deck": "{beacon} Energy & Environment Energy & Environment The Big Story Ex-White House official nominated as DOI watchdog President Trump has nominated a former White House official and Project 2025 author to be the Interior Department’s internal watchdog, a move that critics say could hurt the integrity of the office’s investigations.",
-          "link": "https://thehill.com/newsletters/energy-environment/6017912-ex-white-house-official-nominated-as-doi-watchdog/",
-          "pub": 1786141024000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "New Jersey attorney general opens civil rights investigation into Delaney Hall ICE center",
       "pub": 1786140982000,
       "lean": "lr",
@@ -3729,24 +3873,6 @@
       ]
     },
     {
-      "title": "Alito to WSJ: ‘Obviously I’m here for another term’",
-      "pub": 1786140509000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Alito to WSJ: ‘Obviously I’m here for another term’",
-          "deck": "Justice Samuel Alito shut down any notion he’s planning to imminently retire from the Supreme Court in an interview with The Wall Street Journal published Friday.",
-          "link": "https://thehill.com/regulation/court-battles/6017904-supreme-court-samuel-alito-retirement-response/",
-          "pub": 1786140509000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Fast Takes: Don’t bet on DSA sinking party, Venezuelans want real change and more",
       "pub": 1786140486000,
       "lean": "lr",
@@ -3815,24 +3941,6 @@
           "src": "RCP",
           "srcFull": "RealClear Politics",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "England's Hull closes in on Huang after historic 62",
-      "pub": 1786140211000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "England's Hull closes in on Huang after historic 62",
-          "deck": "Charley Hull's 62 equals the lowest round in Ladies European Tour history and also breaks the course record at the Centurion Club to move within one stroke of the lead at the PIF London Championship.",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/cn9nz8n7yrno?at_medium=RSS&at_campaign=rss",
-          "pub": 1786140211000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -4407,7 +4515,7 @@
       "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
       "pub": 1786137857000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4418,24 +4526,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Memphis forward Brandon Clarke died from effects of heroin and cocaine, authorities say",
-      "pub": 1786137847000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Memphis forward Brandon Clarke died from effects of heroin and cocaine, authorities say",
-          "deck": "",
-          "link": "https://sports.yahoo.com/articles/memphis-forward-brandon-clarke-died-212407114.html",
-          "pub": 1786137847000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -4584,24 +4674,6 @@
       ]
     },
     {
-      "title": "Trump reveals $180 million in grants to expand mining education",
-      "pub": 1786137223000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump reveals $180 million in grants to expand mining education",
-          "deck": "President Donald Trump announced more than $180 million in grants to expand mining education across the country as part of his administration’s goal to boost the critical mineral industry.",
-          "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4679631/trump-180-million-grants-mining-education/",
-          "pub": 1786137223000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Police failings revealed as sex offender left free to murder and attack women",
       "pub": 1786137048000,
       "lean": "ct",
@@ -4695,7 +4767,7 @@
       "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
       "pub": 1786136745000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4706,6 +4778,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Late night flights suspended due to runway defect",
+      "pub": 1786136734000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Late night flights suspended due to runway defect",
+          "deck": "",
+          "link": "https://travel.yahoo.com/news/articles/flights-suspended-overnight-due-runway-195845749.html",
+          "pub": 1786136734000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4831,24 +4921,6 @@
           "pub": 1786136100000,
           "src": "ZH",
           "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Ogles says Republicans should ‘take notice’ of liberal spending in GOP primaries",
-      "pub": 1786135895000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ogles says Republicans should ‘take notice’ of liberal spending in GOP primaries",
-          "deck": "Rep. Andy Ogles (R-TN) blamed his primary loss on a flood of outside spending, singling out a clean energy group that dumped millions into the race and arguing that the “radical left successfully employed a strategy to influence” the outcome. “Republicans across the country should take notice,” Ogles told the Washington Examiner in a text […]",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4679661/ogles-republicans-leftist-spending-primaries-tennessee/",
-          "pub": 1786135895000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
           "lean": "lr"
         }
       ]
@@ -5353,78 +5425,6 @@
           "pub": 1786134137000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Psychiatrists who treated Lindsay Clancy testify at murder trial",
-      "pub": 1786134017000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Psychiatrists who treated Lindsay Clancy testify at murder trial",
-          "deck": "The trial of a mother accused of killing her three children has wrapped its second week.",
-          "link": "https://www.nbcnews.com/now/video/psychiatrists-who-treated-lindsay-clancy-testify-at-murder-trial-267960901794",
-          "pub": 1786134017000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Democratic Party's Four-Way Squeeze",
-      "pub": 1786134000000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Democratic Party's Four-Way Squeeze",
-          "deck": "The Democratic Party's Four-Way Squeeze Authored by James Howard Kunstler, “.",
-          "link": "https://www.zerohedge.com/political/democratic-partys-four-way-squeeze",
-          "pub": 1786134000000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Dr. Oz asks Senate to delay hemp ban to keep CBD coverage for seniors on Medicare",
-      "pub": 1786133987000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dr. Oz asks Senate to delay hemp ban to keep CBD coverage for seniors on Medicare",
-          "deck": "Centers for Medicare and Medicaid Services Administrator Mehmet Oz is wading into the debate over hemp ripping through the halls of the Senate this week, asking the chamber to keep a provision in the continuing resolution that would delay an impending ban on hemp products.",
-          "link": "https://www.washingtonexaminer.com/policy/healthcare/4679494/dr-oz-senate-delay-hemp-ban/",
-          "pub": 1786133987000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation",
-      "pub": 1786133941000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation",
-          "deck": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
-          "link": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/",
-          "pub": 1786133941000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
           "lean": "ll"
         }
       ]
