@@ -1,37 +1,217 @@
 {
-  "generated": "2026-08-09T14:27:53.689Z",
+  "generated": "2026-08-09T15:01:28.971Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Abdul El-Sayed says he hopes to campaign with Obama after phone call to discuss campaign",
-      "pub": 1786285346000,
+      "title": "The unaccountability trap in government",
+      "pub": 1786287600000,
+      "lean": "ct",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The unaccountability trap in government",
+          "deck": "The author argues that while the Supreme Court recently affirmed presidential authority over independent agencies in Trump v.",
+          "link": "https://thehill.com/opinion/judiciary/6018111-supreme-court-fed-independence/",
+          "pub": 1786287600000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "AOC starts process of freezing her eggs, hints at 2028 mindset: ‘I think it’s badass’",
+      "pub": 1786287584000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "AOC starts process of freezing her eggs, hints at 2028 mindset: ‘I think it’s badass’",
+          "deck": "\"Squad\" Rep.",
+          "link": "https://nypost.com/2026/08/09/us-news/aoc-starts-process-of-freezing-her-eggs-hints-at-2028-mindset-i-think-its-badass/",
+          "pub": 1786287584000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
+      "pub": 1786287451000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Abdul El-Sayed says he hopes to campaign with Obama after phone call to discuss campaign",
-          "deck": "Michigan Senate nominnee Abdul El-Sayed confirmed that he spoke to former President Barack Obama adding that he hopes to campaign with him this fall.",
-          "link": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169",
-          "pub": 1786285346000,
-          "src": "NBC",
-          "srcFull": "NBC News",
+          "title": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
+          "deck": "President Trump hailed the peace plan​ as a \"historic agreement for the complete disarmament of Hamas and all other groups in Gaza.",
+          "link": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/",
+          "pub": 1786287451000,
+          "src": "CBS",
+          "srcFull": "CBS News",
           "lean": "ll"
         }
       ]
     },
     {
-      "title": "Syria Agrees to Reorganized Russian Military Presence",
-      "pub": 1786285268000,
+      "title": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Aug. 9, 2026",
+      "pub": 1786287437000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Syria Agrees to Reorganized Russian Military Presence",
-          "deck": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria.",
-          "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-          "pub": 1786285268000,
+          "title": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Aug. 9, 2026",
+          "deck": "The following is the transcript of an interview with Sen.",
+          "link": "https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-08-09-2026/",
+          "pub": 1786287437000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fauci held in contempt: Letters to the Editor — Aug. 10, 2026",
+      "pub": 1786287300000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fauci held in contempt: Letters to the Editor — Aug. 10, 2026",
+          "deck": "The Issue: Dr.",
+          "link": "https://nypost.com/2026/08/09/opinion/fauci-held-in-contempt-letters/",
+          "pub": 1786287300000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "After bitter primary, El-Sayed faces daunting task of unifying Democrats",
+      "pub": 1786287168000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "After bitter primary, El-Sayed faces daunting task of unifying Democrats",
+          "deck": "Before going up against Republican Mike Rogers in November, Abdul El-Sayed must heal the wounds from his fierce race against Rep.",
+          "link": "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/",
+          "pub": 1786287168000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Woman, 5-month-old baby die after vessel overturns in New York Harbor",
+      "pub": 1786287052000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woman, 5-month-old baby die after vessel overturns in New York Harbor",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/woman-baby-die-vessel-overturns-100640178.html",
+          "pub": 1786287052000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jake Johnson Wanted Nick To Be “Fully Nude” In ‘New Girl’ Reunion, Says Creator Liz Meriwether",
+      "pub": 1786286735000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jake Johnson Wanted Nick To Be “Fully Nude” In ‘New Girl’ Reunion, Says Creator Liz Meriwether",
+          "deck": "Nick Miller was apparently ready to drop trou.",
+          "link": "https://decider.com/2026/08/09/jake-johnson-wanted-nick-fully-nude-new-girl-reunion-creator-liz-meriwether/",
+          "pub": 1786286735000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+      "pub": 1786286717000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+          "deck": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
+          "link": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+          "pub": 1786286717000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hassett: Fuel prices 'still higher than we would like’",
+      "pub": 1786286663000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hassett: Fuel prices 'still higher than we would like’",
+          "deck": "National Economic Council Director Kevin Hassett on Sunday expressed concern about continued high fuel prices amid the ongoing conflict with Iran.",
+          "link": "https://thehill.com/business/6019077-hassett-high-gas-prices-iran-war/",
+          "pub": 1786286663000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Bruce Willis and Demi Moore’s youngest daughter, Tallulah, marries musician Justin Acee in intimate Idaho wedding",
+      "pub": 1786286646000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bruce Willis and Demi Moore’s youngest daughter, Tallulah, marries musician Justin Acee in intimate Idaho wedding",
+          "deck": "The couple got engaged in December 2024.",
+          "link": "https://pagesix.com/2026/08/09/celebrity-news/bruce-willis-and-demi-moores-youngest-daughter-tallulah-marries-musician-justin-acee/",
+          "pub": 1786286646000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+      "pub": 1786286642000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+          "deck": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
+          "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+          "pub": 1786286642000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -39,8 +219,152 @@
       ]
     },
     {
+      "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+      "pub": 1786286580000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-sits-12-below-high-144300863.html",
+          "pub": 1786286580000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Cheer Boy George for backing Jews over haters — even as it costs him his career",
+      "pub": 1786286565000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Cheer Boy George for backing Jews over haters — even as it costs him his career",
+          "deck": "Sometimes, bravery is found in unexpected places.",
+          "link": "https://nypost.com/2026/08/09/opinion/cheer-boy-george-for-backing-jews-over-haters-and-his-career/",
+          "pub": 1786286565000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Shipwreck, jars more than 2,000 years old found off Italian coast",
+      "pub": 1786286524000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Shipwreck, jars more than 2,000 years old found off Italian coast",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/shipwreck-jars-more-2-000-144204490.html",
+          "pub": 1786286524000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Farmers' markets see spike in visits amid foodborne illness fears",
+      "pub": 1786286466000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Farmers' markets see spike in visits amid foodborne illness fears",
+          "deck": "FreshFarm Executive Director Catherine Oakar says customers are seeking more transparency from growers.",
+          "link": "https://www.newsnationnow.com/entertainment-news/food/farmers-markets-spike-foodborne-illness-cyclospora-salmonella-jalepeno-lettuce/",
+          "pub": 1786286466000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
+      "pub": 1786286119000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
+          "deck": "Gustavo Gordillo, a leader of the New York D.",
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
+          "pub": 1786286119000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Warren Buffett Donated $6 Billion of Berkshire Stock to Family Foundations and Cut Off the Gates Foundation for the First Time in 20 Years. Does This Change the Investment Case for Berkshire?",
+      "pub": 1786286100000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Warren Buffett Donated $6 Billion of Berkshire Stock to Family Foundations and Cut Off the Gates Foundation for the First Time in 20 Years. Does This Change the Investment Case for Berkshire?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-donated-6-billion-143500942.html",
+          "pub": 1786286100000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Port Washington two wins from Little League World Series after taking first regional game",
+      "pub": 1786286090000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Port Washington two wins from Little League World Series after taking first regional game",
+          "deck": "Port is now two wins away from Williamsport, Pa.",
+          "link": "https://nypost.com/2026/08/09/sports/port-washington-two-wins-from-llws-after-taking-first-regional-game/",
+          "pub": 1786286090000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Study: Europe ill-prepared for Russian drone attacks",
+      "pub": 1786286011000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Study: Europe ill-prepared for Russian drone attacks",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/study-europe-ill-prepared-russian-143331805.html",
+          "pub": 1786286011000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "pub": 1786285247000,
+      "pub": 1786285914000,
       "lean": "ll",
       "cat": "World",
       "single": true,
@@ -49,9 +373,171 @@
           "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
           "deck": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
           "link": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-          "pub": 1786285247000,
+          "pub": 1786285914000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Women Are Calling Out Silence Around Menopause And Perimenopause",
+      "pub": 1786285862000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Women Are Calling Out Silence Around Menopause And Perimenopause",
+          "deck": "",
+          "link": "https://www.yahoo.com/lifestyle/articles/women-calling-silence-around-menopause-143102459.html",
+          "pub": 1786285862000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Syria Agrees to Reorganized Russian Military Presence",
+      "pub": 1786285854000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Syria Agrees to Reorganized Russian Military Presence",
+          "deck": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria.",
+          "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+          "pub": 1786285854000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Sanders calls on Democrat leaders to ban \"corrupt\" super PAC donations",
+      "pub": 1786285800000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sanders calls on Democrat leaders to ban \"corrupt\" super PAC donations",
+          "deck": "Sen. Bernie Sanders highlighted the hundreds of millions of dollars spent by outside organizations during the 2026 midterm cycle.",
+          "link": "https://www.cbsnews.com/news/bernie-sanders-super-pac-funding-letter-schumer-jeffries-martin/",
+          "pub": 1786285800000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Alien-Looking Sea Creature That Accidentally Cleans the Ocean",
+      "pub": 1786285800000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Alien-Looking Sea Creature That Accidentally Cleans the Ocean",
+          "deck": "",
+          "link": "https://www.yahoo.com/lifestyle/articles/alien-looking-sea-creature-accidentally-143000857.html",
+          "pub": 1786285800000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Two tiny states consume more booze than any other in the US: here’s why",
+      "pub": 1786285800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Two tiny states consume more booze than any other in the US: here’s why",
+          "deck": "A recent poll found that two small but mighty states take the lead for alcohol consumption.",
+          "link": "https://nypost.com/2026/08/09/lifestyle/bottoms-up-two-tiny-states-that-consume-the-most-alcohol-revealed/",
+          "pub": 1786285800000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "UN Sounds Alarm As Iran Steps Up Executions To Silence Dissent",
+      "pub": 1786285800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "UN Sounds Alarm As Iran Steps Up Executions To Silence Dissent",
+          "deck": "UN Sounds Alarm As Iran Steps Up Executions To Silence Dissent Authored by Tom Ozimek via The Epoch Times, The United Nations human rights chief has expressed alarm over a sharp increase in executions and death sentences in Iran, warning that authorities are using capital punishment to intimidate the population and suppress dissent.",
+          "link": "https://www.zerohedge.com/geopolitical/un-sounds-alarm-iran-steps-executions-silence-dissent",
+          "pub": 1786285800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
+      "pub": 1786285684000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
+          "deck": "New York Rep.",
+          "link": "https://thehill.com/homenews/campaign/6019067-aoc-new-age-progressives-take-reins/",
+          "pub": 1786285684000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Niagara Falls family demands relocation after finding suspected industrial waste in their yard",
+      "pub": 1786285449000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Niagara Falls family demands relocation after finding suspected industrial waste in their yard",
+          "deck": "The family made the discovery after doing some digging for an above ground pool in their yard.",
+          "link": "https://www.newsnationnow.com/us-news/northeast/niagara-falls-family-demands-relocation-suspected-industrial-waste-yard/",
+          "pub": 1786285449000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Abdul El-Sayed says he hopes to campaign with Obama after ‘warm and inspiring’ call",
+      "pub": 1786285346000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Abdul El-Sayed says he hopes to campaign with Obama after ‘warm and inspiring’ call",
+          "deck": "Michigan Senate nominnee Abdul El-Sayed confirmed that he spoke to former President Barack Obama adding that he hopes to campaign with him this fall.",
+          "link": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169",
+          "pub": 1786285346000,
+          "src": "NBC",
+          "srcFull": "NBC News",
           "lean": "ll"
         }
       ]
@@ -83,7 +569,7 @@
       "versions": [
         {
           "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "deck": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+          "deck": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
           "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
           "pub": 1786285090000,
           "src": "BBC",
@@ -156,42 +642,6 @@
       ]
     },
     {
-      "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
-      "pub": 1786284580000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/ukraines-odesa-port-sustains-damage-095009632.html",
-          "pub": 1786284580000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "CNN’s Jake Tapper Grills Top Trump Advisor on Economic Double Talk: ‘How Do You Square’ it?",
-      "pub": 1786284488000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "CNN’s Jake Tapper Grills Top Trump Advisor on Economic Double Talk: ‘How Do You Square’ it?",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/cnn-jake-tapper-grills-top-140808956.html",
-          "pub": 1786284488000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "What happens if someone dies in space?",
       "pub": 1786284484000,
       "lean": "ll",
@@ -210,68 +660,14 @@
       ]
     },
     {
-      "title": "Jeff Bezos breaks his own Amazon record",
-      "pub": 1786284420000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jeff Bezos breaks his own Amazon record",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-breaks-own-amazon-140700871.html",
-          "pub": 1786284420000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Social Security Said He Owed $18,000. Before Draining His Savings, He Had Three Cards to Play.",
-      "pub": 1786284320000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Social Security Said He Owed $18,000. Before Draining His Savings, He Had Three Cards to Play.",
-          "deck": "",
-          "link": "https://247wallst.com/personal-finance/social-security/2026/08/09/social-security-said-he-owed-18000-before-draining-his-savings-he-had-three-ways-to-respond/",
-          "pub": 1786284320000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Can You Ace This Simple Investing Quiz? Test Your Stock Market Knowledge.",
-      "pub": 1786284300000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Can You Ace This Simple Investing Quiz? Test Your Stock Market Knowledge.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ace-simple-investing-quiz-test-140500572.html",
-          "pub": 1786284300000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Boat capsizes near Statue of Liberty, killing woman and child",
+      "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and child",
       "pub": 1786284266000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Boat capsizes near Statue of Liberty, killing woman and child",
+          "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and child",
           "deck": "A woman and a 5-month-old baby died after a boat capsized near Liberty Island in the New York Harbor Saturday night.",
           "link": "https://www.nbcnews.com/news/us-news/woman-infant-dead-boat-capsizes-liberty-island-rcna591568",
           "pub": 1786284266000,
@@ -444,14 +840,14 @@
       ]
     },
     {
-      "title": "Woman and Five-Month-Old Baby Killed After Boat Flips Off New York",
+      "title": "Boat Captain Arrested After Woman and Baby Die in New York Boat Capsizing",
       "pub": 1786283855000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Woman and Five-Month-Old Baby Killed After Boat Flips Off New York",
+          "title": "Boat Captain Arrested After Woman and Baby Die in New York Boat Capsizing",
           "deck": "The pair died after a boat overturned in New York Harbor near the Statue of Liberty, police said.",
           "link": "https://www.newsweek.com/woman-baby-killed-boat-capsize-new-york-12301592",
           "pub": 1786283855000,
@@ -584,6 +980,24 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "pub": 1786283028000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/fast-moving-canada-wildfire-doubles-181354317.html",
+          "pub": 1786283028000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -904,11 +1318,20 @@
     },
     {
       "title": "Abdul El-Sayed says he spoke with Obama after primary win, hopes he’ll campaign for him",
-      "pub": 1786281401000,
+      "pub": 1786281405000,
       "lean": "ll",
-      "cat": "Politics",
-      "single": true,
+      "cat": "Technology",
+      "single": false,
       "versions": [
+        {
+          "title": "Abdul El-Sayed says he spoke with Obama after primary win, hopes he’ll campaign for him",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/abdul-el-sayed-says-spoke-131645447.html",
+          "pub": 1786281405000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
         {
           "title": "Abdul El-Sayed says he spoke with Obama after primary win, hopes he’ll campaign for him",
           "deck": "In an interview with Meet the Press, Michigan Democratic Senate nominee Abdul El-Sayed says he “really enjoyed” his recent conversation with former President Barack Obama and hopes he’ll campaign with him ahead of the general election.",
@@ -1029,24 +1452,6 @@
       ]
     },
     {
-      "title": "Fulham agree £30m fee for Southampton's Charles",
-      "pub": 1786281010000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fulham agree £30m fee for Southampton's Charles",
-          "deck": "Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786281010000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "pub": 1786280901000,
       "lean": "ct",
@@ -1061,6 +1466,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact",
+      "pub": 1786280809000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/yemens-houthis-attacked-saudi-aramco-074652468.html",
+          "pub": 1786280809000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -1173,24 +1596,6 @@
       ]
     },
     {
-      "title": "Scammers duped California city into wiring nearly $1M meant for rec center",
-      "pub": 1786280400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scammers duped California city into wiring nearly $1M meant for rec center",
-          "deck": "The sophisticated scam involved a tiny email alteration and fraudsters hacking an assistant to the city manager’s email.",
-          "link": "https://nypost.com/2026/08/09/us-news/pittsburg-says-it-fell-victim-to-913k-nigeria-phishing-scam/",
-          "pub": 1786280400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "September Social Security direct payment worth $994 goes out in 23 days",
       "pub": 1786280400000,
       "lean": "lr",
@@ -1205,24 +1610,6 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Rehovot resident arrested for allegedly operating shell companies, tax fraud, Tax Authority says",
-      "pub": 1786280397000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rehovot resident arrested for allegedly operating shell companies, tax fraud, Tax Authority says",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/rehovot-resident-arrested-allegedly-operating-125957610.html",
-          "pub": 1786280397000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -1312,24 +1699,6 @@
           "pub": 1786279716000,
           "src": "NPR",
           "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
-      "pub": 1786279627000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
-          "deck": "President Trump hailed the peace plan​ as a \"historic agreement for the complete disarmament of Hamas and all other groups in Gaza.",
-          "link": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/",
-          "pub": 1786279627000,
-          "src": "CBS",
-          "srcFull": "CBS News",
           "lean": "ll"
         }
       ]
@@ -1439,60 +1808,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Yemen's Houthis say they hit Saudi energy facility amid escalation",
-      "pub": 1786278821000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Yemen's Houthis say they hit Saudi energy facility amid escalation",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/yemens-houthis-hit-saudi-energy-123341383.html",
-          "pub": 1786278821000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Cash-strapped Gen Zers are tapping retirement funds to care for their kids and parents, study says",
-      "pub": 1786278600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cash-strapped Gen Zers are tapping retirement funds to care for their kids and parents, study says",
-          "deck": "They’re struggling to foot the Z bill.",
-          "link": "https://nypost.com/2026/08/09/lifestyle/gen-z-using-retirement-funds-to-support-their-kids-parents/",
-          "pub": 1786278600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Liberty vs. Aces WNBA prediction: Picks, odds, best bet Sunday",
-      "pub": 1786278600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Liberty vs. Aces WNBA prediction: Picks, odds, best bet Sunday",
-          "deck": "The Liberty aim to extend their winning streak at home as the reigning WNBA champions, the Aces, visit for a high-stakes Sunday afternoon game.",
-          "link": "https://nypost.com/2026/08/09/betting/liberty-vs-aces-wnba-prediction-picks-odds-best-bet-sunday/",
-          "pub": 1786278600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1623,24 +1938,6 @@
       ]
     },
     {
-      "title": "Man Utd working on deal to sign Leicester teenager Page",
-      "pub": 1786277639000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man Utd working on deal to sign Leicester teenager Page",
-          "deck": "Manchester United are working on a deal to sign Leicester teenager Louis Page.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786277639000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Map Shows Five Threats Brewing In Pacific, Atlantic as Hurricane Risk Rises",
       "pub": 1786277605000,
       "lean": "ct",
@@ -1659,16 +1956,16 @@
       ]
     },
     {
-      "title": "What explains abortions going up despite stricter laws in many states?",
+      "title": "Can birth control trends explain the rise in abortions? It's complicated",
       "pub": 1786277535000,
       "lean": "ll",
-      "cat": "Health",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "What explains abortions going up despite stricter laws in many states?",
-          "deck": "The number of abortions is up in the U.",
-          "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/what-explains-abortions-going-up-despite-stricter-laws-in-many-states",
+          "title": "Can birth control trends explain the rise in abortions? It's complicated",
+          "deck": "The number of abortions is up in the United States.",
+          "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
           "pub": 1786277535000,
           "src": "NPR",
           "srcFull": "NPR",
@@ -1770,7 +2067,7 @@
       "title": "Mt. Vernon lunacy and more: Letters to the Editor — Aug. 9, 2026",
       "pub": 1786276904000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1911,28 +2208,10 @@
       ]
     },
     {
-      "title": "In increasingly absurd world of college sports, some sanity is a must",
-      "pub": 1786276800000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "In increasingly absurd world of college sports, some sanity is a must",
-          "deck": "Welcome to the 2040 Dubai Bowl, featuring UCLA and Michigan in a battle of tradition-rich college football teams.",
-          "link": "https://nypost.com/2026/08/09/sports/college-sports-needs-saving-from-itself-with-sane-solutions/",
-          "pub": 1786276800000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Resentful lefties are making a new push for reparations. My own research reveals they know nothing about American history",
       "pub": 1786276800000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2379,24 +2658,6 @@
       ]
     },
     {
-      "title": "Morgan Freeman Says He’ll Take a Movie With a “Mediocre” Script If the Pay Is Good Enough",
-      "pub": 1786275000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Morgan Freeman Says He’ll Take a Movie With a “Mediocre” Script If the Pay Is Good Enough",
-          "deck": "At nearly 90, the Oscar winner still has work to do.",
-          "link": "https://decider.com/2026/08/09/morgan-freeman-movie-mediocre-script-if-pay-good-enough/",
-          "pub": 1786275000000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
       "pub": 1786274580000,
       "lean": "ll",
@@ -2469,6 +2730,24 @@
       ]
     },
     {
+      "title": "I went from wedding DJ to Meta engineer, then was laid off after 13 years. My last years there brought constant change.",
+      "pub": 1786273741000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "I went from wedding DJ to Meta engineer, then was laid off after 13 years. My last years there brought constant change.",
+          "deck": "",
+          "link": "https://www.yahoo.com/lifestyle/articles/went-wedding-dj-meta-engineer-110901865.html",
+          "pub": 1786273741000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Longest serving volunteer helps boost bird numbers",
       "pub": 1786273450000,
       "lean": "ct",
@@ -2483,6 +2762,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Dad sues after school allegedly won't say if biological males can use daughter's bathroom",
+      "pub": 1786273251000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dad sues after school allegedly won't say if biological males can use daughter's bathroom",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/dad-sues-school-allegedly-wont-110051586.html",
+          "pub": 1786273251000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -2865,24 +3162,6 @@
       ]
     },
     {
-      "title": "⁠Is ICE using too much force? New poll shows big public opinion shift",
-      "pub": 1786269771000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "⁠Is ICE using too much force? New poll shows big public opinion shift",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/ice-using-much-force-poll-100251063.html",
-          "pub": 1786269771000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Brickbats: August/September 2026",
       "pub": 1786269650000,
       "lean": "ct",
@@ -3081,16 +3360,16 @@
       ]
     },
     {
-      "title": "First round of August Social Security payments goes out in three days",
+      "title": "Will Newsom and Vance last as presumed 2028 front-runners? Experts weigh in",
       "pub": 1786269600000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "First round of August Social Security payments goes out in three days",
-          "deck": "The first round of August Social Security payments for retirees, now capped at $5,181, will be issued in three days.",
-          "link": "https://www.washingtonexaminer.com/news/4649218/first-round-august-social-security-payments-goes-out-three-days/",
+          "title": "Will Newsom and Vance last as presumed 2028 front-runners? Experts weigh in",
+          "deck": "Former Chicago Mayor Rahm Emanuel‘s assertion that early leads in the presidential cycle could quickly dissipate may be true, but he and other likely 2028 contenders would do well to keep their minds open.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4678932/will-newsom-vance-last-2028-front-runner/",
           "pub": 1786269600000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -3131,24 +3410,6 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Carrington makes 'white privilege' post after ejection",
-      "pub": 1786269531000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Carrington makes 'white privilege' post after ejection",
-          "deck": "Chicago Sky guard DiJonai Carrington is ejected from her side's defeat by Indiana Fever for committing a hard foul, before taking to social media to post \"white privilege\".",
-          "link": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss",
-          "pub": 1786269531000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -3315,24 +3576,6 @@
       ]
     },
     {
-      "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
-      "pub": 1786266049000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
-          "deck": "Gustavo Gordillo, a leader of the New York D.",
-          "link": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
-          "pub": 1786266049000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
       "pub": 1786266042000,
       "lean": "ll",
@@ -3400,24 +3643,6 @@
           "pub": 1786266015000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "After bitter primary, El-Sayed faces daunting task of unifying Democrats",
-      "pub": 1786266000000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "After bitter primary, El-Sayed faces daunting task of unifying Democrats",
-          "deck": "Before going up against Republican Mike Rogers in November, Abdul El-Sayed must heal the wounds from his fierce race against Rep.",
-          "link": "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/",
-          "pub": 1786266000000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
           "lean": "ll"
         }
       ]
@@ -3748,24 +3973,6 @@
     },
     {
       "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
-      "pub": 1786255949000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/family-devastated-hit-run-driver-205714646.html",
-          "pub": 1786255949000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
       "pub": 1786255946000,
       "lean": "ct",
       "cat": "Politics",
@@ -3887,6 +4094,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
+      "pub": 1786253956000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
+          "pub": 1786253956000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4197,24 +4422,6 @@
       ]
     },
     {
-      "title": "WNBA commissioner says league task force will discuss trans athlete participation",
-      "pub": 1786243524000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "WNBA commissioner says league task force will discuss trans athlete participation",
-          "deck": "WNBA Commissioner Cathy Engelbert announced in a Friday message to teams that a league task force will discuss the topic of transgender athletes next week.",
-          "link": "https://thehill.com/policy/sports-gaming/6018938-wnba-task-force-transgender-athletes/",
-          "pub": 1786243524000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Diarrhea-Gate: One Sinaloa Farm, 345 Sick, And Two Restaurant Chains Down Double Digits",
       "pub": 1786243500000,
       "lean": "lr",
@@ -4372,24 +4579,6 @@
           "pub": 1786239101000,
           "src": "BBC",
           "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Grassley bids farewell to beloved family vacuum, Beth",
-      "pub": 1786239090000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Grassley bids farewell to beloved family vacuum, Beth",
-          "deck": "Iowa Sen. Chuck Grassley (R) on Saturday eulogized a beloved vacuum cleaner, affectionately named Beth after a former Senate staffer. The vacuum has been in the 92-year-old senator’s family for nearly 50 years and has been a popular feature on Grassley’s social media. “U willl see Beth no more,” Grassley wrote in a post alongside...",
-          "link": "https://thehill.com/blogs/in-the-know/6018915-grassley-eulogizes-vacuum-beth/",
-          "pub": 1786239090000,
-          "src": "HILL",
-          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -4836,6 +5025,24 @@
       ]
     },
     {
+      "title": "Banksy works cost public almost £150,000",
+      "pub": 1786233163000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Banksy works cost public almost £150,000",
+          "deck": "The BBC reveals taxpayers have funded thousands of pounds worth of cleaning operations and security for the artworks.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786233163000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "'Busted': Female Bicyclists 'Bulk Up'",
       "pub": 1786233000000,
       "lean": "lr",
@@ -5142,28 +5349,10 @@
       ]
     },
     {
-      "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
-      "pub": 1786227937000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/british-columbia-district-declares-state-135456850.html",
-          "pub": 1786227937000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Fifa criticises campaign to oust president Infantino",
       "pub": 1786226804000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -5174,6 +5363,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Meet the man circumnavigating the Arctic Ocean, alone",
+      "pub": 1786224656000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Meet the man circumnavigating the Arctic Ocean, alone",
+          "deck": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first.",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
+          "pub": 1786224656000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
         }
       ]
     },
@@ -5228,204 +5435,6 @@
           "src": "REAS",
           "srcFull": "Reason",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade",
-      "pub": 1786224424000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade",
-          "deck": "Samsung's One UI 9 is spreading to millions more Galaxy phones.",
-          "link": "https://www.forbes.com/sites/jaymcgregor/2026/08/08/samsung-one-ui-9-release-date-galaxy-s26-galaxy-s25-august/",
-          "pub": 1786224424000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Verizon suffers outage in 'some parts of the US' with thousands of reports",
-      "pub": 1786224359000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Verizon suffers outage in 'some parts of the US' with thousands of reports",
-          "deck": "Downdetector showed more than 12,000 reports by 4:30 p.",
-          "link": "https://www.foxbusiness.com/fox-news-tech/verizon-suffers-outage-some-parts-us-thousands-reports",
-          "pub": 1786224359000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Tanker sailors still face danger in the Strait of Hormuz",
-      "pub": 1786223994000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tanker sailors still face danger in the Strait of Hormuz",
-          "deck": "An agreement over the Strait of Hormuz is still far away.",
-          "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-          "pub": 1786223994000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain",
-      "pub": 1786223860000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain",
-          "deck": "Tehran insists on compensation and the lifting of sanctions, among other concessions from the U.",
-          "link": "https://www.washingtonpost.com/world/2026/08/08/iran-says-deal-with-oman-is-close-its-demands-leave-hormuz-opening-uncertain/",
-          "pub": 1786223860000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama pen essays on US presidents",
-      "pub": 1786223079000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama pen essays on US presidents",
-          "deck": "George W. Bush, Barack Obama and Bill Clinton joined a roster of historians and authors in contributing to the In Pursuit project, a 250th-anniversary series that had each writer produce an essay about a president or first lady.",
-          "link": "https://nypost.com/2026/08/08/us-news/trump-goes-unmentioned-but-not-ignored-as-clinton-bush-and-obama-pen-essays-on-us-presidents/",
-          "pub": 1786223079000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks",
-      "pub": 1786222948000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks",
-          "deck": "The directive to industry from Deputy Defense Secretary Steve Feinberg comes amid tensions over a critical U.",
-          "link": "https://www.washingtonpost.com/technology/2026/08/08/pentagon-presses-defense-firms-build-weapons-iran-war-depletes-stocks/",
-          "pub": 1786222948000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Voters need to look past election-rigging and back Prop. 39",
-      "pub": 1786222800000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Voters need to look past election-rigging and back Prop. 39",
-          "deck": "If you want to restore trust in elections, look past the election-rigging — and win anyway.",
-          "link": "https://nypost.com/2026/08/08/opinion/voters-need-to-look-past-election-rigging-and-back-prop-39/",
-          "pub": 1786222800000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Ukrainian Drone With Huge Explosive Payload Hits Bulgaria Near Vital Gas Pipeline",
-      "pub": 1786222500000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukrainian Drone With Huge Explosive Payload Hits Bulgaria Near Vital Gas Pipeline",
-          "deck": "Ukrainian Drone With Huge Explosive Payload Hits Bulgaria Near Vital Gas Pipeline A major border and aerial incident has occurred between Ukraine and Bulgaria, and Bulgarian officials are outraged and demanding answers - ironically on the heels of a political shift regarding the Ukraine war wherein Sofia has stopped giving weaponry, citing its own stockpile shortages.",
-          "link": "https://www.zerohedge.com/geopolitical/ukrainian-drone-huge-explosive-payload-hits-bulgaria-near-vital-gas-pipeline",
-          "pub": 1786222500000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Student Loan Payments Are Spiking: What Changed On July 1 And What Borrowers Over 50 Should Do",
-      "pub": 1786220400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Student Loan Payments Are Spiking: What Changed On July 1 And What Borrowers Over 50 Should Do",
-          "deck": "Student Loan Payments Are Spiking: What Changed On July 1 And What Borrowers Over 50 Should Do Authored by Adam H.",
-          "link": "https://www.zerohedge.com/personal-finance/student-loan-payments-are-spiking-what-changed-july-1-and-what-borrowers-over-50",
-          "pub": 1786220400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "CIA secretly formed Cuba task force: Report",
-      "pub": 1786220265000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "CIA secretly formed Cuba task force: Report",
-          "deck": "President Donald Trump has ramped up pressure on Cuba, seeking changes to the regime.",
-          "link": "https://www.newsnationnow.com/world/cia-secret-cuba-task-force-report/",
-          "pub": 1786220265000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
-      "pub": 1786220048000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/articles/iranian-officials-worried-u-blockade-201408319.html",
-          "pub": 1786220048000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     }
