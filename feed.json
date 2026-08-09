@@ -1,7 +1,565 @@
 {
-  "generated": "2026-08-09T23:00:08.959Z",
+  "generated": "2026-08-09T23:36:42.967Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "Father and 22-month-old son vanish during ‘normal’ afternoon walk",
+      "pub": 1786318582000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Father and 22-month-old son vanish during ‘normal’ afternoon walk",
+          "deck": "Todd Sabatini, 36, left his home in McHenry, Illinois to take his 22-month-old son, Theo, \"for a walk\" around 12:00 p.",
+          "link": "https://nypost.com/2026/08/09/us-news/father-and-22-month-old-son-vanish-during-normal-afternoon-walk/",
+          "pub": 1786318582000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Marine Johannes ‘shot crazy’ for Liberty with career-best effort",
+      "pub": 1786318539000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Marine Johannes ‘shot crazy’ for Liberty with career-best effort",
+          "deck": "While most fans headed toward the exit following the Liberty’s 40-point win against the Las Vegas Aces on Sunday, the dozens who stayed behind showered Marine Johannes with hero worship after she wrapped up a postgame TV interview and headed to the locker room.",
+          "link": "https://nypost.com/2026/08/09/sports/marine-johannes-pours-it-on-for-liberty-with-career-best-effort/",
+          "pub": 1786318539000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Sprawling La Jolla mansion known as ‘The Sand Castle’ put on the market for eye-popping figure",
+      "pub": 1786318359000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sprawling La Jolla mansion known as ‘The Sand Castle’ put on the market for eye-popping figure",
+          "deck": "Perched on the cliffs of La Jolla Bay, the mansion has gone back on the market for $89 million, down from the $108 million it was listed for in 2024.",
+          "link": "https://nypost.com/2026/08/09/us-news/sprawling-la-jolla-mansion-the-sand-castle-put-on-market-for-eye-popping-sum/",
+          "pub": 1786318359000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "How a Handwritten Note Led Dean Kennedy to Bob Chesney and UCLA",
+      "pub": 1786317960000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How a Handwritten Note Led Dean Kennedy to Bob Chesney and UCLA",
+          "deck": "UCLA offensive coordinator Dean Kennedy explained how a handwritten note connected him to Bob Chesney years ago.",
+          "link": "https://www.newsweek.com/sports/ncaa/how-a-handwritten-note-led-dean-kennedy-to-bob-chesney-and-ucla-12301992",
+          "pub": 1786317960000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Top 5 Analyst Questions From Ares’s Q2 Earnings Call",
+      "pub": 1786317922000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Top 5 Analyst Questions From Ares’s Q2 Earnings Call",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-ares-232522087.html",
+          "pub": 1786317922000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Farms pulls salsa and guacamole over salmonella concerns, Bloomberg News reports",
+      "pub": 1786317735000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taylor Farms pulls salsa and guacamole over salmonella concerns, Bloomberg News reports",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/taylor-farms-pulls-salsa-guacamole-232215219.html",
+          "pub": 1786317735000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Don Nelson, Hall of Fame N.B.A. Coach and Celtics Star, Dies at 86",
+      "pub": 1786317695000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Don Nelson, Hall of Fame N.B.A. Coach and Celtics Star, Dies at 86",
+          "deck": "One of the winningest coaches in league history, he led the Bucks, the Warriors and the Mavericks.",
+          "link": "https://www.nytimes.com/2026/08/09/obituaries/don-nelson-dead.html",
+          "pub": 1786317695000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Why QXO, Inc. Fell Over 20% in July",
+      "pub": 1786317600000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why QXO, Inc. Fell Over 20% in July",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-qxo-inc-fell-over-232000273.html",
+          "pub": 1786317600000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump picks longtime aide Will Scharf as new top White House lawyer",
+      "pub": 1786317575000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump picks longtime aide Will Scharf as new top White House lawyer",
+          "deck": "The White House staff secretary replaces David Warrington, who is leaving for the private sector.",
+          "link": "https://www.washingtonpost.com/politics/2026/08/09/trump-picks-longtime-aide-will-scharf-new-top-white-house-lawyer/",
+          "pub": 1786317575000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Joe Burrow, Olivia Ponton spotted sharing a moment after Bengals practice",
+      "pub": 1786317518000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Joe Burrow, Olivia Ponton spotted sharing a moment after Bengals practice",
+          "deck": "Joe Burrow's latest romantic link was spotted supporting the quarterback ahead of the upcoming 2026 season.",
+          "link": "https://nypost.com/2026/08/09/sports/joe-burrow-olivia-ponton-spotted-after-bengals-practice/",
+          "pub": 1786317518000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Masterminds behind California Forever plea for Gavin Newsom’s help",
+      "pub": 1786317491000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Masterminds behind California Forever plea for Gavin Newsom’s help",
+          "deck": "Billionaires are asking lawmakers to speed environmental reviews and resolve tax disputes, arguing the changes could help attract major employers and build housing on the massive Solano County site.",
+          "link": "https://nypost.com/2026/08/09/us-news/masterminds-behind-california-forever-plea-for-gavin-newsoms-help/",
+          "pub": 1786317491000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "GEO Q2 2026 Deep Dive: Contract Expansions, ICE Policy, and Asset Sale Developments",
+      "pub": 1786317442000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "GEO Q2 2026 Deep Dive: Contract Expansions, ICE Policy, and Asset Sale Developments",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/geo-q2-2026-deep-dive-231722997.html",
+          "pub": 1786317442000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Airbnb just found an unexpected way to make AI pay",
+      "pub": 1786317420000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Airbnb just found an unexpected way to make AI pay",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-just-found-unexpected-way-231700904.html",
+          "pub": 1786317420000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Roy Cohn is back in the news — but I actually knew the infamous lawyer",
+      "pub": 1786317365000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Roy Cohn is back in the news — but I actually knew the infamous lawyer",
+          "deck": "The Posts' Cindy Adams recalls her experiences with Donald Trump's former mentor Roy Cohn.",
+          "link": "https://nypost.com/2026/08/09/opinion/roy-cohn-is-back-in-the-news-but-i-actually-knew-the-infamous-lawyer/",
+          "pub": 1786317365000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Braves Named Offseason Landing Spot for Nationals Star",
+      "pub": 1786317353000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Braves Named Offseason Landing Spot for Nationals Star",
+          "deck": "The Atlanta Braves are being viewed as a potential offseason landing spot for Washington Nationals star CJ Abrams.",
+          "link": "https://www.newsweek.com/sports/mlb/braves-named-offseason-landing-spot-for-nationals-star-12301994",
+          "pub": 1786317353000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Watch: 'Privileged Idiot' DSA Co-Chair Has Absolute Porridge For Brains",
+      "pub": 1786317300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Watch: 'Privileged Idiot' DSA Co-Chair Has Absolute Porridge For Brains",
+          "deck": "Watch: 'Privileged Idiot' DSA Co-Chair Has Absolute Porridge For Brains The Democrat party has been freaking out about the Democratic Socialists of late - despite striking similarities between their policies - because while Democrats are happy to sweet talk voters into socialist ideas that signal maximum virtue, they don't actually want to enact policies that would make blue-city budgets even more dire than they are.",
+          "link": "https://www.zerohedge.com/political/watch-privileged-idiot-dsa-co-chair-has-absolute-porridge-brains",
+          "pub": 1786317300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Texas WR Cam Coleman’s 1-Handed Catch Nearly Broke the Internet",
+      "pub": 1786317279000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Texas WR Cam Coleman’s 1-Handed Catch Nearly Broke the Internet",
+          "deck": "The hype around Texas WR Cam Coleman reached a fever pitch over the weekend after he made a highlight-reel catch in practice.",
+          "link": "https://www.newsweek.com/sports/ncaa/texas-wr-cam-colemans-1-handed-catch-nearly-broke-the-internet-12302244",
+          "pub": 1786317279000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Jannik Sinner out of Cincinnati Open with knee injury as US Open looms",
+      "pub": 1786317258000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jannik Sinner out of Cincinnati Open with knee injury as US Open looms",
+          "deck": "The World No.",
+          "link": "https://nypost.com/2026/08/09/sports/jannik-sinner-out-of-cincinnati-open-with-knee-injury-as-us-open-looms/",
+          "pub": 1786317258000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump keeping ‘low key’ approach to Iran, choosing economic blows over military strikes: report",
+      "pub": 1786317146000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump keeping ‘low key’ approach to Iran, choosing economic blows over military strikes: report",
+          "deck": "President Trump said Sunday that he would keep a \"low key\" approach to the Iran war, signaling a willingness to allow economic pressures to crush Tehran rather than start a new military offensive.",
+          "link": "https://nypost.com/2026/08/09/world-news/trump-keeping-low-key-approach-to-iran-choosing-economic-blows-over-military-strikes-report/",
+          "pub": 1786317146000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump names Will Scharf as new White House counsel",
+      "pub": 1786317138000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump names Will Scharf as new White House counsel",
+          "deck": "President Trump named Will Scharf as his new White House counsel on Sunday, a shakeup in the key legal role.",
+          "link": "https://thehill.com/homenews/administration/6019523-trump-names-will-scharf-counsel/",
+          "pub": 1786317138000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox Explain Reason Behind Caleb Durbin's Rare Day Off",
+      "pub": 1786317082000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Red Sox Explain Reason Behind Caleb Durbin's Rare Day Off",
+          "deck": "Caleb Durbin has been one of the Boston Red Sox's best players of late, and he received a deserved day off Sunday.",
+          "link": "https://www.newsweek.com/sports/mlb/red-sox-explain-reason-behind-caleb-durbins-rare-day-off-12301905",
+          "pub": 1786317082000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
+      "pub": 1786316938000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
+          "deck": "British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.",
+          "link": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/",
+          "pub": 1786316938000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "pub": 1786316729000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Evidence that South African special forces murdered top detective shared with BBC",
+          "deck": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786316729000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Lions Veteran Quarterback Announces Retirement",
+      "pub": 1786316689000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lions Veteran Quarterback Announces Retirement",
+          "deck": "One of the Detroit Lions quarterbacks his hanging up his cleats for good.",
+          "link": "https://www.newsweek.com/sports/nfl/lions-veteran-quarterback-announces-retirement-12301897",
+          "pub": 1786316689000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Vascular dementia: Ex-NFL player shares diagnosis",
+      "pub": 1786316679000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vascular dementia: Ex-NFL player shares diagnosis",
+          "deck": "Vascular dementia, or vascular cognitive impairment (VCI), occurs when blood flow to the brain is reduced or blocked.",
+          "link": "https://www.newsnationnow.com/us-news/sports/vascular-dementia-signs-roger-craig/",
+          "pub": 1786316679000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Don Nelson’s failed Knicks stint was biggest regret in his blessed basketball life",
+      "pub": 1786316601000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Don Nelson’s failed Knicks stint was biggest regret in his blessed basketball life",
+          "deck": "The Knicks were the aberration in Don Nelson's full basketball life that was stilled Sunday at age 86.",
+          "link": "https://nypost.com/2026/08/09/sports/don-nelsons-failed-knicks-stint-was-biggest-regret-in-his-blessed-basketball-life/",
+          "pub": 1786316601000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+      "pub": 1786316559000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+          "deck": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+          "link": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+          "pub": 1786316559000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "pub": 1786316499000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+          "deck": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786316499000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
+      "pub": 1786316486000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
+          "deck": "David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786316486000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "pub": 1786316485000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Union reports 108 attacks on Palestinian journalists in July",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/union-reports-108-attacks-palestinian-230125771.html",
+          "pub": 1786316485000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fernando Mendoza Reveals How Raiders QB Kirk Cousins is Helping Him",
+      "pub": 1786316305000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fernando Mendoza Reveals How Raiders QB Kirk Cousins is Helping Him",
+          "deck": "Raiders rookie quarterback Fernando Mendoza shared how he's learning from Kirk Cousins during team practices.",
+          "link": "https://www.newsweek.com/sports/nfl/fernando-mendoza-reveals-how-raiders-qb-kirk-cousins-is-helping-him-12301856",
+          "pub": 1786316305000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
     {
       "title": "Congress can act fast to counter US munitions shortage — if country comes before party",
       "pub": 1786316220000,
@@ -17,6 +575,42 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Iran's New Demands Show Tehran Feels It's Winning, Esper Says",
+      "pub": 1786316197000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran's New Demands Show Tehran Feels It's Winning, Esper Says",
+          "deck": "Former Defense Secretary Mark Esper says Iran feels emboldened as Hormuz negotiations continue.",
+          "link": "https://www.newsweek.com/mark-esper-iran-strait-of-hormuz-demands-upper-hand-12302261",
+          "pub": 1786316197000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Royals Predicted to Sign Padres Starter to $104M Contract",
+      "pub": 1786316057000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Royals Predicted to Sign Padres Starter to $104M Contract",
+          "deck": "The Kansas City Royals are being predicted to sign San Diego Padres starting pitcher Michael King in free agency this offseason.",
+          "link": "https://www.newsweek.com/sports/mlb/royals-predicted-to-sign-padres-starter-to-104m-contract-12301969",
+          "pub": 1786316057000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -53,6 +647,24 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Some Tentatively Final Thoughts on Substack",
+      "pub": 1786315458000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Some Tentatively Final Thoughts on Substack",
+          "deck": "I appreciate the emails I received from my two posts on starting a Substack.",
+          "link": "https://reason.com/volokh/2026/08/09/some-tentatively-final-thoughts-on-substack/",
+          "pub": 1786315458000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
         }
       ]
     },
@@ -183,60 +795,6 @@
       ]
     },
     {
-      "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
-      "pub": 1786314760000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/61-old-built-3-500-223240630.html",
-          "pub": 1786314760000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Mom and baby daughter dead after boat capsizes near Statue of Liberty, captain arrested",
-      "pub": 1786314660000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mom and baby daughter dead after boat capsizes near Statue of Liberty, captain arrested",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/mom-baby-daughter-dead-boat-223100678.html",
-          "pub": 1786314660000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "3 Small-Cap Stocks with Open Questions",
-      "pub": 1786314562000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "3 Small-Cap Stocks with Open Questions",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-open-222922372.html",
-          "pub": 1786314562000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
       "pub": 1786314558000,
       "lean": "ct",
@@ -273,20 +831,20 @@
       ]
     },
     {
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "pub": 1786314483000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Saints O-Lineman Suffers Season-Ending Injury",
+      "pub": 1786314516000,
+      "lean": "ct",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/fast-moving-canada-wildfire-doubles-181354317.html",
-          "pub": 1786314483000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Saints O-Lineman Suffers Season-Ending Injury",
+          "deck": "The New Orleans Saints have lost a key piece to their offensive line.",
+          "link": "https://www.newsweek.com/sports/nfl/saints-o-lineman-suffers-season-ending-injury-12301857",
+          "pub": 1786314516000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -305,24 +863,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Apple tests Chinese memory chips",
-      "pub": 1786314439000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Apple tests Chinese memory chips",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/articles/apple-tests-chinese-memory-chips-222719998.html",
-          "pub": 1786314439000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -377,6 +917,24 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Sophie Cunningham Claps Back at DiJonai Carrington’s ‘White Privilege’ Comments",
+      "pub": 1786314122000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sophie Cunningham Claps Back at DiJonai Carrington’s ‘White Privilege’ Comments",
+          "deck": "Sophie Cunningham didn't hold back on what she thought about DiJonai Carrington's recent \"white privilege\" comments toward her.",
+          "link": "https://www.newsweek.com/sports/sophie-cunningham-claps-back-at-dijonai-carringtons-white-privilege-comments-12302196",
+          "pub": 1786314122000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -471,6 +1029,24 @@
       ]
     },
     {
+      "title": "Thurman Munson's Wife Moved by Austin Wells' Old-Timers' Day Tribute",
+      "pub": 1786313733000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thurman Munson's Wife Moved by Austin Wells' Old-Timers' Day Tribute",
+          "deck": "Late New York Yankees catcher Thurman Munson's wife, Diana, was moved by Austin Wells' tribute to her husband at Old-Timers' Day.",
+          "link": "https://www.newsweek.com/sports/mlb/thurman-munsons-wife-moved-by-austin-wells-old-timers-day-tribute-12301781",
+          "pub": 1786313733000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Mother and Daughter Die After Boat Overturns in New York Harbor",
       "pub": 1786313707000,
       "lean": "ll",
@@ -503,6 +1079,42 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "GOP Pressure on Max Miller Grows as Replacement Deadline Passes",
+      "pub": 1786313547000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "GOP Pressure on Max Miller Grows as Replacement Deadline Passes",
+          "deck": "Miller himself requested an ethics review, saying he has \"absolutely nothing to hide\" and wants to clear his name.",
+          "link": "https://www.newsweek.com/gop-pressure-on-max-miller-grows-as-replacement-deadline-passes-12302161",
+          "pub": 1786313547000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Becky Hammon Calls Out WNBA Schedule as Aces Rest Star Players",
+      "pub": 1786313277000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Becky Hammon Calls Out WNBA Schedule as Aces Rest Star Players",
+          "deck": "Becky Hammon called out the WNBA schedule after the Las Vegas Aces revealed they would rest three stars against the Liberty.",
+          "link": "https://www.newsweek.com/sports/becky-hammon-calls-out-wnba-schedule-as-aces-rest-star-players-12301776",
+          "pub": 1786313277000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -597,20 +1209,20 @@
       ]
     },
     {
-      "title": "LAUSD shakes up its menus — and they’re created by students",
-      "pub": 1786312677000,
-      "lean": "lr",
+      "title": "Caitlin Clark Avoids Suspension After Eighth Tech Is Rescinded",
+      "pub": 1786312500000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "LAUSD shakes up its menus — and they’re created by students",
-          "deck": "Celebrity chefs helped craft a range of new offerings, from a chorizo breakfast bowl and pork katsu sandwich to an LA cheesesteak and lasagna rolls.",
-          "link": "https://nypost.com/2026/08/09/us-news/lausd-unveils-new-student-created-school-menus-for-the-upcoming-year/",
-          "pub": 1786312677000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Caitlin Clark Avoids Suspension After Eighth Tech Is Rescinded",
+          "deck": "Indiana Fever star Caitlin Clark is eligible to play against the New York Liberty Tuesday after the WNBA rescinded her tech.",
+          "link": "https://www.newsweek.com/sports/caitlin-clark-avoids-suspension-after-eighth-tech-is-rescinded-12301724",
+          "pub": 1786312500000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -633,92 +1245,20 @@
       ]
     },
     {
-      "title": "Passenger dies mid-flight on LAX-bound plane after multiple CPR attempts",
-      "pub": 1786312225000,
-      "lean": "lr",
+      "title": "Sparks Coach Says Monique Akoa Makani Could Become Starter Soon",
+      "pub": 1786312047000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Passenger dies mid-flight on LAX-bound plane after multiple CPR attempts",
-          "deck": "A routine flight to Los Angeles descended into horror Friday morning when a passenger died after suffering a mid-flight fatal medical emergency.",
-          "link": "https://nypost.com/2026/08/09/us-news/passenger-dies-mid-flight-on-lax-bound-plane-after-multiple-cpr-attempts/",
-          "pub": 1786312225000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fever coach sticks up for DiJonai Carrington after flagrant foul on Sophie Cunningham, ejection",
-      "pub": 1786312078000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fever coach sticks up for DiJonai Carrington after flagrant foul on Sophie Cunningham, ejection",
-          "deck": "In the aftermath of DiJonai Carrington getting ejected, Fever head coach Stephanie White defended her former player.",
-          "link": "https://nypost.com/2026/08/09/sports/fevers-stephanie-white-sticks-up-for-dijonai-carrington-ejection/",
-          "pub": 1786312078000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Don Nelson, Hall of Fame N.B.A. Coach and Celtics Star, Dies at 86",
-      "pub": 1786312042000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Don Nelson, Hall of Fame N.B.A. Coach and Celtics Star, Dies at 86",
-          "deck": "One of the winningest coaches in league history, he led the Bucks, the Warriors and the Mavericks.",
-          "link": "https://www.nytimes.com/2026/08/09/obituaries/don-nelson-dead.html",
-          "pub": 1786312042000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "‘Dallas’ actress Linda Gray reveals how Larry Hagman survived kissing scenes on set",
-      "pub": 1786311785000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Dallas’ actress Linda Gray reveals how Larry Hagman survived kissing scenes on set",
-          "deck": "The actress is now selling original 'Dallas' scripts and personal items through Julien's Auctions",
-          "link": "https://nypost.com/2026/08/09/entertainment/dallas-actress-linda-gray-reveals-how-larry-hagman-survived-kissing-scenes-on-set/",
-          "pub": 1786311785000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "New Orleans becomes first major US city to use AI for 911 calls: ‘The worst idea you could think of’",
-      "pub": 1786311754000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "New Orleans becomes first major US city to use AI for 911 calls: ‘The worst idea you could think of’",
-          "deck": "“I was a 911 dispatcher for 11 years and this is the worst idea you could possibly think of,” warned one critic who claimed to be a first responder.",
-          "link": "https://nypost.com/2026/08/09/us-news/new-orleans-becones-first-major-us-city-to-use-ai-for-911-calls/",
-          "pub": 1786311754000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Sparks Coach Says Monique Akoa Makani Could Become Starter Soon",
+          "deck": "Newly acquired guard Monique Akoa Makani is on track to securing a starting spot on the Los Angeles Sparks this season.",
+          "link": "https://www.newsweek.com/sports/sparks-coach-says-monique-akoa-makani-could-become-starter-soon-12301690",
+          "pub": 1786312047000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -741,38 +1281,20 @@
       ]
     },
     {
-      "title": "Fernando Mendoza reveals shocking update in relationship with Kirk Cousins",
-      "pub": 1786311568000,
-      "lean": "lr",
+      "title": "Sophie Cunningham Gets Honest About DiJonai Carrington’s Hard Foul",
+      "pub": 1786311529000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Fernando Mendoza reveals shocking update in relationship with Kirk Cousins",
-          "deck": "\"It's more listening than sometimes asking,\" Fernando Mendoza said of gleaning Kirk Cousins' expertise.",
-          "link": "https://nypost.com/2026/08/09/sports/raiders-rookie-fernando-mendoza-reveals-surprising-update-about-kirk-cousins/",
-          "pub": 1786311568000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Woke NY Times’ ‘1619 Project’ writer’s husband hit with ethics complaint for plugging family biz during public education meeting",
-      "pub": 1786311514000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Woke NY Times’ ‘1619 Project’ writer’s husband hit with ethics complaint for plugging family biz during public education meeting",
-          "deck": "Faraji Hannah-Jones — husband of \"1619 Project\" scribe Nikole Hannah-Jones — shamelessly plugged their new bookstore and bar at a recent public-education meeting he helped run.",
-          "link": "https://nypost.com/2026/08/09/us-news/ethics-complaint-given-to-hubby-of-woke-new-york-times-writer-behind-1619-project/",
-          "pub": 1786311514000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Sophie Cunningham Gets Honest About DiJonai Carrington’s Hard Foul",
+          "deck": "Sophie Cunningham addressed the Sky's DiJonai Carrington getting ejected for a hard foul on her in the Indiana Fever's win.",
+          "link": "https://www.newsweek.com/sports/sophie-cunningham-gets-honest-about-dijonai-carringtons-hard-foul-12301520",
+          "pub": 1786311529000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -831,20 +1353,20 @@
       ]
     },
     {
-      "title": "How to watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ for free",
-      "pub": 1786311000000,
-      "lean": "lr",
+      "title": "Trevor Lawrence Addresses Jaguars Dealing With Outside Noise Before Season",
+      "pub": 1786311140000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "How to watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ for free",
-          "deck": "Seven iconic housewives are hitting the road.",
-          "link": "https://pagesix.com/2026/08/09/entertainment/heres-how-to-watch-rhugt-roaring-20th-premiere-for-free/",
-          "pub": 1786311000000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Trevor Lawrence Addresses Jaguars Dealing With Outside Noise Before Season",
+          "deck": "Trevor Lawrence spoke about the Jacksonville Jaguars avoiding outside noise as they prepare for the NFL season.",
+          "link": "https://www.newsweek.com/sports/nfl/trevor-lawrence-addresses-jaguars-dealing-with-outside-noise-before-season-12301549",
+          "pub": 1786311140000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -1020,20 +1542,20 @@
       ]
     },
     {
-      "title": "Yosemite speed climber who set record for scaling deadly El Capitan dies in Sierra Nevada accident",
-      "pub": 1786310602000,
-      "lean": "lr",
+      "title": "Yankees Named Offseason Landing Spot for Brewers Star Catcher",
+      "pub": 1786310615000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Yosemite speed climber who set record for scaling deadly El Capitan dies in Sierra Nevada accident",
-          "deck": "Jake Whisenant gained national attention in October 2024 when he and a fellow climber completed the Lurking Fear route on El Capitan in just under 3 hours.",
-          "link": "https://nypost.com/2026/08/09/us-news/yosemite-speed-climber-who-set-record-for-scaling-deadly-el-capitan-dies-in-sierra-nevada-accident/",
-          "pub": 1786310602000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Yankees Named Offseason Landing Spot for Brewers Star Catcher",
+          "deck": "The New York Yankees are being viewed as an offseason landing spot for Milwaukee Brewers star catcher William Contreras.",
+          "link": "https://www.newsweek.com/sports/mlb/yankees-named-offseason-landing-spot-for-brewers-star-catcher-12301746",
+          "pub": 1786310615000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -1074,6 +1596,24 @@
       ]
     },
     {
+      "title": "Padres Predicted to Sign Rays All-Star Pitcher in Free Agency",
+      "pub": 1786310171000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Padres Predicted to Sign Rays All-Star Pitcher in Free Agency",
+          "deck": "The San Diego Padres are being predicted to sign Tampa Bay Rays pitcher Freddy Peralta in free agency this offseason.",
+          "link": "https://www.newsweek.com/sports/mlb/padres-predicted-to-sign-rays-all-star-pitcher-in-free-agency-12301718",
+          "pub": 1786310171000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "McInnes left frustrated amid Rangers' poor start to season",
       "pub": 1786309495000,
       "lean": "ct",
@@ -1087,24 +1627,6 @@
           "pub": 1786309495000,
           "src": "BBC",
           "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
-      "pub": 1786309200000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
-          "deck": "With Congress out for August recess, attention is shifting away from Capitol Hill and onto the campaign trail as voters head to the polls in a number of high-profile primaries that will help shape the 2026 midterm landscape.",
-          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6018937-minnesota-wisconsin-south-carolina-primaries-max-miller/",
-          "pub": 1786309200000,
-          "src": "HILL",
-          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -1128,6 +1650,24 @@
       ]
     },
     {
+      "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
+      "pub": 1786309200000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
+          "deck": "With Congress out for August recess, attention is shifting away from Capitol Hill and onto the campaign trail as voters head to the polls in a number of high-profile primaries that will help shape the 2026 midterm landscape.",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6018937-minnesota-wisconsin-south-carolina-primaries-max-miller/",
+          "pub": 1786309200000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Zelensky says up to 50,000 North Korean soldiers could be deployed to Russia",
       "pub": 1786309135000,
       "lean": "lr",
@@ -1142,24 +1682,6 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Captain charged after boat capsizes near Statue of Liberty, killing mother and infant daughter",
-      "pub": 1786309109000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Captain charged after boat capsizes near Statue of Liberty, killing mother and infant daughter",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/captain-charged-boat-capsizes-near-165711242.html",
-          "pub": 1786309109000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -1272,15 +1794,15 @@
       ]
     },
     {
-      "title": "Florida AG says state doing 'everything in our power to seek truth' amid Fauci probe",
+      "title": "Florida attorney general says state doing 'everything in our power to seek truth' amid Fauci probe",
       "pub": 1786307655000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Florida AG says state doing 'everything in our power to seek truth' amid Fauci probe",
-          "deck": "Florida Attorney General James Uthmeier on Sunday said his state is doing \"everything in our power to seek truth\" amid its probe into Dr.",
+          "title": "Florida attorney general says state doing 'everything in our power to seek truth' amid Fauci probe",
+          "deck": "Florida Attorney General James Uthmeier on Sunday said his state is doing \"everything in our power to seek truth\" amid its probe into former chief White House medical adviser Dr.",
           "link": "https://thehill.com/homenews/state-watch/6019305-florida-investigates-fauci-pandemic-actions/",
           "pub": 1786307655000,
           "src": "HILL",
@@ -1322,6 +1844,24 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "State Department Responds as Man Faces 15 Years in Jamaica Jail for Bullets",
+      "pub": 1786307241000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "State Department Responds as Man Faces 15 Years in Jamaica Jail for Bullets",
+          "deck": "A dad from Georgia says he accidentally left ammunition in his backpack before a Jamaica trip.",
+          "link": "https://www.newsweek.com/state-department-responds-man-faces-15-years-jamaica-jail-bullets-12302006",
+          "pub": 1786307241000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -1406,7 +1946,7 @@
       "versions": [
         {
           "title": "Sanders says Minnesota Senate race between progressive and moderate will be 'tight'",
-          "deck": "Sen. Bernie Sanders (I-Vt.) said he believes the Democratic Senate primary in Minnesota between Lt. Gov. Peggy Flanagan (D), a progressive, and Rep. Angie Craig (D), a moderate, will be “tight.” “I think it's going to be a tight race. I hope very much that Peggy wins. I think what we're seeing in Minnesota, Margaret,...",
+          "deck": "Sen. Bernie Sanders (I-Vt.) on Sunday said he believes the Democratic Senate primary in Minnesota between Lt. Gov. Peggy Flanagan (D), a progressive, and Rep. Angie Craig (D), a moderate, will be “tight.” “I think it's going to be a tight race. I hope very much that Peggy wins. I think what we're seeing in...",
           "link": "https://thehill.com/homenews/campaign/6019297-sanders-predicts-tight-minnesota-primary/",
           "pub": 1786306615000,
           "src": "HILL",
@@ -1583,24 +2123,6 @@
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
-      "pub": 1786304636000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
-          "deck": "Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786304636000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -1943,24 +2465,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Hundreds evacuated as another wildfire hits south-western Spain",
-      "pub": 1786303117000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hundreds evacuated as another wildfire hits south-western Spain",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/hundreds-evacuated-another-wildfire-hits-191837985.html",
-          "pub": 1786303117000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2739,6 +3243,24 @@
       ]
     },
     {
+      "title": "RNC chair says Talarico's GOP crossover hopes are a 'pipe dream': 'Nobody is going to follow him'",
+      "pub": 1786296891000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "RNC chair says Talarico's GOP crossover hopes are a 'pipe dream': 'Nobody is going to follow him'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/rnc-chair-says-talaricos-gop-173451786.html",
+          "pub": 1786296891000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Sen. Bill Cassidy says Blanche vote was not ‘black-and-white’",
       "pub": 1786296750000,
       "lean": "ll",
@@ -3333,24 +3855,6 @@
       ]
     },
     {
-      "title": "El-Sayed reveals he spoke with Obama after Michigan Senate primary win",
-      "pub": 1786289656000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "El-Sayed reveals he spoke with Obama after Michigan Senate primary win",
-          "deck": "Michigan Democratic Senate candidate Abdul El-Sayed reflected on a call he had with former President Obama after his primary win.",
-          "link": "https://thehill.com/homenews/campaign/6019094-abdul-elsayed-obama-michigan-senate/",
-          "pub": 1786289656000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
       "pub": 1786289644000,
       "lean": "ct",
@@ -3526,24 +4030,6 @@
           "pub": 1786288097000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Former DNC fundraiser says major donors won’t back Kamala Harris again as party faces divisions",
-      "pub": 1786287916000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Former DNC fundraiser says major donors won’t back Kamala Harris again as party faces divisions",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/former-dnc-fundraiser-says-major-150516038.html",
-          "pub": 1786287916000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -3891,6 +4377,24 @@
       ]
     },
     {
+      "title": "Syria will take back control from Russia of 2 key Mediterranean bases under a new deal",
+      "pub": 1786284424000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Syria will take back control from Russia of 2 key Mediterranean bases under a new deal",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/syria-agrees-deal-russia-over-140704583.html",
+          "pub": 1786284424000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Boat captain arrested after vessel capsizes near Statue of Liberty, killing woman and her 5-month-old baby",
       "pub": 1786284266000,
       "lean": "ll",
@@ -4067,6 +4571,24 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
+      "pub": 1786283336000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/taiwans-war-drills-showcased-strike-134856873.html",
+          "pub": 1786283336000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4287,17 +4809,17 @@
       ]
     },
     {
-      "title": "Typewriters Make a Comeback in the Fast-Paced Digital World",
-      "pub": 1786280564000,
+      "title": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks",
+      "pub": 1786280947000,
       "lean": "ll",
       "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Typewriters Make a Comeback in the Fast-Paced Digital World",
+          "title": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks",
           "deck": "",
-          "link": "https://www.yahoo.com/news/videos/typewriters-comeback-fast-paced-digital-130244919.html",
-          "pub": 1786280564000,
+          "link": "https://www.yahoo.com/news/world/articles/syria-russia-reach-deal-future-130907543.html",
+          "pub": 1786280947000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -4540,24 +5062,6 @@
     },
     {
       "title": "Can Progressive Democrats Win in the 2026 Midterm Elections?",
-      "pub": 1786278388000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Can Progressive Democrats Win in the 2026 Midterm Elections?",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/videos/progressive-democrats-win-2026-midterm-122628602.html",
-          "pub": 1786278388000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Can Progressive Democrats Win in the 2026 Midterm Elections?",
       "pub": 1786278384000,
       "lean": "ll",
       "cat": "Politics",
@@ -4606,6 +5110,24 @@
           "pub": 1786278183000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran's Pezeshkian recently met Supreme Leader Khamenei, state media says",
+      "pub": 1786278131000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran's Pezeshkian recently met Supreme Leader Khamenei, state media says",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/irans-pezeshkian-recently-met-supreme-122211216.html",
+          "pub": 1786278131000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -4913,528 +5435,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
-      "pub": 1786276682000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
-          "deck": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon.",
-          "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
-          "pub": 1786276682000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Lonely Crew at the Kennedy Center Will Miss Its…Mice",
-      "pub": 1786276584000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Lonely Crew at the Kennedy Center Will Miss Its…Mice",
-          "deck": "Employees say the performing arts center’s quirky-looking mice have an exotic back story.",
-          "link": "https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html",
-          "pub": 1786276584000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jason Arday's Fairy Tale Is Over",
-      "pub": 1786276423000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jason Arday's Fairy Tale Is Over",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/09/jason_ardays_fairy_tale_is_over_707482.html",
-          "pub": 1786276423000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "How Colombia Re-Entered the U.S. Orbit",
-      "pub": 1786276402000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Colombia Re-Entered the U.S. Orbit",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/08/how_colombia_re-entered_the_us_orbit_707414.html",
-          "pub": 1786276402000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "We Fed the Dragon--and Lost the Narrative",
-      "pub": 1786276399000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "We Fed the Dragon--and Lost the Narrative",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/articles/2026/08/09/we_fed_the_dragon__and_lost_the_narrative_154401.html",
-          "pub": 1786276399000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Justice Alito Locked and Loaded for Another Term",
-      "pub": 1786276395000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justice Alito Locked and Loaded for Another Term",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/09/justice_alito_locked_and_loaded_for_another_term_707450.html",
-          "pub": 1786276395000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump's Birthright-Citizenship Obsession Lives On",
-      "pub": 1786276392000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump's Birthright-Citizenship Obsession Lives On",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/08/trumps_birthright-citizenship_obsession_lives_on_707433.html",
-          "pub": 1786276392000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Scott Presler Warns GOP Senators on SAVE America Act",
-      "pub": 1786276386000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scott Presler Warns GOP Senators on SAVE America Act",
-          "deck": "Early Vote Action founder Scott Presler criticized Senate Republicans over the SAVE America Act and urged conservatives to pressure lawmakers.",
-          "link": "https://www.realclearpolitics.com/2026/08/09/scott_presler_warns_gop_senators_on_save_america_act_707479.html",
-          "pub": 1786276386000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Meaning of Haley Stevens' Defeat",
-      "pub": 1786276378000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Meaning of Haley Stevens' Defeat",
-          "deck": "Until Democratic moderates stand up for their beliefs against the party's radicals, they will keep losing.",
-          "link": "https://www.realclearpolitics.com/2026/08/09/the_meaning_of_haley_stevens_defeat_707486.html",
-          "pub": 1786276378000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump Has a Gas Problem",
-      "pub": 1786276376000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Has a Gas Problem",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/08/trump_has_a_gas_problem_707440.html",
-          "pub": 1786276376000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Europe Was Once Bigger Than The US Economy. What Happened?",
-      "pub": 1786275300000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Europe Was Once Bigger Than The US Economy. What Happened?",
-          "deck": "Europe Was Once Bigger Than The US Economy.",
-          "link": "https://www.zerohedge.com/economics/europe-was-once-bigger-us-economy-what-happened",
-          "pub": 1786275300000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "pub": 1786275102000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "deck": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
-          "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "pub": 1786275102000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran sets steep demands to reopen Hormuz despite hopes Oman deal could break impasse",
-      "pub": 1786275024000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran sets steep demands to reopen Hormuz despite hopes Oman deal could break impasse",
-          "deck": "Tehran has vowed not to reopen the shipping lane “until America corrects its behavior,” despite a looming agreement with Oman.",
-          "link": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
-          "pub": 1786275024000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Window closes for Ohio GOP to replace Rep. Max Miller on the ballot",
-      "pub": 1786274127000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Window closes for Ohio GOP to replace Rep. Max Miller on the ballot",
-          "deck": "The Republican congressman, who denies claims of domestic abuse, has resisted growing calls to drop his bid for a third term.",
-          "link": "https://www.washingtonpost.com/politics/2026/08/09/window-closes-ohio-gop-replace-rep-max-miller-ballot/",
-          "pub": 1786274127000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran's Mehr Releases Video Of Supreme Leader Mojtaba Khamenei For 'First Time' - Except It's Old",
-      "pub": 1786273860000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran's Mehr Releases Video Of Supreme Leader Mojtaba Khamenei For 'First Time' - Except It's Old",
-          "deck": "Iran's Mehr Releases Video Of Supreme Leader Mojtaba Khamenei For 'First Time' - Except It's Old Update(2210ET): Iran's state Mehr has purported to release video of Supreme Leader Mojtaba Khamenei for the 'first time' since the start of the war, and since he was wounded in a US-Israeli airstrike in the opening days of the attacks of over five months ago.",
-          "link": "https://www.zerohedge.com/geopolitical/joint-chiefs-chair-pushing-iran-war-ramp-warning-escalation-will-backfire",
-          "pub": 1786273860000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District",
-      "pub": 1786273760000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District",
-          "deck": "State Sen. Jarrett Keohokalole had criticized Rep. Ed Case's votes to send military aid to Israel and for a previous version of the SAVE America Act.",
-          "link": "https://www.cbsnews.com/news/ed-case-hawaii-1st-congressional-district-jarrett-keohokalole/",
-          "pub": 1786273760000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Longest serving volunteer helps boost bird numbers",
-      "pub": 1786273450000,
-      "lean": "ct",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Longest serving volunteer helps boost bird numbers",
-          "deck": "Bird charity's longest serving volunteer helps achieve big success in boosting species recovery.",
-          "link": "https://www.bbc.co.uk/news/articles/cewr8y8e55vo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786273450000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "AI Is Already Beating Human Doctors in Medical Tests",
-      "pub": 1786273247000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI Is Already Beating Human Doctors in Medical Tests",
-          "deck": "Robo-docs are not likely to take over healthcare anytime soon, but they could do more to assist human doctors—if we let them.",
-          "link": "https://reason.com/2026/08/09/ai-beats-doctors/",
-          "pub": 1786273247000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
-      "pub": 1786273223000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
-          "deck": "When Apple put up prices for Mac, iPad, Apple TV and more, it left the iPhone untouched.",
-          "link": "https://www.forbes.com/sites/davidphelan/2026/08/09/apple-could-raise-iphone-17-prices-in-hours-due-to-memory-chip-crisis/",
-          "pub": 1786273223000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Today in Supreme Court History: August 9, 1974",
-      "pub": 1786273210000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Today in Supreme Court History: August 9, 1974",
-          "deck": "8/9/1974: President Richard Nixon resigns from office, President Gerald Ford takes oath of office.",
-          "link": "https://reason.com/volokh/2026/08/09/today-in-supreme-court-history-august-9-1974-6/",
-          "pub": 1786273210000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Gen Z's ghosting habit is moving from dating to the workplace",
-      "pub": 1786273206000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Gen Z's ghosting habit is moving from dating to the workplace",
-          "deck": "Gen Z workers are ghosting employers after accepting job offers, bringing a dating-era habit into the hiring process amid a difficult job market.",
-          "link": "https://www.foxbusiness.com/media/gen-z-ghosting-habit-moving-from-dating-workplace",
-          "pub": 1786273206000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The rise of socialism and the return of history",
-      "pub": 1786273200000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The rise of socialism and the return of history",
-          "deck": "Why would Democrats stick to their post-World War II political ways if Republicans won't?",
-          "link": "https://www.washingtonpost.com/opinions/2026/08/09/democratic-party-socialist-trend-signals-old-style-politics-return/",
-          "pub": 1786273200000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The New Right Is Wrong About the ‘Common Good’",
-      "pub": 1786273200000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The New Right Is Wrong About the ‘Common Good’",
-          "deck": "Individual liberty is integral to a society’s well-being.",
-          "link": "https://thedispatch.com/newsletter/dispatch-faith/common-good-new-right-catholic-social-teaching/",
-          "pub": 1786273200000,
-          "src": "DISP",
-          "srcFull": "The Dispatch",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "From Sinsheimer to Spencer: What antisemitism across the spectrum has in common",
-      "pub": 1786273200000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "From Sinsheimer to Spencer: What antisemitism across the spectrum has in common",
-          "deck": "He was a quietly wonderful man with a quick sense of humor, and when he laughed, he would cover his mouth — a gentle, self-conscious habit to hide his teeth.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4675139/similarities-antisemitism-across-political-spectrum/",
-          "pub": 1786273200000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Turkey Restricts Black Sea Traffic As Drone Attacks On Commercial Vessels Spike",
-      "pub": 1786273200000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Turkey Restricts Black Sea Traffic As Drone Attacks On Commercial Vessels Spike",
-          "deck": "Turkey Restricts Black Sea Traffic As Drone Attacks On Commercial Vessels Spike Via The Cradle Turkey has begun restricting commercial ship traffic into the Black Sea amid a surge in Russian and Ukrainian attacks on civilian vessels, Bloomberg reported Saturday.",
-          "link": "https://www.zerohedge.com/geopolitical/turkey-restricts-black-sea-traffic-drone-attacks-commercial-vessels-spike",
-          "pub": 1786273200000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Typhoon Dolphin hits China's east coast, over 1 million evacuated",
-      "pub": 1786272507000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Typhoon Dolphin hits China's east coast, over 1 million evacuated",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/typhoon-dolphin-set-hit-chinas-045712266.html",
-          "pub": 1786272507000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Media and Academia: Increasingly Irrelevant, Increasingly Distrusted",
-      "pub": 1786271444000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Media and Academia: Increasingly Irrelevant, Increasingly Distrusted",
-          "deck": "Zero to hero to zero.",
-          "link": "https://www.nationalreview.com/2026/08/media-and-academia-increasingly-irrelevant-increasingly-distrusted/",
-          "pub": 1786271444000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Iran Is Rewiring Its Proxy Network",
-      "pub": 1786271442000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran Is Rewiring Its Proxy Network",
-          "deck": "The Islamic Republic’s preparation for renewed regional escalation is making it less vulnerable to outside attacks.",
-          "link": "https://www.nationalreview.com/2026/08/iran-is-rewiring-its-proxy-network/",
-          "pub": 1786271442000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Campaign Speech Lies at the Heart of the First Amendment",
-      "pub": 1786271439000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Campaign Speech Lies at the Heart of the First Amendment",
-          "deck": "That’s why it must be defended, even if doing so is unpopular.",
-          "link": "https://www.nationalreview.com/2026/08/campaign-speech-lies-at-the-heart-of-the-first-amendment/",
-          "pub": 1786271439000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
         }
       ]
     }
