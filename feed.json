@@ -1,12 +1,678 @@
 {
-  "generated": "2026-08-09T15:01:28.971Z",
+  "generated": "2026-08-09T15:56:10.493Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "A Young Marine’s Reckoning With the Afghanistan War",
+      "pub": 1786290718000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Young Marine’s Reckoning With the Afghanistan War",
+          "deck": "Readers respond to a front-page essay by Thomas Gibbons-Neff, a veteran, and ponder the moral complexities of war.",
+          "link": "https://www.nytimes.com/2026/08/09/opinion/afghanistan-war.html",
+          "pub": 1786290718000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran-backed Houthis attack Aramco refinery in Saudi Arabia, Red Sea port",
+      "pub": 1786290664000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran-backed Houthis attack Aramco refinery in Saudi Arabia, Red Sea port",
+          "deck": "The Iran-backed Houthi terrorist group attacked an Aramco oil refinery in Saudi Arabia and a critical Red Sea port on Sunday, killing at least seven people, officials said.",
+          "link": "https://nypost.com/2026/08/09/world-news/iran-backed-houthis-attack-aramco-refinery-in-saudi-arabia-red-sea-port/",
+          "pub": 1786290664000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Grim photos show doomed boat pulled from New York Harbor hours after deadly crash killed 2, including tot",
+      "pub": 1786290561000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Grim photos show doomed boat pulled from New York Harbor hours after deadly crash killed 2, including tot",
+          "deck": "Exclusive pictures show the police boat making its way across the harbor after recovering the capsized vessel, which flipped over while dangerously overcrowded with 14 people on board just before 10 p.",
+          "link": "https://nypost.com/2026/08/09/us-news/grim-photos-show-doomed-boat-pulled-from-new-york-harbor-hours-after-deadly-crash-killed-2-including-tot/",
+          "pub": 1786290561000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+      "pub": 1786290537000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+          "deck": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
+          "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+          "pub": 1786290537000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
+      "pub": 1786290519000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
+          "deck": "In an interview with the BBC, Mr.",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html",
+          "pub": 1786290519000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
+      "pub": 1786290473000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
+          "deck": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out.",
+          "link": "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html",
+          "pub": 1786290473000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Joyless Return of 'Ted Lasso'",
+      "pub": 1786290229000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Joyless Return of 'Ted Lasso'",
+          "deck": "The show's newest season replaces real character complexity, depth, and heart with big, sweeping political statements that stir progressive pundits and academics and precisely no one else.",
+          "link": "https://www.realclearpolitics.com/2026/08/09/the_joyless_return_of_ted_lasso_707439.html",
+          "pub": 1786290229000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Sen. Jim Banks says Rep. Max Miller should drop his re-election bid if allegations are true",
+      "pub": 1786290087000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sen. Jim Banks says Rep. Max Miller should drop his re-election bid if allegations are true",
+          "deck": "Sen. Jim Banks, R-Ind., told NBC News’ “Meet the Press” Sunday that embattled Rep.",
+          "link": "https://www.nbcnews.com/politics/congress/jim-banks-max-miller-resign-reelection-bid-moreno-ohio-rcna591571",
+          "pub": 1786290087000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Democrat Embrace Of Islamo-Socialism Is Party Suicide",
+      "pub": 1786290000000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Democrat Embrace Of Islamo-Socialism Is Party Suicide",
+          "deck": "The Democrat Embrace Of Islamo-Socialism Is Party Suicide Authored by David Sultzer via AmericanThinker.",
+          "link": "https://www.zerohedge.com/political/democrat-embrace-islamo-socialism-party-suicide",
+          "pub": 1786290000000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "FIFA defends Gianni Infantino after allegations of mistress paid off by UEFA",
+      "pub": 1786289990000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "FIFA defends Gianni Infantino after allegations of mistress paid off by UEFA",
+          "deck": "FIFA didn’t mince words in its statement defending Gianni Infantino, blasting \"a concerted and ongoing effort by some to undermine\" his leadership",
+          "link": "https://nypost.com/2026/08/09/sports/fifa-defends-gianni-infantino-after-allegations-of-mistress-paid-off-by-uefa/",
+          "pub": 1786289990000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Next Senator From SC Will Not Be Like Lindsey Graham",
+      "pub": 1786289780000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Next Senator From SC Will Not Be Like Lindsey Graham",
+          "deck": "Different in this way: the next senator will not share the fixation on foreign policy, and especially on military conflict, that marked Lindsey Graham's 24 years in the Senate.",
+          "link": "https://www.realclearpolitics.com/2026/08/09/next_senator_from_sc_will_not_be_like_lindsey_graham_707478.html",
+          "pub": 1786289780000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Howard Stern staffers not allowed to speak to radio host at parties in ‘cultish’ company: ‘People were warned’",
+      "pub": 1786289676000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Howard Stern staffers not allowed to speak to radio host at parties in ‘cultish’ company: ‘People were warned’",
+          "deck": "“All of these men [who work for Stern] are so desperate for Howard’s attention, it’s like they all just like want Daddy’s approval so bad,” a source told the US Sun.",
+          "link": "https://pagesix.com/2026/08/09/celebrity-news/howard-stern-staffers-not-allowed-to-speak-to-radio-host-at-parties-in-cultish-company/",
+          "pub": 1786289676000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Indian national arrested in Germany, charged with murder of University of Arizona girlfriend",
+      "pub": 1786289656000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Indian national arrested in Germany, charged with murder of University of Arizona girlfriend",
+          "deck": "An Indian national was arrested and charged with murder after fleeing the country as police investigated the death of his 19-year-old girlfriend in Tucson, Arizona.",
+          "link": "https://www.nbcnews.com/news/us-news/indian-national-arrested-germany-murder-girlfriend-rcna591578",
+          "pub": 1786289656000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "El-Sayed reveals he spoke with Obama after Michigan Senate primary win",
+      "pub": 1786289656000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "El-Sayed reveals he spoke with Obama after Michigan Senate primary win",
+          "deck": "Michigan Democratic Senate candidate Abdul El-Sayed reflected on a call he had with former President Obama after a primary win in an interview that aired on Sunday.",
+          "link": "https://thehill.com/homenews/campaign/6019094-abdul-elsayed-obama-michigan-senate/",
+          "pub": 1786289656000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "pub": 1786289644000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+          "deck": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+          "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786289644000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia and Micron Have Driven the S&P 500’s 2026 Rally to Record Highs. History Says It’s Not Over",
+      "pub": 1786289608000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Nvidia and Micron Have Driven the S&P 500’s 2026 Rally to Record Highs. History Says It’s Not Over",
+          "deck": "",
+          "link": "https://247wallst.com/investing/2026/08/09/nvidia-and-micron-have-driven-the-sp-500s-2026-rally-to-record-highs-history-says-its-not-over/",
+          "pub": 1786289608000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "My Hometown Went Up in Flames. It Won’t Be the Last.",
+      "pub": 1786289422000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "My Hometown Went Up in Flames. It Won’t Be the Last.",
+          "deck": "I watched, heartbroken and sleepless, as my boyhood stamping ground fell to spikes of wind-driven flame.",
+          "link": "https://www.nytimes.com/2026/08/08/opinion/wildfires-washington-spokane-climate-change.html",
+          "pub": 1786289422000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "You're wealthy and eligible for Social Security — here's why declining your benefit could be a costly mistake",
+      "pub": 1786289400000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "You're wealthy and eligible for Social Security — here's why declining your benefit could be a costly mistake",
+          "deck": "",
+          "link": "https://finance.yahoo.com/healthcare/articles/youre-wealthy-eligible-social-security-153000006.html",
+          "pub": 1786289400000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Toyota And Hyundai Got Caught Tracking Drivers. GM Already Put A Price On It: $25 Billion.",
+      "pub": 1786289400000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Toyota And Hyundai Got Caught Tracking Drivers. GM Already Put A Price On It: $25 Billion.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/articles/toyota-hyundai-got-caught-tracking-153000700.html",
+          "pub": 1786289400000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "BetMGM bonus code POSTBET: Get up to $1,500 in bonus bets for Wings vs. Lynx",
+      "pub": 1786289400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "BetMGM bonus code POSTBET: Get up to $1,500 in bonus bets for Wings vs. Lynx",
+          "deck": "Get up to $1,500 back in bonus bets if your first bet doesn't win with BetMGM promo code POSTBET.",
+          "link": "https://nypost.com/2026/08/09/betting/betmgm-bonus-code-postbet-get-up-to-1500-in-bonus-bets-for-wings-vs-lynx/",
+          "pub": 1786289400000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Great and Unfortunate Fabrications",
+      "pub": 1786289381000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Great and Unfortunate Fabrications",
+          "deck": "For the last couple of weeks, the \"youngest ever black professor\" at the University of Cambridge has been a nearly ubiquitous and nonstop source of hilarity.",
+          "link": "https://www.realclearpolitics.com/2026/08/09/great_and_unfortunate_fabrications_707481.html",
+          "pub": 1786289381000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "DiJonai Carrington can’t wait for Sophie Cunningham rematch after ‘white privilege’ flagrant foul controversy",
+      "pub": 1786289257000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "DiJonai Carrington can’t wait for Sophie Cunningham rematch after ‘white privilege’ flagrant foul controversy",
+          "deck": "DiJonai Carrington is already looking forward to Aug.",
+          "link": "https://nypost.com/2026/08/09/sports/dijonai-carrington-eyes-sophie-cunningham-rematch-after-flagrant-foul/",
+          "pub": 1786289257000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Those Who Tell You 'AI Is Changing Everything' Are Lying",
+      "pub": 1786289215000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Those Who Tell You 'AI Is Changing Everything' Are Lying",
+          "deck": "It has become impossible to tell managers mesmerised by artificial intelligence that the tools are not, in fact, helpful.",
+          "link": "https://www.realclearpolitics.com/2026/08/09/those_who_tell_you_ai_is_changing_everything_are_lying_707447.html",
+          "pub": 1786289215000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Powerball hits $905M on Monday, Aug. 10. Are you in?",
+      "pub": 1786289180000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Powerball hits $905M on Monday, Aug. 10. Are you in?",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/powerball-hits-905m-monday-aug-152620888.html",
+          "pub": 1786289180000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "pub": 1786289150000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "deck": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786289150000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Democratic Party Is Being Hijacked",
+      "pub": 1786289118000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Democratic Party Is Being Hijacked",
+          "deck": "I serve in Congress.",
+          "link": "https://www.realclearpolitics.com/2026/08/09/the_democratic_party_is_being_hijacked_707438.html",
+          "pub": 1786289118000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Rocket Lab Is Down 57% From Its Peak While Analysts See 49% Upside. Who Has It Right?",
+      "pub": 1786289100000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rocket Lab Is Down 57% From Its Peak While Analysts See 49% Upside. Who Has It Right?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-down-57-peak-152500671.html",
+          "pub": 1786289100000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Michigan, El-Sayed and a Reckoning for the Democrats",
+      "pub": 1786289015000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Michigan, El-Sayed and a Reckoning for the Democrats",
+          "deck": "Its leftwing insurgency was no longer confined to deep blue coastal cities; it had breached the walls of a critical midwestern swing state.",
+          "link": "https://www.realclearpolitics.com/2026/08/09/michigan_el-sayed_and_a_reckoning_for_the_democrats_707487.html",
+          "pub": 1786289015000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "‘General Hospital’ Star Laura Wright Signs New Contract: “I’m Not Going Anywhere”",
+      "pub": 1786288781000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘General Hospital’ Star Laura Wright Signs New Contract: “I’m Not Going Anywhere”",
+          "deck": "Looks like Carly is sticking around Port Charles.",
+          "link": "https://decider.com/2026/08/09/general-hospital-laura-wright-signs-new-contract-not-going-anywhere/",
+          "pub": 1786288781000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+      "pub": 1786288581000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+          "deck": "“Israel does not accept the 15-point document,” Prime Minister Benjamin Netanyahu said.",
+          "link": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/",
+          "pub": 1786288581000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "AOC declines to endorse Hong, says she’s focused on ‘winning back’ Congress",
+      "pub": 1786288495000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "AOC declines to endorse Hong, says she’s focused on ‘winning back’ Congress",
+          "deck": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor’s race. “I haven't endorsed in that race. My focus has been in winning back the Congress, winning back the House, and positioning ourselves to have the best chance possible to win the Senate,”...",
+          "link": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
+          "pub": 1786288495000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
+      "pub": 1786288283000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
+          "deck": "The “Hall of Fame Village” was pitched in 2014 as a boon to the city.",
+          "link": "https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html",
+          "pub": 1786288283000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+      "pub": 1786288249000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+          "deck": "The Bald Range fire has burned more than 25,000 acres in British Columbia.",
+          "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+          "pub": 1786288249000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Please Judge the Books I’m Reading",
+      "pub": 1786288096000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Please Judge the Books I’m Reading",
+          "deck": "Literary awards get dismissed for elitism.",
+          "link": "https://www.nytimes.com/2026/08/09/opinion/reading-books-judges-awards-booker.html",
+          "pub": 1786288096000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "pub": 1786288080000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+          "deck": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+          "link": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+          "pub": 1786288080000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "El Sayed hails ‘inspiring’ call with Obama, hopes former president hits campaign trail",
+      "pub": 1786287905000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "El Sayed hails ‘inspiring’ call with Obama, hopes former president hits campaign trail",
+          "deck": "Progressive Democrat Abdul el Sayed revealed he spoke with former President Barack Obama after his Senate primary victory against Rep.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4680373/el-sayed-call-obama-michigan-senate-campaign/",
+          "pub": 1786287905000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Apple Tests Chinese Memory Chips As Supply Crunch Pushes PC Giants Toward CXMT",
+      "pub": 1786287900000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Apple Tests Chinese Memory Chips As Supply Crunch Pushes PC Giants Toward CXMT",
+          "deck": "Apple Tests Chinese Memory Chips As Supply Crunch Pushes PC Giants Toward CXMT After months of lobbying the Trump administration for clearance to purchase Chinese memory chips, Apple appears to be nearing the point where it can tap China's domestic chip market.",
+          "link": "https://www.zerohedge.com/markets/apple-tests-chinese-memory-chips-supply-crunch-pushes-pc-giants-toward-cxmt",
+          "pub": 1786287900000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
     {
       "title": "The unaccountability trap in government",
       "pub": 1786287600000,
       "lean": "ct",
-      "cat": "Opinion",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -61,7 +727,7 @@
       "pub": 1786287437000,
       "lean": "ll",
       "cat": "Politics",
-      "single": true,
+      "single": false,
       "versions": [
         {
           "title": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Aug. 9, 2026",
@@ -70,6 +736,15 @@
           "pub": 1786287437000,
           "src": "CBS",
           "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Aug. 9, 2026",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/transcript-sen-bill-cassidy-face-145717910.html",
+          "pub": 1786287437000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -111,20 +786,29 @@
       ]
     },
     {
-      "title": "Woman, 5-month-old baby die after vessel overturns in New York Harbor",
-      "pub": 1786287052000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
+      "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
+      "pub": 1786286848000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": false,
       "versions": [
         {
-          "title": "Woman, 5-month-old baby die after vessel overturns in New York Harbor",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/woman-baby-die-vessel-overturns-100640178.html",
-          "pub": 1786287052000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
+          "deck": "Fresh off his primary victory earlier this week, Michigan Senate candidate Abdul El-Sayed is set to appear on two news programs Sunday as he looks ahead to the November general election against former Rep.",
+          "link": "https://www.newsnationnow.com/politics/el-sayed-ocasio-cortez-sunday-show-appearances/",
+          "pub": 1786286848000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        },
+        {
+          "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
+          "deck": "Fresh off his primary victory earlier this week, Michigan Senate candidate Abdul El-Sayed is set to appear on two news programs Sunday as he looks ahead to the November general election against former Rep.",
+          "link": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/",
+          "pub": 1786278548000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
         }
       ]
     },
@@ -219,24 +903,6 @@
       ]
     },
     {
-      "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-      "pub": 1786286580000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-sits-12-below-high-144300863.html",
-          "pub": 1786286580000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Cheer Boy George for backing Jews over haters — even as it costs him his career",
       "pub": 1786286565000,
       "lean": "lr",
@@ -255,28 +921,10 @@
       ]
     },
     {
-      "title": "Shipwreck, jars more than 2,000 years old found off Italian coast",
-      "pub": 1786286524000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Shipwreck, jars more than 2,000 years old found off Italian coast",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/shipwreck-jars-more-2-000-144204490.html",
-          "pub": 1786286524000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Farmers' markets see spike in visits amid foodborne illness fears",
       "pub": 1786286466000,
       "lean": "ct",
-      "cat": "Health",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -304,24 +952,6 @@
           "pub": 1786286119000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Warren Buffett Donated $6 Billion of Berkshire Stock to Family Foundations and Cut Off the Gates Foundation for the First Time in 20 Years. Does This Change the Investment Case for Berkshire?",
-      "pub": 1786286100000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Warren Buffett Donated $6 Billion of Berkshire Stock to Family Foundations and Cut Off the Gates Foundation for the First Time in 20 Years. Does This Change the Investment Case for Berkshire?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-donated-6-billion-143500942.html",
-          "pub": 1786286100000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -356,42 +986,6 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/world/articles/study-europe-ill-prepared-russian-143331805.html",
           "pub": 1786286011000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "pub": 1786285914000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-          "deck": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
-          "link": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-          "pub": 1786285914000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Women Are Calling Out Silence Around Menopause And Perimenopause",
-      "pub": 1786285862000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Women Are Calling Out Silence Around Menopause And Perimenopause",
-          "deck": "",
-          "link": "https://www.yahoo.com/lifestyle/articles/women-calling-silence-around-menopause-143102459.html",
-          "pub": 1786285862000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -544,7 +1138,7 @@
     },
     {
       "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
-      "pub": 1786285099000,
+      "pub": 1786285100000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -553,7 +1147,7 @@
           "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
           "deck": "Dr. Abdul El-Sayed’s call with the former president comes as he tries to win over wary Democrats in Michigan’s high-stakes Senate race.",
           "link": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
-          "pub": 1786285099000,
+          "pub": 1786285100000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -768,24 +1362,6 @@
       ]
     },
     {
-      "title": "'Ozempic Butt' Isn't Always Muscle Loss—What Experts Want Patients To Know",
-      "pub": 1786284000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "'Ozempic Butt' Isn't Always Muscle Loss—What Experts Want Patients To Know",
-          "deck": "Two obesity specialists told Newsweek that the key to protecting muscle comes down to two simple habits.",
-          "link": "https://www.newsweek.com/ozempic-butt-isnt-always-muscle-loss-what-experts-want-patients-to-know-12292283",
-          "pub": 1786284000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "When Does ‘House of the Dragon’ Season 3 Episode 8 Come Out?",
       "pub": 1786284000000,
       "lean": "lr",
@@ -835,24 +1411,6 @@
           "pub": 1786283874000,
           "src": "HILL",
           "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Boat Captain Arrested After Woman and Baby Die in New York Boat Capsizing",
-      "pub": 1786283855000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Boat Captain Arrested After Woman and Baby Die in New York Boat Capsizing",
-          "deck": "The pair died after a boat overturned in New York Harbor near the Statue of Liberty, police said.",
-          "link": "https://www.newsweek.com/woman-baby-killed-boat-capsize-new-york-12301592",
-          "pub": 1786283855000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -930,14 +1488,32 @@
       ]
     },
     {
-      "title": "Captain hit with slew of charges after boat capsized near Liberty Island, killing 2, including infant",
+      "title": "Chris Murphy says he’d ‘support a bad deal’ with Iran because ‘war needs to end’: Full interview",
+      "pub": 1786283513000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Chris Murphy says he’d ‘support a bad deal’ with Iran because ‘war needs to end’: Full interview",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/chris-murphy-says-d-support-135153607.html",
+          "pub": 1786283513000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Captain hit with slew of charges after boat capsized near Liberty Island, killing mother and her baby",
       "pub": 1786283348000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Captain hit with slew of charges after boat capsized near Liberty Island, killing 2, including infant",
+          "title": "Captain hit with slew of charges after boat capsized near Liberty Island, killing mother and her baby",
           "deck": "The vessel, a 22-foot bowrider motorboat, was overloaded with 14 people on board, NYPD sources told The Post.",
           "link": "https://nypost.com/2026/08/09/us-news/captain-hit-with-slew-of-charges-after-boat-capsized-near-liberty-island-killing-2-including-infant/",
           "pub": 1786283348000,
@@ -980,60 +1556,6 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "pub": 1786283028000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/fast-moving-canada-wildfire-doubles-181354317.html",
-          "pub": 1786283028000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Republican Senator Issues Eulogy For Vacuum: 'I Will Miss You'",
-      "pub": 1786283019000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Republican Senator Issues Eulogy For Vacuum: 'I Will Miss You'",
-          "deck": "Senator Chuck Grassley mourned Beth, his family’s 49-year-old vacuum, after electrical sparks forced its retirement.",
-          "link": "https://www.newsweek.com/republican-senator-grassley-eulogy-vacuum-12301564",
-          "pub": 1786283019000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ed Case Fends Off Progressive Upset With Hawaii Victory: List of Winners",
-      "pub": 1786282859000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ed Case Fends Off Progressive Upset With Hawaii Victory: List of Winners",
-          "deck": "Case fended off a progressive primary challenge in Hawaii, while Democrats secured key statewide victories ahead of November.",
-          "link": "https://www.newsweek.com/ed-case-fends-off-progressive-upset-with-hawaii-victory-list-of-winners-12301526",
-          "pub": 1786282859000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1092,60 +1614,6 @@
       ]
     },
     {
-      "title": "‘Highlander’ star Christopher Lambert, 69, collapses at Pittsburgh Comic-Con",
-      "pub": 1786282337000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Highlander’ star Christopher Lambert, 69, collapses at Pittsburgh Comic-Con",
-          "deck": "While attending the annual convention on Saturday, the French actor was signing autographs for fans when he \"suddenly collapsed,\" a witness told TMZ.",
-          "link": "https://pagesix.com/2026/08/09/celebrity-news/highlander-star-christopher-lambert-69-collapses-at-pittsburgh-comic-con/",
-          "pub": 1786282337000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Novig promo code NYPOST: Spend $25, get $50 in Novig coins for Mets vs. Pirates on Sunday",
-      "pub": 1786282200000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Novig promo code NYPOST: Spend $25, get $50 in Novig coins for Mets vs. Pirates on Sunday",
-          "deck": "Novig promo code NYPOST unlocks a $50 bonus for new users after they place a $25 trade on Mets vs.",
-          "link": "https://nypost.com/2026/08/09/betting/novig-promo-code-nypost-spend-25-get-50-in-novig-coins-for-mets-vs-pirates-on-sunday/",
-          "pub": 1786282200000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "LI stripper sues doctor who sought restraining order after she told his wife about their alleged affair",
-      "pub": 1786282163000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "LI stripper sues doctor who sought restraining order after she told his wife about their alleged affair",
-          "deck": "The family physician and father-of-two claimed Kissoon had threatened to hire \"goons\" to \"beat you and your family,\" and \"rip your wife's .",
-          "link": "https://nypost.com/2026/08/09/us-news/li-stripper-sues-doctor-who-sought-restraining-order-after-she-told-his-wife-about-their-alleged-affair/",
-          "pub": 1786282163000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Michigan Senate Candidate, a Former Trump Critic, Shifts Toward Election Skepticism",
       "pub": 1786281798000,
       "lean": "ll",
@@ -1160,24 +1628,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Woman With Ovarian Condition Says ICE Is Denying Her Urgent Medication",
-      "pub": 1786281690000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Woman With Ovarian Condition Says ICE Is Denying Her Urgent Medication",
-          "deck": "A doctor says her conditions require continuous treatment and warns that interruptions could lead to complications.",
-          "link": "https://www.newsweek.com/woman-ovarian-condition-ice-denying-urgent-medication-12301523",
-          "pub": 1786281690000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1318,20 +1768,11 @@
     },
     {
       "title": "Abdul El-Sayed says he spoke with Obama after primary win, hopes he’ll campaign for him",
-      "pub": 1786281405000,
+      "pub": 1786281401000,
       "lean": "ll",
-      "cat": "Technology",
-      "single": false,
+      "cat": "Politics",
+      "single": true,
       "versions": [
-        {
-          "title": "Abdul El-Sayed says he spoke with Obama after primary win, hopes he’ll campaign for him",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/videos/abdul-el-sayed-says-spoke-131645447.html",
-          "pub": 1786281405000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Abdul El-Sayed says he spoke with Obama after primary win, hopes he’ll campaign for him",
           "deck": "In an interview with Meet the Press, Michigan Democratic Senate nominee Abdul El-Sayed says he “really enjoyed” his recent conversation with former President Barack Obama and hopes he’ll campaign with him ahead of the general election.",
@@ -1434,24 +1875,6 @@
       ]
     },
     {
-      "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas to disarm, Israel to withdraw",
-      "pub": 1786281042000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas to disarm, Israel to withdraw",
-          "deck": "“Israel does not accept the 15-point document,” Prime Minister Benjamin Netanyahu said.",
-          "link": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/",
-          "pub": 1786281042000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "pub": 1786280901000,
       "lean": "ct",
@@ -1470,37 +1893,19 @@
       ]
     },
     {
-      "title": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact",
-      "pub": 1786280809000,
+      "title": "8/9: Sunday Morning",
+      "pub": 1786280400000,
       "lean": "ll",
-      "cat": "Technology",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/yemens-houthis-attacked-saudi-aramco-074652468.html",
-          "pub": 1786280809000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A Young Soldier’s Reckoning With the Afghanistan War",
-      "pub": 1786280405000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Young Soldier’s Reckoning With the Afghanistan War",
-          "deck": "Readers respond to a front-page essay by Thomas Gibbons-Neff, a veteran, and ponder the moral complexities of war.",
-          "link": "https://www.nytimes.com/2026/08/09/opinion/afghanistan-war.html",
-          "pub": 1786280405000,
-          "src": "NYT",
-          "srcFull": "New York Times",
+          "title": "8/9: Sunday Morning",
+          "deck": "Hosted by Seth Doane.",
+          "link": "https://www.cbsnews.com/video/080926-sunday-morning/",
+          "pub": 1786280400000,
+          "src": "CBS",
+          "srcFull": "CBS News",
           "lean": "ll"
         }
       ]
@@ -1520,78 +1925,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "My Doctor Told Me It Was Just 'Anxiety', Then I Got Life-Changing Diagnosis",
-      "pub": 1786280400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "My Doctor Told Me It Was Just 'Anxiety', Then I Got Life-Changing Diagnosis",
-          "deck": "For nearly two years, I fought for someone to listen.",
-          "link": "https://www.newsweek.com/my-doctor-told-me-it-was-just-anxiety-then-i-got-life-changing-diagnosis-12291416",
-          "pub": 1786280400000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1,000 matched in FanCash for Braves vs. Yankees",
-      "pub": 1786280400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1,000 matched in FanCash for Braves vs. Yankees",
-          "deck": "Get up to $1,000 matched in FanCash for Braves vs.",
-          "link": "https://nypost.com/2026/08/09/betting/fanatics-sportsbook-promo-code-nypost26-get-up-to-1000-matched-in-fancash-for-braves-vs-yankees/",
-          "pub": 1786280400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Major update in Tupac’s unsolved murder as incriminating jail call from alleged killer emerges on eve of trial",
-      "pub": 1786280400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Major update in Tupac’s unsolved murder as incriminating jail call from alleged killer emerges on eve of trial",
-          "deck": "It's been stated that prosecutors hope to prove Duane “Keffe D” Davis was the shot caller in the killing of Tupac Shakur.",
-          "link": "https://nypost.com/2026/08/09/us-news/tupacs-unsolved-murder-update-as-incriminating-jail-call-from-alleged-killer-emerges-on-eve-of-trial/",
-          "pub": 1786280400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "2026-27 NHL predictions, awards picks: Rangers’ Albert Smits is a long-shot worth backing to win the Calder Trophy",
-      "pub": 1786280400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "2026-27 NHL predictions, awards picks: Rangers’ Albert Smits is a long-shot worth backing to win the Calder Trophy",
-          "deck": "Porter Martone and Gavin McKenna headline the NHL's incoming rookie class.",
-          "link": "https://nypost.com/2026/08/09/betting/2026-27-nhl-predictions-awards-picks-rangers-albert-smits-is-a-long-shot-worth-backing-to-win-the-calder-trophy/",
-          "pub": 1786280400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1625,24 +1958,6 @@
           "deck": "The curious case of Guren “Bobby” Zhou shows the ease with which investors with shady backgrounds and unknown motivations can funnel money to the president.",
           "link": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
           "pub": 1786280292000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-      "pub": 1786280243000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-          "deck": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
-          "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-          "pub": 1786280243000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -1830,24 +2145,6 @@
       ]
     },
     {
-      "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
-      "pub": 1786278548000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
-          "deck": "Fresh off his primary victory earlier this week, Michigan Senate candidate Abdul El-Sayed is set to appear on two news programs Sunday as he looks ahead to the November general election against former Rep.",
-          "link": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/",
-          "pub": 1786278548000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
       "pub": 1786278446000,
       "lean": "ct",
@@ -1938,32 +2235,14 @@
       ]
     },
     {
-      "title": "Map Shows Five Threats Brewing In Pacific, Atlantic as Hurricane Risk Rises",
-      "pub": 1786277605000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Map Shows Five Threats Brewing In Pacific, Atlantic as Hurricane Risk Rises",
-          "deck": "Five tropical threats emerge across the Atlantic and Pacific, with two systems near Africa showing development potential.",
-          "link": "https://www.newsweek.com/map-threats-pacific-atlantic-hurricane-risk-12301497",
-          "pub": 1786277605000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Can birth control trends explain the rise in abortions? It's complicated",
+      "title": "There's a birth control backlash online. Can it explain the rise in abortions?",
       "pub": 1786277535000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Can birth control trends explain the rise in abortions? It's complicated",
+          "title": "There's a birth control backlash online. Can it explain the rise in abortions?",
           "deck": "The number of abortions is up in the United States.",
           "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
           "pub": 1786277535000,
@@ -2077,24 +2356,6 @@
           "pub": 1786276904000,
           "src": "NYP",
           "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Those Who Tell You 'AI Is Changing Everything' Are Lying",
-      "pub": 1786276861000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Those Who Tell You 'AI Is Changing Everything' Are Lying",
-          "deck": "It has become impossible to tell managers mesmerised by artificial intelligence that the tools are not, in fact, helpful.",
-          "link": "https://www.realclearpolitics.com/2026/08/08/those_who_tell_you_ai_is_changing_everything_are_lying_707447.html",
-          "pub": 1786276861000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
           "lean": "lr"
         }
       ]
@@ -2316,42 +2577,6 @@
       ]
     },
     {
-      "title": "The Joyless Return of 'Ted Lasso'",
-      "pub": 1786276451000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Joyless Return of 'Ted Lasso'",
-          "deck": "The show's newest season replaces real character complexity, depth, and heart with big, sweeping political statements that stir progressive pundits and academics and precisely no one else, writes Liel Leibovitz.",
-          "link": "https://www.realclearpolitics.com/2026/08/08/the_joyless_return_of_ted_lasso_707439.html",
-          "pub": 1786276451000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Great and Unfortunate Fabrications",
-      "pub": 1786276428000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Great and Unfortunate Fabrications",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/09/great_and_unfortunate_fabrications_707481.html",
-          "pub": 1786276428000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Jason Arday's Fairy Tale Is Over",
       "pub": 1786276423000,
       "lean": "lr",
@@ -2460,24 +2685,6 @@
       ]
     },
     {
-      "title": "The Democratic Party Is Being Hijacked",
-      "pub": 1786276383000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Democratic Party Is Being Hijacked",
-          "deck": "I serve in Congress.",
-          "link": "https://www.realclearpolitics.com/2026/08/08/the_democratic_party_is_being_hijacked_707438.html",
-          "pub": 1786276383000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "The Meaning of Haley Stevens' Defeat",
       "pub": 1786276378000,
       "lean": "lr",
@@ -2507,42 +2714,6 @@
           "deck": "",
           "link": "https://www.realclearpolitics.com/2026/08/08/trump_has_a_gas_problem_707440.html",
           "pub": 1786276376000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Next Senator From SC Will Not Be Like Lindsey Graham",
-      "pub": 1786276372000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Next Senator From SC Will Not Be Like Lindsey Graham",
-          "deck": "On Tuesday, voters in South Carolina will choose a Republican nominee for the Senate to replace the late Sen.",
-          "link": "https://www.realclearpolitics.com/2026/08/09/next_senator_from_sc_will_not_be_like_lindsey_graham_707478.html",
-          "pub": 1786276372000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Michigan, El-Sayed and a Reckoning for the Democrats",
-      "pub": 1786276369000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Michigan, El-Sayed and a Reckoning for the Democrats",
-          "deck": "With Abdul El-Sayed's win, the party's leftwing insurgency had breached the walls of a midwestern swing state, forcing a reckoning about Democrats' direction and leadership",
-          "link": "https://www.realclearpolitics.com/2026/08/09/michigan_el-sayed_and_a_reckoning_for_the_democrats_707487.html",
-          "pub": 1786276369000,
           "src": "RCP",
           "srcFull": "RealClear Politics",
           "lean": "lr"
@@ -2586,24 +2757,6 @@
       ]
     },
     {
-      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-      "pub": 1786275112000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-          "deck": "The Bald Range fire has burned more than 25,000 acres in British Columbia.",
-          "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-          "pub": 1786275112000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
       "pub": 1786275102000,
       "lean": "ll",
@@ -2618,24 +2771,6 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump's Approval Rating Shifts Among Christians",
-      "pub": 1786275041000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Donald Trump's Approval Rating Shifts Among Christians",
-          "deck": "The president's approval ratings among born-again Protestants have risen, but fallen among Catholics.",
-          "link": "https://www.newsweek.com/donald-trump-approval-rating-catholics-protestants-12301481",
-          "pub": 1786275041000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -2689,6 +2824,24 @@
           "pub": 1786274127000,
           "src": "WaPo",
           "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Winning Powerball numbers drawn for $863 million jackpot",
+      "pub": 1786273983000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Winning Powerball numbers drawn for $863 million jackpot",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/powerball-grows-highest-jackpot-135553962.html",
+          "pub": 1786273983000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -2762,24 +2915,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Dad sues after school allegedly won't say if biological males can use daughter's bathroom",
-      "pub": 1786273251000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dad sues after school allegedly won't say if biological males can use daughter's bathroom",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/dad-sues-school-allegedly-wont-110051586.html",
-          "pub": 1786273251000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2874,24 +3009,6 @@
       ]
     },
     {
-      "title": "Woman Wants Botox Top-Up Before Vacation—Then Terrifying Symptoms Begin",
-      "pub": 1786273200000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Woman Wants Botox Top-Up Before Vacation—Then Terrifying Symptoms Begin",
-          "deck": "Sarah Danielle told Newsweek: \"The situation became scary very quickly.",
-          "link": "https://www.newsweek.com/woman-wants-botox-top-up-before-vacationthen-terrifying-symptoms-begin-12197424",
-          "pub": 1786273200000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "The New Right Is Wrong About the ‘Common Good’",
       "pub": 1786273200000,
       "lean": "lr",
@@ -2978,24 +3095,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Map Shows Bug Fire Spreading Rapidly Amid Widespread Nevada Evacuations",
-      "pub": 1786273061000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Map Shows Bug Fire Spreading Rapidly Amid Widespread Nevada Evacuations",
-          "deck": "Bug Fire explodes to 6,500+ acres near Cold Springs, forcing evacuations across the Nevada-California border region.",
-          "link": "https://www.newsweek.com/map-bug-fire-spread-evacuations-nevada-12301463",
-          "pub": 1786273061000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -3126,24 +3225,6 @@
       ]
     },
     {
-      "title": "I'm an Alzheimer's Expert—These Are the 6 Things I Never Do",
-      "pub": 1786271400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I'm an Alzheimer's Expert—These Are the 6 Things I Never Do",
-          "deck": "A neurologist told Newsweek many Alzheimer's risk factors begin decades before symptoms—and are shaped by daily habits.",
-          "link": "https://www.newsweek.com/alzheimers-expert-6-things-to-protect-brain-health-12287087",
-          "pub": 1786271400000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Case fends off challenge from his left in Hawaii Democratic House primary",
       "pub": 1786270345000,
       "lean": "ct",
@@ -3158,6 +3239,24 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "⁠Is ICE using too much force? New poll shows big public opinion shift",
+      "pub": 1786269771000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "⁠Is ICE using too much force? New poll shows big public opinion shift",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/ice-using-much-force-poll-100251063.html",
+          "pub": 1786269771000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3209,24 +3308,6 @@
           "deck": "The genre was shaped by exclusion, not expansion.",
           "link": "https://www.nytimes.com/2026/08/09/opinion/bts-grammys-pop-genre-racism.html",
           "pub": 1786269623000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Please Judge What I’m Reading",
-      "pub": 1786269618000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Please Judge What I’m Reading",
-          "deck": "Literary awards get dismissed for elitism.",
-          "link": "https://www.nytimes.com/2026/08/09/opinion/reading-books-judges-awards-booker.html",
-          "pub": 1786269618000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3309,7 +3390,7 @@
       "title": "Fauci contempt vote presents DOJ with 'incredibly messy' choices",
       "pub": 1786269600000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Health",
       "single": true,
       "versions": [
         {
@@ -3320,60 +3401,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "What to watch as legal battle over birthright citizenship heats up again",
-      "pub": 1786269600000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to watch as legal battle over birthright citizenship heats up again",
-          "deck": "President Trump’s second attempt to restrict birthright citizenship tees up another legal battle over the meaning of the 14th Amendment.",
-          "link": "https://thehill.com/regulation/court-battles/6017779-trump-birthright-citizenship-legal-challenges-14th-amendment/",
-          "pub": 1786269600000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Man Googles $7 Thrift Store Painting—What He Finds Makes Him Buy It on Spot",
-      "pub": 1786269600000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man Googles $7 Thrift Store Painting—What He Finds Makes Him Buy It on Spot",
-          "deck": "A thrift-store find sparked a closer look—and what seemed ordinary could turn out to be far more special than expected.",
-          "link": "https://www.newsweek.com/man-googles-7-thrift-store-painting-what-he-finds-makes-him-buy-it-on-spot-12259258",
-          "pub": 1786269600000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Will Newsom and Vance last as presumed 2028 front-runners? Experts weigh in",
-      "pub": 1786269600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Will Newsom and Vance last as presumed 2028 front-runners? Experts weigh in",
-          "deck": "Former Chicago Mayor Rahm Emanuel‘s assertion that early leads in the presidential cycle could quickly dissipate may be true, but he and other likely 2028 contenders would do well to keep their minds open.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4678932/will-newsom-vance-last-2028-front-runner/",
-          "pub": 1786269600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3468,24 +3495,6 @@
       ]
     },
     {
-      "title": "Man Complains About Earache, Then Doctors Realize It’s His Heart",
-      "pub": 1786266900000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man Complains About Earache, Then Doctors Realize It’s His Heart",
-          "deck": "It's \"difficult to cover all the symptoms\" of a heart attack, one cardiologist told Newsweek.",
-          "link": "https://www.newsweek.com/man-complains-about-earache-then-doctors-realize-its-his-heart-12291132",
-          "pub": 1786266900000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Dietitians agree — cut back on 1 thing for better gut health, energy, and lower risk of cancer",
       "pub": 1786266541000,
       "lean": "ll",
@@ -3504,24 +3513,6 @@
       ]
     },
     {
-      "title": "Thousands of H-1B Visa Holders Could Lose Key Layoff Lifeline Under New Plan",
-      "pub": 1786266521000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Thousands of H-1B Visa Holders Could Lose Key Layoff Lifeline Under New Plan",
-          "deck": "H-1B workers could lose a 60-day window to find new jobs under a Trump administration proposal.",
-          "link": "https://www.newsweek.com/h-1b-visa-holders-key-lay-off-lifeline-new-plan-12301388",
-          "pub": 1786266521000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "A Democrat Sounds the Alarm on Christian Nationalism in Congress",
       "pub": 1786266106000,
       "lean": "ll",
@@ -3533,24 +3524,6 @@
           "deck": "Representative Jared Huffman of California, the only self-declared “humanist” in Congress, writes in a new book that the separation of church and state is in grave danger.",
           "link": "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html",
           "pub": 1786266106000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
-      "pub": 1786266061000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
-          "deck": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out.",
-          "link": "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html",
-          "pub": 1786266061000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3702,114 +3675,6 @@
       ]
     },
     {
-      "title": "Socialist Francesca Hong on How She'll Win in a State Trump Carried Twice",
-      "pub": 1786266000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Socialist Francesca Hong on How She'll Win in a State Trump Carried Twice",
-          "deck": "Hong downplayed the electability question and told Newsweek why a democratic socialist can win a state Trump carried twice.",
-          "link": "https://www.newsweek.com/socialist-francesca-hong-on-how-shell-win-in-a-state-trump-carried-twice-12298655",
-          "pub": 1786266000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "What Happened to Trump the Islamophobe?",
-      "pub": 1786266000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What Happened to Trump the Islamophobe?",
-          "deck": "Trump still gives critics ammunition on Islam.",
-          "link": "https://www.newsweek.com/trump-islamophobia-muslim-voters-politics-12298251",
-          "pub": 1786266000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Israel’s Next Election Really Is a Battle for the Country’s Soul | Opinion",
-      "pub": 1786266000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israel’s Next Election Really Is a Battle for the Country’s Soul | Opinion",
-          "deck": "The choice will be whether we allow our historic social pain to be hijacked or whether we finally dismantle “Bibiland.",
-          "link": "https://www.newsweek.com/israels-next-election-really-is-a-battle-for-the-countrys-soul-opinion-12290888",
-          "pub": 1786266000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Woman Stopped Contraception Injection—Then Her Health Took Devastating Turn",
-      "pub": 1786266000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Woman Stopped Contraception Injection—Then Her Health Took Devastating Turn",
-          "deck": "\"I was terrified,\" Sarah Watson, a 30-year-old mother of two, told Newsweek.",
-          "link": "https://www.newsweek.com/woman-stopped-contraception-injection-then-her-health-took-devastating-turn-12290628",
-          "pub": 1786266000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Subtle Signs Your Dog Isn’t Actually Calm—They’re Secretly Shutting Down",
-      "pub": 1786266000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Subtle Signs Your Dog Isn’t Actually Calm—They’re Secretly Shutting Down",
-          "deck": "Ali Smith, canine behavior consultant at Maven, said a quiet dog can be misleading because it is an emotion and not a behavior.",
-          "link": "https://www.newsweek.com/subtle-signs-dog-not-calm-secretly-shutting-down-12281817",
-          "pub": 1786266000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Map Shows States Where Drinking Water Protections Face Change",
-      "pub": 1786266000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Map Shows States Where Drinking Water Protections Face Change",
-          "deck": "\"The roadless rule supports the drinking water supply for 25 million Americans,\" the lead author of a recent study said.",
-          "link": "https://www.newsweek.com/map-shows-states-where-drinking-water-protections-face-change-12271351",
-          "pub": 1786266000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "In defense of AIPAC",
       "pub": 1786266000000,
       "lean": "lr",
@@ -3859,24 +3724,6 @@
           "pub": 1786263527000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin",
-      "pub": 1786262415000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "WATCH: Dems stand by Maine nominee hit with report he fathered children with his second cousin",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/watch-dems-stand-maine-nominee-080015579.html",
-          "pub": 1786262415000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -3972,6 +3819,42 @@
       ]
     },
     {
+      "title": "Hot weather reveals hidden history across the South",
+      "pub": 1786256487000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hot weather reveals hidden history across the South",
+          "deck": "The hot summer reveals parch marks from centuries old structures at sites including Blenheim Palace.",
+          "link": "https://www.bbc.co.uk/news/articles/c8en5p2r3w5o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786256487000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
+      "pub": 1786255949000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/family-devastated-hit-run-driver-205714646.html",
+          "pub": 1786255949000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
       "pub": 1786255946000,
       "lean": "ct",
@@ -3986,24 +3869,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Family bid to prevent cancer return for girl, 2",
-      "pub": 1786255801000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Family bid to prevent cancer return for girl, 2",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/family-bid-prevent-cancer-return-061001428.html",
-          "pub": 1786255801000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -4094,24 +3959,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-      "pub": 1786253956000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
-          "pub": 1786253956000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -4262,18 +4109,18 @@
     {
       "title": "When does daylight saving time end in 2026? As early as possible",
       "pub": 1786248000000,
-      "lean": "ct",
-      "cat": "Politics",
+      "lean": "ll",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
           "title": "When does daylight saving time end in 2026? As early as possible",
-          "deck": "As warm as it is right now, late fall isn't that far away.",
-          "link": "https://thehill.com/policy/energy-environment/6011868-when-does-daylight-saving-time-end-in-2026-as-early-as-possible/",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/does-daylight-saving-time-end-040000622.html",
           "pub": 1786248000000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4436,24 +4283,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
-      "pub": 1786243482000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
-          "deck": "In an interview with the BBC, Mr.",
-          "link": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html",
-          "pub": 1786243482000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -4935,6 +4764,24 @@
       ]
     },
     {
+      "title": "El-Sayed says he spoke to Obama, hopes he will campaign for him",
+      "pub": 1786233600000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "El-Sayed says he spoke to Obama, hopes he will campaign for him",
+          "deck": "El-Sayed revealed the conversation as he turns his attention to the general election and a matchup with Republican Mike Rogers.",
+          "link": "https://justthenews.com/politics-policy/elections/el-sayed-says-he-spoke-obama-hopes-he-will-campaign-him?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+          "pub": 1786233600000,
+          "src": "JTN",
+          "srcFull": "Just the News",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "Two helicopter pilots killed while battling wildfire in Utah",
       "pub": 1786233600000,
       "lean": "lr",
@@ -5223,6 +5070,24 @@
       ]
     },
     {
+      "title": "Great disappointment will follow the Great Wealth Transfer as baby boomers pass on just a fraction of their fortune to millennials and Gen Xers",
+      "pub": 1786230069000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Great disappointment will follow the Great Wealth Transfer as baby boomers pass on just a fraction of their fortune to millennials and Gen Xers",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/great-disappointment-great-wealth-transfer-230109389.html",
+          "pub": 1786230069000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
       "pub": 1786228982000,
       "lean": "ll",
@@ -5349,28 +5214,10 @@
       ]
     },
     {
-      "title": "Fifa criticises campaign to oust president Infantino",
-      "pub": 1786226804000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fifa criticises campaign to oust president Infantino",
-          "deck": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-          "pub": 1786226804000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Meet the man circumnavigating the Arctic Ocean, alone",
       "pub": 1786224656000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -5435,6 +5282,168 @@
           "src": "REAS",
           "srcFull": "Reason",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade",
+      "pub": 1786224424000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade",
+          "deck": "Samsung's One UI 9 is spreading to millions more Galaxy phones.",
+          "link": "https://www.forbes.com/sites/jaymcgregor/2026/08/08/samsung-one-ui-9-release-date-galaxy-s26-galaxy-s25-august/",
+          "pub": 1786224424000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Verizon suffers outage in 'some parts of the US' with thousands of reports",
+      "pub": 1786224359000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Verizon suffers outage in 'some parts of the US' with thousands of reports",
+          "deck": "Downdetector showed more than 12,000 reports by 4:30 p.",
+          "link": "https://www.foxbusiness.com/fox-news-tech/verizon-suffers-outage-some-parts-us-thousands-reports",
+          "pub": 1786224359000,
+          "src": "FoxB",
+          "srcFull": "Fox Business",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Tanker sailors still face danger in the Strait of Hormuz",
+      "pub": 1786223994000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tanker sailors still face danger in the Strait of Hormuz",
+          "deck": "An agreement over the Strait of Hormuz is still far away.",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+          "pub": 1786223994000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain",
+      "pub": 1786223860000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain",
+          "deck": "Tehran insists on compensation and the lifting of sanctions, among other concessions from the U.",
+          "link": "https://www.washingtonpost.com/world/2026/08/08/iran-says-deal-with-oman-is-close-its-demands-leave-hormuz-opening-uncertain/",
+          "pub": 1786223860000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama pen essays on US presidents",
+      "pub": 1786223079000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama pen essays on US presidents",
+          "deck": "George W. Bush, Barack Obama and Bill Clinton joined a roster of historians and authors in contributing to the In Pursuit project, a 250th-anniversary series that had each writer produce an essay about a president or first lady.",
+          "link": "https://nypost.com/2026/08/08/us-news/trump-goes-unmentioned-but-not-ignored-as-clinton-bush-and-obama-pen-essays-on-us-presidents/",
+          "pub": 1786223079000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks",
+      "pub": 1786222948000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks",
+          "deck": "The directive to industry from Deputy Defense Secretary Steve Feinberg comes amid tensions over a critical U.",
+          "link": "https://www.washingtonpost.com/technology/2026/08/08/pentagon-presses-defense-firms-build-weapons-iran-war-depletes-stocks/",
+          "pub": 1786222948000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Voters need to look past election-rigging and back Prop. 39",
+      "pub": 1786222800000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Voters need to look past election-rigging and back Prop. 39",
+          "deck": "If you want to restore trust in elections, look past the election-rigging — and win anyway.",
+          "link": "https://nypost.com/2026/08/08/opinion/voters-need-to-look-past-election-rigging-and-back-prop-39/",
+          "pub": 1786222800000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Drone With Huge Explosive Payload Hits Bulgaria Near Vital Gas Pipeline",
+      "pub": 1786222500000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ukrainian Drone With Huge Explosive Payload Hits Bulgaria Near Vital Gas Pipeline",
+          "deck": "Ukrainian Drone With Huge Explosive Payload Hits Bulgaria Near Vital Gas Pipeline A major border and aerial incident has occurred between Ukraine and Bulgaria, and Bulgarian officials are outraged and demanding answers - ironically on the heels of a political shift regarding the Ukraine war wherein Sofia has stopped giving weaponry, citing its own stockpile shortages.",
+          "link": "https://www.zerohedge.com/geopolitical/ukrainian-drone-huge-explosive-payload-hits-bulgaria-near-vital-gas-pipeline",
+          "pub": 1786222500000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Student Loan Payments Are Spiking: What Changed On July 1 And What Borrowers Over 50 Should Do",
+      "pub": 1786220400000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Student Loan Payments Are Spiking: What Changed On July 1 And What Borrowers Over 50 Should Do",
+          "deck": "Student Loan Payments Are Spiking: What Changed On July 1 And What Borrowers Over 50 Should Do Authored by Adam H.",
+          "link": "https://www.zerohedge.com/personal-finance/student-loan-payments-are-spiking-what-changed-july-1-and-what-borrowers-over-50",
+          "pub": 1786220400000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
         }
       ]
     }
