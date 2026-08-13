@@ -1,22 +1,868 @@
 {
-  "generated": "2026-08-13T06:57:54.861Z",
+  "generated": "2026-08-13T08:20:37.401Z",
   "count": 300,
   "clusters": [
     {
-      "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
-      "pub": 1786603780000,
+      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+      "pub": 1786609086000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+          "deck": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+          "pub": 1786609086000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
+      "pub": 1786609024000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
+          "deck": "Even if a cease-fire materializes, Gulf exporters recognize that relying strictly on the Strait of Hormuz is a risk they can no longer take.",
+          "link": "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html",
+          "pub": 1786609024000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Danube Water Levels Sink To Historic Lows",
+      "pub": 1786608900000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Danube Water Levels Sink To Historic Lows",
+          "deck": "Danube Water Levels Sink To Historic Lows The Danube and other rivers in Europe are experiencing historic drought conditions which have thrown shipping, tourism and energy supply into disarray.",
+          "link": "https://www.zerohedge.com/weather/danube-water-levels-sink-historic-lows",
+          "pub": 1786608900000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "pub": 1786608835000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+          "deck": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786608835000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Scientists Discover What Happens in Dogs’ Brains When They See Your Face",
+      "pub": 1786608827000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Scientists Discover What Happens in Dogs’ Brains When They See Your Face",
+          "deck": "A new study offers clues about how dogs process human facial expressions and recognize our emotional cues.",
+          "link": "https://www.newsweek.com/scientists-discover-what-happens-in-dogs-brains-when-they-see-your-face-12312222",
+          "pub": 1786608827000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "pub": 1786608773000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+          "deck": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786608773000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades",
+      "pub": 1786608300000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-greg-abel-continue-holding-080500915.html",
+          "pub": 1786608300000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Amgen’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "pub": 1786608300000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Amgen’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+          "deck": "",
+          "link": "https://finance.yahoo.com/healthcare/articles/amgen-q2-earnings-call-top-080500663.html",
+          "pub": 1786608300000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
+      "pub": 1786608264000,
       "lean": "ll",
       "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
+          "title": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
           "deck": "Nigel Farage, the right-wing populist leader, forced a by-election in his parliamentary seat of Clacton after he came under pressure over his financial declarations.",
           "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
-          "pub": 1786603780000,
+          "pub": 1786608264000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "New Bedford CFO Robert Ekstrom to retire in October",
+      "pub": 1786608238000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "New Bedford CFO Robert Ekstrom to retire in October",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/bedford-cfo-robert-ekstrom-retire-080358034.html",
+          "pub": 1786608238000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Results, appeals and resits - what to do if things don't go to plan",
+      "pub": 1786608177000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Results, appeals and resits - what to do if things don't go to plan",
+          "deck": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
+          "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786608177000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "HelloFresh Q2 Earnings Call Highlights",
+      "pub": 1786608149000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "HelloFresh Q2 Earnings Call Highlights",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/hellofresh-q2-earnings-call-highlights-080229273.html",
+          "pub": 1786608149000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Embracer Group AB (publ) Q1 Earnings Call Highlights",
+      "pub": 1786608149000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Embracer Group AB (publ) Q1 Earnings Call Highlights",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/embracer-group-ab-publ-q1-080229583.html",
+          "pub": 1786608149000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Brickbat: Banned in Moscow",
+      "pub": 1786608031000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brickbat: Banned in Moscow",
+          "deck": "A court in Moscow has taken away 123 properties from the Jehovah's Witnesses and given them to the Russian government.",
+          "link": "https://reason.com/2026/08/13/brickbat-banned-in-moscow/",
+          "pub": 1786608031000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
+      "pub": 1786607930000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
+          "deck": "President Trump said Wednesday that the U.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
+          "pub": 1786607930000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Trump says US has 'total control' over Strait of Hormuz",
+          "deck": "Trump says the U.",
+          "link": "https://www.newsnationnow.com/world/tehran-us-didnt-discuss-ceasefire-extension-report/",
+          "pub": 1786535557000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "3-story Hoosier cabinet in Indiana celebrates an American kitchen icon",
+      "pub": 1786607879000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "3-story Hoosier cabinet in Indiana celebrates an American kitchen icon",
+          "deck": "Hoosier cabinets — the original all-in-one kitchen — were once a mainstay in early 20th-century American homes.",
+          "link": "https://nypost.com/2026/08/13/lifestyle/indiana-30-foot-cabinet-honors-cabinet-outside-hoosier-manufacturing-co/",
+          "pub": 1786607879000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+      "pub": 1786607760000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+          "deck": "Danish shipping giant Maersk on Thursday posted stronger-than-expected quarterly profit and raised its full-year earnings guidance.",
+          "link": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+          "pub": 1786607760000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "In pictures: Europe sees best solar eclipse since 1999",
+      "pub": 1786607486000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "In pictures: Europe sees best solar eclipse since 1999",
+          "deck": "A total solar eclipse crossed Iceland and Spain on Aug.",
+          "link": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
+          "pub": 1786607486000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Some 12,500 heat-related deaths in Germany to date, authority says",
+      "pub": 1786607319000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Some 12,500 heat-related deaths in Germany to date, authority says",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/12-500-heat-related-deaths-074839086.html",
+          "pub": 1786607319000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hot weather and World Cup help UK economy withstand Iran war pressures",
+      "pub": 1786607317000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hot weather and World Cup help UK economy withstand Iran war pressures",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/hot-weather-world-cup-help-074837749.html",
+          "pub": 1786607317000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
+      "pub": 1786607045000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
+          "deck": "The UK economy grew by 0.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786607045000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How do I apply for an apprenticeship and what will I get paid?",
+      "pub": 1786606719000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How do I apply for an apprenticeship and what will I get paid?",
+          "deck": "Apprentices split their time between training and working - and are paid by their employer.",
+          "link": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786606719000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "DoorDash mom left with skull fractures, brain bleeds after man allegedly follows her and attacks with bat",
+      "pub": 1786606710000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "DoorDash mom left with skull fractures, brain bleeds after man allegedly follows her and attacks with bat",
+          "deck": "She's a mother of three currently recovering in the hospital with a serious brain injury after deputies say she was attacked by a man who beat her with a baseball bat.",
+          "link": "https://nypost.com/2026/08/13/us-news/north-carolina-doordash-mom-left-with-skull-fractures-after-man-allegedly-attacks-her-with-bat/",
+          "pub": 1786606710000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "How to get the most out of clearing",
+      "pub": 1786606700000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How to get the most out of clearing",
+          "deck": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
+          "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786606700000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Everything you need to know about university costs",
+      "pub": 1786606631000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Everything you need to know about university costs",
+          "deck": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
+          "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786606631000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date",
+      "pub": 1786606569000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date",
+          "deck": "Exactly when the next Apple special event will take place to reveal the iPhone 18 Pro has just become clearer — and there’s a change to a key date.",
+          "link": "https://www.forbes.com/sites/davidphelan/2026/08/13/iphone-18-pro-event-tipped-as-apple-shifts-key-release-schedule-date/",
+          "pub": 1786606569000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Streets evacuated after massive fire destroys homes",
+      "pub": 1786606486000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Streets evacuated after massive fire destroys homes",
+          "deck": "Residents are evacuated after a large fire involving five homes in Caerphilly county.",
+          "link": "https://www.bbc.co.uk/news/articles/c3d32np89z4o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786606486000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 26 Patch Major Update Delivers New Ballpark And 15 Updated Player Likenesses",
+      "pub": 1786606466000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "MLB The Show 26 Patch Major Update Delivers New Ballpark And 15 Updated Player Likenesses",
+          "deck": "Every current MLB The Show 26 detail: the latest game update, what is live in Diamond Dynasty, the next content drop and the full patch notes.",
+          "link": "https://www.forbes.com/sites/brianmazique/2026/08/13/mlb-the-show-26-patch-notes-updates/",
+          "pub": 1786606466000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Twitch faces backlash over Amazon using content to train AI",
+      "pub": 1786606327000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Twitch faces backlash over Amazon using content to train AI",
+          "deck": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786606327000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "pub": 1786606297000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
+          "pub": 1786606297000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Ceuta Crisis And The Emerging European Divide",
+      "pub": 1786606200000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Ceuta Crisis And The Emerging European Divide",
+          "deck": "The Ceuta Crisis And The Emerging European Divide Submitted by Thomas Kolbe Eleven years have passed since Angela Merkel opened the floodgates of migration to chaos.",
+          "link": "https://www.zerohedge.com/political/ceuta-crisis-and-emerging-european-divide",
+          "pub": 1786606200000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Swiatek into first final of her 'toughest season'",
+      "pub": 1786605868000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Swiatek into first final of her 'toughest season'",
+          "deck": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786605868000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+      "pub": 1786605628000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+          "deck": "Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.",
+          "link": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+          "pub": 1786605628000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "European shares inch up as lower crude offsets geopolitical unease",
+      "pub": 1786605596000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "European shares inch up as lower crude offsets geopolitical unease",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
+          "pub": 1786605596000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Messi plays for Inter Miami after father's death",
+      "pub": 1786605586000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Messi plays for Inter Miami after father's death",
+          "deck": "Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786605586000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine",
+      "pub": 1786605514000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/uk-economy-unexpectedly-grows-0-061256829.html",
+          "pub": 1786605514000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Explaining Anthropic’s New Watermarking Of Claude AI-Generated Outputs And What It Signifies For Society",
+      "pub": 1786605300000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Explaining Anthropic’s New Watermarking Of Claude AI-Generated Outputs And What It Signifies For Society",
+          "deck": "Anthropic announced they are turning on watermarking for their Claude AI-generated outputs.",
+          "link": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society/",
+          "pub": 1786605300000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy sobs, says 'I can't do this' during autopsy testimony",
+      "pub": 1786605037000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lindsay Clancy sobs, says 'I can't do this' during autopsy testimony",
+          "deck": "As Lindsay Clancy's trial plays out in Massachusetts, a parallel trial is unfolding on social media.",
+          "link": "https://www.newsnationnow.com/crime/lindsay-clancy-murder-trial-autopsy/",
+          "pub": 1786605037000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "pub": 1786605002000,
+      "lean": "ll",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Indian actor's video with endangered gibbon sparks investigation",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/indian-actors-video-endangered-gibbon-071002371.html",
+          "pub": 1786605002000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Indian actor's video with endangered gibbon sparks investigation",
+          "deck": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+          "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786604735000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Ex-officer accused of plotting New Orleans attack is released after grand jury declines to indict",
+      "pub": 1786604826000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ex-officer accused of plotting New Orleans attack is released after grand jury declines to indict",
+          "deck": "His family had reported him missing in North Carolina and said he had a history of self-harm.",
+          "link": "https://nypost.com/2026/08/13/us-news/ex-nc-sheriffs-officer-christopher-gillum-released-after-grand-jury-declines-indictment/",
+          "pub": 1786604826000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Amazon is using Twitch to train generative AI",
+      "pub": 1786604671000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Amazon is using Twitch to train generative AI",
+          "deck": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+          "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786604671000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Saw The Eclipse And Perseids? Now Comes A Spectacular 96% ‘Blood Moon’",
+      "pub": 1786604400000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Saw The Eclipse And Perseids? Now Comes A Spectacular 96% ‘Blood Moon’",
+          "deck": "On Aug. 27–28, a deep partial lunar eclipse will occur when 96% of the full moon enters Earth’s shadow. North and South America will enjoy the best views overnight.",
+          "link": "https://www.forbes.com/sites/jamiecartereurope/2026/08/13/saw-the-eclipse-and-perseids-now-comes-a-spectacular-96-blood-moon/",
+          "pub": 1786604400000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Open Thread",
+      "pub": 1786604400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Open Thread",
+          "deck": "What’s on your mind?",
+          "link": "https://reason.com/volokh/2026/08/13/open-thread-295/",
+          "pub": 1786604400000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "This Is Not A Vibes-Only Podcast",
+      "pub": 1786604400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "This Is Not A Vibes-Only Podcast",
+          "deck": "Empirically analyzing the Supreme Court.",
+          "link": "https://thedispatch.com/podcast/advisoryopinions/this-is-not-a-vibes-only-podcast/",
+          "pub": 1786604400000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dear Abby: I don’t see any point in meeting my daughter’s sister from the same mister",
+      "pub": 1786604400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dear Abby: I don’t see any point in meeting my daughter’s sister from the same mister",
+          "deck": "Dear Abby advises a widow whose daughter wants her to come with her to meet her half-sister, a parent who has never met their child's partner's parents, who keep staying in their properties, and a mom who doesn't know how to get her daughter out of a toxic marriage.",
+          "link": "https://nypost.com/2026/08/13/lifestyle/dear-abby-i-dont-see-any-point-in-meeting-my-daughters-sister-from-the-same-mister/",
+          "pub": 1786604400000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Biggest revelations from ‘Travis Barker: Louder Than Fear’ doc: Kourtney Kardashian’s miscarriage, Taylor Hawkins’ surprise cameo and more",
+      "pub": 1786604400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Biggest revelations from ‘Travis Barker: Louder Than Fear’ doc: Kourtney Kardashian’s miscarriage, Taylor Hawkins’ surprise cameo and more",
+          "deck": "The Blink-182 drummer opens up like never before in the new documentary, streaming now on Hulu.",
+          "link": "https://pagesix.com/2026/08/13/entertainment/biggest-revelations-from-travis-barker-louder-than-fear-doc-kourtney-kardashian-miscarriage-and-more/",
+          "pub": 1786604400000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Marvel Rivals Delivers 2 New Bundles In Latest Update",
+      "pub": 1786604027000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Marvel Rivals Delivers 2 New Bundles In Latest Update",
+          "deck": "Everything current in Marvel Rivals: the latest patch, what season it is, when the next season starts and where to read the full changelog.",
+          "link": "https://www.forbes.com/sites/brianmazique/2026/08/13/marvel-rivals-patch-notes/",
+          "pub": 1786604027000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -39,24 +885,6 @@
       ]
     },
     {
-      "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
-      "pub": 1786603533000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
-          "deck": "The UK economy grew by 0.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786603533000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "US Embassies Across Mideast Are Permanently Reassigning Personnel",
       "pub": 1786603500000,
       "lean": "lr",
@@ -75,33 +903,15 @@
       ]
     },
     {
-      "title": "Twitch users can block Amazon from using content for AI",
-      "pub": 1786603493000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Twitch users can block Amazon from using content for AI",
-          "deck": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
-          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786603493000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump Says Permanent Daylight Saving Time Could See Murders Fall",
+      "title": "Donald Trump Says Permanent Daylight Saving Time Could See Murder Rate Fall",
       "pub": 1786603284000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Donald Trump Says Permanent Daylight Saving Time Could See Murders Fall",
-          "deck": "The bill to make daylight saving time permanent passed the House in mid-July, and is now being considered by the Senate.",
+          "title": "Donald Trump Says Permanent Daylight Saving Time Could See Murder Rate Fall",
+          "deck": "A bill to make daylight saving time permanent passed the House in mid-July, and is now being considered by the Senate.",
           "link": "https://www.newsweek.com/donald-trump-says-permanent-daylight-saving-time-could-see-murders-fall-12317080",
           "pub": 1786603284000,
           "src": "NWWK",
@@ -129,41 +939,14 @@
       ]
     },
     {
-      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-      "pub": 1786603173000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
-      "versions": [
-        {
-          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/millions-uk-europe-left-wowed-215923587.html",
-          "pub": 1786603173000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-          "deck": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
-          "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786571625000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Jones turns to geese to inspire Japan",
+      "title": "Jones uses geese to inspire Japan and picks student to face Australia",
       "pub": 1786603043000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Jones turns to geese to inspire Japan",
+          "title": "Jones uses geese to inspire Japan and picks student to face Australia",
           "deck": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation.",
           "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
           "pub": 1786603043000,
@@ -210,24 +993,6 @@
       ]
     },
     {
-      "title": "Thyssenkrupp raises lower end of profit outlook after stronger quarter",
-      "pub": 1786602818000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Thyssenkrupp raises lower end of profit outlook after stronger quarter",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/thyssenkrupp-raises-lower-end-profit-063338179.html",
-          "pub": 1786602818000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Dodgers 'Dodge a Bullet' After 10-Time All-Star Tumbles Into Dugout",
       "pub": 1786602748000,
       "lean": "ct",
@@ -264,78 +1029,6 @@
       ]
     },
     {
-      "title": "Allient (ALNT) Q2 2026 Earnings Call Transcript",
-      "pub": 1786602649000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Allient (ALNT) Q2 2026 Earnings Call Transcript",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/allient-alnt-q2-2026-earnings-063049988.html",
-          "pub": 1786602649000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "McEwen (MUX) Q2 2026 Earnings Call Transcript",
-      "pub": 1786602648000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "McEwen (MUX) Q2 2026 Earnings Call Transcript",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-q2-2026-earnings-063048062.html",
-          "pub": 1786602648000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "UK GDP bounced in June, helped by Gulf ceasefire, World Cup and sunshine",
-      "pub": 1786602642000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "UK GDP bounced in June, helped by Gulf ceasefire, World Cup and sunshine",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/articles/uk-economy-unexpectedly-grows-0-061256829.html",
-          "pub": 1786602642000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "South Korea unveils package to boost housing supply, support young buyers",
-      "pub": 1786602606000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "South Korea unveils package to boost housing supply, support young buyers",
-          "deck": "",
-          "link": "https://finance.yahoo.com/real-estate/articles/south-korea-unveils-package-boost-030304805.html",
-          "pub": 1786602606000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Brent Headrick on pace to threaten Yankees’ franchise games pitched record",
       "pub": 1786602603000,
       "lean": "lr",
@@ -350,24 +1043,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Russia's Supreme Court bans only anti-war party from Duma elections",
-      "pub": 1786602557000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Russia's Supreme Court bans only anti-war party from Duma elections",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/russias-supreme-court-bans-only-062917943.html",
-          "pub": 1786602557000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -390,14 +1065,14 @@
       ]
     },
     {
-      "title": "Tennessee city council meeting erupts after vice mayor stands by scathing email telling resident to ‘go back into tree’",
+      "title": "Tennessee city council meeting erupts after vice mayor clashes with resident over ‘disrespectful’ email",
       "pub": 1786602416000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Tennessee city council meeting erupts after vice mayor stands by scathing email telling resident to ‘go back into tree’",
+          "title": "Tennessee city council meeting erupts after vice mayor clashes with resident over ‘disrespectful’ email",
           "deck": "\"I would do that email again to you.",
           "link": "https://nypost.com/2026/08/13/us-news/tennessee-city-council-meeting-erupts-after-vice-mayor-craig-hayes-stands-by-scathing-email-telling-resident-to-crawl-back-into-a-tree/",
           "pub": 1786602416000,
@@ -444,24 +1119,6 @@
       ]
     },
     {
-      "title": "Japan protests against Putin visit to disputed islands",
-      "pub": 1786602091000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Japan protests against Putin visit to disputed islands",
-          "deck": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-          "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786602091000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
       "pub": 1786602085000,
       "lean": "ll",
@@ -475,24 +1132,6 @@
           "pub": 1786602085000,
           "src": "NPR",
           "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-      "pub": 1786601982000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-          "deck": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
-          "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-          "pub": 1786601982000,
-          "src": "NYT",
-          "srcFull": "New York Times",
           "lean": "ll"
         }
       ]
@@ -519,7 +1158,7 @@
       "title": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn",
       "pub": 1786601697000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Science",
       "single": true,
       "versions": [
         {
@@ -530,33 +1169,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
-      "pub": 1786601628000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": false,
-      "versions": [
-        {
-          "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
-          "deck": "President Trump said Wednesday that the U.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
-          "pub": 1786601628000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        },
-        {
-          "title": "Trump says US has 'total control' over Strait of Hormuz",
-          "deck": "Trump says the U.",
-          "link": "https://www.newsnationnow.com/world/tehran-us-didnt-discuss-ceasefire-extension-report/",
-          "pub": 1786535557000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
         }
       ]
     },
@@ -597,78 +1209,6 @@
       ]
     },
     {
-      "title": "How do I apply for an apprenticeship and what will I get paid?",
-      "pub": 1786601023000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How do I apply for an apprenticeship and what will I get paid?",
-          "deck": "Apprentices split their time between training and working - and are paid by their employer.",
-          "link": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786601023000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "How to get the most out of university clearing on results day",
-      "pub": 1786600948000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How to get the most out of university clearing on results day",
-          "deck": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
-          "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786600948000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Everything you need to know about university costs",
-      "pub": 1786600928000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Everything you need to know about university costs",
-          "deck": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
-          "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786600928000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Results, appeals and resits - what to do if your A-levels don't go to plan",
-      "pub": 1786600914000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Results, appeals and resits - what to do if your A-levels don't go to plan",
-          "deck": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
-          "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786600914000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Left-Wing German Parties Pour Record Sums Into Stopping The AfD In The East",
       "pub": 1786600800000,
       "lean": "lr",
@@ -683,24 +1223,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Moscow says it knows where Western ships sail as Putin threatens to seize vessels",
-      "pub": 1786600792000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Moscow says it knows where Western ships sail as Putin threatens to seize vessels",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/moscow-says-knows-where-western-055952381.html",
-          "pub": 1786600792000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -957,14 +1479,14 @@
       ]
     },
     {
-      "title": "Ex-Death Row security chief responds to Keffe D accusations",
+      "title": "Former Death Row security chief denies plotting Tupac's murder",
       "pub": 1786597922000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Ex-Death Row security chief responds to Keffe D accusations",
+          "title": "Former Death Row security chief denies plotting Tupac's murder",
           "deck": "Wright said he's been subpoenaed and is making arrangements to attend the trial in person in Las Vegas.",
           "link": "https://www.newsnationnow.com/crime/death-row-security-chief-keffe-d-tupac-accusations/",
           "pub": 1786597922000,
@@ -993,14 +1515,14 @@
       ]
     },
     {
-      "title": "Rising costs put strain on zoo's conservation work",
+      "title": "Brexit rules put strain on zoo's conservation work",
       "pub": 1786597739000,
       "lean": "ct",
       "cat": "Science",
       "single": true,
       "versions": [
         {
-          "title": "Rising costs put strain on zoo's conservation work",
+          "title": "Brexit rules put strain on zoo's conservation work",
           "deck": "Staffs at Twycross Zoo say they need new laws to make it easier to transport animals globally.",
           "link": "https://www.bbc.co.uk/news/articles/c2lqv20qp8xo?at_medium=RSS&at_campaign=rss",
           "pub": 1786597739000,
@@ -1119,14 +1641,14 @@
       ]
     },
     {
-      "title": "Freddie Freeman takes freightening fall down dugout stairs, but hopes to be OK",
+      "title": "Freddie Freeman takes frightening fall down dugout stairs, but hopes to be OK",
       "pub": 1786596621000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Freddie Freeman takes freightening fall down dugout stairs, but hopes to be OK",
+          "title": "Freddie Freeman takes frightening fall down dugout stairs, but hopes to be OK",
           "deck": "In the top of the eighth inning on Wednesday night at Dodger Stadium, first baseman Freddie Freeman was tracking a pop-up in foul ground when he lost his footing at the edge of the visiting dugout.",
           "link": "https://nypost.com/2026/08/13/sports/freddie-freeman-exits-dodgers-game-after-fall-down-dugout-stairs/",
           "pub": 1786596621000,
@@ -1168,24 +1690,6 @@
           "pub": 1786595714000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Russia's Putin visits Japan-claimed islands for first time; Tokyo protests",
-      "pub": 1786595649000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Russia's Putin visits Japan-claimed islands for first time; Tokyo protests",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/russias-putin-visits-disputed-kuril-033820731.html",
-          "pub": 1786595649000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1335,24 +1839,6 @@
       ]
     },
     {
-      "title": "Britain to swelter again as it looks poised for a record hot summer",
-      "pub": 1786594114000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Britain to swelter again as it looks poised for a record hot summer",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/britain-swelter-again-looks-poised-040834633.html",
-          "pub": 1786594114000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Trump Administration Lets Parts of the National Firearms Act Lapse",
       "pub": 1786594059000,
       "lean": "ll",
@@ -1402,24 +1888,6 @@
           "pub": 1786593727000,
           "src": "YAH",
           "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-      "pub": 1786593668000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-          "deck": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
-          "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-          "pub": 1786593668000,
-          "src": "NYT",
-          "srcFull": "New York Times",
           "lean": "ll"
         }
       ]
@@ -1569,24 +2037,6 @@
       ]
     },
     {
-      "title": "Two brothers fatally shot in Long Island home — kin make tragic discovery",
-      "pub": 1786591389000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Two brothers fatally shot in Long Island home — kin make tragic discovery",
-          "deck": "The beloved middle-aged brothers — who were two of seven siblings — were first discovered shot dead by their mother and sister in a home office",
-          "link": "https://nypost.com/2026/08/12/us-news/two-brothers-found-fatally-shot-in-li-home/",
-          "pub": 1786591389000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Air traffic controllers head says hiring gamers will help",
       "pub": 1786591325000,
       "lean": "ct",
@@ -1659,24 +2109,6 @@
       ]
     },
     {
-      "title": "Abandoned California mall transformed into post-apocalyptic Las Vegas set for ‘Fallout’",
-      "pub": 1786590355000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Abandoned California mall transformed into post-apocalyptic Las Vegas set for ‘Fallout’",
-          "deck": "“Fallout” Season 2’s “New Vegas” scenes were shot in an abandoned LA mall, not the real Sin City, for a “retro-futuristic” vibe!",
-          "link": "https://nypost.com/2026/08/12/entertainment/fallout-season-2-turns-abandoned-la-mall-into-new-vegas/",
-          "pub": 1786590355000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
       "pub": 1786590199000,
       "lean": "ll",
@@ -1734,7 +2166,7 @@
       "title": "Miranda Devine: Habitual liar Hunter Biden used Tucker Carlson’s platform to lie some more about his ‘laptop from hell’",
       "pub": 1786589484000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1742,42 +2174,6 @@
           "deck": "For Hunter and Joe Biden, lying becomes so habitual they eventually lose grip on reality.",
           "link": "https://nypost.com/2026/08/12/opinion/miranda-devine-habitual-liar-hunter-biden-used-tucker-carlsons-platform-to-lie-some-more-about-his-laptop-from-hell/",
           "pub": 1786589484000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Panthers signing former Pro Bowler Darren Waller to one-year contract",
-      "pub": 1786589482000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Panthers signing former Pro Bowler Darren Waller to one-year contract",
-          "deck": "A Pro Bowl tight end is coming back to the NFL for at least one more season.",
-          "link": "https://nypost.com/2026/08/12/sports/panthers-signing-former-pro-bowler-darren-waller-to-one-year-contract/",
-          "pub": 1786589482000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trent Grisham belts two homers as Yankees enjoy needed offensive explosion in win over Mariners",
-      "pub": 1786589247000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trent Grisham belts two homers as Yankees enjoy needed offensive explosion in win over Mariners",
-          "deck": "For weeks (or arguably months) without Aaron Judge and to a lesser extent Cody Bellinger and Giancarlo Stanton, the Yankees lineup has looked asleep.",
-          "link": "https://nypost.com/2026/08/12/sports/trent-grisham-belts-two-homers-as-yankees-beat-mariners/",
-          "pub": 1786589247000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
@@ -1835,24 +2231,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-      "pub": 1786588299000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-          "deck": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
-          "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
-          "pub": 1786588299000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -2978,24 +3356,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "PFF Picks USC to Make First CFP in 2026",
-      "pub": 1786580926000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "PFF Picks USC to Make First CFP in 2026",
-          "deck": "The USC Trojans have a solid shot at making their first College Football Playoff in 2026.",
-          "link": "https://www.newsweek.com/sports/ncaa/pff-picks-usc-to-make-first-cfp-in-2026-12316507",
-          "pub": 1786580926000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -4134,10 +4494,28 @@
       ]
     },
     {
-      "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+      "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
       "pub": 1786574752000,
       "lean": "ct",
       "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
+          "deck": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.",
+          "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786574752000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+      "pub": 1786574752000,
+      "lean": "ct",
+      "cat": "Science",
       "single": true,
       "versions": [
         {
@@ -4163,24 +4541,6 @@
           "deck": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
           "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
           "pub": 1786574506000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "GB's Hudson-Smith wins historic 400m gold on home track",
-      "pub": 1786574482000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "GB's Hudson-Smith wins historic 400m gold on home track",
-          "deck": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-          "pub": 1786574482000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -4836,6 +5196,24 @@
       ]
     },
     {
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "pub": 1786571625000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+          "deck": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786571625000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Gasoline prices stick at $4 per gallon as war drags on",
       "pub": 1786571611000,
       "lean": "ct",
@@ -4998,24 +5376,6 @@
       ]
     },
     {
-      "title": "Fernandes the centre of attention - but what next for Man Utd captain?",
-      "pub": 1786570845000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fernandes the centre of attention - but what next for Man Utd captain?",
-          "deck": "Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786570845000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Robocalls Are Increasing In US As Report Lists Worst-Impacted Area Codes",
       "pub": 1786570800000,
       "lean": "lr",
@@ -5063,366 +5423,6 @@
           "deck": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
           "link": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
           "pub": 1786570653000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-      "pub": 1786570638000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-          "deck": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
-          "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-          "pub": 1786570638000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy turned away twice after calling crisis line",
-      "pub": 1786570360000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lindsay Clancy turned away twice after calling crisis line",
-          "deck": "Lindsay Clancy called a crisis support line twice in the weeks before her children’s killings",
-          "link": "https://www.newsnationnow.com/crime/lindsay-clancy-turned-away-twice-after-calling-crisis-line/",
-          "pub": 1786570360000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
-      "pub": 1786570307000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
-          "deck": "A few details from the White House’s A.",
-          "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
-          "pub": 1786570307000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The No. 1 Habit All Naturally Disciplined People Have, By A Psychologist",
-      "pub": 1786570216000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "The No. 1 Habit All Naturally Disciplined People Have, By A Psychologist",
-          "deck": "Disciplined people don't resist temptation better — they decide earlier.",
-          "link": "https://www.forbes.com/sites/traversmark/2026/08/12/the-no-1-habit-all-naturally-disciplined-people-have-by-a-psychologist/",
-          "pub": 1786570216000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "White House press secretary Karoline Leavitt to leave administration",
-      "pub": 1786570137000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "White House press secretary Karoline Leavitt to leave administration",
-          "deck": "She will leave the administration at the end of August, President Donald Trump announced in a post on Truth Social on Wednesday.",
-          "link": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/",
-          "pub": 1786570137000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Rocks and the Orgy",
-      "pub": 1786569977000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Rocks and the Orgy",
-          "deck": "A personal manifesto on the remnant and wokeness all the way down.",
-          "link": "https://thedispatch.com/newsletter/gfile/right-thinking-the-remnant/",
-          "pub": 1786569977000,
-          "src": "DISP",
-          "srcFull": "The Dispatch",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "An Experimental Pediatric Cancer Treatment Shows Promise in New Research",
-      "pub": 1786569788000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "An Experimental Pediatric Cancer Treatment Shows Promise in New Research",
-          "deck": "The treatment eliminated a boy's tumors with a single infusion.",
-          "link": "https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/",
-          "pub": 1786569788000,
-          "src": "TIME",
-          "srcFull": "TIME",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Scottish Labour leader hopefuls warn against party divisions",
-      "pub": 1786569648000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scottish Labour leader hopefuls warn against party divisions",
-          "deck": "Monica Lennon, Joe Fagan and Michael Marra are competing to fill the post vacated by Anas Sarwar.",
-          "link": "https://www.bbc.co.uk/news/articles/cy8m2rzp94yo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786569648000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
-      "pub": 1786569605000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
-          "deck": "Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham.",
-          "link": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html",
-          "pub": 1786569605000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "US Attorney Makes Rare Move By Convening Special Grand Jury in Washington",
-      "pub": 1786569600000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "US Attorney Makes Rare Move By Convening Special Grand Jury in Washington",
-          "deck": "US Attorney Makes Rare Move By Convening Special Grand Jury in Washington D.",
-          "link": "https://www.zerohedge.com/political/us-attorney-makes-rare-move-convening-special-grand-jury-washington",
-          "pub": 1786569600000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
-      "pub": 1786569565000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
-          "deck": "A medical issue during Mr.",
-          "link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
-          "pub": 1786569565000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Atletico agree £34m deal for Tottenham's Romero",
-      "pub": 1786569501000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Atletico agree £34m deal for Tottenham's Romero",
-          "deck": "Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786569501000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "‘A High Potential for Abuse’: Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm From Former Officials",
-      "pub": 1786569423000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘A High Potential for Abuse’: Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm From Former Officials",
-          "deck": "Former DHS officials tell TIME that the devices aren’t necessary as an enforcement method against civilians—and that their use would pose numerous risks.",
-          "link": "https://time.com/article/2026/08/12/ice-electric-shock-gloves/",
-          "pub": 1786569423000,
-          "src": "TIME",
-          "srcFull": "TIME",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
-      "pub": 1786569312000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
-          "deck": "We’re answering some questions about the solar eclipse on Aug.",
-          "link": "https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html",
-          "pub": 1786569312000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Meta heads back to court for online safety trial",
-      "pub": 1786569232000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Meta heads back to court for online safety trial",
-          "deck": "{beacon} Technology Technology The Big Story Meta youth safety trial kicks off in California The latest kids online safety trial against Meta kicked off Wednesday in a California federal court, where the technology giant is accused of designing its platforms to be addictive for young users.",
-          "link": "https://thehill.com/newsletters/technology/6026210-meta-heads-back-to-court-for-online-safety-trial/",
-          "pub": 1786569232000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-      "pub": 1786569191000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-          "deck": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
-          "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-          "pub": 1786569191000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "NYC Council launches probe of Kalshi, Polymarket over ‘deceptive’ marketing practices",
-      "pub": 1786568865000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "NYC Council launches probe of Kalshi, Polymarket over ‘deceptive’ marketing practices",
-          "deck": "The New York City Council is investigating prediction markets Polymarket, Kalshi, Coinbase and Gemini Titan for alleged deceptive marketing and targeting underaged users.",
-          "link": "https://nypost.com/2026/08/12/business/nyc-council-launches-probe-of-kalshi-polymarket-over-deceptive-marketing-practices/",
-          "pub": 1786568865000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-      "pub": 1786568676000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-          "deck": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality.",
-          "link": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
-          "pub": 1786568676000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-      "pub": 1786568658000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-          "deck": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled.",
-          "link": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
-          "pub": 1786568658000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Israeli Settlers Are Out of Control",
-      "pub": 1786568554000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israeli Settlers Are Out of Control",
-          "deck": "If Netanyahu is ousted in October’s balloting, don’t expect peace to break out, but the worst violence might be reined in.",
-          "link": "https://www.nytimes.com/2026/08/12/opinion/israeli-settlers-palestinians-west-bank.html",
-          "pub": 1786568554000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
