@@ -1,7 +1,853 @@
 {
-  "generated": "2026-08-13T05:29:50.322Z",
+  "generated": "2026-08-13T06:57:54.861Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
+      "pub": 1786603780000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
+          "deck": "Nigel Farage, the right-wing populist leader, forced a by-election in his parliamentary seat of Clacton after he came under pressure over his financial declarations.",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
+          "pub": 1786603780000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Band Perry’s Neil Perry accuses sister Kimberly of firing him from band in favor of her husband",
+      "pub": 1786603665000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Band Perry’s Neil Perry accuses sister Kimberly of firing him from band in favor of her husband",
+          "deck": "\"I explicitly asked my sister not to misrepresent my support for the current version of the band.",
+          "link": "https://pagesix.com/2026/08/13/entertainment/the-band-perrys-neil-perry-accuses-sister-kimberly-of-firing-him-from-band-in-favor-of-her-husband/",
+          "pub": 1786603665000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
+      "pub": 1786603533000,
+      "lean": "ct",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
+          "deck": "The UK economy grew by 0.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786603533000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "US Embassies Across Mideast Are Permanently Reassigning Personnel",
+      "pub": 1786603500000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "US Embassies Across Mideast Are Permanently Reassigning Personnel",
+          "deck": "US Embassies Across Mideast Are Permanently Reassigning Personnel It is not just America's military bases in the Middle East which have been greatly reduced in terms of personnel or in some cases completely abandoned altogether due to the Iran war, but US Embassies in the region have also suffered forced downgrades of staff.",
+          "link": "https://www.zerohedge.com/geopolitical/us-embassies-across-mideast-are-permanently-reassigning-personnel",
+          "pub": 1786603500000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Twitch users can block Amazon from using content for AI",
+      "pub": 1786603493000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Twitch users can block Amazon from using content for AI",
+          "deck": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
+          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786603493000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump Says Permanent Daylight Saving Time Could See Murders Fall",
+      "pub": 1786603284000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Donald Trump Says Permanent Daylight Saving Time Could See Murders Fall",
+          "deck": "The bill to make daylight saving time permanent passed the House in mid-July, and is now being considered by the Senate.",
+          "link": "https://www.newsweek.com/donald-trump-says-permanent-daylight-saving-time-could-see-murders-fall-12317080",
+          "pub": 1786603284000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "‘An English Summer Is Not the Same Anymore’",
+      "pub": 1786603199000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘An English Summer Is Not the Same Anymore’",
+          "deck": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
+          "pub": 1786603199000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "pub": 1786603173000,
+      "lean": "ll",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/millions-uk-europe-left-wowed-215923587.html",
+          "pub": 1786603173000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+          "deck": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786571625000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Jones turns to geese to inspire Japan",
+      "pub": 1786603043000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jones turns to geese to inspire Japan",
+          "deck": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786603043000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mystery Wi-Fi network aboard flight raises ‘unusual’ alarm about travelers’ information",
+      "pub": 1786602980000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mystery Wi-Fi network aboard flight raises ‘unusual’ alarm about travelers’ information",
+          "deck": "As the situation unfolded, cabin crew members turned off the aircraft's Wi-Fi functionality for about 30 minutes.",
+          "link": "https://nypost.com/2026/08/13/us-news/delta-air-lines-flight-disrupted-after-wifi-causes-unusual-alarm/",
+          "pub": 1786602980000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Photos show rare solar eclipse in Yorkshire",
+      "pub": 1786602846000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Photos show rare solar eclipse in Yorkshire",
+          "deck": "The astronomical phenomenon - the best since 1999 - was captured by camera lenses across Yorkshire.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8m212vexko?at_medium=RSS&at_campaign=rss",
+          "pub": 1786602846000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Thyssenkrupp raises lower end of profit outlook after stronger quarter",
+      "pub": 1786602818000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thyssenkrupp raises lower end of profit outlook after stronger quarter",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/thyssenkrupp-raises-lower-end-profit-063338179.html",
+          "pub": 1786602818000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 'Dodge a Bullet' After 10-Time All-Star Tumbles Into Dugout",
+      "pub": 1786602748000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dodgers 'Dodge a Bullet' After 10-Time All-Star Tumbles Into Dugout",
+          "deck": "The Dodgers endured a heart-stopping moment when their 10-time All-Star first baseman fell into the visitors' dugout.",
+          "link": "https://www.newsweek.com/sports/mlb/dodgers-dodge-a-bullet-after-10-time-all-star-tumbles-into-dugout-12317064",
+          "pub": 1786602748000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Claude Will Now Leave A Watermark On Everything It Writes. What Does That Mean?",
+      "pub": 1786602679000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Claude Will Now Leave A Watermark On Everything It Writes. What Does That Mean?",
+          "deck": "Anthropic is adding invisible watermarks to Claude’s AI-generated text globally, as new EU rules push AI companies toward greater transparency.",
+          "link": "https://www.forbes.com/sites/anishasircar/2026/08/13/claude-will-now-leave-a-watermark-on-everything-it-writes-what-does-that-mean/",
+          "pub": 1786602679000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Allient (ALNT) Q2 2026 Earnings Call Transcript",
+      "pub": 1786602649000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Allient (ALNT) Q2 2026 Earnings Call Transcript",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/allient-alnt-q2-2026-earnings-063049988.html",
+          "pub": 1786602649000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "McEwen (MUX) Q2 2026 Earnings Call Transcript",
+      "pub": 1786602648000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "McEwen (MUX) Q2 2026 Earnings Call Transcript",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-q2-2026-earnings-063048062.html",
+          "pub": 1786602648000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "UK GDP bounced in June, helped by Gulf ceasefire, World Cup and sunshine",
+      "pub": 1786602642000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "UK GDP bounced in June, helped by Gulf ceasefire, World Cup and sunshine",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/uk-economy-unexpectedly-grows-0-061256829.html",
+          "pub": 1786602642000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "South Korea unveils package to boost housing supply, support young buyers",
+      "pub": 1786602606000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "South Korea unveils package to boost housing supply, support young buyers",
+          "deck": "",
+          "link": "https://finance.yahoo.com/real-estate/articles/south-korea-unveils-package-boost-030304805.html",
+          "pub": 1786602606000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Brent Headrick on pace to threaten Yankees’ franchise games pitched record",
+      "pub": 1786602603000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brent Headrick on pace to threaten Yankees’ franchise games pitched record",
+          "deck": "Brent Headrick did not expect this.",
+          "link": "https://nypost.com/2026/08/13/sports/brent-headrick-on-pace-to-threaten-yankees-franchise-games-pitched-record/",
+          "pub": 1786602603000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Russia's Supreme Court bans only anti-war party from Duma elections",
+      "pub": 1786602557000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russia's Supreme Court bans only anti-war party from Duma elections",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/russias-supreme-court-bans-only-062917943.html",
+          "pub": 1786602557000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Polls open in Clacton by-election",
+      "pub": 1786602520000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Polls open in Clacton by-election",
+          "deck": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
+          "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786602520000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Tennessee city council meeting erupts after vice mayor stands by scathing email telling resident to ‘go back into tree’",
+      "pub": 1786602416000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tennessee city council meeting erupts after vice mayor stands by scathing email telling resident to ‘go back into tree’",
+          "deck": "\"I would do that email again to you.",
+          "link": "https://nypost.com/2026/08/13/us-news/tennessee-city-council-meeting-erupts-after-vice-mayor-craig-hayes-stands-by-scathing-email-telling-resident-to-crawl-back-into-a-tree/",
+          "pub": 1786602416000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
+      "pub": 1786602131000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
+          "deck": "Anthony Anderson, the guest host of “Jimmy Kimmel Live,” called the ruse in which President Trump exited the plane in a catering container “Operation Pig in a Blanket.",
+          "link": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
+          "pub": 1786602131000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "$1.04 billion Powerball jackpot won in Illinois",
+      "pub": 1786602120000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "$1.04 billion Powerball jackpot won in Illinois",
+          "deck": "A single ticketholder in Illinois won a Powerball jackpot of $1.",
+          "link": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/",
+          "pub": 1786602120000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Japan protests against Putin visit to disputed islands",
+      "pub": 1786602091000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Japan protests against Putin visit to disputed islands",
+          "deck": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786602091000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+      "pub": 1786602085000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+          "deck": "A grand jury has indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner, and adds the allegation that he was lying in wait before attacking them.",
+          "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
+          "pub": 1786602085000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
+      "pub": 1786601982000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
+          "deck": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
+          "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+          "pub": 1786601982000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Coming next summer: the ‘eclipse of the century.’",
+      "pub": 1786601980000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Coming next summer: the ‘eclipse of the century.’",
+          "deck": "The sky will go dark for six minutes or more over landmarks like the Rock of Gibraltar, the casbah of Tangier and the temples of Luxor, Egypt.",
+          "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/2027-eclipse-morocco-spain-egypt",
+          "pub": 1786601980000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn",
+      "pub": 1786601697000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/punishing-european-drought-shrivels-crops-061457332.html",
+          "pub": 1786601697000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
+      "pub": 1786601628000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
+          "deck": "President Trump said Wednesday that the U.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
+          "pub": 1786601628000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Trump says US has 'total control' over Strait of Hormuz",
+          "deck": "Trump says the U.",
+          "link": "https://www.newsnationnow.com/world/tehran-us-didnt-discuss-ceasefire-extension-report/",
+          "pub": 1786535557000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
+      "pub": 1786601504000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
+          "deck": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
+          "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+          "pub": 1786601504000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+      "pub": 1786601078000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+          "deck": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered.",
+          "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+          "pub": 1786601078000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How do I apply for an apprenticeship and what will I get paid?",
+      "pub": 1786601023000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How do I apply for an apprenticeship and what will I get paid?",
+          "deck": "Apprentices split their time between training and working - and are paid by their employer.",
+          "link": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786601023000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How to get the most out of university clearing on results day",
+      "pub": 1786600948000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How to get the most out of university clearing on results day",
+          "deck": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
+          "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786600948000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Everything you need to know about university costs",
+      "pub": 1786600928000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Everything you need to know about university costs",
+          "deck": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
+          "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786600928000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Results, appeals and resits - what to do if your A-levels don't go to plan",
+      "pub": 1786600914000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Results, appeals and resits - what to do if your A-levels don't go to plan",
+          "deck": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
+          "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786600914000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Left-Wing German Parties Pour Record Sums Into Stopping The AfD In The East",
+      "pub": 1786600800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Left-Wing German Parties Pour Record Sums Into Stopping The AfD In The East",
+          "deck": "Left-Wing German Parties Pour Record Sums Into Stopping The AfD In The East Via Remix News, Germany’s Green Party is campaigning with record sums of money in the eastern German states of Saxony-Anhalt and Mecklenburg-Vorpommern to keep the Alternative for Germany (AfD) out of power.",
+          "link": "https://www.zerohedge.com/political/left-wing-german-parties-pour-record-sums-stopping-afd-east",
+          "pub": 1786600800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Moscow says it knows where Western ships sail as Putin threatens to seize vessels",
+      "pub": 1786600792000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Moscow says it knows where Western ships sail as Putin threatens to seize vessels",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/moscow-says-knows-where-western-055952381.html",
+          "pub": 1786600792000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bold NXT Heatwave X AAA Ola De Calor Card Goes Head-To-Head With AEW Show",
+      "pub": 1786600576000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bold NXT Heatwave X AAA Ola De Calor Card Goes Head-To-Head With AEW Show",
+          "deck": "NXT Heatwave and Ola de Calor share a venue and a day on Aug.",
+          "link": "https://www.forbes.com/sites/brianmazique/2026/08/13/nxt-heatwave-x-aaa-ola-de-calor-full-card-date-start-time-and-how-to-watch/",
+          "pub": 1786600576000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Yankees call up Bradley Hanner in hopes he can be next bullpen find",
+      "pub": 1786600201000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Yankees call up Bradley Hanner in hopes he can be next bullpen find",
+          "deck": "The Yankees have uncovered some success with Triple-A Scranton/Wilkes-Barre relievers.",
+          "link": "https://nypost.com/2026/08/13/sports/yankees-call-up-bradley-hanner-in-hopes-he-can-be-next-bullpen-find/",
+          "pub": 1786600201000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Texas teacher breaks down in tears during class after his senior students struggled to read, write",
+      "pub": 1786600008000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Texas teacher breaks down in tears during class after his senior students struggled to read, write",
+          "deck": "A Texas high school teacher was reduced to tears and broke down in front of his class when he realized the seniors he was teaching couldn't complete a writing exercise.",
+          "link": "https://nypost.com/2026/08/13/us-news/texas-teacher-darius-williams-breaks-down-in-tears-during-class-after-his-senior-students-struggled-to-read-write/",
+          "pub": 1786600008000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+      "pub": 1786599823000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+          "deck": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.",
+          "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
+          "pub": 1786599823000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "pub": 1786599624000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+          "deck": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
+          "pub": 1786599624000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks",
+      "pub": 1786599617000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks",
+          "deck": "If there was ever a time to consider halting development of A.",
+          "link": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
+          "pub": 1786599617000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Papers: 'The Sun, the Moon' and 'The greatest show on Earth'",
+      "pub": 1786599021000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Papers: 'The Sun, the Moon' and 'The greatest show on Earth'",
+          "deck": "The once in a generation solar eclipse across the UK and Europe dominates Thursday's front pages.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2j1peddwgo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786599021000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Only wins can stop curfew hokey-cokey for England's 'grown adults'",
+      "pub": 1786598527000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Only wins can stop curfew hokey-cokey for England's 'grown adults'",
+          "deck": "England have scrapped their midnight curfew seven months after introducing it.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss",
+          "pub": 1786598527000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
     {
       "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
       "pub": 1786598523000,
@@ -75,24 +921,6 @@
       ]
     },
     {
-      "title": "Acting pals Cumming and Henderson put 40-year friendship onto paper",
-      "pub": 1786598058000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Acting pals Cumming and Henderson put 40-year friendship onto paper",
-          "deck": "Alan Cumming and Shirley Henderson's acting relationship goes back a long way, mirroring the show the pair have been reunited on.",
-          "link": "https://www.bbc.co.uk/news/articles/cdrvp5nl636o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786598058000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Single Powerball ticket sold in Illinois wins $1.04 billion jackpot, eighth-largest in US history",
       "pub": 1786598044000,
       "lean": "lr",
@@ -147,24 +975,6 @@
       ]
     },
     {
-      "title": "Rio Tinto-Backed Tomago Smelter Secures Power Deal Through 2038",
-      "pub": 1786597914000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rio Tinto-Backed Tomago Smelter Secures Power Deal Through 2038",
-          "deck": "",
-          "link": "https://finance.yahoo.com/energy/articles/rio-tinto-backed-tomago-smelter-051154833.html",
-          "pub": 1786597914000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Alpine resorts' snowmaking equipment may be put to work fighting summer forest fires",
       "pub": 1786597897000,
       "lean": "ll",
@@ -176,42 +986,6 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/science/articles/alpine-resorts-snowmaking-equipment-may-051137512.html",
           "pub": 1786597897000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "I've been fighting wildfires while I wait for my A-level results",
-      "pub": 1786597753000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I've been fighting wildfires while I wait for my A-level results",
-          "deck": "Grades for A-levels and a number of vocational qualifications will be published on Thursday.",
-          "link": "https://www.bbc.co.uk/news/articles/clye3q00zd0o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786597753000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Opendoor’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "pub": 1786597740000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Opendoor’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/opendoor-q2-earnings-call-top-050900286.html",
-          "pub": 1786597740000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -237,24 +1011,6 @@
       ]
     },
     {
-      "title": "Financial sovereignty, digital euro and payment roaming: EU seeks alternatives to US cards",
-      "pub": 1786597552000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Financial sovereignty, digital euro and payment roaming: EU seeks alternatives to US cards",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/financial-sovereignty-digital-euro-payment-050552722.html",
-          "pub": 1786597552000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "GOA Members Make History With First Suppressor Transfers Without NFA Registration Since 1934",
       "pub": 1786597500000,
       "lean": "lr",
@@ -269,42 +1025,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Staar Surgical Co (STAA) (Q2 2026) Earnings Call Highlights: Record Revenue Surge and Strategic ...",
-      "pub": 1786597461000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Staar Surgical Co (STAA) (Q2 2026) Earnings Call Highlights: Record Revenue Surge and Strategic ...",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/staar-surgical-co-staa-q2-050421873.html",
-          "pub": 1786597461000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "BioCardia Inc (BCDA) (Q2 2026) Earnings Call Highlights: Regulatory Wins in Japan and US ...",
-      "pub": 1786597447000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "BioCardia Inc (BCDA) (Q2 2026) Earnings Call Highlights: Regulatory Wins in Japan and US ...",
-          "deck": "",
-          "link": "https://finance.yahoo.com/healthcare/articles/biocardia-inc-bcda-q2-2026-050407782.html",
-          "pub": 1786597447000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -341,42 +1061,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "We’re at a Tipping Point on A.I.",
-      "pub": 1786597207000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "We’re at a Tipping Point on A.I.",
-          "deck": "If there was ever a time to consider halting development of A.",
-          "link": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
-          "pub": 1786597207000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-      "pub": 1786597082000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-          "deck": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
-          "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-          "pub": 1786597082000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -435,14 +1119,14 @@
       ]
     },
     {
-      "title": "Freddie Freeman exits Dodgers game after freightening fall down dugout stairs",
+      "title": "Freddie Freeman takes freightening fall down dugout stairs, but hopes to be OK",
       "pub": 1786596621000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Freddie Freeman exits Dodgers game after freightening fall down dugout stairs",
+          "title": "Freddie Freeman takes freightening fall down dugout stairs, but hopes to be OK",
           "deck": "In the top of the eighth inning on Wednesday night at Dodger Stadium, first baseman Freddie Freeman was tracking a pop-up in foul ground when he lost his footing at the edge of the visiting dugout.",
           "link": "https://nypost.com/2026/08/13/sports/freddie-freeman-exits-dodgers-game-after-fall-down-dugout-stairs/",
           "pub": 1786596621000,
@@ -453,53 +1137,17 @@
       ]
     },
     {
-      "title": "Japan protests against Putin visit to disputed islands",
-      "pub": 1786596616000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Japan protests against Putin visit to disputed islands",
-          "deck": "The Russian leader visited the Kuril islands for the first time, according to state media.",
-          "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786596616000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "$1.04 billion Powerball jackpot won in Illinois",
-      "pub": 1786595880000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "$1.04 billion Powerball jackpot won in Illinois",
-          "deck": "A single ticketholder in Illinois won a Powerball jackpot of $1.",
-          "link": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/",
-          "pub": 1786595880000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "USAID fallout: In Nepal, when the aid workers stopped coming, the women and babies started dying",
-      "pub": 1786595770000,
+      "title": "What to know from AP's report about pregnant women and babies dying in Nepal amid USAID cuts",
+      "pub": 1786596120000,
       "lean": "ll",
       "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "USAID fallout: In Nepal, when the aid workers stopped coming, the women and babies started dying",
+          "title": "What to know from AP's report about pregnant women and babies dying in Nepal amid USAID cuts",
           "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/usaid-fallout-nepal-aid-workers-043610032.html",
-          "pub": 1786595770000,
+          "link": "https://www.yahoo.com/news/us/articles/know-aps-report-pregnant-women-044200298.html",
+          "pub": 1786596120000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -520,6 +1168,24 @@
           "pub": 1786595714000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Russia's Putin visits Japan-claimed islands for first time; Tokyo protests",
+      "pub": 1786595649000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russia's Putin visits Japan-claimed islands for first time; Tokyo protests",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/russias-putin-visits-disputed-kuril-033820731.html",
+          "pub": 1786595649000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -741,24 +1407,6 @@
       ]
     },
     {
-      "title": "Old storm video misrepresented as Typhoon Dolphin slamming into China",
-      "pub": 1786593705000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Old storm video misrepresented as Typhoon Dolphin slamming into China",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/old-storm-video-misrepresented-typhoon-040145324.html",
-          "pub": 1786593705000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
       "pub": 1786593668000,
       "lean": "ll",
@@ -770,42 +1418,6 @@
           "deck": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
           "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
           "pub": 1786593668000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
-      "pub": 1786593667000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
-          "deck": "Nigel Farage, the right-wing populist leader, forced a by-election in his parliamentary seat of Clacton after he came under pressure over his financial declarations.",
-          "link": "https://www.nytimes.com/2026/08/13/world/europe/britain-special-election-farage-binface-what-to-know.html",
-          "pub": 1786593667000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "‘An English Summer Is Not the Same Anymore’",
-      "pub": 1786593605000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘An English Summer Is Not the Same Anymore’",
-          "deck": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
-          "link": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
-          "pub": 1786593605000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -849,24 +1461,6 @@
       ]
     },
     {
-      "title": "Rep. Max Miller sued by ex-wife over release of ‘sensitive’ photo of child",
-      "pub": 1786592610000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rep. Max Miller sued by ex-wife over release of ‘sensitive’ photo of child",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/rep-max-miller-sued-ex-034330631.html",
-          "pub": 1786592610000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Did bad polls make DSA more appealing than it was?",
       "pub": 1786592449000,
       "lean": "lr",
@@ -904,20 +1498,11 @@
     },
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "pub": 1786591741000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
+      "pub": 1786591736000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
       "versions": [
-        {
-          "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/major-russian-grain-export-terminal-172009867.html",
-          "pub": 1786591741000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
           "deck": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
@@ -1110,33 +1695,6 @@
       ]
     },
     {
-      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-      "pub": 1786590145000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
-      "versions": [
-        {
-          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/millions-uk-europe-left-wowed-215923587.html",
-          "pub": 1786590145000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-          "deck": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
-          "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786571625000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "China Dominates The Humanoid Robot Race. Can Trump Close The Gap?",
       "pub": 1786590000000,
       "lean": "lr",
@@ -1168,24 +1726,6 @@
           "pub": 1786589990000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Border Police rescue illegally held gazelle from basement in private home near Jenin",
-      "pub": 1786589776000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Border Police rescue illegally held gazelle from basement in private home near Jenin",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/border-police-rescue-illegally-held-025616890.html",
-          "pub": 1786589776000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1245,24 +1785,6 @@
       ]
     },
     {
-      "title": "Twitch users can now block Amazon from using their content to train AI",
-      "pub": 1786589164000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Twitch users can now block Amazon from using their content to train AI",
-          "deck": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786589164000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump: US Controls Hormuz Strait, 'I Think We Will Keep It' - Confirms Economic Siege Strategy",
       "pub": 1786589100000,
       "lean": "lr",
@@ -1294,42 +1816,6 @@
           "pub": 1786588984000,
           "src": "NR",
           "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Why Patricia Heaton credits her son — and God — for her sobriety: ‘Message received’",
-      "pub": 1786588948000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Patricia Heaton credits her son — and God — for her sobriety: ‘Message received’",
-          "deck": "The \"Everybody Loves Raymond\" actress has previously shared sobriety milestones with fans on social media.",
-          "link": "https://pagesix.com/2026/08/12/celebrity-news/patricia-heaton-revealed-she-got-sober-after-son-called-her-out/",
-          "pub": 1786588948000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Lakers’ 2026 NBA Cup Group Play scheduled revealed",
-      "pub": 1786588596000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lakers’ 2026 NBA Cup Group Play scheduled revealed",
-          "deck": "It was already known that the Lakers would play the Warriors three times during October entering Wednesday.",
-          "link": "https://nypost.com/2026/08/12/sports/lakers-2026-nba-cup-group-play-scheduled-revealed/",
-          "pub": 1786588596000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -1385,78 +1871,6 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Scientists discover new eyeless ‘demon cavefish’ in Alabama cave beneath Army base",
-      "pub": 1786588281000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scientists discover new eyeless ‘demon cavefish’ in Alabama cave beneath Army base",
-          "deck": "Researchers discovered a new cryptic \"demon cavefish\" species in a highly-studied cave system situated beneath Alabama's own \"Area 51.",
-          "link": "https://nypost.com/2026/08/12/us-news/scientists-discover-new-demon-cavefish-in-highly-studied-alabama-cave/",
-          "pub": 1786588281000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Outrageous moment teen mob loots California 7-Eleven",
-      "pub": 1786588267000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Outrageous moment teen mob loots California 7-Eleven",
-          "deck": "Oakland business owners are scared, frustrated and fed up as repeated crime continues to make simply going to work feel dangerous.",
-          "link": "https://nypost.com/2026/08/12/us-news/oakland-7-eleven-hit-by-alleged-teen-mob-in-latest-crime-incident/",
-          "pub": 1786588267000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mike McDaniel refuses to reinvent offense, revives proven 49ers blueprint",
-      "pub": 1786588230000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mike McDaniel refuses to reinvent offense, revives proven 49ers blueprint",
-          "deck": "Mike McDaniel is not trying to reinvent the running game with the Los Angeles Chargers.",
-          "link": "https://nypost.com/2026/08/12/sports/mike-mcdaniel-turns-to-49ers-past-for-chargers-rushing-attack/",
-          "pub": 1786588230000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "‘The Shards’ Episode 4 Ending Explained: Homer Gere Breaks Down Robert Mallory’s Big Breakdown",
-      "pub": 1786588200000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘The Shards’ Episode 4 Ending Explained: Homer Gere Breaks Down Robert Mallory’s Big Breakdown",
-          "deck": "Feeling a little bit sorry for Robert Mallory?",
-          "link": "https://decider.com/2026/08/12/the-shards-episode-4-ending-explained/",
-          "pub": 1786588200000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1583,33 +1997,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
-      "pub": 1786585641000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": false,
-      "versions": [
-        {
-          "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
-          "deck": "President Trump said Wednesday that the U.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
-          "pub": 1786585641000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        },
-        {
-          "title": "Trump says US has 'total control' over Strait of Hormuz",
-          "deck": "Trump says the U.",
-          "link": "https://www.newsnationnow.com/world/tehran-us-didnt-discuss-ceasefire-extension-report/",
-          "pub": 1786535557000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
         }
       ]
     },
@@ -1744,24 +2131,6 @@
           "pub": 1786585081000,
           "src": "NPR",
           "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Manolo's Bakery raising money for Colombia earthquake victims",
-      "pub": 1786584985000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Manolo's Bakery raising money for Colombia earthquake victims",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/manolos-bakery-raising-money-colombia-013625845.html",
-          "pub": 1786584985000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -2235,14 +2604,14 @@
       ]
     },
     {
-      "title": "Leading doctor rebukes NHS chiefs over transplants",
+      "title": "Leading doctor rebukes NHS chiefs over transplant failings",
       "pub": 1786582995000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Leading doctor rebukes NHS chiefs over transplants",
+          "title": "Leading doctor rebukes NHS chiefs over transplant failings",
           "deck": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue.",
           "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
           "pub": 1786582995000,
@@ -2631,24 +3000,6 @@
       ]
     },
     {
-      "title": "Former Patriots QB Calls Exit 'Very Frustrating' After Joining New Team",
-      "pub": 1786580703000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Former Patriots QB Calls Exit 'Very Frustrating' After Joining New Team",
-          "deck": "Former New England Patriots quarterback Joshua Dobbs shared why his release from the team was \"very frustrating\" for him.",
-          "link": "https://www.newsweek.com/sports/nfl/former-patriots-qb-calls-exit-very-frustrating-after-joining-new-team-12316463",
-          "pub": 1786580703000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Top Forbes editor axed over secret $6M payment: report",
       "pub": 1786580679000,
       "lean": "lr",
@@ -2663,24 +3014,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mom Gives Birth to Healthy Baby, Weeks Later He Was Fighting for His Life",
-      "pub": 1786580563000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mom Gives Birth to Healthy Baby, Weeks Later He Was Fighting for His Life",
-          "deck": "When doctors told mom Jenny Wilson that her son's surgery was very high-risk, she told Newsweek it felt like a \"vivid nightmare.",
-          "link": "https://www.newsweek.com/mom-gives-birth-to-healthy-baby-weeks-later-he-was-fighting-for-his-life-12313578",
-          "pub": 1786580563000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -3099,24 +3432,6 @@
       ]
     },
     {
-      "title": "The Papers: 'The Sun, the Moon' and 'The greatest show on Earth'",
-      "pub": 1786577649000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Papers: 'The Sun, the Moon' and 'The greatest show on Earth'",
-          "deck": "The once in a generation solar eclipse across the UK and Europe dominates Thursday's front pages.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2j1peddwgo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786577649000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Why California is still the best place in America to raise kids",
       "pub": 1786577570000,
       "lean": "lr",
@@ -3333,14 +3648,14 @@
       ]
     },
     {
-      "title": "Fearless Madjo, 17, ends eight-month wait with dream Villa debut",
+      "title": "Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut",
       "pub": 1786576617000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Fearless Madjo, 17, ends eight-month wait with dream Villa debut",
+          "title": "Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut",
           "deck": "Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games.",
           "link": "https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss",
           "pub": 1786576617000,
@@ -3498,7 +3813,7 @@
       "title": "Desperate search for earthquake survivors",
       "pub": 1786576225000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3840,7 +4155,7 @@
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "pub": 1786574506000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4197,24 +4512,6 @@
       ]
     },
     {
-      "title": "Kansas convicted felon, sex offender allegedly kills fellow family members before taking his own life: police",
-      "pub": 1786573054000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kansas convicted felon, sex offender allegedly kills fellow family members before taking his own life: police",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/kansas-convicted-felon-sex-offender-221734770.html",
-          "pub": 1786573054000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Trump's vaccine order comes with political risks",
       "pub": 1786573009000,
       "lean": "ct",
@@ -4362,7 +4659,7 @@
       "title": "Why are 'human fridges' being sold in Japan?",
       "pub": 1786572467000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4499,24 +4796,6 @@
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "pub": 1786571717000,
-      "lean": "ct",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-          "deck": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
-          "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-          "pub": 1786571717000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -4899,24 +5178,6 @@
       ]
     },
     {
-      "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
-      "pub": 1786569858000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
-          "deck": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
-          "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
-          "pub": 1786569858000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "An Experimental Pediatric Cancer Treatment Shows Promise in New Research",
       "pub": 1786569788000,
       "lean": "ll",
@@ -5007,14 +5268,14 @@
       ]
     },
     {
-      "title": "Atletico agree £34.2m deal for Tottenham's Romero",
+      "title": "Atletico agree £34m deal for Tottenham's Romero",
       "pub": 1786569501000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Atletico agree £34.2m deal for Tottenham's Romero",
+          "title": "Atletico agree £34m deal for Tottenham's Romero",
           "deck": "Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.",
           "link": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
           "pub": 1786569501000,
@@ -5165,276 +5426,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "8/12: The Takeout with Major Garrett",
-      "pub": 1786568400000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "8/12: The Takeout with Major Garrett",
-          "deck": "Key takeaways from Tuesday's primaries in six states; Karoline Leavitt leaving role as White House press secretary.",
-          "link": "https://www.cbsnews.com/video/081226-the-takeout-with-major-garrett/",
-          "pub": 1786568400000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "WHO Defends Childhood Vaccination Schedules After Trump Order",
-      "pub": 1786568400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "WHO Defends Childhood Vaccination Schedules After Trump Order",
-          "deck": "WHO Defends Childhood Vaccination Schedules After Trump Order Authored by Jack Phillips via The Epoch Times, The World Health Organization (WHO) on Aug.",
-          "link": "https://www.zerohedge.com/political/who-defends-childhood-vaccination-schedules-after-trump-order",
-          "pub": 1786568400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Josh Kushner, Bob Iger Stun Sports World With Record-Shattering $12 Billion Lakers Takeover Deal",
-      "pub": 1786568400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Josh Kushner, Bob Iger Stun Sports World With Record-Shattering $12 Billion Lakers Takeover Deal",
-          "deck": "Josh Kushner, Bob Iger Stun Sports World With Record-Shattering $12 Billion Lakers Takeover Deal The Los Angeles Lakers are being sold to billionaire venture capitalist Josh Kushner, founder of Thrive Capital, and former Disney CEO Bob Iger for a record-breaking $12 billion, according to a new ESPN report.",
-          "link": "https://www.zerohedge.com/personal-finance/kushner-bob-iger-stun-sports-world-record-shattering-12-billion-lakers",
-          "pub": 1786568400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Boston-area trial draws attention to post-partum psychosis",
-      "pub": 1786568396000,
-      "lean": "ll",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "Boston-area trial draws attention to post-partum psychosis",
-          "deck": "A mom is on trial for killing her children.",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis",
-          "pub": 1786568396000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A rare sunset total solar eclipse dazzles the sky for millions of people",
-      "pub": 1786568141000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "A rare sunset total solar eclipse dazzles the sky for millions of people",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/rare-sunset-total-solar-eclipse-040129198.html",
-          "pub": 1786568141000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Karoline Leavitt exiting as White House press secretary",
-      "pub": 1786568108000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Karoline Leavitt exiting as White House press secretary",
-          "deck": "President Trump said Karoline Leavitt will be leaving her role to focus on her young family.",
-          "link": "https://www.cbsnews.com/news/karoline-leavitt-exiting-as-white-house-press-secretary-trump-adviser/",
-          "pub": 1786568108000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Dem accused of fake Instagram scheme using Spencer Pratt to stir antisemitism in vicious LA race",
-      "pub": 1786568039000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dem accused of fake Instagram scheme using Spencer Pratt to stir antisemitism in vicious LA race",
-          "deck": "Spencer Pratt didn’t survive the primary in the Los Angeles mayor’s race, but the reality TV star has apparently been resurrected in a new role — political poison in one of California's nastiest Dem-on-Dem races.",
-          "link": "https://nypost.com/2026/08/12/us-news/spencer-pratt-dragged-into-nasty-dem-on-dem-race/",
-          "pub": 1786568039000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Ex-Official at Southern Poverty Law Center Accused of Plotting to Misuse Far-Right Informants",
-      "pub": 1786568028000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ex-Official at Southern Poverty Law Center Accused of Plotting to Misuse Far-Right Informants",
-          "deck": "The charges signaled an escalation of the Justice Department’s prosecution of the Southern Poverty Law Center, which is best known for investigating white supremacist groups.",
-          "link": "https://www.nytimes.com/2026/08/12/us/politics/splc-fraud-conspiracy-charges.html",
-          "pub": 1786568028000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
-      "pub": 1786567989000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
-          "deck": "Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content about wealth advisers.",
-          "link": "https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html",
-          "pub": 1786567989000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "pub": 1786567940000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Three men will be executed on the same day as death penalties rise in US",
-          "deck": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-          "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786567940000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump Media charging for early access to president’s posts slammed as ‘blatantly corrupt,’ lawsuit says",
-      "pub": 1786567820000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Media charging for early access to president’s posts slammed as ‘blatantly corrupt,’ lawsuit says",
-          "deck": "President Donald Trump was sued in federal court Wednesday to stop him from making money off a new, paid service at his Truth Social company offering early, exclusive access to his posts on U.",
-          "link": "https://nypost.com/2026/08/12/us-news/trump-media-charging-for-early-access-to-presidents-posts-slammed-as-blatantly-corrupt-lawsuit-says/",
-          "pub": 1786567820000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Class Gap on the Left Threatens Any Winning Coalition",
-      "pub": 1786567796000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Class Gap on the Left Threatens Any Winning Coalition",
-          "deck": "Debates on the left are typically framed as a division between moderates and progressives, with the two sides wrestling over how best to form a governing coalition.",
-          "link": "https://www.realclearpolitics.com/2026/08/12/class_gap_on_the_left_threatens_any_winning_coalition_707569.html",
-          "pub": 1786567796000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Worst News Any Parent Can Receive",
-      "pub": 1786567789000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Worst News Any Parent Can Receive",
-          "deck": "On the morning of March 19, three police officers knocked on a door in Yorktown Heights and delivered the worst news any parent can receive.",
-          "link": "https://www.realclearpolitics.com/2026/08/12/the_worst_news_any_parent_can_receive_707635.html",
-          "pub": 1786567789000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "MN Primaries: Good for Left, Tough for My Pillow Guy",
-      "pub": 1786567526000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "MN Primaries: Good for Left, Tough for My Pillow Guy",
-          "deck": "While it was nearly overshadowed by wild and unpredictable brawls in next-door Michigan and Wisconsin, progressives notched another major primary win in Minnesota on Tuesday.",
-          "link": "https://www.realclearpolitics.com/2026/08/12/mn_primaries_good_for_left_tough_for_my_pillow_guy_707781.html",
-          "pub": 1786567526000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Democrats Learning Wrong Lessons From Third World",
-      "pub": 1786567460000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democrats Learning Wrong Lessons From Third World",
-          "deck": "Decades of immigration from Muslim-majority Third World countries has turned the Democrats into the party of militant anti-Americanism.",
-          "link": "https://www.realclearpolitics.com/2026/08/12/democrats_learning_wrong_lessons_from_third_world_707769.html",
-          "pub": 1786567460000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
         }
       ]
     }
