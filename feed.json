@@ -1,7 +1,556 @@
 {
-  "generated": "2026-08-15T14:46:25.030Z",
+  "generated": "2026-08-15T15:13:44.567Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "Massachusetts mayor arrested for allegedly ripping off $1.5M in COVID funds",
+      "pub": 1786806817000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Massachusetts mayor arrested for allegedly ripping off $1.5M in COVID funds",
+          "deck": "Brian DePeña, the Mayor of Lawrence, was arrested and charged on Aug.",
+          "link": "https://nypost.com/2026/08/15/us-news/massachusetts-mayor-arrested-for-allegedly-ripping-off-1-5m-in-covid-funds/",
+          "pub": 1786806817000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "pub": 1786806599000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Five injured, one critically, in shooting at Virginia State University",
+          "deck": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786806599000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        },
+        {
+          "title": "Five injured, one critically, in shooting at Virginia State University",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/five-injured-one-critically-shooting-142128310.html",
+          "pub": 1786805996000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",
+      "pub": 1786806479000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",
+          "deck": "",
+          "link": "https://finance.yahoo.com/healthcare/article/why-medicare-advantage-providers-are-cutting-plans--and-what-to-do-if-your-coverage-is-affected-150759090.html",
+          "pub": 1786806479000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bouncing babies: Four NYC tots have fallen from windows in last five months; pol demands Mamdani act",
+      "pub": 1786806479000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bouncing babies: Four NYC tots have fallen from windows in last five months; pol demands Mamdani act",
+          "deck": "After four children fell from NYC windows in two months, politicians are urging Mayor Zohran Mamdani to focus on local safety laws over politics.",
+          "link": "https://nypost.com/2026/08/15/us-news/4-nyc-kids-falling-from-windows-is-deeply-troubling-pol-says/",
+          "pub": 1786806479000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump Is in a Fantasy Land of His Own Making",
+      "pub": 1786806300000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Is in a Fantasy Land of His Own Making",
+          "deck": "What would happen if he’s forced to confront an external crisis?",
+          "link": "https://www.nytimes.com/2026/08/15/opinion/trump-haberman-swan-book-politics.html",
+          "pub": 1786806300000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hawaii Braces For Direct Tropical Storm Hit On Big Island",
+      "pub": 1786806300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hawaii Braces For Direct Tropical Storm Hit On Big Island",
+          "deck": "Hawaii Braces For Direct Tropical Storm Hit On Big Island Hawaii's Big Island is under a hurricane warning as Tropical Storm Lala is expected to make landfall on Saturday local time, according to the National Hurricane Center.",
+          "link": "https://www.zerohedge.com/weather/hawaii-brace-direct-tropical-storm-hit-big-island",
+          "pub": 1786806300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Taxpayer-funded NY college hosts ‘reproductive justice’ garden of abortion-inducing plants",
+      "pub": 1786806079000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taxpayer-funded NY college hosts ‘reproductive justice’ garden of abortion-inducing plants",
+          "deck": "SUNY Purchase is home to a \"reproductive justice garden\" growing plants long used to induce abortions -- part of an art project that has spread to US college campuses.",
+          "link": "https://nypost.com/2026/08/15/us-news/suny-purchase-hosts-reproductive-justice-garden-of-abortion-inducing-plants/",
+          "pub": 1786806079000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ex-cop executed in Florida as families of two murdered girls unite for his final reckoning",
+      "pub": 1786806017000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ex-cop executed in Florida as families of two murdered girls unite for his final reckoning",
+          "deck": "DNA evidence tied James Duckett to Teresa McAbee's 1987 killing while the Jeanifer Weldon case relied on circumstantial clues",
+          "link": "https://nypost.com/2026/08/15/us-news/true-crimekiller-ex-cop-executed-for-childs-slaying-as-sheriff-says-hes-sure-same-monster-murdered-another-girl/",
+          "pub": 1786806017000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The science behind justice is easy to ignore, until we need it",
+      "pub": 1786806000000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The science behind justice is easy to ignore, until we need it",
+          "deck": "We simply cannot wait until the next tragedy to invest in the science that makes justice possible.",
+          "link": "https://thehill.com/opinion/criminal-justice/6030198-investing-in-forensic-research/",
+          "pub": 1786806000000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mom-to-Be Panics at What’s Seen on Pregnancy Bump—Then Doctors Reveal Truth",
+      "pub": 1786806000000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mom-to-Be Panics at What’s Seen on Pregnancy Bump—Then Doctors Reveal Truth",
+          "deck": "Approaching her due date, Cameryn Moore said the sudden change alarmed her because she had never experienced anything like it.",
+          "link": "https://www.newsweek.com/mom-to-be-panics-at-whats-seen-on-pregnancy-bump-then-doctors-reveal-truth-12317478",
+          "pub": 1786806000000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "$350M superyacht, one of world’s largest, sparks mystery as its spotted cruising Hawaii",
+      "pub": 1786806000000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "$350M superyacht, one of world’s largest, sparks mystery as its spotted cruising Hawaii",
+          "deck": "A massive superyacht worth more than $350 million created quite a stir cruising around Hawaii.",
+          "link": "https://nypost.com/2026/08/15/us-news/japanese-billionaires-yacht-spotted-off-hawaii-coast/",
+          "pub": 1786806000000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Travis Kelce prop prediction: Take advantage of Kelce’s discounted line in his 14th season",
+      "pub": 1786806000000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Travis Kelce prop prediction: Take advantage of Kelce’s discounted line in his 14th season",
+          "deck": "Remember Travis Kelce — the football player?",
+          "link": "https://nypost.com/2026/08/15/betting/travis-kelce-prop-prediction-take-advantage-of-kelces-discounted-line-in-his-14th-season/",
+          "pub": 1786806000000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
+      "pub": 1786805919000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/prediction-market-operator-kalshi-hits-145839600.html",
+          "pub": 1786805919000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "‘That was a mistake’: A year after son’s drowning, Emilie Kiser apologizes for letting toddler skip life jacket",
+      "pub": 1786805894000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘That was a mistake’: A year after son’s drowning, Emilie Kiser apologizes for letting toddler skip life jacket",
+          "deck": "An influencer whose 3-year-old son drowned more than a year ago has apologized for letting her 16-month-old sit on a boat without a life jacket, telling followers it was a lapse in judgment she deeply regrets.",
+          "link": "https://www.nbcnews.com/news/us-news/emilie-kiser-apologizes-letting-toddler-skip-life-jacket-rcna592677",
+          "pub": 1786805894000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How Are the Democrats’ Midterm Dreams Shaping Up?",
+      "pub": 1786805880000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Are the Democrats’ Midterm Dreams Shaping Up?",
+          "deck": "Democratic divisions, polling misses and Ocasio-Cortez’s egg freezing: the week in politics.",
+          "link": "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html",
+          "pub": 1786805880000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+      "pub": 1786805864000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+          "deck": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+          "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786805864000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "New cancer-fighting gum chews away at 93% of oral HPV",
+      "pub": 1786805777000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "New cancer-fighting gum chews away at 93% of oral HPV",
+          "deck": "Researchers are testing a chewing gum made with lablab beans as treatment for oral cancer.",
+          "link": "https://nypost.com/2026/08/15/health/researchers-invent-chewing-gum-to-fight-oral-cancer/",
+          "pub": 1786805777000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "2 powerful earthquakes hit Indonesia on same day, at least 47 dead",
+      "pub": 1786805760000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "2 powerful earthquakes hit Indonesia on same day, at least 47 dead",
+          "deck": "With magnitudes of 7.",
+          "link": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
+          "pub": 1786805760000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Amanda Kloots reveals sign she received from late husband Nick Cordero before launch of her new podcast",
+      "pub": 1786805729000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Amanda Kloots reveals sign she received from late husband Nick Cordero before launch of her new podcast",
+          "deck": "The day before she launched her new podcast \"Good Grief,\" Amanda Kloots spoke to her late husband, Broadway star Nick Cordero, who gave his blessing from above -- in the form of her favorite song.",
+          "link": "https://nypost.com/2026/08/15/entertainment/amanda-kloots-reveals-sign-she-got-from-late-husband-nick-cordero/",
+          "pub": 1786805729000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.",
+      "pub": 1786805640000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-joins-p-500-tuesday-145400275.html",
+          "pub": 1786805640000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hard-boiled politics: AOC’s egg-freezing vids will lure older female voters to her prez bid: pollsters",
+      "pub": 1786805634000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hard-boiled politics: AOC’s egg-freezing vids will lure older female voters to her prez bid: pollsters",
+          "deck": "There are hard-boiled politics at play in AOC's IVF treatment, and there may be a sunny upside for the candidate sharing to her millions of followers online.",
+          "link": "https://nypost.com/2026/08/15/us-news/aocs-egg-freezing-vids-crack-open-new-political-demo/",
+          "pub": 1786805634000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "‘Father of biohacking’ hints that highly-addictive drug could be the ‘next longevity breakthrough’",
+      "pub": 1786805626000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Father of biohacking’ hints that highly-addictive drug could be the ‘next longevity breakthrough’",
+          "deck": "Researchers are looking at the drug not for its sinus-clearing abilities, but for another unexpected use: keeping our cells young and functional.",
+          "link": "https://nypost.com/2026/08/15/health/could-this-addicting-drug-be-the-next-longevity-breakthrough/",
+          "pub": 1786805626000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Top 5 Analyst Questions From ConocoPhillips’s Q2 Earnings Call",
+      "pub": 1786805580000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Top 5 Analyst Questions From ConocoPhillips’s Q2 Earnings Call",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html",
+          "pub": 1786805580000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
+      "pub": 1786805567000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
+          "deck": "Iran said the airmen have been held since March 2 when their fighter jets were shot down.",
+          "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+          "pub": 1786805567000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "pub": 1786805532000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+          "deck": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
+          "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+          "pub": 1786805532000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Isaiah Likely can see ‘everybody’s fire in their eyes’ as new tight end opens up on Giants’ revival",
+      "pub": 1786805489000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Isaiah Likely can see ‘everybody’s fire in their eyes’ as new tight end opens up on Giants’ revival",
+          "deck": "New Giants tight end Isaiah Likely catches up with Post columnist Steve Serby for some training camp Q&A.",
+          "link": "https://nypost.com/2026/08/15/sports/isaiah-likely-can-see-everybodys-fire-in-giants-eyes-as-they-are-intent-on-turnaround/",
+          "pub": 1786805489000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Travis Barker’s ex Shanna Moakler vows to spill on Kourtney Kardashian drama in upcoming book after reviving feud",
+      "pub": 1786805370000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Travis Barker’s ex Shanna Moakler vows to spill on Kourtney Kardashian drama in upcoming book after reviving feud",
+          "deck": "Moakler is set to release her memoir, \"Queen Risen,\" which she announced she'd completed in February.",
+          "link": "https://pagesix.com/2026/08/15/celebrity-news/travis-barkers-ex-shanna-moakler-teases-kourtney-kardashian-feud-details-in-new-book/",
+          "pub": 1786805370000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The best states for swingers revealed — with a few surprising Southern states taking the top 3 spots",
+      "pub": 1786805315000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The best states for swingers revealed — with a few surprising Southern states taking the top 3 spots",
+          "deck": "Life is a swing — and these are the best places to enjoy the ride.",
+          "link": "https://nypost.com/2026/08/15/lifestyle/southern-states-top-list-of-best-places-for-swinging-in-the-us/",
+          "pub": 1786805315000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+      "pub": 1786805203000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+          "deck": "Smarkets is entering the U.",
+          "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+          "pub": 1786805203000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+      "pub": 1786805131000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+          "deck": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+          "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "pub": 1786805131000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
     {
       "title": "The trickle-down effect from Yankees’ punchless offense that could lead to uncomfortable Aaron Boone call",
       "pub": 1786804856000,
@@ -21,29 +570,11 @@
       ]
     },
     {
-      "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-      "pub": 1786804847000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-          "deck": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-          "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786804847000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "South Korea proposes talks to officially end war with North",
       "pub": 1786804815000,
       "lean": "ct",
       "cat": "World",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "South Korea proposes talks to officially end war with North",
@@ -53,15 +584,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        },
-        {
-          "title": "South Korea proposes talks to officially end war with North",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/south-korea-proposes-talks-officially-093528436.html",
-          "pub": 1786804214000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -156,6 +678,24 @@
       ]
     },
     {
+      "title": "New wildfire spreads in south-western France",
+      "pub": 1786804410000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "New wildfire spreads in south-western France",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/wildfire-spreads-south-western-france-143330259.html",
+          "pub": 1786804410000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Dad’s heartbreaking final moments with son as 12-year-old charged in fatal Fresno shooting: ‘It was too late already”",
       "pub": 1786804200000,
       "lean": "lr",
@@ -192,42 +732,6 @@
       ]
     },
     {
-      "title": "CMCT (CMCT) Q2 2026 Earnings Call Transcript",
-      "pub": 1786804186000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "CMCT (CMCT) Q2 2026 Earnings Call Transcript",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cmct-cmct-q2-2026-earnings-142946227.html",
-          "pub": 1786804186000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "5 Must-Read Analyst Questions From Funko’s Q2 Earnings Call",
-      "pub": 1786804140000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "5 Must-Read Analyst Questions From Funko’s Q2 Earnings Call",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-142900277.html",
-          "pub": 1786804140000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Prince Harry, Meghan Markle’s Hollywood woes deepen as movie loses to cat videos at box office",
       "pub": 1786804082000,
       "lean": "lr",
@@ -242,42 +746,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "CSP Inc. (CSPI) Q3 2026 Earnings Call Transcript",
-      "pub": 1786803976000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "CSP Inc. (CSPI) Q3 2026 Earnings Call Transcript",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/csp-inc-cspi-q3-2026-142616183.html",
-          "pub": 1786803976000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-      "pub": 1786803861000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-          "deck": "Smarkets is entering the U.",
-          "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-          "pub": 1786803861000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
         }
       ]
     },
@@ -318,42 +786,6 @@
       ]
     },
     {
-      "title": "Five injured, one critically, in shooting at Virginia State University",
-      "pub": 1786803684000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Five injured, one critically, in shooting at Virginia State University",
-          "deck": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786803684000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "pub": 1786803682000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/two-people-killed-7-7-023016283.html",
-          "pub": 1786803682000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
       "pub": 1786803575000,
       "lean": "ll",
@@ -367,6 +799,24 @@
           "pub": 1786803575000,
           "src": "CNBC",
           "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Divers rescue sharks trapped in crab pot",
+      "pub": 1786803492000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Divers rescue sharks trapped in crab pot",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/divers-rescue-sharks-trapped-crab-134616491.html",
+          "pub": 1786803492000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -480,6 +930,24 @@
       ]
     },
     {
+      "title": "Portugal vs Spain: Which Actually Costs Less to Retire In",
+      "pub": 1786803240000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Portugal vs Spain: Which Actually Costs Less to Retire In",
+          "deck": "",
+          "link": "https://finance.yahoo.com/real-estate/articles/portugal-vs-spain-actually-costs-141400917.html",
+          "pub": 1786803240000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Karoline Leavitt, Trump's Happy Warrior",
       "pub": 1786803155000,
       "lean": "lr",
@@ -511,24 +979,6 @@
           "pub": 1786803006000,
           "src": "RCP",
           "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Has your car been recorded or license plate searched? ‘Have I Been Flocked’ site lets you check",
-      "pub": 1786802987000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Has your car been recorded or license plate searched? ‘Have I Been Flocked’ site lets you check",
-          "deck": "A new website pulls data from 6,586 agencies that drivers can check to see if law enforcement have searched for their license plates.",
-          "link": "https://nypost.com/2026/08/15/us-news/have-i-been-flocked-site-lets-drivers-check-if-their-cars-have-been-recorded-searched/",
-          "pub": 1786802987000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -606,24 +1056,6 @@
       ]
     },
     {
-      "title": "Bill Maher Rips Immigrants Who Refuse To Embrace ‘Liberal Values’ On ‘Real Time’",
-      "pub": 1786802552000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bill Maher Rips Immigrants Who Refuse To Embrace ‘Liberal Values’ On ‘Real Time’",
-          "deck": "“If you want the American Dream, you have to take the American values.",
-          "link": "https://decider.com/2026/08/15/bill-maher-immigrants-liberal-values-real-time/",
-          "pub": 1786802552000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
       "pub": 1786802408000,
       "lean": "ll",
@@ -678,106 +1110,16 @@
       ]
     },
     {
-      "title": "Reese Witherspoon is in ‘vacay mode’ — here’s everything she’s packing",
-      "pub": 1786802400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Reese Witherspoon is in ‘vacay mode’ — here’s everything she’s packing",
-          "deck": "From beauty products to a Taylor Swift-approved top.",
-          "link": "https://pagesix.com/2026/08/15/style/reese-witherspoon-summer-vacation-packing-list-doen-dresses-lip-gloss-and-more/",
-          "pub": 1786802400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "How Many Episodes Are There In ‘Silo’ Season 3?",
-      "pub": 1786802400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Many Episodes Are There In ‘Silo’ Season 3?",
-          "deck": "The mystery keeps getting deeper.",
-          "link": "https://decider.com/2026/08/15/how-many-episodes-are-there-in-silo-season-3/",
-          "pub": 1786802400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "How the far-left French radicals of the 1960s destroyed their nation and infiltrated American politics and schools",
       "pub": 1786802400000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
           "title": "How the far-left French radicals of the 1960s destroyed their nation and infiltrated American politics and schools",
           "deck": "The Gaul of it!",
           "link": "https://nypost.com/2026/08/15/opinion/how-frances-far-left-radicals-infiltrated-american-schools/",
-          "pub": 1786802400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "USC football’s 1-2 RB duo reminds Lincoln Riley of Oklahoma’s Joe Mixon, Samaje Perine",
-      "pub": 1786802400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "USC football’s 1-2 RB duo reminds Lincoln Riley of Oklahoma’s Joe Mixon, Samaje Perine",
-          "deck": "Waymond Jordan is back.",
-          "link": "https://nypost.com/2026/08/15/sports/usc-duo-akin-to-joe-mixon-and-samaje-perine-per-lincoln-riley/",
-          "pub": 1786802400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "California cities named most beautiful college towns in the US",
-      "pub": 1786802400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "California cities named most beautiful college towns in the US",
-          "deck": "Two Golden State destinations have been named among the most beautiful college towns in America.",
-          "link": "https://nypost.com/2026/08/15/lifestyle/california-college-towns-named-among-the-most-beautiful-in-america/",
-          "pub": 1786802400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "UFC 330 predictions: Full fight card picks, best bets Saturday",
-      "pub": 1786802400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "UFC 330 predictions: Full fight card picks, best bets Saturday",
-          "deck": "Full predictions for a stacked UFC 330 card.",
-          "link": "https://nypost.com/2026/08/15/betting/ufc-330-predictions-full-fight-card-picks-best-bets-saturday/",
           "pub": 1786802400000,
           "src": "NYP",
           "srcFull": "New York Post",
@@ -993,28 +1335,10 @@
       ]
     },
     {
-      "title": "Sean Payton continues longstanding feud with Falcons with vicious preseason dig",
-      "pub": 1786801558000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sean Payton continues longstanding feud with Falcons with vicious preseason dig",
-          "deck": "Payton took a shot at his former NFC South rival at halftime of the teams’ preseason game at Mercedes-Benz Stadium on Friday night.",
-          "link": "https://nypost.com/2026/08/15/sports/sean-payton-continues-feud-with-falcons-with-vicious-preseason-dig/",
-          "pub": 1786801558000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "We should all join ex-teacher Darius Williams in crying at the failures of America’s schools",
       "pub": 1786801557000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1146,24 +1470,6 @@
       ]
     },
     {
-      "title": "Tua Tagovailoa ‘frustrated’ with Falcons debut after unceremonious Dolphins exit",
-      "pub": 1786800635000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tua Tagovailoa ‘frustrated’ with Falcons debut after unceremonious Dolphins exit",
-          "deck": "At least it's just the preseason.",
-          "link": "https://nypost.com/2026/08/15/sports/tua-tagovailoa-frustrated-with-falcons-debut-after-unceremonious-dolphins-exit/",
-          "pub": 1786800635000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "College can cost $100,000 a year. Here's how families are covering the tab",
       "pub": 1786800601000,
       "lean": "ll",
@@ -1178,42 +1484,6 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How to bet on UFC 330: Makhachev vs. Machado Garry | Online betting guide for Saturday’s main event",
-      "pub": 1786800600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How to bet on UFC 330: Makhachev vs. Machado Garry | Online betting guide for Saturday’s main event",
-          "deck": "Find out how to bet on this huge night of MMA action with our in-depth betting guide.",
-          "link": "https://nypost.com/2026/08/15/betting/how-to-bet-on-ufc-330-makhachev-vs-machado-garry-online-betting-guide-for-saturdays-main-event/",
-          "pub": 1786800600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "NFL Defensive Rookie of the Year odds: Rueben Bain Jr. hype train ramps up",
-      "pub": 1786800600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "NFL Defensive Rookie of the Year odds: Rueben Bain Jr. hype train ramps up",
-          "deck": "The 2026 NFL Draft was loaded with defensive talent, especially front-seven players.",
-          "link": "https://nypost.com/2026/08/15/betting/nfl-defensive-rookie-of-the-year-odds-rueben-bain-jr-hype-train-ramps-up/",
-          "pub": 1786800600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1866,6 +2136,24 @@
       ]
     },
     {
+      "title": "'Illegal': Gov. Abbott slams Texas airports over Islamic foot-washing",
+      "pub": 1786797313000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Illegal': Gov. Abbott slams Texas airports over Islamic foot-washing",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/illegal-gov-abbott-slams-texas-123513792.html",
+          "pub": 1786797313000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "The Charming, Amusing, Surprisingly Low-Confidence Matthew Rhys",
       "pub": 1786797230000,
       "lean": "ll",
@@ -1895,24 +2183,6 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/politics/articles/ex-navy-chief-marom-police-123130384.html",
           "pub": 1786797090000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Poland To Unveil Europe’s Highest Virgin Mary Statue",
-      "pub": 1786797036000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Poland To Unveil Europe’s Highest Virgin Mary Statue",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/poland-unveil-europe-highest-virgin-123036841.html",
-          "pub": 1786797036000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -2424,24 +2694,6 @@
       ]
     },
     {
-      "title": "Two powerful earthquakes hit Indonesia on same day, at least 38 dead",
-      "pub": 1786794887000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Two powerful earthquakes hit Indonesia on same day, at least 38 dead",
-          "deck": "With magnitudes of 7.",
-          "link": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
-          "pub": 1786794887000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
       "pub": 1786794799000,
       "lean": "ct",
@@ -2510,24 +2762,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Ceuta border heavily secured amid online agitation",
-      "pub": 1786793601000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ceuta border heavily secured amid online agitation",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/ceuta-border-heavily-secured-amid-113321290.html",
-          "pub": 1786793601000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2636,6 +2870,24 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Man charged with hate crimes after disrupting service at Manhattan’s Central Synagogue",
+      "pub": 1786792855000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Man charged with hate crimes after disrupting service at Manhattan’s Central Synagogue",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/man-charged-hate-crimes-disrupting-073611397.html",
+          "pub": 1786792855000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -2802,28 +3054,10 @@
       ]
     },
     {
-      "title": "How Are the Democrats’ Midterm Dreams Shaping Up?",
-      "pub": 1786791618000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Are the Democrats’ Midterm Dreams Shaping Up?",
-          "deck": "Democratic divisions, polling misses and Ocasio-Cortez’s egg freezing: the week in politics.",
-          "link": "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html",
-          "pub": 1786791618000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "David Ellison’s Plan to Move Hollywood to Nashville",
       "pub": 1786791617000,
       "lean": "ll",
-      "cat": "Opinion",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -2839,7 +3073,7 @@
     },
     {
       "title": "Europe’s Great Rivers Are Dying. The Continent Is In for a Shock.",
-      "pub": 1786791613000,
+      "pub": 1786791614000,
       "lean": "ll",
       "cat": "Opinion",
       "single": true,
@@ -2848,7 +3082,7 @@
           "title": "Europe’s Great Rivers Are Dying. The Continent Is In for a Shock.",
           "deck": "Climate change is beginning to tear up the old map of Europe’s power and wealth.",
           "link": "https://www.nytimes.com/2026/08/15/opinion/europe-rivers-danube-rhine-drought.html",
-          "pub": 1786791613000,
+          "pub": 1786791614000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3522,28 +3756,10 @@
       ]
     },
     {
-      "title": "They were on the plane when Trump secretly left. Here’s what they noticed.",
-      "pub": 1786788001000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "They were on the plane when Trump secretly left. Here’s what they noticed.",
-          "deck": "The journalists traveling with the president had no idea he had secretly switched planes due to a perceived threat from Iran.",
-          "link": "https://www.washingtonpost.com/business/2026/08/15/trump-secretly-switched-planes-journalists-left-aboard-say-they-deserved-warning/",
-          "pub": 1786788001000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "U.S., Canada race for deal to avert Trump’s threat of 50 percent tariffs",
       "pub": 1786788001000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3558,19 +3774,19 @@
       ]
     },
     {
-      "title": "‘The great quantum migration’ is coming as more than $2 trillion in digital assets is at risk—nearly the entire value of the overall crypto market",
-      "pub": 1786788000000,
+      "title": "They were on the plane when Trump secretly left. Here’s what they noticed.",
+      "pub": 1786788001000,
       "lean": "ll",
-      "cat": "Technology",
+      "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "‘The great quantum migration’ is coming as more than $2 trillion in digital assets is at risk—nearly the entire value of the overall crypto market",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/great-quantum-migration-coming-more-100000519.html",
-          "pub": 1786788000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
+          "title": "They were on the plane when Trump secretly left. Here’s what they noticed.",
+          "deck": "The journalists traveling with the president had no idea he had secretly switched planes due to a perceived threat from Iran.",
+          "link": "https://www.washingtonpost.com/business/2026/08/15/trump-secretly-switched-planes-journalists-left-aboard-say-they-deserved-warning/",
+          "pub": 1786788001000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
           "lean": "ll"
         }
       ]
@@ -3648,16 +3864,16 @@
       ]
     },
     {
-      "title": "Unmasked: What ‘democratic socialists’ post when they think nobody is watching",
+      "title": "The malpractice monster devouring healthcare",
       "pub": 1786788000000,
       "lean": "lr",
       "cat": "Opinion",
       "single": true,
       "versions": [
         {
-          "title": "Unmasked: What ‘democratic socialists’ post when they think nobody is watching",
-          "deck": "When I was younger, I was told, “Once it’s on the internet, it’s there forever.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4683656/dsa-candidates-social-media-controversies/",
+          "title": "The malpractice monster devouring healthcare",
+          "deck": "Every time we walk into a clinic or hospital, an invisible tax is added to our bill.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4682204/medical-malpractice-reform-healthcare-costs/",
           "pub": 1786788000000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -3828,6 +4044,24 @@
       ]
     },
     {
+      "title": "Taliban mark five years in power as aid groups warn of crisis",
+      "pub": 1786784628000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taliban mark five years in power as aid groups warn of crisis",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/taliban-mark-five-years-power-090348363.html",
+          "pub": 1786784628000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Sports Team Sale Prices Keep Hitting New Highs",
       "pub": 1786784554000,
       "lean": "ll",
@@ -3857,24 +4091,6 @@
           "deck": "When prices spiked in 2021-22, wages failed to keep up for many workers, new research shows.",
           "link": "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html",
           "pub": 1786784536000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "pub": 1786784534000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-          "deck": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 160,000 Canadians want him gone.",
-          "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-          "pub": 1786784534000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3991,7 +4207,7 @@
     },
     {
       "title": "Where to Eat and Drink at a Barcelona Bar Like a Local",
-      "pub": 1786784413000,
+      "pub": 1786784414000,
       "lean": "ll",
       "cat": "World",
       "single": true,
@@ -4000,7 +4216,7 @@
           "title": "Where to Eat and Drink at a Barcelona Bar Like a Local",
           "deck": "The classic bars, known as bodegas, are where locals in the Catalan capital take their rituals seriously.",
           "link": "https://www.nytimes.com/2026/08/15/travel/barcelona-bars-bodegas.html",
-          "pub": 1786784413000,
+          "pub": 1786784414000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -4180,24 +4396,6 @@
           "title": "The Day Putin Peaked",
           "deck": "\"Unfortunately, today we are not too close to the end of the conflict,\" a Russian analyst told Newsweek, a year after the summit.",
           "link": "https://www.newsweek.com/the-day-putin-peaked-12315512",
-          "pub": 1786784400000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Flight Instructor Was Struck by a Hijacker’s Odd Meaning of ‘Joy Ride’",
-      "pub": 1786784400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Flight Instructor Was Struck by a Hijacker’s Odd Meaning of ‘Joy Ride’",
-          "deck": "Real pilots like to fly planes.",
-          "link": "https://www.newsweek.com/flight-instructor-9-11-zacarias-moussaoui-12248119",
           "pub": 1786784400000,
           "src": "NWWK",
           "srcFull": "Newsweek",
@@ -5228,204 +5426,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "‘I’m Not Ashamed of My Face-Lift’",
-      "pub": 1786753150000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘I’m Not Ashamed of My Face-Lift’",
-          "deck": "The Opinion contributing writer Molly Jong-Fast is not about to feel bad about her face-lift.",
-          "link": "https://www.nytimes.com/video/opinion/100000011077394/im-not-ashamed-of-my-face-lift.html",
-          "pub": 1786753150000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Kalshi Ordered to Cease Most Operations in Washington State",
-      "pub": 1786753001000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kalshi Ordered to Cease Most Operations in Washington State",
-          "deck": "In a preliminary injunction, a state judge barred the prediction market from allowing residents to place bets on the bulk of its offerings.",
-          "link": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
-          "pub": 1786753001000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Is Ocasio-Cortez Ready for the Glass Cliff?",
-      "pub": 1786752710000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is Ocasio-Cortez Ready for the Glass Cliff?",
-          "deck": "She will run as a woman but unlike how every woman before her was forced to run.",
-          "link": "https://www.nytimes.com/2026/08/14/opinion/aoc-president-woman-egg-freezing.html",
-          "pub": 1786752710000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-      "pub": 1786752647000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-          "deck": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
-          "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786752647000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Mike Mulgrew’s dirty game — blaming Mamdani for disastrous reading scores",
-      "pub": 1786752391000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mike Mulgrew’s dirty game — blaming Mamdani for disastrous reading scores",
-          "deck": "This is a blatant \"not our fault\" offensive by the union boss, after kids in grades 3-8 saw a 6% drop in their English scores from last year, with more than half in grades 3 to 5 rating not at all proficient.",
-          "link": "https://nypost.com/2026/08/14/opinion/mike-mulgrews-dirty-game-blaming-mamdani-for-disastrous-reading-scores/",
-          "pub": 1786752391000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors",
-      "pub": 1786752317000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors",
-          "deck": "Deals available on everything from 49-inch curved multipurpose monitors to 27-inch OLED gaming displays.",
-          "link": "https://www.forbes.com/sites/johnarcher/2026/08/14/samsung-launches-back-to-school-deals-on-many-of-its-2026-gaming-and-productivity-monitors/",
-          "pub": 1786752317000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Patriots Won't Let Communists Take America",
-      "pub": 1786752300000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Patriots Won't Let Communists Take America",
-          "deck": "Patriots Won't Let Communists Take America Authored by J.",
-          "link": "https://www.zerohedge.com/political/patriots-wont-let-communists-take-america",
-          "pub": 1786752300000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Estonian filmmaker: Mysterious 'Object M' may be monitoring humanity",
-      "pub": 1786752260000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Estonian filmmaker: Mysterious 'Object M' may be monitoring humanity",
-          "deck": "Researchers in Estonia reported burns, blackouts and other effects the closer they got to a strange object buried in the earth.",
-          "link": "https://www.newsnationnow.com/space/ufo/object-m-mart-sander-reality-check/",
-          "pub": 1786752260000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "pub": 1786752113000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-          "deck": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786752113000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "When my dog died, my grief was overwhelming and complicated",
-      "pub": 1786752081000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "When my dog died, my grief was overwhelming and complicated",
-          "deck": "The death of a much-loved pet can lead to a flood of emotions - including guilt, writes Helena Wilkinson.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po?at_medium=RSS&at_campaign=rss",
-          "pub": 1786752081000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump argues White House ballroom critics from nonprofit 'revealed top military secrets'",
-      "pub": 1786752000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump argues White House ballroom critics from nonprofit 'revealed top military secrets'",
-          "deck": "“There is absolutely no argument that a woman walking her dog in the vicinity of the White House has STANDING to stop such a desperately needed National Security structure,” Trump wrote.",
-          "link": "https://justthenews.com/government/white-house/trump-argues-white-house-ballroom-critics-nonprofit-revealed-top-military?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
-          "pub": 1786752000000,
-          "src": "JTN",
-          "srcFull": "Just the News",
-          "lean": "lr"
         }
       ]
     }
