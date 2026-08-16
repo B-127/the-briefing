@@ -1,14 +1,473 @@
 {
-  "generated": "2026-08-16T15:15:10.456Z",
+  "generated": "2026-08-16T15:44:18.518Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "pub": 1786893241000,
+      "title": "8/16: Sunday Morning",
+      "pub": 1786896000000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "8/16: Sunday Morning",
+          "deck": "Hosted by Jane Pauley.",
+          "link": "https://www.cbsnews.com/video/081626-sunday-morning/",
+          "pub": 1786896000000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Decline Of Higher Education Continues",
+      "pub": 1786894800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Decline Of Higher Education Continues",
+          "deck": "The Decline Of Higher Education Continues Authored by Mike McDaniel via AmericanThinker.",
+          "link": "https://www.zerohedge.com/political/decline-higher-education-continues",
+          "pub": 1786894800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Clueless influencer sparks outrage filming skincare routine during lengthy movie: ‘So insanely rude’",
+      "pub": 1786894765000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Clueless influencer sparks outrage filming skincare routine during lengthy movie: ‘So insanely rude’",
+          "deck": "“Girl, what the hell, just watch the movie,” one commenter pushed back.",
+          "link": "https://nypost.com/2026/08/16/lifestyle/influencers-movie-theater-skincare-post-sparks-outrage/",
+          "pub": 1786894765000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bengals rookie Ceyair Wright bolts camp for big movie role",
+      "pub": 1786894696000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bengals rookie Ceyair Wright bolts camp for big movie role",
+          "deck": "You may see him on the silver screen before you see him on the football field.",
+          "link": "https://nypost.com/2026/08/16/sports/bengals-rookie-ceyair-wright-bolts-camp-for-big-movie-role/",
+          "pub": 1786894696000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+      "pub": 1786894579000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+          "deck": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+          "pub": 1786894579000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
+      "pub": 1786894544000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
+          "deck": "The attorney general said he would consider President Trump's views and rejected calls for a pledge of DOJ independence.",
+          "link": "https://www.newsweek.com/todd-blanche-doj-independence-white-house-trump-12328916",
+          "pub": 1786894544000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Tracee Ellis Ross blasts Jay Leno for late-night show snub at the height of ‘Girlfriends’: ‘Is it just racism?’",
+      "pub": 1786894530000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tracee Ellis Ross blasts Jay Leno for late-night show snub at the height of ‘Girlfriends’: ‘Is it just racism?’",
+          "deck": "The \"Black-ish\" actress recalled stars from other less popular TV shows appearing as guests on Leno's famous talk show.",
+          "link": "https://pagesix.com/2026/08/16/celebrity-news/tracee-ellis-ross-blasts-jay-leno-for-late-night-show-snub-at-the-height-of-girlfriends/",
+          "pub": 1786894530000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hakeem Jeffries Rejects Medicare for All, DSA Agenda",
+      "pub": 1786894485000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hakeem Jeffries Rejects Medicare for All, DSA Agenda",
+          "deck": "The congressman's remarks come as Democrats wrestle with ideological divisions between their progressive and moderate wings.",
+          "link": "https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842",
+          "pub": 1786894485000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
+      "pub": 1786894440000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/oil-dividend-just-got-raise-153400041.html",
+          "pub": 1786894440000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+      "pub": 1786894382000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+          "deck": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
+          "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786894382000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "pub": 1786894306000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+          "deck": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
+          "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+          "pub": 1786894306000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Blanche reiterates that 'anti-weaponization' fund 'is dead'",
+      "pub": 1786894266000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blanche reiterates that 'anti-weaponization' fund 'is dead'",
+          "deck": "Attorney General Todd Blanche on Sunday reiterated that the \"anti-weaponization\" fund he proposed to compensate those who say they were politically persecuted \"is dead.",
+          "link": "https://thehill.com/homenews/administration/6031907-blanche-says-antiweaponization-fund-dead/",
+          "pub": 1786894266000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Amazon is selling a $39 multi-tool for $24 that’s easy to carry",
+      "pub": 1786894200000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Amazon is selling a $39 multi-tool for $24 that’s easy to carry",
+          "deck": "",
+          "link": "https://shopping.yahoo.com/deals/articles/amazon-selling-39-multi-tool-153000825.html",
+          "pub": 1786894200000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Tightens Law on Feeding Bears: How Other States Are Cracking Down",
+      "pub": 1786894126000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Colorado Tightens Law on Feeding Bears: How Other States Are Cracking Down",
+          "deck": "Colorado's tougher bear-feeding law targets unsecured trash and food as states nationwide crack down on attractants.",
+          "link": "https://www.newsweek.com/colorado-tightens-law-on-feeding-bears-how-other-states-are-cracking-down-12328888",
+          "pub": 1786894126000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
+      "pub": 1786894087000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/tropical-storm-forms-near-hawaii-171141608.html",
+          "pub": 1786894087000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "pub": 1786893938000,
       "lean": "ct",
       "cat": "World",
       "single": true,
       "versions": [
+        {
+          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+          "deck": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+          "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786893938000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Gallego: USS Lincoln concerns prove Trump views servicemembers as 'toys'",
+      "pub": 1786893917000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gallego: USS Lincoln concerns prove Trump views servicemembers as 'toys'",
+          "deck": "Democratic Sen.",
+          "link": "https://thehill.com/homenews/senate/6031946-gallego-criticizes-trump-uss-lincoln/",
+          "pub": 1786893917000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "1 High-Flying Stock to Consider Right Now and 2 Facing Headwinds",
+      "pub": 1786893900000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "1 High-Flying Stock to Consider Right Now and 2 Facing Headwinds",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-consider-152500030.html",
+          "pub": 1786893900000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Indiana storms linked to 6 deaths as floods trigger rescues and evacuations",
+      "pub": 1786893800000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Indiana storms linked to 6 deaths as floods trigger rescues and evacuations",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/indiana-floods-prompt-evacuations-water-193129205.html",
+          "pub": 1786893800000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "People who fled Stourbridge fires start to return home",
+      "pub": 1786893773000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "People who fled Stourbridge fires start to return home",
+          "deck": "Many families are only just discovering the extent of damage to their homes for the first time.",
+          "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+          "pub": 1786893773000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Teenager arrested in Virginia State University shooting that injured five",
+      "pub": 1786893770000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Teenager arrested in Virginia State University shooting that injured five",
+          "deck": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786893770000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Blanche says ‘of course’ he’ll consider Trump’s opinion on reviving prosecutions",
+      "pub": 1786893622000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blanche says ‘of course’ he’ll consider Trump’s opinion on reviving prosecutions",
+          "deck": "Attorney General Todd Blanche said he will take President Donald Trump’s opinion into account on whether certain cases should be revived.",
+          "link": "https://www.washingtonexaminer.com/news/justice/4688951/todd-blanche-consider-trump-opinion-prosecutions/",
+          "pub": 1786893622000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ex-Mamdani campaign staffer makes outrageous claim about hateful NYC synagogue attack where attacker yelled ‘f–k the Jews’",
+      "pub": 1786893592000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ex-Mamdani campaign staffer makes outrageous claim about hateful NYC synagogue attack where attacker yelled ‘f–k the Jews’",
+          "deck": "Saslaw, who was a \"senior producer\" for the campaign, said she is no longer associated with Mamdani or his campaign.",
+          "link": "https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-makes-outrageous-claim-about-hateful-nyc-synagogue-attack-where-attacker-yelled-f-k-the-jews/",
+          "pub": 1786893592000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Germany probes incident involving Vietnam Airlines plane in Munich",
+      "pub": 1786893502000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Germany probes incident involving Vietnam Airlines plane in Munich",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/germany-probes-incident-involving-vietnam-151822389.html",
+          "pub": 1786893502000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "'I wish I had an update' on Nancy Guthrie: Attorney General Todd Blanche",
+      "pub": 1786893444000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'I wish I had an update' on Nancy Guthrie: Attorney General Todd Blanche",
+          "deck": "Attorney General Todd Blanche joined Meet the Press and talked about the investigation into the kidnapping of Nancy Guthrie.",
+          "link": "https://www.nbcnews.com/meet-the-press/video/-i-wish-i-had-an-update-on-nancy-guthrie-attorney-general-todd-blanche-268371013692",
+          "pub": 1786893444000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "pub": 1786893246000,
+      "lean": "ll",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/three-killed-russia-launches-fresh-081742309.html",
+          "pub": 1786893246000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
         {
           "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
           "deck": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
@@ -17,6 +476,24 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Bill Cassidy Claims RFK Jr. Misled Him To Get Confirmation Vote: 'It's Pretty Evident'",
+      "pub": 1786893029000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bill Cassidy Claims RFK Jr. Misled Him To Get Confirmation Vote: 'It's Pretty Evident'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/bill-cassidy-claims-rfk-jr-151029221.html",
+          "pub": 1786893029000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -42,7 +519,7 @@
       "title": "Changing pubs into homes to be made harder under new rules",
       "pub": 1786892653000,
       "lean": "ct",
-      "cat": "Business",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -88,24 +565,6 @@
           "pub": 1786892401000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
-      "pub": 1786892400000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
-          "pub": 1786892400000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -201,24 +660,6 @@
       ]
     },
     {
-      "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-      "pub": 1786892035000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-          "deck": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-          "pub": 1786892035000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Travis Kelce flashes wedding band ahead of Chiefs’ preseason opener after Taylor Swift wedding",
       "pub": 1786891982000,
       "lean": "lr",
@@ -233,60 +674,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "1 Cash-Producing Stock Worth Your Attention and 2 We Find Risky",
-      "pub": 1786891980000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "1 Cash-Producing Stock Worth Your Attention and 2 We Find Risky",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-worth-145300631.html",
-          "pub": 1786891980000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Why SK Hynix Stock Skyrocketed This Week",
-      "pub": 1786891974000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why SK Hynix Stock Skyrocketed This Week",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-sk-hynix-stock-skyrocketed-145254303.html",
-          "pub": 1786891974000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Raleigh data center proposal withdrawn after community opposition",
-      "pub": 1786891966000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Raleigh data center proposal withdrawn after community opposition",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/raleigh-data-center-proposal-withdrawn-145246326.html",
-          "pub": 1786891966000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -385,24 +772,6 @@
           "pub": 1786891629000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Oregon judge greenlights suit over nitrate-tainted water serving 46,000 residents",
-      "pub": 1786891620000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Oregon judge greenlights suit over nitrate-tainted water serving 46,000 residents",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/oregon-judge-greenlights-suit-over-144700868.html",
-          "pub": 1786891620000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -588,24 +957,6 @@
       ]
     },
     {
-      "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-      "pub": 1786890172000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-          "deck": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
-          "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-          "pub": 1786890172000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "South Carolina to hold first 2028 Democratic presidential primary",
       "pub": 1786890126000,
       "lean": "ll",
@@ -642,24 +993,6 @@
       ]
     },
     {
-      "title": "People who fled Stourbridge fires start to return home",
-      "pub": 1786890065000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "People who fled Stourbridge fires start to return home",
-          "deck": "Many families are only just discovering the extent of damage to their homes for the first time.",
-          "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-          "pub": 1786890065000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "‘Have I Been Flocked?’ Tool Launched as Flock Unveils New Privacy Rules",
       "pub": 1786890035000,
       "lean": "ct",
@@ -691,24 +1024,6 @@
           "pub": 1786890000000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Punk protest camp packs up on Germany's upscale holiday island of Sylt",
-      "pub": 1786889958000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Punk protest camp packs up on Germany's upscale holiday island of Sylt",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/punk-protest-camp-packs-germanys-141918813.html",
-          "pub": 1786889958000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -871,6 +1186,24 @@
           "pub": 1786888889000,
           "src": "NBC",
           "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ro Khanna calls for Medicare for All vote despite Hakeem Jeffries not supporting it: Full interview",
+      "pub": 1786888820000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ro Khanna calls for Medicare for All vote despite Hakeem Jeffries not supporting it: Full interview",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/ro-khanna-calls-medicare-vote-140020456.html",
+          "pub": 1786888820000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1110,42 +1443,6 @@
       ]
     },
     {
-      "title": "Nick Reiner blocked from $1.5M trust due to ‘slayer statute’ after being charged with parents’ murder: docs",
-      "pub": 1786888038000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Nick Reiner blocked from $1.5M trust due to ‘slayer statute’ after being charged with parents’ murder: docs",
-          "deck": "The financial steward claimed in court docs that California's \"slayer statute\" prevents Nick — who has been charged with murdering his parents, Rob and Michele Reiner — from inheriting the money.",
-          "link": "https://pagesix.com/2026/08/16/celebrity-news/nick-reiner-blocked-from-1-5m-trust-due-to-slayer-statute-docs/",
-          "pub": 1786888038000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Paul Skenes start pushed back after velocity concerns — and showing off dad bod on Miami beach trip with Livvy Dunne",
-      "pub": 1786888025000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Paul Skenes start pushed back after velocity concerns — and showing off dad bod on Miami beach trip with Livvy Dunne",
-          "deck": "The star pitcher is being gifted a break.",
-          "link": "https://nypost.com/2026/08/16/sports/paul-skenes-pirates-start-pushed-back-after-velocity-concerns/",
-          "pub": 1786888025000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Attorney General Todd Blanche says the DOJ may take states’ voter roll fight to Supreme Court",
       "pub": 1786887994000,
       "lean": "ll",
@@ -1159,24 +1456,6 @@
           "pub": 1786887994000,
           "src": "NBC",
           "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jewish men permitted to pray on Temple Mount with prayer books for first time, Ben-Gvir confirms",
-      "pub": 1786887922000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jewish men permitted to pray on Temple Mount with prayer books for first time, Ben-Gvir confirms",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/jewish-men-permitted-pray-temple-134522135.html",
-          "pub": 1786887922000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1218,20 +1497,20 @@
       ]
     },
     {
-      "title": "bet365 bonus code: Bet $10, get $150 in bonus bets for Mets vs. Nationals",
-      "pub": 1786887600000,
-      "lean": "lr",
-      "cat": "Politics",
+      "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
+      "pub": 1786887516000,
+      "lean": "ll",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "bet365 bonus code: Bet $10, get $150 in bonus bets for Mets vs. Nationals",
-          "deck": "Bet $10, get $150 in bonus bets win or lose with the bet365 bonus code for Mets vs.",
-          "link": "https://nypost.com/2026/08/16/betting/bet365-bonus-code-bet-10-get-150-in-bonus-bets-for-mets-vs-nationals/",
-          "pub": 1786887600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/gallego-blames-trump-administration-lincoln-133836389.html",
+          "pub": 1786887516000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -1268,24 +1547,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine kills at least 6 people in Russia after launching one of the largest aerial assaults of war",
-      "pub": 1786887356000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukraine kills at least 6 people in Russia after launching one of the largest aerial assaults of war",
-          "deck": "This attack occurred as Ukrainian forces increasingly take the war into the very heart of Russia nearly four and a half years into the full-blown conflict sparked by Moscow's invasion.",
-          "link": "https://nypost.com/2026/08/16/world-news/ukraine-kills-at-least-6-people-in-russia-after-launching-one-of-the-largest-aerial-assaults-of-war/",
-          "pub": 1786887356000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1437,7 +1698,7 @@
       "title": "What Parents Should Know About Trump’s Change to Vaccinations",
       "pub": 1786885352000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "Health",
       "single": true,
       "versions": [
         {
@@ -1537,6 +1798,24 @@
           "pub": 1786885205000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II pilot thanks NASA for letting him fly Orion by hand: 'I'm still blown away by that trust'",
+      "pub": 1786885200000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Artemis II pilot thanks NASA for letting him fly Orion by hand: 'I'm still blown away by that trust'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/artemis-ii-pilot-thanks-nasa-130000356.html",
+          "pub": 1786885200000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -2370,14 +2649,14 @@
       ]
     },
     {
-      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
       "pub": 1786881259000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+          "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
           "deck": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
           "pub": 1786881259000,
@@ -2730,24 +3009,6 @@
       ]
     },
     {
-      "title": "Jon Ossoff, Georgia’s first Jewish senator, faces angry Jewish voters",
-      "pub": 1786878000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jon Ossoff, Georgia’s first Jewish senator, faces angry Jewish voters",
-          "deck": "Sen. Jon Ossoff (D-GA) is putting Georgia’s longtime Democratic Jewish voters in a spot this November that some once thought would be virtually unthinkable: whether to support the Peach State’s first Jewish senator for a second term in one of the country’s most competitive races. Ossoff’s mixed record on Israel, which includes votes for and […]",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688333/jon-ossoff-georgias-first-jewish-senator-faces-angry-jewish-voters/",
-          "pub": 1786878000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "From WWII gunners to pass/fail campuses: How America traded grit for fragility",
       "pub": 1786878000000,
       "lean": "lr",
@@ -2856,14 +3117,14 @@
       ]
     },
     {
-      "title": "Sleep deprivation, moldy showers and the cost of endless war",
+      "title": "The USS Abraham Lincoln shows the cost of endless war. I know it well.",
       "pub": 1786876200000,
       "lean": "ll",
       "cat": "Opinion",
       "single": true,
       "versions": [
         {
-          "title": "Sleep deprivation, moldy showers and the cost of endless war",
+          "title": "The USS Abraham Lincoln shows the cost of endless war. I know it well.",
           "deck": "Extended deployment tests the limits of the USS Abraham Lincoln crew.",
           "link": "https://www.washingtonpost.com/opinions/2026/08/16/why-uss-abraham-lincoln-crew-has-reached-breaking-point/",
           "pub": 1786876200000,
@@ -3270,24 +3531,6 @@
       ]
     },
     {
-      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "pub": 1786872670000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-          "deck": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
-          "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-          "pub": 1786872670000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "pub": 1786872478000,
       "lean": "ct",
@@ -3486,24 +3729,6 @@
       ]
     },
     {
-      "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
-      "pub": 1786870800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
-          "deck": "The high-profile murder trial of Lindsay Clancy's has put the condition in the spotlight.",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-          "pub": 1786870800000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
       "pub": 1786870800000,
       "lean": "ll",
@@ -3543,7 +3768,7 @@
       "title": "Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
       "pub": 1786870800000,
       "lean": "ll",
-      "cat": "Health",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -3711,24 +3936,6 @@
       ]
     },
     {
-      "title": "Doctors Found a Parasite Eating a Man’s Liver. Then Traced How He Got It",
-      "pub": 1786868100000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Doctors Found a Parasite Eating a Man’s Liver. Then Traced How He Got It",
-          "deck": "The 41-year-old's liver was riddled with abscesses, and the trail back led through body lice and one undisclosed night.",
-          "link": "https://www.newsweek.com/doctors-found-a-parasite-eating-a-mans-liver-then-traced-how-he-got-it-12313720",
-          "pub": 1786868100000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Ukraine's own ballistic missiles could strike Russia within months, says former minister",
       "pub": 1786867309000,
       "lean": "ll",
@@ -3765,20 +3972,20 @@
       ]
     },
     {
-      "title": "Camron Harris Identified as Virginia State Shooting Suspect",
-      "pub": 1786866088000,
-      "lean": "ct",
-      "cat": "Politics",
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "pub": 1786866153000,
+      "lean": "ll",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Camron Harris Identified as Virginia State Shooting Suspect",
-          "deck": "A 19-year-old was arrested in connection to the shooting that left five people wounded.",
-          "link": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
-          "pub": 1786866088000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/ukraine-launches-one-largest-aerial-074233307.html",
+          "pub": 1786866153000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3848,6 +4055,42 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/us/articles/suspect-virginia-state-university-shooting-021305327.html",
           "pub": 1786863004000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Murder suspects 'still causing trouble' four years on",
+      "pub": 1786862449000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Murder suspects 'still causing trouble' four years on",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/murder-suspects-still-causing-trouble-064049806.html",
+          "pub": 1786862449000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The milkman who became a hero during audacious WW2 raid",
+      "pub": 1786862102000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "The milkman who became a hero during audacious WW2 raid",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/milkman-became-hero-during-audacious-063502492.html",
+          "pub": 1786862102000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -4071,6 +4314,24 @@
       ]
     },
     {
+      "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played",
+      "pub": 1786853099000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/miami-decide-fate-stunning-stadium-040459615.html",
+          "pub": 1786853099000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "After Women in India Joined Protests, Online Harassment Followed",
       "pub": 1786852883000,
       "lean": "ll",
@@ -4157,24 +4418,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart (video)",
-      "pub": 1786848887000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart (video)",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/record-spacex-launches-2-falcon-025447433.html",
-          "pub": 1786848887000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -4300,24 +4543,6 @@
           "pub": 1786845471000,
           "src": "FORB",
           "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
-      "pub": 1786845002000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
-          "deck": "U.S. Central Command (Centcom) commander Adm. Brad Cooper visited the USS Abraham Lincoln Saturday after the ship had been docked in the Middle East for over 260 days since November. Centcom released a statement Saturday about the visit, stating Cooper, who oversees the war with Iran, visited the ship as part of a 10-day trip...",
-          "link": "https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/",
-          "pub": 1786845002000,
-          "src": "HILL",
-          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -4503,24 +4728,6 @@
       ]
     },
     {
-      "title": "Rams' Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
-      "pub": 1786842002000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams' Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
-          "deck": "Rams quarterback Ty Simpson achieved one of the best rookie preseason debuts so far in his team's win over Kansas City.",
-          "link": "https://www.newsweek.com/sports/nfl/rams-ty-simpson-shines-in-impressive-preseason-debut-against-chiefs-12328401",
-          "pub": 1786842002000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "A Tour Of America's Blue-topias",
       "pub": 1786842000000,
       "lean": "lr",
@@ -4651,7 +4858,7 @@
       "pub": 1786840225000,
       "lean": "ct",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Navy looking into warship redesigns as part of Trump requests",
@@ -4660,15 +4867,6 @@
           "pub": 1786840225000,
           "src": "NWSN",
           "srcFull": "NewsNation",
-          "lean": "ct"
-        },
-        {
-          "title": "Navy looking into warship redesigns as part of Trump requests",
-          "deck": "The United States Navy is potentially redesigning incoming aircraft vessels to better align with President Trump’s preferred aesthetic.",
-          "link": "https://thehill.com/policy/defense/6031688-navy-carrier-design-trump/",
-          "pub": 1786838258000,
-          "src": "HILL",
-          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -5034,24 +5232,6 @@
       ]
     },
     {
-      "title": "US women in politics spark conversation about balancing family and career",
-      "pub": 1786834910000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "US women in politics spark conversation about balancing family and career",
-          "deck": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family.",
-          "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786834910000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Walmart tomato bisque soup recalled over possible Listeria contamination",
       "pub": 1786833959000,
       "lean": "lr",
@@ -5196,24 +5376,6 @@
       ]
     },
     {
-      "title": "Trump shows off article on lower drug prices that says Biden deserves credit, not him",
-      "pub": 1786831369000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump shows off article on lower drug prices that says Biden deserves credit, not him",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-shows-off-article-lower-220249974.html",
-          "pub": 1786831369000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Socialist NY lawmaker Emily Gallagher says shoplifting for ‘biological need’ is OK",
       "pub": 1786830916000,
       "lean": "lr",
@@ -5264,168 +5426,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "pub": 1786830103000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Australian state to launch gun buyback after Bondi Beach attack",
-          "deck": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
-          "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786830103000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Tesehki And Big Lex Fight Might Be Stealing The Show In Atlanta",
-      "pub": 1786830010000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tesehki And Big Lex Fight Might Be Stealing The Show In Atlanta",
-          "deck": "Tesehki vs.",
-          "link": "https://www.forbes.com/sites/brianmazique/2026/08/15/tesehki-vs-big-lex-what-time-do-ring-walks-start/",
-          "pub": 1786830010000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Shocking death of former professor reverberates at Cambridge — and well beyond",
-      "pub": 1786829778000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Shocking death of former professor reverberates at Cambridge — and well beyond",
-          "deck": "The death of Jason Arday, 41, came a little more than a week after he resigned from his post at the university amid accusations of plagiarism that ignited a culture-war firestorm.",
-          "link": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
-          "pub": 1786829778000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Are robotaxis finally here?",
-      "pub": 1786829421000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Are robotaxis finally here?",
-          "deck": "Fully self-driving cars for hire have been hailed as the technology of the future for years now.",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-          "pub": 1786829421000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Fauci In Hiding As ABC Censorship Bombshell Explodes",
-      "pub": 1786829400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fauci In Hiding As ABC Censorship Bombshell Explodes",
-          "deck": "Fauci In Hiding As ABC Censorship Bombshell Explodes Authored by Steve Watson via Modernity News, Dr.",
-          "link": "https://www.zerohedge.com/covid-19/fauci-hiding-abc-censorship-bombshell-explodes",
-          "pub": 1786829400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Florida middle school teacher admits to years of 'inappropriate' conversations with former student: deputies",
-      "pub": 1786829390000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Florida middle school teacher admits to years of 'inappropriate' conversations with former student: deputies",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/florida-middle-school-teacher-admits-212950954.html",
-          "pub": 1786829390000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Palantir Leads AI Data Deal With USA Today Sparking A Newsroom Revolt",
-      "pub": 1786828934000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Palantir Leads AI Data Deal With USA Today Sparking A Newsroom Revolt",
-          "deck": "More than 800 journalists demanded USA Today drop its Palantir AI data deal.",
-          "link": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
-          "pub": 1786828934000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
-      "pub": 1786828851000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "State Department spokesperson on Iran war and U.S. visa revocations",
-          "deck": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-          "pub": 1786828851000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Federal relief incoming as Indiana continues to be impacted by severe weather, flooding",
-      "pub": 1786828815000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Federal relief incoming as Indiana continues to be impacted by severe weather, flooding",
-          "deck": "INDIANAPOLIS -- During a news conference on Saturday, Indiana Gov.",
-          "link": "https://www.newsnationnow.com/weather/braun-federal-relief-expected-as-indiana-continues-to-be-impacted-by-severe-weather-flooding/",
-          "pub": 1786828815000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
         }
       ]
     }
