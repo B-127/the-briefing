@@ -1,7 +1,493 @@
 {
-  "generated": "2026-08-16T16:16:24.879Z",
+  "generated": "2026-08-16T16:49:14.757Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "Beshear says ‘I’ve heard nothing’ from McConnell, urges senator to ‘call in’",
+      "pub": 1786898923000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Beshear says ‘I’ve heard nothing’ from McConnell, urges senator to ‘call in’",
+          "deck": "Kentucky Gov.",
+          "link": "https://www.washingtonexaminer.com/news/senate/4688996/beshear-says-heard-nothing-from-mcconnell/",
+          "pub": 1786898923000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bill Cassidy Calls Trump's Vaccine Plan 'Stupid Policy'",
+      "pub": 1786898596000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bill Cassidy Calls Trump's Vaccine Plan 'Stupid Policy'",
+          "deck": "Bill Cassidy slammed Trump's vaccine overhaul, arguing it would require more shots and doctor visits.",
+          "link": "https://www.newsweek.com/bill-cassidy-calls-trump-vaccine-plan-stupid-policy-12329123",
+          "pub": 1786898596000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Harrowing video shows woman take death-defying leap from 11th-floor of burning high-rise building",
+      "pub": 1786898536000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Harrowing video shows woman take death-defying leap from 11th-floor of burning high-rise building",
+          "deck": "The firefighter was two floors below to be able to catch her fall.",
+          "link": "https://nypost.com/2026/08/16/world-news/woman-jumps-from-burning-high-rise-building-in-berlin/",
+          "pub": 1786898536000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Indiana football star who jumped into raging river ID’d as latest victim of deadly Midwest floods",
+      "pub": 1786898449000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Indiana football star who jumped into raging river ID’d as latest victim of deadly Midwest floods",
+          "deck": "Indiana police located the body of high school football star Matthew Morey after he and a group of people jumped off a bridge and into a river during the deadly Indiana floods.",
+          "link": "https://nypost.com/2026/08/16/us-news/indiana-football-star-who-jumped-into-raging-river-idd-as-latest-victim-of-deadly-midwest-floods/",
+          "pub": 1786898449000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+      "pub": 1786898191000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+          "deck": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+          "pub": 1786898191000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Thousands of Bonnie Tyler fans line the streets of Wales as late singer’s coffin is brought home",
+      "pub": 1786898132000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thousands of Bonnie Tyler fans line the streets of Wales as late singer’s coffin is brought home",
+          "deck": "The \"Total Eclipse of the Heart\" singer died in a Portugal hospital on July 8 at the age of 75.",
+          "link": "https://pagesix.com/2026/08/16/celebrity-news/thousands-of-bonnie-tyler-fans-line-the-streets-of-wales-as-late-singers-coffin-is-brought-home/",
+          "pub": 1786898132000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Inside the 2026 Emmy race for best comedy — the awards’ most dramatic competition",
+      "pub": 1786898120000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Inside the 2026 Emmy race for best comedy — the awards’ most dramatic competition",
+          "deck": "The most dramatic showdown at this year’s Emmys will be in the comedy race between \"Hacks\" and \"Widow's Bay.",
+          "link": "https://pagesix.com/2026/08/16/hollywood/inside-2026-emmy-race-for-best-comedy-hacks-widows-bay/",
+          "pub": 1786898120000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Blanche defends Pirro, says it’s ‘not fair’ to judge US attorney on ‘single case’",
+      "pub": 1786897998000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blanche defends Pirro, says it’s ‘not fair’ to judge US attorney on ‘single case’",
+          "deck": "Attorney General Todd Blanche defended U.",
+          "link": "https://www.washingtonexaminer.com/news/justice/4688972/blanche-pirro-reflecting-pool-vandalism-case/",
+          "pub": 1786897998000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "'Probably my last year' - Ronaldo hints at retirement",
+      "pub": 1786897996000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Probably my last year' - Ronaldo hints at retirement",
+          "deck": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786897996000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Workday’s $51 billion takeover talks could reset the software trade",
+      "pub": 1786897980000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Workday’s $51 billion takeover talks could reset the software trade",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/articles/workday-51-billion-takeover-talks-163300274.html",
+          "pub": 1786897980000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Maxing Out a Roth IRA Into These 3 ETFs Could Make You a Tax-Free Millionaire",
+      "pub": 1786897885000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Maxing Out a Roth IRA Into These 3 ETFs Could Make You a Tax-Free Millionaire",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/maxing-roth-ira-3-etfs-163125024.html",
+          "pub": 1786897885000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle",
+      "pub": 1786897860000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle",
+          "deck": "The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.",
+          "link": "https://nypost.com/2026/08/16/business/arks-bryant-park-restaurant-evictions-are-looming-after-legal-battle/",
+          "pub": 1786897860000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "‘Lioness’ Season 3 Episode 3 Recap: Kill for This Life",
+      "pub": 1786897800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Lioness’ Season 3 Episode 3 Recap: Kill for This Life",
+          "deck": "\"A soldier's oath is his family’s oath.",
+          "link": "https://decider.com/2026/08/16/lioness-season-3-episode-3-recap-the-bear-is-infected/",
+          "pub": 1786897800000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "3 Small-Cap Stocks That Concern Us",
+      "pub": 1786897740000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "3 Small-Cap Stocks That Concern Us",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-concern-162900861.html",
+          "pub": 1786897740000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "People who fled Stourbridge fires start to return home",
+      "pub": 1786897701000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "People who fled Stourbridge fires start to return home",
+          "deck": "Many families are only just discovering the extent of damage to their homes for the first time.",
+          "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+          "pub": 1786897701000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Belgium's biggest wildfire on record heads towards Germany",
+      "pub": 1786897689000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Belgium's biggest wildfire on record heads towards Germany",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/belgiums-biggest-wildfire-record-heads-090625900.html",
+          "pub": 1786897689000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A good – and bad – week for Italy's art police and museum security",
+      "pub": 1786897674000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A good – and bad – week for Italy's art police and museum security",
+          "deck": "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma.",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+          "pub": 1786897674000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Map Shows 11 States Where Dog Food Recalled Over Salmonella Risk",
+      "pub": 1786897673000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Map Shows 11 States Where Dog Food Recalled Over Salmonella Risk",
+          "deck": "Hundreds of bags of frozen dog food have been recalled in 11 states over the risk of salmonella contamination.",
+          "link": "https://www.newsweek.com/map-shows-11-states-where-dog-food-recalled-over-salmonella-risk-12328942",
+          "pub": 1786897673000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Nebius' Contracted Power Guidance Continues to Surge. Here's What That Means for the Stock.",
+      "pub": 1786897620000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Nebius' Contracted Power Guidance Continues to Surge. Here's What That Means for the Stock.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-contracted-power-guidance-continues-162700715.html",
+          "pub": 1786897620000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
+      "pub": 1786897587000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
+          "deck": "A fatal accident has drawn attention to New York Harbor, a popular destination where not everyone necessarily knows the rules — or follows them.",
+          "link": "https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html",
+          "pub": 1786897587000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Historic vessels that sank in NYC basin — including one on Maine’s state quarter — to be scrapped into ‘garbage’: sources",
+      "pub": 1786897474000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Historic vessels that sank in NYC basin — including one on Maine’s state quarter — to be scrapped into ‘garbage’: sources",
+          "deck": "\"Nobody liked that it was going to be turned into a bar.",
+          "link": "https://nypost.com/2026/08/16/us-news/historic-vessels-that-sank-in-gowanus-basin-to-be-scrapped-sources/",
+          "pub": 1786897474000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jilted ex-lover admits killing 4 before torching Lancaster home in vicious revenge killing",
+      "pub": 1786897309000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jilted ex-lover admits killing 4 before torching Lancaster home in vicious revenge killing",
+          "deck": "The killer was just 19 at the time of the grisly slayings in 2024.",
+          "link": "https://nypost.com/2026/08/16/us-news/lancaster-quadruple-murder-miguel-sandoval-pleads-guilty-to-killing-4-torching-home/",
+          "pub": 1786897309000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
+      "pub": 1786897307000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
+          "deck": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786897307000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
+      "pub": 1786897276000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
+          "deck": "A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its potential limitations.",
+          "link": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+          "pub": 1786897276000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jim Jordan says costs 'are tough,' but economy is in a 'pretty good direction'",
+      "pub": 1786897067000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jim Jordan says costs 'are tough,' but economy is in a 'pretty good direction'",
+          "deck": "Rep. Jim Jordan (R-Ohio) on Sunday praised the direction of the economy, while acknowledging that costs \"are tough\" on American families. Jordan made the case for President Trump and Republicans on Fox News's \"Sunday Morning Futures\" while slamming the Democratic Socialists of America (DSA) for \"hanging on this idea of affordability\" to advocate against the...",
+          "link": "https://thehill.com/homenews/campaign/6031927-jim-jordan-economy-costs/",
+          "pub": 1786897067000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+      "pub": 1786897034000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+          "deck": "The following is the transcript of an interview with Rep.",
+          "link": "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-08-16-2026/",
+          "pub": 1786897034000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+      "pub": 1786897034000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/transcript-rep-don-bacon-face-161714047.html",
+          "pub": 1786897034000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
     {
       "title": "Major update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul",
       "pub": 1786896927000,
@@ -17,6 +503,69 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Pennsylvania state Rep. Chris Rabb on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+      "pub": 1786896892000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Transcript: Pennsylvania state Rep. Chris Rabb on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+          "deck": "The following is the transcript of an interview with Pennsylvania state Rep.",
+          "link": "https://www.cbsnews.com/news/chris-rabb-pennsylvania-state-representative-face-the-nation-transcript-08-16-2026/",
+          "pub": 1786896892000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Transcript: Pennsylvania state Rep. Chris Rabb on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/transcript-pennsylvania-state-rep-chris-161452808.html",
+          "pub": 1786896892000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Two dead and evacuation under way as fires break out on Greek island",
+      "pub": 1786896866000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Two dead and evacuation under way as fires break out on Greek island",
+          "deck": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "pub": 1786896866000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
+      "pub": 1786896853000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
+          "deck": "The new head of the Justice Department said on “Meet the Press” on Sunday that the president had never asked him to prosecute specific people — and never would.",
+          "link": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+          "pub": 1786896853000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
         }
       ]
     },
@@ -53,6 +602,42 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "COVID-19 Is Rising In America— Here’s What To Know About Vaccines, Xocova, Paxlovid And Pregnancy",
+      "pub": 1786896635000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "COVID-19 Is Rising In America— Here’s What To Know About Vaccines, Xocova, Paxlovid And Pregnancy",
+          "deck": "As COVID-19 rises all throughout America, so has misinformation.",
+          "link": "https://www.forbes.com/sites/omerawan/2026/08/16/covid-19-is-rising-in-america--heres-what-to-know-about-vaccines-xocova-paxlovid-and-pregnancy/",
+          "pub": 1786896635000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Growing Appeal Of Mass Timber Attacts Big Tech, Developer Investment",
+      "pub": 1786896547000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Growing Appeal Of Mass Timber Attacts Big Tech, Developer Investment",
+          "deck": "Mass timber has broad appeal for project efficiency and sustainability, giving it a very long runway for growth and investment in the next few years.",
+          "link": "https://www.forbes.com/sites/jennifercastenson/2026/08/16/growing-appeal-of-mass-timber-attacts-big-tech-developer-investment/",
+          "pub": 1786896547000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -129,6 +714,24 @@
       ]
     },
     {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "pub": 1786896253000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+          "deck": "The housing industry and consumer spending take center stage across earnings reports and economic releases.",
+          "link": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+          "pub": 1786896253000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Attorney General Todd Blanche says it wouldn’t be the best course for the FBI to take over Nancy Guthrie investigation",
       "pub": 1786896199000,
       "lean": "ll",
@@ -183,16 +786,16 @@
       ]
     },
     {
-      "title": "Outbreaks threaten HHS 'real food' agenda",
+      "title": "We should start building fiscal insurance for the AI era",
       "pub": 1786896000000,
       "lean": "ct",
-      "cat": "Health",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Outbreaks threaten HHS 'real food' agenda",
-          "deck": "Health Secretary Robert F.",
-          "link": "https://thehill.com/policy/healthcare/6030799-rfk-jr-real-food-agenda-outbreaks/",
+          "title": "We should start building fiscal insurance for the AI era",
+          "deck": "Policymakers should begin developing fiscal insurance options, such as modernized adjustment assistance and expanded capital ownership, to mitigate the potential risks of large-scale worker displacement and increased income inequality caused by artificial intelligence.",
+          "link": "https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/",
           "pub": 1786896000000,
           "src": "HILL",
           "srcFull": "The Hill",
@@ -201,16 +804,16 @@
       ]
     },
     {
-      "title": "We should start building fiscal insurance for the AI era",
+      "title": "Outbreaks threaten HHS 'real food' agenda",
       "pub": 1786896000000,
       "lean": "ct",
-      "cat": "Opinion",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "We should start building fiscal insurance for the AI era",
-          "deck": "Policymakers should begin developing fiscal insurance options, such as modernized adjustment assistance and expanded capital ownership, to mitigate the potential risks of large-scale worker displacement and increased income inequality caused by artificial intelligence.",
-          "link": "https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/",
+          "title": "Outbreaks threaten HHS 'real food' agenda",
+          "deck": "Health Secretary Robert F.",
+          "link": "https://thehill.com/policy/healthcare/6030799-rfk-jr-real-food-agenda-outbreaks/",
           "pub": 1786896000000,
           "src": "HILL",
           "srcFull": "The Hill",
@@ -327,24 +930,6 @@
       ]
     },
     {
-      "title": "Crocs CEO Andrew Rees Sells 30,000 Shares for $4.2 Million -- Do Investors Need to Take Notice?",
-      "pub": 1786895875000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Crocs CEO Andrew Rees Sells 30,000 Shares for $4.2 Million -- Do Investors Need to Take Notice?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-ceo-andrew-rees-sells-155755880.html",
-          "pub": 1786895875000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
       "pub": 1786895867000,
       "lean": "ll",
@@ -358,24 +943,6 @@
           "pub": 1786895867000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "History Says This Is What Will Happen to Nvidia Stock After Aug. 26",
-      "pub": 1786895820000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "History Says This Is What Will Happen to Nvidia Stock After Aug. 26",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-happen-nvidia-stock-155700687.html",
-          "pub": 1786895820000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -453,42 +1020,6 @@
       ]
     },
     {
-      "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-      "pub": 1786895484000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-          "deck": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-          "pub": 1786895484000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Workday Has Its Best Day in a Decade on Report of a Potential $43 Billion Buyout",
-      "pub": 1786895453000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Workday Has Its Best Day in a Decade on Report of a Potential $43 Billion Buyout",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/workday-best-day-decade-report-155053377.html",
-          "pub": 1786895453000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "pub": 1786895416000,
       "lean": "ll",
@@ -512,24 +1043,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "1 Energy Stock to Research Further and 2 We Turn Down",
-      "pub": 1786895340000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "1 Energy Stock to Research Further and 2 We Turn Down",
-          "deck": "",
-          "link": "https://finance.yahoo.com/energy/articles/1-energy-stock-research-further-154900458.html",
-          "pub": 1786895340000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -570,24 +1083,6 @@
       ]
     },
     {
-      "title": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
-      "pub": 1786895228000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
-          "deck": "The new head of the Justice Department said on “Meet the Press” on Sunday that the president had never asked him to prosecute specific people — and never would.",
-          "link": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
-          "pub": 1786895228000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "The Presidential Soft-Launch Has Begun",
       "pub": 1786895131000,
       "lean": "lr",
@@ -617,24 +1112,6 @@
           "deck": "",
           "link": "https://autos.yahoo.com/ownership/articles/manual-driving-101-neutral-gear-154500633.html",
           "pub": 1786895100000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Fox 2 Detroit accuses former anchor Taryn Asher of newsroom 'outbursts'",
-      "pub": 1786895014000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fox 2 Detroit accuses former anchor Taryn Asher of newsroom 'outbursts'",
-          "deck": "",
-          "link": "https://www.yahoo.com/entertainment/tv/articles/fox-2-detroit-accuses-former-154334809.html",
-          "pub": 1786895014000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -768,42 +1245,6 @@
       ]
     },
     {
-      "title": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
-      "pub": 1786894536000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
-          "deck": "A fatal accident has drawn attention to New York Harbor, a popular destination where not everyone necessarily knows the rules — or cares to follow them.",
-          "link": "https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html",
-          "pub": 1786894536000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Tracee Ellis Ross blasts Jay Leno for late-night show snub at the height of ‘Girlfriends’: ‘Is it just racism?’",
-      "pub": 1786894530000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tracee Ellis Ross blasts Jay Leno for late-night show snub at the height of ‘Girlfriends’: ‘Is it just racism?’",
-          "deck": "The \"Black-ish\" actress recalled stars from other less popular TV shows appearing as guests on Leno's famous talk show.",
-          "link": "https://pagesix.com/2026/08/16/celebrity-news/tracee-ellis-ross-blasts-jay-leno-for-late-night-show-snub-at-the-height-of-girlfriends/",
-          "pub": 1786894530000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Hakeem Jeffries Rejects Medicare for All, DSA Agenda",
       "pub": 1786894485000,
       "lean": "ct",
@@ -897,7 +1338,7 @@
       "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
       "pub": 1786893938000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -925,24 +1366,6 @@
           "pub": 1786893917000,
           "src": "HILL",
           "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "People who fled Stourbridge fires start to return home",
-      "pub": 1786893773000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "People who fled Stourbridge fires start to return home",
-          "deck": "Many families are only just discovering the extent of damage to their homes for the first time.",
-          "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-          "pub": 1786893773000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -1146,42 +1569,6 @@
       ]
     },
     {
-      "title": "What Time Does ‘Lanterns’ Come Out on HBO?",
-      "pub": 1786892400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What Time Does ‘Lanterns’ Come Out on HBO?",
-          "deck": "Everything you need to know about how to watch the new Lanterns show.",
-          "link": "https://decider.com/2026/08/16/what-time-does-lanterns-come-out-on-hbo/",
-          "pub": 1786892400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Drone Footage Shows Extensive Damage in Indonesian Coastal Town After Earthquake",
-      "pub": 1786892376000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Drone Footage Shows Extensive Damage in Indonesian Coastal Town After Earthquake",
-          "deck": "Drone footage showed massive damage to roads and infrastructure after a powerful magnitude 7.",
-          "link": "https://nypost.com/video/drone-footage-shows-extensive-damage-in-indonesian-coastal-town-after-earthquake/",
-          "pub": 1786892376000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln 'somewhere in the middle'",
       "pub": 1786892149000,
       "lean": "ct",
@@ -1218,24 +1605,6 @@
       ]
     },
     {
-      "title": "Travis Kelce flashes wedding band ahead of Chiefs’ preseason opener after Taylor Swift wedding",
-      "pub": 1786891982000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Travis Kelce flashes wedding band ahead of Chiefs’ preseason opener after Taylor Swift wedding",
-          "deck": "Travis Kelce sported a new accessory loud and proud on Saturday.",
-          "link": "https://nypost.com/2026/08/16/sports/travis-kelce-flashes-wedding-band-ahead-of-chiefs-preseason-opener/",
-          "pub": 1786891982000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "University to lead Pakistan waste-to-energy scheme",
       "pub": 1786891937000,
       "lean": "ll",
@@ -1268,24 +1637,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Global corgis gather for cutest costume contest and annual high-speed race",
-      "pub": 1786891761000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Global corgis gather for cutest costume contest and annual high-speed race",
-          "deck": "The pups played their hardest for superlatives like \"Sharpest Nose\" and other titles.",
-          "link": "https://nypost.com/2026/08/16/lifestyle/annual-corgi-competition-draws-150-dogs-to-lithuania/",
-          "pub": 1786891761000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1443,20 +1794,20 @@
       ]
     },
     {
-      "title": "Mets vs. Nationals prediction: MLB Sunday picks, odds, bets",
-      "pub": 1786890600000,
-      "lean": "lr",
-      "cat": "Politics",
+      "title": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
+      "pub": 1786890601000,
+      "lean": "ll",
+      "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Mets vs. Nationals prediction: MLB Sunday picks, odds, bets",
-          "deck": "Christian Scott will take the mound for the Mets on Sunday against the Nationals.",
-          "link": "https://nypost.com/2026/08/16/betting/mets-vs-nationals-prediction-mlb-sunday-picks-odds-bets/",
-          "pub": 1786890600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
+          "deck": "Kim Murstein and Gail Rudnick are the duo behind \"Excuse My Grandma,\" an advice podcast that dives into life, love and other issues across generations.",
+          "link": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
+          "pub": 1786890601000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
         }
       ]
     },
@@ -1745,6 +2096,24 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+      "pub": 1786888470000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
+          "pub": 1786888470000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -2163,24 +2532,6 @@
       ]
     },
     {
-      "title": "AG Todd Blanche says 'there will be no fund' for Jan. 6 rioters",
-      "pub": 1786885208000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "AG Todd Blanche says 'there will be no fund' for Jan. 6 rioters",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/videos/ag-todd-blanche-says-no-130008030.html",
-          "pub": 1786885208000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "He’s Awkward. He’s Sticky. He’s the Best Superhero.",
       "pub": 1786885205000,
       "lean": "ll",
@@ -2328,7 +2679,7 @@
       "title": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
       "pub": 1786884604000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -2775,24 +3126,6 @@
       ]
     },
     {
-      "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
-      "pub": 1786883233000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
-          "deck": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786883233000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "UK-made drones strike targets inside Russia",
       "pub": 1786882945000,
       "lean": "ct",
@@ -2919,48 +3252,12 @@
       ]
     },
     {
-      "title": "Trump pushes Senate to vote on permanent daylight saving time bill ‘as soon as possible’",
-      "pub": 1786881774000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": false,
-      "versions": [
-        {
-          "title": "Trump pushes Senate to vote on permanent daylight saving time bill ‘as soon as possible’",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-pushes-senate-vote-permanent-120254015.html",
-          "pub": 1786881774000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Trump pushes Senate to vote on permanent daylight saving time bill 'as soon as possible'",
-          "deck": "President Trump on Saturday again urged senators to vote on a bill to make daylight saving time permanent, a measure some Republicans in the upper chamber oppose.",
-          "link": "https://thehill.com/homenews/administration/6031829-trump-urges-senate-daylight-saving-bill/",
-          "pub": 1786881774000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump's Assault on Judicial Review Undermines a Crucial Safeguard Against Tyranny",
       "pub": 1786881656000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": false,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
       "versions": [
-        {
-          "title": "Trump's Assault on Judicial Review Undermines a Crucial Safeguard Against Tyranny",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trumps-assault-judicial-review-undermines-120056414.html",
-          "pub": 1786881656000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Trump's Assault on Judicial Review Undermines a Crucial Safeguard Against Tyranny",
           "deck": "In one case after another, the president has tried to cut the courts out of the picture painted by the Framers.",
@@ -2976,7 +3273,7 @@
       "title": "Europeans are sour on Trump, but they increasingly back his immigration policy",
       "pub": 1786881600000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -3030,7 +3327,7 @@
       "title": "The UN can say it a thousand times — abortion still isn’t international law",
       "pub": 1786881600000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -3156,7 +3453,7 @@
       "title": "An expansive, informative history of fishing in California",
       "pub": 1786880700000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -3189,28 +3486,10 @@
       ]
     },
     {
-      "title": "Donnelly wins GB's first women's marathon medal at Europeans",
-      "pub": 1786880430000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Donnelly wins GB's first women's marathon medal at Europeans",
-          "deck": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786880430000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "pub": 1786880125000,
       "lean": "ct",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -3347,24 +3626,6 @@
           "src": "REAS",
           "srcFull": "Reason",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building—Again? (opinion)",
-      "pub": 1786878006000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building—Again? (opinion)",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/why-kennedy-center-board-trying-110006644.html",
-          "pub": 1786878006000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -3693,24 +3954,6 @@
       ]
     },
     {
-      "title": "Trump’s midterm malaise: endless war and high prices could spell doom for Republicans in November",
-      "pub": 1786874423000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s midterm malaise: endless war and high prices could spell doom for Republicans in November",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-midterm-malaise-endless-war-100023784.html",
-          "pub": 1786874423000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ocasio-Cortez Rewrites the Rules",
       "pub": 1786874418000,
       "lean": "ll",
@@ -3801,24 +4044,6 @@
       ]
     },
     {
-      "title": "The Memo: AOC 2028? Dems feel trepidation and excitement over Ocasio-Cortez",
-      "pub": 1786874400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Memo: AOC 2028? Dems feel trepidation and excitement over Ocasio-Cortez",
-          "deck": "Speculation about a presidential run by Rep.",
-          "link": "https://thehill.com/homenews/campaign/6031017-aoc-2028-presidential-run-speculation/",
-          "pub": 1786874400000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "The South Is Ground Zero for the Right's Attack on Black America | Opinion",
       "pub": 1786874400000,
       "lean": "ct",
@@ -3873,6 +4098,24 @@
       ]
     },
     {
+      "title": "One year after Charlie Kirk’s death, his own side is giving up on free speech",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "One year after Charlie Kirk’s death, his own side is giving up on free speech",
+          "deck": "Next month marks one year since Charlie Kirk was shot and killed while giving a speech at Utah Valley University.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4683148/charlie-kirk-free-speech-laws-culture-survey-hate-speech-pam-bondi/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "Trump Pushes Senate on Daylight Savings: How Timeline for Change Looks",
       "pub": 1786873795000,
       "lean": "ct",
@@ -3910,20 +4153,11 @@
     },
     {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "pub": 1786872481000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": false,
+      "pub": 1786872478000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
       "versions": [
-        {
-          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/qatar-denies-capturing-three-iranian-210402602.html",
-          "pub": 1786872481000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
           "deck": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -3972,24 +4206,6 @@
       ]
     },
     {
-      "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
-      "pub": 1786870927000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
-          "deck": "A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its potential limitations.",
-          "link": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
-          "pub": 1786870927000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
       "pub": 1786870915000,
       "lean": "ll",
@@ -4029,7 +4245,7 @@
       "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
       "pub": 1786870904000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4134,24 +4350,6 @@
       ]
     },
     {
-      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-      "pub": 1786870800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-          "deck": "This fall, we're asking seniors to send us their stories in audio form.",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
-          "pub": 1786870800000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
       "pub": 1786870800000,
       "lean": "ll",
@@ -4170,11 +4368,29 @@
       ]
     },
     {
+      "title": "Are you a senior with a story? Submit your podcast for a chance to hear it on NPR",
+      "pub": 1786870800000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Are you a senior with a story? Submit your podcast for a chance to hear it on NPR",
+          "deck": "This fall, we're asking seniors to send us their stories in audio form.",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+          "pub": 1786870800000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Senate hopeful Talarico touts his faith. Texas Republicans call it blasphemy.",
       "pub": 1786870800000,
       "lean": "ll",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Senate hopeful Talarico touts his faith. Texas Republicans call it blasphemy.",
@@ -4183,15 +4399,6 @@
           "pub": 1786870800000,
           "src": "WaPo",
           "srcFull": "Washington Post",
-          "lean": "ll"
-        },
-        {
-          "title": "Senate hopeful Talarico touts his faith. Texas Republicans call it blasphemy.",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/senate-hopeful-talarico-touts-faith-090000480.html",
-          "pub": 1786870800000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -4211,60 +4418,6 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "World Clap Day Wants Everyone To Clap at Once—a Professor Has Thoughts",
-      "pub": 1786870800000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "World Clap Day Wants Everyone To Clap at Once—a Professor Has Thoughts",
-          "deck": "A physicist crunched the numbers on billions clapping at once—and found the \"unity\" moment barely makes a sound.",
-          "link": "https://www.newsweek.com/world-clap-day-2026-time-date-trend-12323776",
-          "pub": 1786870800000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "I'm a Dietitian—These Are 15 Grocery Staples I Recommend to Anyone on GLP-1",
-      "pub": 1786870800000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I'm a Dietitian—These Are 15 Grocery Staples I Recommend to Anyone on GLP-1",
-          "deck": "A bariatric dietitian told Newsweek that when appetite is reduced, \"every bite should provide meaningful nutrition.",
-          "link": "https://www.newsweek.com/im-a-dietitian-these-are-15-grocery-staples-i-recommend-to-anyone-on-glp-1-12322817",
-          "pub": 1786870800000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The cost of long-term care keeps going up, and it's a growing problem for Americans of all ages",
-      "pub": 1786870681000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "The cost of long-term care keeps going up, and it's a growing problem for Americans of all ages",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/cost-long-term-care-keeps-085801088.html",
-          "pub": 1786870681000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -5097,24 +5250,6 @@
       ]
     },
     {
-      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-      "pub": 1786840762000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-          "deck": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-          "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786840762000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Today’s Wordle #1884: Hints And Answer, Sunday August 16",
       "pub": 1786840273000,
       "lean": "ct",
@@ -5277,182 +5412,20 @@
       ]
     },
     {
-      "title": "Lala skirts Hawaii's Big Island, downgraded to tropical storm – 1 dead, thousands without power",
+      "title": "Johnson, Paul release new email showing top FDA official's concerns about COVID vax adverse effects",
       "pub": 1786838400000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Lala skirts Hawaii's Big Island, downgraded to tropical storm – 1 dead, thousands without power",
-          "deck": "On the Big Island, heavy surf continues to pound the coastline as high winds bend palm trees.",
-          "link": "https://justthenews.com/government/local/lala-swipes-past-hawaiis-big-island-downgraded-tropical-storm-1-dead-thousands?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+          "title": "Johnson, Paul release new email showing top FDA official's concerns about COVID vax adverse effects",
+          "deck": "The newly released email shows that on May 27, 2021, Dr.",
+          "link": "https://justthenews.com/government/congress/johnson-paul-release-new-email-showing-top-fda-officials-concerns-about-covid?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
           "pub": 1786838400000,
           "src": "JTN",
           "srcFull": "Just the News",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump resumes push for Senate to make daylight savings time permanent",
-      "pub": 1786838400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump resumes push for Senate to make daylight savings time permanent",
-          "deck": "The House passed such a measure, but some members of the GOP-controlled Senate are opposed to its measure, the Sunshine Protection Act of 2025.",
-          "link": "https://justthenews.com/government/white-house/trump-resume-push-senate-make-daylight-savings-time-permanent?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
-          "pub": 1786838400000,
-          "src": "JTN",
-          "srcFull": "Just the News",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Democrats finalize 2028 primary calendar, make South Carolina first state to ballot",
-      "pub": 1786838400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democrats finalize 2028 primary calendar, make South Carolina first state to ballot",
-          "deck": "The next five states to hold Democratic primaries will be Nevada, New Hampshire, New Mexico, Michigan and Virginia.",
-          "link": "https://justthenews.com/politics-policy/elections/democrats-finalize-2028-primary-calendar-make-south-carolina-first-state?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
-          "pub": 1786838400000,
-          "src": "JTN",
-          "srcFull": "Just the News",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mark Cuban delivers brutal reality check on California billionaire tax: ‘Ideology is not a strategy’",
-      "pub": 1786838285000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mark Cuban delivers brutal reality check on California billionaire tax: ‘Ideology is not a strategy’",
-          "deck": "\"If this passes, only idiot startup founders stay in Cali,\" Cuban said.",
-          "link": "https://nypost.com/2026/08/15/business/mark-cuban-checks-ro-khanna-on-california-billionaire-tax/",
-          "pub": 1786838285000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Star Wars Zero Company — 10 Things You Should Know",
-      "pub": 1786838202000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Star Wars Zero Company — 10 Things You Should Know",
-          "deck": "Star Wars Zero Company releases August 27, 2026 on PC, PS5 and Xbox Series X|S.",
-          "link": "https://www.forbes.com/sites/brianmazique/2026/08/15/star-wars-zero-company-release-date-pre-order-info-and-feature-list/",
-          "pub": 1786838202000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Michael Goodwin: ‘Woke’ might be wounded — but the radical left is still infiltrating our politics",
-      "pub": 1786837826000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Michael Goodwin: ‘Woke’ might be wounded — but the radical left is still infiltrating our politics",
-          "deck": "In the spirit of Mark Twain’s line that “reports of my death are greatly exaggerated,” ignore any claims that the mob of radical leftists rampaging through our politics has been defeated.",
-          "link": "https://nypost.com/2026/08/15/opinion/michael-goodwin-woke-might-be-wounded-but-the-radical-left-is-still-infiltrating-our-politics/",
-          "pub": 1786837826000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Are China's Surveillance Exports Turning Nations Into Digital Dictatorships?",
-      "pub": 1786837800000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Are China's Surveillance Exports Turning Nations Into Digital Dictatorships?",
-          "deck": "Are China's Surveillance Exports Turning Nations Into Digital Dictatorships?",
-          "link": "https://www.zerohedge.com/geopolitical/are-chinas-surveillance-exports-turning-nations-digital-dictatorships",
-          "pub": 1786837800000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "pub": 1786837544000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-          "deck": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-          "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786837544000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Friends, finances and finding your feet - advice for this year's freshers",
-      "pub": 1786837515000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Friends, finances and finding your feet - advice for this year's freshers",
-          "deck": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786837515000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Luigi Mangione could avoid state murder and weapons charges: Legal expert",
-      "pub": 1786837404000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Luigi Mangione could avoid state murder and weapons charges: Legal expert",
-          "deck": "\"I don't think there's going to be a trial of Mr.",
-          "link": "https://www.newsnationnow.com/crime/luigi-mangione-state-weapons-murder-charges-dismissed/",
-          "pub": 1786837404000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
         }
       ]
     }
