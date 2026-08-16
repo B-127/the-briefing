@@ -1,7 +1,538 @@
 {
-  "generated": "2026-08-16T09:50:03.730Z",
+  "generated": "2026-08-16T10:16:04.398Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "Trump’s men at the United Nations",
+      "pub": 1786875300000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s men at the United Nations",
+          "deck": "After eight years, Democrats still can’t understand the management style of President Donald Trump.",
+          "link": "https://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
+          "pub": 1786875300000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "pub": 1786875129000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+          "deck": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+          "pub": 1786875129000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "pub": 1786874950000,
+      "lean": "ct",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+          "deck": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pub": 1786874950000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        },
+        {
+          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/three-killed-russia-launches-fresh-081742309.html",
+          "pub": 1786871058000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bath and Body Works ‘Nightmare Before Christmas’ collab will sell out — Shop it now",
+      "pub": 1786874700000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bath and Body Works ‘Nightmare Before Christmas’ collab will sell out — Shop it now",
+          "deck": "This is Halloween.",
+          "link": "https://nypost.com/2026/08/16/shopping/bath-and-body-works-nightmare-before-christmas-collab-is-selling-out/",
+          "pub": 1786874700000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What our spies cut out of the China file",
+      "pub": 1786874700000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What our spies cut out of the China file",
+          "deck": "Two facts now sit in plain sight in the declassified record.",
+          "link": "https://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/",
+          "pub": 1786874700000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "His Distributor Went Bankrupt Owing Him $80,000. When the Commission Check Finally Came, Social Security Asked When He Earned It.",
+      "pub": 1786874575000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "His Distributor Went Bankrupt Owing Him $80,000. When the Commission Check Finally Came, Social Security Asked When He Earned It.",
+          "deck": "",
+          "link": "https://247wallst.com/personal-finance/social-security/2026/08/16/his-distributor-went-bankrupt-owing-him-80000-when-the-commission-check-finally-came-social-security-asked-when-he-earned-it/",
+          "pub": 1786874575000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ocasio-Cortez Rewrites the Rules",
+      "pub": 1786874418000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ocasio-Cortez Rewrites the Rules",
+          "deck": "The representative is fusing her body and mind on the public stage to show us what real female power can look like.",
+          "link": "https://www.nytimes.com/2026/08/16/opinion/aoc-egg-freezing-women-politics.html",
+          "pub": 1786874418000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Friends Wanted Me to Cut Off My Father. They Were Wrong.",
+      "pub": 1786874407000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Friends Wanted Me to Cut Off My Father. They Were Wrong.",
+          "deck": "Many queer people are going no contact — cutting off their families for myriad reasons.",
+          "link": "https://www.nytimes.com/2026/08/16/opinion/parents-children-no-contact-families.html",
+          "pub": 1786874407000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "You Don’t Need 10,000 Steps to Help Your Heart",
+      "pub": 1786874404000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "You Don’t Need 10,000 Steps to Help Your Heart",
+          "deck": "\"Why don’t we, as clinicians, approach physical inactivity the way we do other major cardiovascular risk factors?",
+          "link": "https://time.com/article/2026/08/16/every-step-counts-better-heart-health-sadiya-khan-essay/",
+          "pub": 1786874404000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it",
+      "pub": 1786874400000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it",
+          "deck": "As the midterms near, Democrats are proposing adding more justices, limiting their terms and more.",
+          "link": "https://www.washingtonpost.com/politics/2026/08/16/democrats-are-proposing-adding-supreme-court-justices-limiting-their-terms/",
+          "pub": 1786874400000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY",
+      "pub": 1786874400000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY",
+          "deck": "",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-16-2026-lock-in-up-to-430-apy-100000956.html",
+          "pub": 1786874400000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week",
+      "pub": 1786874400000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week",
+          "deck": "",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-16-2026-rates-mostly-lower-than-last-week-100000512.html",
+          "pub": 1786874400000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Key checks from Walmart and the big box stores: What to watch this week",
+      "pub": 1786874400000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Key checks from Walmart and the big box stores: What to watch this week",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/article/key-checks-from-walmart-and-the-big-box-stores-what-to-watch-this-week-100000135.html",
+          "pub": 1786874400000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Memo: AOC 2028? Dems feel trepidation and excitement over Ocasio-Cortez",
+      "pub": 1786874400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Memo: AOC 2028? Dems feel trepidation and excitement over Ocasio-Cortez",
+          "deck": "Speculation about a presidential run by Rep.",
+          "link": "https://thehill.com/homenews/campaign/6031017-aoc-2028-presidential-run-speculation/",
+          "pub": 1786874400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Florida primary fight marks DSA's last stand",
+      "pub": 1786874400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Florida primary fight marks DSA's last stand",
+          "deck": "The last major midterm primary test for the Democratic Socialists of America (DSA) is taking place Tuesday in Florida, after a loss in Wisconsin this past week dealt a blow to the far-left movement.",
+          "link": "https://thehill.com/homenews/campaign/6030816-dsa-florida-primary-test/",
+          "pub": 1786874400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court emergency docket roars back",
+      "pub": 1786874400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Supreme Court emergency docket roars back",
+          "deck": "The Supreme Court’s emergency docket has flared up in the thick of the justices’ summer recess.",
+          "link": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
+          "pub": 1786874400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The South Is Ground Zero for the Right's Attack on Black America | Opinion",
+      "pub": 1786874400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The South Is Ground Zero for the Right's Attack on Black America | Opinion",
+          "deck": "Our cities have always been the battleground for the soul of this nation, but are even more so now under the Trump Administration.",
+          "link": "https://www.newsweek.com/the-south-is-ground-zero-for-the-rights-attack-on-black-america-opinion-12323078",
+          "pub": 1786874400000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Plumber Investigates Foul Smell Under a House—Then He Sees the Vultures",
+      "pub": 1786874400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Plumber Investigates Foul Smell Under a House—Then He Sees the Vultures",
+          "deck": "Called to investigate a foul smell, a Texas plumber instead came face-to-face with two unexpected squatters.",
+          "link": "https://www.newsweek.com/plumber-investigates-foul-smell-under-a-housethen-he-sees-the-vultures-12314374",
+          "pub": 1786874400000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Arsenal vs. Manchester City FA Community Shield match for free",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How to watch Arsenal vs. Manchester City FA Community Shield match for free",
+          "deck": "Following today's match, the Premier League kicks off in one week.",
+          "link": "https://nypost.com/2026/08/16/sports/fa-community-shield-how-to-watch-arsenal-vs-man-city-for-free/",
+          "pub": 1786874400000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The deficit, explained: What it is, why it’s growing, and how to fix it",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The deficit, explained: What it is, why it’s growing, and how to fix it",
+          "deck": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America.",
+          "link": "https://www.washingtonexaminer.com/in_focus/4688100/the-deficit-explained-what-it-is/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Sports give Americans a reason to gather",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sports give Americans a reason to gather",
+          "deck": "Last week, I took a train from New York City to Philadelphia, switched to local transit for the trip to the Main Line, and made my way to the storied Merion Golf Club, home of this year’s U.",
+          "link": "https://www.washingtonexaminer.com/restoring-america/community-family/4687743/sports-give-americans-reason-gather/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "One year after Charlie Kirk’s death, his own side is giving up on free speech",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "One year after Charlie Kirk’s death, his own side is giving up on free speech",
+          "deck": "Next month marks one year since Charlie Kirk was shot and killed while giving a speech at Utah Valley University.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4683148/charlie-kirk-free-speech-laws-culture-survey-hate-speech-pam-bondi/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Alaska primary: What to know before Tuesday’s election",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Alaska primary: What to know before Tuesday’s election",
+          "deck": "Alaska voters head to the polls Aug.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4685395/alaska-primary-elections-what-to-know-double-dans-several-candidates-toss-up/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Michigan drops freshman grades and society gets even dumber",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Michigan drops freshman grades and society gets even dumber",
+          "deck": "Whom would you rather hire — a graduate of Animal House or the Big House?",
+          "link": "https://www.washingtonexaminer.com/op-eds/4684112/umich-drops-freshman-grades-college-standards/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "We finally have Alzheimer’s breakthroughs. Why is Washington holding them back?",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "We finally have Alzheimer’s breakthroughs. Why is Washington holding them back?",
+          "deck": "Alzheimer’s disease is no longer a distant threat affecting only a small segment of the population.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4682276/texas-blueprint-national-alzheimers-initiative/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Pentagon is cutting red tape — and setting a legal minefield for AI contractors",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Pentagon is cutting red tape — and setting a legal minefield for AI contractors",
+          "deck": "Three weeks from now, the War Department owes Congress a report that could matter far beyond the Pentagon.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4682243/pentagon-ai-cybersecurity-contractor-liability/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "ICE bought nonlethal shock gloves for officers. Democrats still are not pleased",
+      "pub": 1786874400000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "ICE bought nonlethal shock gloves for officers. Democrats still are not pleased",
+          "deck": "Democrats have erupted over the Trump administration’s plans to outfit U.",
+          "link": "https://www.washingtonexaminer.com/policy/immigration/4688063/ice-bought-nonlethal-shock-gloves-officers-democrats-still-are-not-pleased/",
+          "pub": 1786874400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "1 Cash-Producing Stock Worth Your Attention and 2 We Avoid",
+      "pub": 1786874220000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "1 Cash-Producing Stock Worth Your Attention and 2 We Avoid",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-worth-095700373.html",
+          "pub": 1786874220000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump Pushes Senate on Daylight Savings: How Timeline for Change Looks",
+      "pub": 1786873795000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Pushes Senate on Daylight Savings: How Timeline for Change Looks",
+          "deck": "Trump is urging the Senate to end clock changes as lawmakers face a race to pass permanent daylight saving time before November 1.",
+          "link": "https://www.newsweek.com/trump-pushes-senate-on-daylight-savings-how-timeline-for-change-looks-12328515",
+          "pub": 1786873795000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
     {
       "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
       "pub": 1786873545000,
@@ -16,24 +547,6 @@
           "pub": 1786873545000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
-      "pub": 1786873022000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
-          "pub": 1786873022000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -75,17 +588,17 @@
       ]
     },
     {
-      "title": "AMAT Q2 Deep Dive: AI Demand and Advanced Packaging Drive Guidance Upside, Market Reacts Cautiously",
-      "pub": 1786872780000,
+      "title": "Zelensky says three killed, 20 injured in Russian strikes on Ukraine",
+      "pub": 1786872805000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "AMAT Q2 Deep Dive: AI Demand and Advanced Packaging Drive Guidance Upside, Market Reacts Cautiously",
+          "title": "Zelensky says three killed, 20 injured in Russian strikes on Ukraine",
           "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amat-q2-deep-dive-ai-093300961.html",
-          "pub": 1786872780000,
+          "link": "https://www.yahoo.com/news/world/articles/zelensky-says-three-killed-20-093325302.html",
+          "pub": 1786872805000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -96,7 +609,7 @@
       "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
       "pub": 1786872670000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -111,52 +624,16 @@
       ]
     },
     {
-      "title": "I cared for my mom with dementia for years — now my brother says I misused her money and don't deserve my inheritance",
+      "title": "Why there are no morning newspapers on August 16",
       "pub": 1786872600000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "I cared for my mom with dementia for years — now my brother says I misused her money and don't deserve my inheritance",
+          "title": "Why there are no morning newspapers on August 16",
           "deck": "",
-          "link": "https://finance.yahoo.com/healthcare/articles/cared-mom-dementia-years-now-093000165.html",
-          "pub": 1786872600000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
-      "pub": 1786872600000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
-          "deck": "",
-          "link": "https://www.aol.com/finance/social-security-bump-3-million-093000866.html",
-          "pub": 1786872600000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "I cared for my mother with Alzheimer’s until her death — now my brother says I misused her money and deserve no inheritance. What can I do?",
-      "pub": 1786872600000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "I cared for my mother with Alzheimer’s until her death — now my brother says I misused her money and deserve no inheritance. What can I do?",
-          "deck": "",
-          "link": "https://www.aol.com/finance/cared-mother-alzheimer-until-her-093000807.html",
+          "link": "https://sports.yahoo.com/articles/why-no-morning-newspapers-august-093000029.html",
           "pub": 1786872600000,
           "src": "YAH",
           "srcFull": "Yahoo News",
@@ -240,7 +717,7 @@
       "title": "Oldspeak, newspeak, nospeak",
       "pub": 1786871100000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -269,33 +746,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "pub": 1786871058000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
-      "versions": [
-        {
-          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/three-killed-russia-launches-fresh-081742309.html",
-          "pub": 1786871058000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-          "deck": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "pub": 1786871054000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -357,7 +807,7 @@
       "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
       "pub": 1786870915000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -393,7 +843,7 @@
       "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
       "pub": 1786870904000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -408,19 +858,19 @@
       ]
     },
     {
-      "title": "Ancient Roman shipwreck with hundreds of amphorae found off Sicily",
-      "pub": 1786870888000,
+      "title": "He Was a MAGA Patriot. ICE Took His Wife Away.",
+      "pub": 1786870860000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Ancient Roman shipwreck with hundreds of amphorae found off Sicily",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/roman-shipwreck-hundreds-amphorae-found-091200472.html",
-          "pub": 1786870888000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
+          "title": "He Was a MAGA Patriot. ICE Took His Wife Away.",
+          "deck": "The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.",
+          "link": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+          "pub": 1786870860000,
+          "src": "NYT",
+          "srcFull": "New York Times",
           "lean": "ll"
         }
       ]
@@ -480,6 +930,24 @@
       ]
     },
     {
+      "title": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
+      "pub": 1786870827000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
+          "deck": "A woman who secured the criminal file of her grandmother, a collaborator, offered to share it with a Jewish family that had been betrayed.",
+          "link": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
+          "pub": 1786870827000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
       "pub": 1786870813000,
       "lean": "ll",
@@ -501,7 +969,7 @@
       "title": "Trump’s Other Hold on the Americas: The Visa",
       "pub": 1786870811000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -552,24 +1020,6 @@
       ]
     },
     {
-      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-      "pub": 1786870800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-          "deck": "This fall, we're asking seniors to send us their stories in audio form.",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
-          "pub": 1786870800000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
       "pub": 1786870800000,
       "lean": "ll",
@@ -580,6 +1030,24 @@
           "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
           "deck": "Sunflower sea stars are critically endangered in the Pacific Ocean.",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+          "pub": 1786870800000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+      "pub": 1786870800000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+          "deck": "This fall, we're asking seniors to send us their stories in audio form.",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
           "pub": 1786870800000,
           "src": "NPR",
           "srcFull": "NPR",
@@ -699,31 +1167,13 @@
       "title": "We can’t live beyond our means forever",
       "pub": 1786870800000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
           "title": "We can’t live beyond our means forever",
           "deck": "The federal government posted a $432.",
           "link": "https://www.washingtonexaminer.com/opinion/editorials/4687324/us-cannot-live-beyond-means-forever/",
-          "pub": 1786870800000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "DOJ lets Texas gun ruling take effect, leaving Second Amendment activists hopeful and anxious",
-      "pub": 1786870800000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "DOJ lets Texas gun ruling take effect, leaving Second Amendment activists hopeful and anxious",
-          "deck": "The Trump administration’s decision to let a Texas gun ruling take effect without an emergency appeal opened a limited path for people covered by the order to acquire suppressors and certain other firearms without the burdensome requirements of going through the National Firearms Act’s registration and the Bureau of Alcohol, Tobacco, Firearms and Explosives preapproval […]",
-          "link": "https://www.washingtonexaminer.com/news/justice/4688345/doj-texas-gun-ruling-take-effect/",
           "pub": 1786870800000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -764,24 +1214,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Wildfire in Belgium spreads towards Germany",
-      "pub": 1786870097000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wildfire in Belgium spreads towards Germany",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/wildfire-belgium-spreads-towards-germany-084817557.html",
-          "pub": 1786870097000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -907,24 +1339,6 @@
           "pub": 1786866992000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ukrainian drones strike Moscow region, killing one",
-      "pub": 1786866770000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukrainian drones strike Moscow region, killing one",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/ukrainian-drones-strike-moscow-region-075250810.html",
-          "pub": 1786866770000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1326,6 +1740,24 @@
       ]
     },
     {
+      "title": "Strong favourites or tougher task - will Arsenal defend their title?",
+      "pub": 1786857647000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Strong favourites or tougher task - will Arsenal defend their title?",
+          "deck": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss",
+          "pub": 1786857647000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Hateful lunatic who attacked NYC synagogue allegedly told cops Jewish congregants were ‘swine’ as he’s held on bail",
       "pub": 1786857550000,
       "lean": "lr",
@@ -1401,7 +1833,7 @@
       "title": "Europe Is Not Ready for American Weed",
       "pub": 1786856406000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1545,7 +1977,7 @@
       "title": "After Women in India Joined Protests, Online Harassment Followed",
       "pub": 1786852883000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -1650,24 +2082,6 @@
       ]
     },
     {
-      "title": "Florida middle school teacher admits to years of ‘inappropriate’ conversations with former student",
-      "pub": 1786852164000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Florida middle school teacher admits to years of ‘inappropriate’ conversations with former student",
-          "deck": "Schneider had been sending inappropriate messages to a former teenage student at Franklin Middle School, according to the sheriff's office.",
-          "link": "https://nypost.com/2026/08/15/us-news/florida-teacher-christian-schneider-admits-to-years-of-inappropriate-conversations-with-student-deputies/",
-          "pub": 1786852164000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Mackenzie Dern Wins, But Joe Rogan Says She Made A Mistake At The End Of The Fight",
       "pub": 1786852014000,
       "lean": "ct",
@@ -1682,24 +2096,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
-      "pub": 1786851385000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
-          "deck": "Juan Felipe Giraldo, 24, who was set to marry the mother of his child, Natalia Patiño, on Aug.",
-          "link": "https://nypost.com/2026/08/15/world-news/groom-to-be-24-found-dead-underneath-collapsed-hotel-rubble-after-devastating-7-4-magnitude-earthquake-struck-colombia-2-days-before-his-wedding/",
-          "pub": 1786851385000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1735,24 +2131,6 @@
           "pub": 1786850400000,
           "src": "ZH",
           "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Johnson launches website to teach young voters about socialism and communism ahead of midterm elections",
-      "pub": 1786849617000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Johnson launches website to teach young voters about socialism and communism ahead of midterm elections",
-          "deck": "Speaker of the House Mike Johnson (R-LA) touted a new campaign website on Saturday meant to highlight the ascension of socialism in the Democratic Party as he embarks on a nationwide campaign tour ahead of the 2026 midterm elections.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688861/mike-johnson-contrast-for-america-tour-midterm-elections/",
-          "pub": 1786849617000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
           "lean": "lr"
         }
       ]
@@ -2505,24 +2883,6 @@
       ]
     },
     {
-      "title": "UAE says Iran attacked vessel in Strait of Hormuz for third time this week",
-      "pub": 1786838082000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "UAE says Iran attacked vessel in Strait of Hormuz for third time this week",
-          "deck": "The United Arab Emirates said on Saturday that Iran attacked a state-owned oil vessel transiting the Strait of Hormuz for the third time this week.",
-          "link": "https://www.washingtonexaminer.com/news/world/4688854/uae-iran-attacked-vessel-strait-of-hormuz/",
-          "pub": 1786838082000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Michael Goodwin: ‘Woke’ might be wounded — but the radical left is still infiltrating our politics",
       "pub": 1786837826000,
       "lean": "lr",
@@ -2613,14 +2973,14 @@
       ]
     },
     {
-      "title": "Feeling nervous about university? Current students offer some advice to freshers",
+      "title": "Feeling nervous about university? Current students offer advice to freshers",
       "pub": 1786837515000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Feeling nervous about university? Current students offer some advice to freshers",
+          "title": "Feeling nervous about university? Current students offer advice to freshers",
           "deck": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
           "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
           "pub": 1786837515000,
@@ -2937,42 +3297,6 @@
       ]
     },
     {
-      "title": "Giants' Odell Beckham Jr. Makes His Return to MetLife Stadium",
-      "pub": 1786833142000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Giants' Odell Beckham Jr. Makes His Return to MetLife Stadium",
-          "deck": "New York Giants' Odell Beckham Jr.",
-          "link": "https://www.newsweek.com/sports/nfl/giants-odell-beckham-jr-makes-his-return-to-metlife-stadium-12328159",
-          "pub": 1786833142000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ex-Senator Kyrsten Sinema Details Affair With Bodyguard",
-      "pub": 1786833092000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ex-Senator Kyrsten Sinema Details Affair With Bodyguard",
-          "deck": "The case stems from a lawsuit filed by Heather Ammel, accusing Sinema of helping break up her 14-year marriage to Matthew Ammel.",
-          "link": "https://www.newsweek.com/ex-senator-kyrsten-sinema-details-affair-with-bodyguard-12327831",
-          "pub": 1786833092000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "8/15: CBS Weekend News",
       "pub": 1786833000000,
       "lean": "ll",
@@ -3023,42 +3347,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Democrats’ intraparty fight over whether to ‘abolish’ or ‘reform’ ICE at DNC meeting",
-      "pub": 1786832515000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democrats’ intraparty fight over whether to ‘abolish’ or ‘reform’ ICE at DNC meeting",
-          "deck": "Democrats offered conflicting messages about the party’s position on Immigration and Customs Enforcement on Saturday, as a proposal calling for “concrete reforms” to the agency and another calling for its abolition both passed at a Democratic National Committee summer meeting.",
-          "link": "https://www.washingtonexaminer.com/policy/immigration/4688803/democrats-fight-whether-abolish-reform-ice-dnc-meeting/",
-          "pub": 1786832515000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Panthers' Newest Additions Made an Impact in Preseason Debut",
-      "pub": 1786832390000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Panthers' Newest Additions Made an Impact in Preseason Debut",
-          "deck": "Meet the newest Panthers players who took the field in the preseason.",
-          "link": "https://www.newsweek.com/sports/nfl/panthers-newest-additions-made-an-impact-in-preseason-debut-12328160",
-          "pub": 1786832390000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -3531,24 +3819,6 @@
       ]
     },
     {
-      "title": "Ro Khanna vows to bring investigations if Democrats win 2026 elections amid 2028 rumors",
-      "pub": 1786826592000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ro Khanna vows to bring investigations if Democrats win 2026 elections amid 2028 rumors",
-          "deck": "Rep. Ro Khanna (D-CA), a potential 2028 presidential candidate, called on Democrats to investigate bank officials from the 2008 financial crisis, leaders who started the war in Iraq, and other “powerful” Americans if Democrats take back the House as a result of the 2026 midterm elections. “The bankers who caused the great financial crash in […]",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688800/ro-khanna-vows-investigations-democrats-win/",
-          "pub": 1786826592000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
       "pub": 1786826309000,
       "lean": "ll",
@@ -3563,24 +3833,6 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Tiana Lowe Doescher says progressive Democrats are out of touch with everyday Americans: ‘So divorced’",
-      "pub": 1786825760000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tiana Lowe Doescher says progressive Democrats are out of touch with everyday Americans: ‘So divorced’",
-          "deck": "Washington Examiner economics columnist Tiana Lowe Doescher slammed Democratic socialists’ progressive agenda, arguing that it’s ‘so divorced’ from what everyday Americans actually want.",
-          "link": "https://www.washingtonexaminer.com/news/crime/4688709/tiana-lowe-doescher-progressive-democrats-out-of-touch-with-everyday-americans/",
-          "pub": 1786825760000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3675,24 +3927,6 @@
       ]
     },
     {
-      "title": "Judge refuses to halt Trump plan to build border wall along tribal lands",
-      "pub": 1786824813000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Judge refuses to halt Trump plan to build border wall along tribal lands",
-          "deck": "A federal judge for the District Court of the District of Columbia sided with the Trump administration by shutting down a request from a Native American tribal nation to block the southern border wall from spanning across their territory.",
-          "link": "https://www.washingtonexaminer.com/policy/immigration/4688764/judge-refuses-to-halt-trump-border-wall-along-tribal-lands/",
-          "pub": 1786824813000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Acting Navy secretary salutes USS Abraham Lincoln crew following mental health crisis reports — claims aircraft will ‘return home soon’",
       "pub": 1786824486000,
       "lean": "lr",
@@ -3779,24 +4013,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "At least 47 dead as a 7.7-magnitude earthquake strikes Indonesia",
-      "pub": 1786823993000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "At least 47 dead as a 7.7-magnitude earthquake strikes Indonesia",
-          "deck": "At least 47 people were killed and dozens were injured in eastern Indonesia after a 7.",
-          "link": "https://www.washingtonexaminer.com/news/world/4688793/at-least-47-dead-earthquake-strikes-indonesia/",
-          "pub": 1786823993000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3966,7 +4182,7 @@
       "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
       "pub": 1786822580000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4380,7 +4596,7 @@
       "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
       "pub": 1786817749000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4398,7 +4614,7 @@
       "title": "Kalshi accuses Nevada investigators of violating federal law in geofencing complaint",
       "pub": 1786817668000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
@@ -4470,7 +4686,7 @@
       "title": "Here is our way forward on immigration",
       "pub": 1786816800000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -4596,7 +4812,7 @@
       "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
       "pub": 1786815100000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -4722,7 +4938,7 @@
       "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
       "pub": 1786813483000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "World",
       "single": false,
       "versions": [
         {
@@ -4749,7 +4965,7 @@
       "title": "Why Americans now hate each other more than ever",
       "pub": 1786813200000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -5227,222 +5443,6 @@
           "pub": 1786808404000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Gold Tax Surprise: When Gold Profits Get Taxed At 28 Percent",
-      "pub": 1786808400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Gold Tax Surprise: When Gold Profits Get Taxed At 28 Percent",
-          "deck": "The Gold Tax Surprise: When Gold Profits Get Taxed At 28 Percent Authored by Adam H.",
-          "link": "https://www.zerohedge.com/personal-finance/gold-tax-surprise-when-gold-profits-get-taxed-28-percent",
-          "pub": 1786808400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Neurosurgery Awareness Month: Who Actually Makes Neurosurgery Happen?",
-      "pub": 1786808286000,
-      "lean": "ct",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "Neurosurgery Awareness Month: Who Actually Makes Neurosurgery Happen?",
-          "deck": "August is Neurosurgery Awareness Month.",
-          "link": "https://www.forbes.com/sites/richardmenger/2026/08/15/neurosurgery-awareness-month-who-actually-makes-neurosurgery-happen/",
-          "pub": 1786808286000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Paintings worth $10 million that were stolen in 3-minute heist are recovered",
-      "pub": 1786807711000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Paintings worth $10 million that were stolen in 3-minute heist are recovered",
-          "deck": "The recovered works are valued at more than $10 million.",
-          "link": "https://www.cbsnews.com/news/renior-cezanne-matisse-paintings-italy-parma-recovered/",
-          "pub": 1786807711000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "pub": 1786807708000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-          "deck": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
-          "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
-          "pub": 1786807708000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Republicans worry their chances of keeping Congress are slipping away. Inside the Trump campaign plan to change that",
-      "pub": 1786807626000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Republicans worry their chances of keeping Congress are slipping away. Inside the Trump campaign plan to change that",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/republicans-worry-chances-keeping-congress-100029610.html",
-          "pub": 1786807626000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-      "pub": 1786807562000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-          "deck": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.",
-          "link": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
-          "pub": 1786807562000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Stolen Cézanne, Renoir, Matisse masterpieces worth $10M recovered in Italy",
-      "pub": 1786807473000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Stolen Cézanne, Renoir, Matisse masterpieces worth $10M recovered in Italy",
-          "deck": "Five accused thieves are under arrest after police say they took $10 million worth of art from a private museum in an Italian villa.",
-          "link": "https://www.cbsnews.com/video/stolen-czanne-renoir-matisse-masterpieces-worth-10m-recovered-in-italy/",
-          "pub": 1786807473000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ben Shapiro says Rubio’s potential 2028 White House bid against Vance could backfire",
-      "pub": 1786807370000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ben Shapiro says Rubio’s potential 2028 White House bid against Vance could backfire",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/ben-shapiro-says-rubio-potential-152250734.html",
-          "pub": 1786807370000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "He Tried to Kill My Father. Now He Wants to Rewrite History.",
-      "pub": 1786807224000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "He Tried to Kill My Father. Now He Wants to Rewrite History.",
-          "deck": "This is not what contrition looks like.",
-          "link": "https://www.nytimes.com/2026/08/15/opinion/ronald-reagan-john-hinckley-jr.html",
-          "pub": 1786807224000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Justice Department expands military's power to detain migrants near border",
-      "pub": 1786806849000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justice Department expands military's power to detain migrants near border",
-          "deck": "The Justice Department issued a legal opinion giving the U.",
-          "link": "https://www.cbsnews.com/news/justice-department-opinion-military-migrants-trespassing/",
-          "pub": 1786806849000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How to beat an earthquake: The Colombian city where no one died",
-      "pub": 1786806780000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "How to beat an earthquake: The Colombian city where no one died",
-          "deck": "A deadly temblor devastated Armenia in 1999, spurring a reconstruction that allowed the city to build back stronger.",
-          "link": "https://www.washingtonpost.com/world/2026/08/15/how-beat-an-earthquake-colombian-city-where-no-one-died/",
-          "pub": 1786806780000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Alaska candidate for US Senate rejects Kamala Harris’s unsolicited support",
-      "pub": 1786806474000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Alaska candidate for US Senate rejects Kamala Harris’s unsolicited support",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/alaska-candidate-us-senate-seat-150754257.html",
-          "pub": 1786806474000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
