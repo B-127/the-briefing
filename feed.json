@@ -1,13 +1,490 @@
 {
-  "generated": "2026-08-19T06:32:03.774Z",
+  "generated": "2026-08-19T07:32:36.866Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "Democrats Declare Victory In Pennsylvania Seat Held By Republicans Since 1999",
+      "pub": 1787124658000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democrats Declare Victory In Pennsylvania Seat Held By Republicans Since 1999",
+          "deck": "Democrat Brandon Dukes is leading Republican Scott Timko in a special election in the Pennsylvania state House's 12th District.",
+          "link": "https://www.newsweek.com/democrats-declare-victory-pennsylvania-seat-held-republicans-since-1999-brandon-dukes-12340582",
+          "pub": 1787124658000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Case For Britain Backing Its North Sea Oil & Gas Industry",
+      "pub": 1787124600000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Case For Britain Backing Its North Sea Oil & Gas Industry",
+          "deck": "The Case For Britain Backing Its North Sea Oil & Gas Industry Authored by David Whitehouse, chief executive of Offshore Energies UK, via City AM, Jackdaw and Rosebank could strengthen UK energy security by increasing domestic oil and gas production while demand remains substantial.",
+          "link": "https://www.zerohedge.com/energy/case-britain-backing-its-north-sea-oil-gas-industry",
+          "pub": 1787124600000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "pub": 1787124138000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": false,
+      "versions": [
+        {
+          "title": "Chinese robotics giant Unitree soars in stock market debut",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-robotics-giant-unitree-soars-014952830.html",
+          "pub": 1787124138000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Chinese robotics giant Unitree soars in stock market debut",
+          "deck": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787123970000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+      "pub": 1787124010000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+          "deck": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
+          "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+          "pub": 1787124010000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+      "pub": 1787123725000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/humanoid-maker-unitree-surges-more-071525970.html",
+          "pub": 1787123725000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Cuts Back Military Drills With South Korea, as Trump Woos Kim Jong-un",
+      "pub": 1787123713000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "U.S. Cuts Back Military Drills With South Korea, as Trump Woos Kim Jong-un",
+          "deck": "President Trump had ordered the Defense Department to reduce joint exercises with the key U.",
+          "link": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
+          "pub": 1787123713000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "pub": 1787123690000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "deck": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787123690000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots",
+      "pub": 1787123583000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html",
+          "pub": 1787123583000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Is St. Joe (JOE) Expensive Or Undervalued On Its Mixed Valuation Signals?",
+      "pub": 1787123568000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Is St. Joe (JOE) Expensive Or Undervalued On Its Mixed Valuation Signals?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/st-joe-joe-expensive-undervalued-071248506.html",
+          "pub": 1787123568000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "UPS (UPS) Stock Still Trades At A Discount As Shares Fell 33% In Five Years",
+      "pub": 1787123562000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "UPS (UPS) Stock Still Trades At A Discount As Shares Fell 33% In Five Years",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ups-ups-stock-still-trades-071242063.html",
+          "pub": 1787123562000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "pub": 1787123397000,
+      "lean": "ct",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+          "deck": "The cost of things is now rising at a faster pace compared with last month.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787123397000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
+      "pub": 1787123311000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
+          "deck": "Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying ‘important work’ remained.",
+          "link": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+          "pub": 1787123311000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+      "pub": 1787123299000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+          "deck": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+          "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+          "pub": 1787123299000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jason Kelce Stars in Anti-Data Center Advert: 'We Want Your Pee'",
+      "pub": 1787123185000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jason Kelce Stars in Anti-Data Center Advert: 'We Want Your Pee'",
+          "deck": "Jason Kelce features in a satirical advert asking Americans to send their urine to help cool water-hungry AI data centers.",
+          "link": "https://www.newsweek.com/jason-kelce-stars-in-anti-data-center-advert-garage-beer-liquid-death-12340581",
+          "pub": 1787123185000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "pub": 1787123169000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+          "deck": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
+          "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+          "pub": 1787123169000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Frozen dog food recalled over salmonella contamination that led to multiple pet illnesses",
+      "pub": 1787122826000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Frozen dog food recalled over salmonella contamination that led to multiple pet illnesses",
+          "deck": "Oma's Pride recalled more than 600 bags of frozen dog food distributed to 11 states after a Food and Drug Administration inspection revealed salmonella contamination.",
+          "link": "https://www.foxbusiness.com/economy/frozen-dog-food-recalled-over-salmonella-contamination-led-multiple-pet-illnesses",
+          "pub": 1787122826000,
+          "src": "FoxB",
+          "srcFull": "Fox Business",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Open Thread",
+      "pub": 1787122800000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Open Thread",
+          "deck": "What’s on your mind?",
+          "link": "https://reason.com/volokh/2026/08/19/open-thread-301/",
+          "pub": 1787122800000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Not Losing the Iran War | Interview: Hal Brands",
+      "pub": 1787122800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Not Losing the Iran War | Interview: Hal Brands",
+          "deck": "Blockades, nuclear breakout, and avoiding the L.",
+          "link": "https://thedispatch.com/podcast/remnant/not-losing-the-iran-war-interview-hal-brands/",
+          "pub": 1787122800000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dear Abby: I’m being harrassed about an explicit video that I’m pretty sure I didn’t star in",
+      "pub": 1787122800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dear Abby: I’m being harrassed about an explicit video that I’m pretty sure I didn’t star in",
+          "deck": "Dear Abby advises someone who has been harassed about a video she doesn't know about, and someone who wants to bring on extra help for their mom so they can travel, before it is too late, but their mother refuses.",
+          "link": "https://nypost.com/2026/08/19/lifestyle/dear-abby-im-being-harrassed-about-an-explicit-video-that-im-pretty-sure-i-didnt-star-in/",
+          "pub": 1787122800000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+      "pub": 1787122671000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+          "deck": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday.",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+          "pub": 1787122671000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "pub": 1787122557000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+          "deck": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
+          "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+          "pub": 1787122557000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran denies missile attack on UAE",
+      "pub": 1787122107000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran denies missile attack on UAE",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/iran-denies-missile-attack-uae-064827086.html",
+          "pub": 1787122107000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jump in energy bills drives inflation to 2.9% - the highest rate for four months",
+      "pub": 1787121926000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jump in energy bills drives inflation to 2.9% - the highest rate for four months",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/uk-inflation-rate-rises-2-060931194.html",
+          "pub": 1787121926000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Germany Opens New Drone Security Center Amid Fears Of Russian Hybrid Warfare",
+      "pub": 1787121900000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Germany Opens New Drone Security Center Amid Fears Of Russian Hybrid Warfare",
+          "deck": "Germany Opens New Drone Security Center Amid Fears Of Russian Hybrid Warfare European officials have for years been warning about what they allege is heightened Russian hybrid and sabotage warfare targeting Europe and its airspace in connection with the long-running Ukraine war.",
+          "link": "https://www.zerohedge.com/geopolitical/germany-opens-new-drone-security-center-amid-fears-russian-hybrid-warfare",
+          "pub": 1787121900000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Surging UK energy prices push inflation to highest level since March",
+      "pub": 1787121211000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Surging UK energy prices push inflation to highest level since March",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/surging-uk-energy-prices-push-063331471.html",
+          "pub": 1787121211000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Kenya triples its power target, aiming to expand use of nuclear and geothermal energy",
+      "pub": 1787121149000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kenya triples its power target, aiming to expand use of nuclear and geothermal energy",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/kenya-triples-power-target-aiming-063229454.html",
+          "pub": 1787121149000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
     {
       "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
       "pub": 1787121017000,
       "lean": "ll",
       "cat": "World",
-      "single": true,
+      "single": false,
       "versions": [
         {
           "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
@@ -17,24 +494,15 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "UK inflation rises to 2.9%",
-      "pub": 1787120638000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
+        },
         {
-          "title": "UK inflation rises to 2.9%",
-          "deck": "The cost of things is now rising at a faster pace compared with last month.",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787120638000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
+          "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/ukraines-fired-defense-minister-calls-063017285.html",
+          "pub": 1787121017000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -53,96 +521,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Her childhood photo. Thousands of explicit images. One woman’s nightmare.",
-      "pub": 1787120285000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Her childhood photo. Thousands of explicit images. One woman’s nightmare.",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/her-childhood-photo-thousands-of-explicit-images-one-womans-nightmare-163429621.html",
-          "pub": 1787120285000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Puzzle solutions for Wednesday, Aug. 19, 2026",
-      "pub": 1787120182000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Puzzle solutions for Wednesday, Aug. 19, 2026",
-          "deck": "",
-          "link": "https://tech.yahoo.com/puzzles/wordle/articles/puzzle-solutions-wednesday-aug-19-061622003.html",
-          "pub": 1787120182000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ripple’s Brokerage Arm Raises $275 Million: Why Doesn’t XRP Care?",
-      "pub": 1787120159000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ripple’s Brokerage Arm Raises $275 Million: Why Doesn’t XRP Care?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-brokerage-arm-raises-275-061559826.html",
-          "pub": 1787120159000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Why Oncolytics Biotech Just Cleared A Hurdle That Stalls Most Cancer Trials",
-      "pub": 1787120158000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Oncolytics Biotech Just Cleared A Hurdle That Stalls Most Cancer Trials",
-          "deck": "",
-          "link": "https://finance.yahoo.com/healthcare/articles/why-oncolytics-biotech-just-cleared-061558518.html",
-          "pub": 1787120158000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "UK inflation picks up after July surge in household energy bills",
-      "pub": 1787120149000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "UK inflation picks up after July surge in household energy bills",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/articles/uk-inflation-picks-2-9-060406826.html",
-          "pub": 1787120149000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -305,24 +683,6 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Australia braces for bushfires in almost every state as El Niño strengthens",
-      "pub": 1787118683000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Australia braces for bushfires in almost every state as El Niño strengthens",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/australia-braces-bushfires-almost-every-055123338.html",
-          "pub": 1787118683000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -616,11 +976,20 @@
     },
     {
       "title": "Minimum wage comments are 'madness', says business",
-      "pub": 1787116387000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
+      "pub": 1787116393000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": false,
       "versions": [
+        {
+          "title": "Minimum wage comments are 'madness', says business",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/minimum-wage-comments-madness-says-051313345.html",
+          "pub": 1787116393000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
         {
           "title": "Minimum wage comments are 'madness', says business",
           "deck": "Businesses, charities and politicans have reacted to criticism of the minimum wage by a minister.",
@@ -741,6 +1110,24 @@
       ]
     },
     {
+      "title": "Thai teen found in suitcase died from suffocation, police reveal",
+      "pub": 1787115867000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thai teen found in suitcase died from suffocation, police reveal",
+          "deck": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
+          "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787115867000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Families' agonising search for answers as thousands still missing in Gaza",
       "pub": 1787115840000,
       "lean": "ct",
@@ -755,24 +1142,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Fractured opposition battles Nigeria's Tinubu as presidential campaigns begin",
-      "pub": 1787115746000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fractured opposition battles Nigeria's Tinubu as presidential campaigns begin",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/fractured-opposition-battles-nigerias-tinubu-050226072.html",
-          "pub": 1787115746000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -1011,51 +1380,6 @@
       ]
     },
     {
-      "title": "Pentagon Scales Back Major Training Exercises With South Korea",
-      "pub": 1787114937000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pentagon Scales Back Major Training Exercises With South Korea",
-          "deck": "The move to end the military training a week earlier than scheduled comes after President Trump ordered the Defense Department to reduce joint military exercises with the key U.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
-          "pub": 1787114937000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "pub": 1787114856000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
-      "versions": [
-        {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/sacked-ukrainian-defence-minister-calls-013120557.html",
-          "pub": 1787114856000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "deck": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787114681000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Conor McGregor's Next Move After UFC Almost Guaranteed",
       "pub": 1787114089000,
       "lean": "ct",
@@ -1092,17 +1416,17 @@
       ]
     },
     {
-      "title": "Months-old video of Philippine storm surge misrepresented as tsunami waves in Indonesia",
-      "pub": 1787113316000,
+      "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit",
+      "pub": 1787113480000,
       "lean": "ll",
-      "cat": "World",
+      "cat": "Science",
       "single": true,
       "versions": [
         {
-          "title": "Months-old video of Philippine storm surge misrepresented as tsunami waves in Indonesia",
+          "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit",
           "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/months-old-video-philippine-storm-042156182.html",
-          "pub": 1787113316000,
+          "link": "https://www.yahoo.com/news/science/articles/watch-spacex-launch-100th-mission-160000006.html",
+          "pub": 1787113480000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -1220,6 +1544,24 @@
     {
       "title": "ICE Admits It Investigated a Critic Based on Constitutionally Protected Speech",
       "pub": 1787112107000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "ICE Admits It Investigated a Critic Based on Constitutionally Protected Speech",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/ice-admits-investigated-critic-based-040147733.html",
+          "pub": 1787112107000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "ICE Admits It Investigated a Critic Based on Constitutionally Protected Speech",
+      "pub": 1787112107000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
@@ -1254,60 +1596,6 @@
       ]
     },
     {
-      "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
-      "pub": 1787112089000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/iran-latest-warning-us-signals-040129736.html",
-          "pub": 1787112089000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Taiwan is using Frankenstein-style tanks made with old Patton designs to guard the gateway to its capital",
-      "pub": 1787112061000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Taiwan is using Frankenstein-style tanks made with old Patton designs to guard the gateway to its capital",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/taiwan-using-frankenstein-style-tanks-040101815.html",
-          "pub": 1787112061000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
-      "pub": 1787112028000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
-          "deck": "Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying ‘important work’ remained.",
-          "link": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-          "pub": 1787112028000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "In a Faltering Chinese Economy, Working-Class Stories Strike a Chord",
       "pub": 1787112008000,
       "lean": "ll",
@@ -1326,15 +1614,15 @@
       ]
     },
     {
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "pub": 1787111795000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-          "deck": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+          "deck": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
           "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
           "pub": 1787111795000,
           "src": "BBC",
@@ -1434,14 +1722,14 @@
       ]
     },
     {
-      "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
       "pub": 1787110936000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+          "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
           "deck": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
           "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
           "pub": 1787110936000,
@@ -1623,14 +1911,14 @@
       ]
     },
     {
-      "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+      "title": "ZZ Top Drummer Frank Beard Dies at 77",
       "pub": 1787110433000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+          "title": "ZZ Top Drummer Frank Beard Dies at 77",
           "deck": "The only member of the Texas power trio without a beard, he propelled the band’s blend of boogie, Southern rock and blues for more than a half-century.",
           "link": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
           "pub": 1787110433000,
@@ -1699,24 +1987,6 @@
           "pub": 1787110100000,
           "src": "NWSN",
           "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Chinese robotics giant Unitree soars in stock market debut",
-      "pub": 1787109987000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chinese robotics giant Unitree soars in stock market debut",
-          "deck": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787109987000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -1975,20 +2245,11 @@
     },
     {
       "title": "Husband and mother-in-law charged over Indian bride's death",
-      "pub": 1787108652000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": false,
+      "pub": 1787108647000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
       "versions": [
-        {
-          "title": "Husband and mother-in-law charged over Indian bride's death",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/husband-mother-law-charged-over-030412290.html",
-          "pub": 1787108652000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Husband and mother-in-law charged over Indian bride's death",
           "deck": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
@@ -2312,24 +2573,6 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Fernando Tatis Jr.’s heroics on both sides of the ball snap Mets’ win streak",
-      "pub": 1787107385000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fernando Tatis Jr.’s heroics on both sides of the ball snap Mets’ win streak",
-          "deck": "Jose Iglesias was at Citi Field, as the Mets hoped to sprinkle some of that 2024 magic into the current team.",
-          "link": "https://nypost.com/2026/08/18/sports/fernando-tatis-jr-s-heroics-too-much-for-mets-in-loss-to-padres/",
-          "pub": 1787107385000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -2910,14 +3153,14 @@
       ]
     },
     {
-      "title": "Darline Graham defends her résumé in South Carolina debate after saying ‘national security is not my thing’",
+      "title": "Darline Graham says ‘national security is not my thing,’ during South Carolina debate",
       "pub": 1787104822000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Darline Graham defends her résumé in South Carolina debate after saying ‘national security is not my thing’",
+          "title": "Darline Graham says ‘national security is not my thing,’ during South Carolina debate",
           "deck": "The appointed senator and her GOP primary opponent, Rep.",
           "link": "https://www.nbcnews.com/politics/2026-election/darline-graham-defends-resume-south-carolina-debate-saying-national-se-rcna593244",
           "pub": 1787104822000,
@@ -3162,24 +3405,6 @@
       ]
     },
     {
-      "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-      "pub": 1787103421000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-          "deck": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
-          "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-          "pub": 1787103421000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Son Of A Boxing Legend Featured In Bare Knuckle Boxing Event",
       "pub": 1787103396000,
       "lean": "ct",
@@ -3369,24 +3594,6 @@
       ]
     },
     {
-      "title": "25-Homer Slugger to Undergo Season-Ending Hip Surgery",
-      "pub": 1787102288000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "25-Homer Slugger to Undergo Season-Ending Hip Surgery",
-          "deck": "Athletics left fielder Tyler Soderstrom will undergo hip surgery, ending his 2026 season prematurely.",
-          "link": "https://www.newsweek.com/sports/mlb/25-homer-slugger-to-undergo-season-ending-hip-surgery-12339892",
-          "pub": 1787102288000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Graham says national security ‘not my thing’ but vows to back Trump’s defense agenda",
       "pub": 1787102274000,
       "lean": "lr",
@@ -3509,24 +3716,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Patriots Bring In 2 Veteran Defenders From AFC Rival for Visits",
-      "pub": 1787101881000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Patriots Bring In 2 Veteran Defenders From AFC Rival for Visits",
-          "deck": "Mike Vrabel's Patriots hosted two veteran defenders for free-agent visits, both of whom last played for the rival Bills.",
-          "link": "https://www.newsweek.com/sports/nfl/patriots-bring-in-2-veteran-defenders-from-afc-rival-for-visits-12339814",
-          "pub": 1787101881000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -4251,24 +4440,6 @@
       ]
     },
     {
-      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "pub": 1787098057000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-          "deck": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787098057000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "GOP Rep. Cory Mills loses his Florida primary amid investigations",
       "pub": 1787098015000,
       "lean": "ll",
@@ -4499,6 +4670,24 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Pro-Israel moderate survives primary challenge by socialist insurgent",
+      "pub": 1787097305000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pro-Israel moderate survives primary challenge by socialist insurgent",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/pro-israel-moderate-survives-primary-235505437.html",
+          "pub": 1787097305000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -4751,24 +4940,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Human remains found miles from Nancy Guthrie’s home have no known link to her disappearance — but officials won’t say why",
-      "pub": 1787095177000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Human remains found miles from Nancy Guthrie’s home have no known link to her disappearance — but officials won’t say why",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/remains-found-miles-nancy-guthrie-202208981.html",
-          "pub": 1787095177000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -5291,177 +5462,6 @@
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "pub": 1787091946000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "ZZ Top drummer Frank Beard dies aged 77",
-          "deck": "A statement on the blues-rock band's website said he died on Monday in hospice",
-          "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787091946000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Why Teens Are Struggling To Find Summer Jobs",
-      "pub": 1787091900000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Teens Are Struggling To Find Summer Jobs",
-          "deck": "Why Teens Are Struggling To Find Summer Jobs Authored by Troy Myers via The Epoch Times, Joslyne Baird has been looking for a job for about a year to help her family pay the bills.",
-          "link": "https://www.zerohedge.com/economics/why-teens-are-struggling-find-summer-jobs",
-          "pub": 1787091900000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Hayden Panettiere was offered up to Hollywood’s crushing machine by the very people who should have protected her",
-      "pub": 1787091884000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hayden Panettiere was offered up to Hollywood’s crushing machine by the very people who should have protected her",
-          "deck": "The showbiz blob — with all its cretins and creatures, and its culture that treats child stars as commodities — is dangerous for impressionable young people.",
-          "link": "https://nypost.com/2026/08/18/opinion/hayden-panettiere-was-offered-up-to-hollywoods-machine/",
-          "pub": 1787091884000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-      "pub": 1787091816000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-          "deck": "CNBC’s Jim Cramer said widespread pessimism over rising rates, oil prices and inflation is pushing stocks lower and creating attractive buying opportunities.",
-          "link": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
-          "pub": 1787091816000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Indian activist jailed after taking on a luxury hotel plan",
-      "pub": 1787091530000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Indian activist jailed after taking on a luxury hotel plan",
-          "deck": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
-          "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787091530000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "From 2024: Tommy John on Tommy John surgery, before and after",
-      "pub": 1787091472000,
-      "lean": "ll",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "From 2024: Tommy John on Tommy John surgery, before and after",
-          "deck": "In this interview from 2024, former pitching ace Tommy John talked with correspondent Faith Salie about the injury to his pitching arm he suffered in 1974, and about the innovative procedure (which came to be known as \"Tommy John surgery\") that rescued his career – and would prolong the careers of many more professional and amateur athletes since.",
-          "link": "https://www.cbsnews.com/video/from-2024-tommy-john-on-tommy-john-surgery-before-and-after/",
-          "pub": 1787091472000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Court Blocks Road Through Izembek National Wildlife Refuge",
-      "pub": 1787091400000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Court Blocks Road Through Izembek National Wildlife Refuge",
-          "deck": "A federal judge ruled that the Trump administration broke the law when it approved a deal to allow a road through the Izembek National Wildlife Refuge.",
-          "link": "https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html",
-          "pub": 1787091400000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "NASA spots new crater on the moon created when a SpaceX rocket crashed",
-      "pub": 1787091326000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": false,
-      "versions": [
-        {
-          "title": "NASA spots new crater on the moon created when a SpaceX rocket crashed",
-          "deck": "A defunct part of a Falcon 9 rocket crashed into the moon uncontrolled this month at an estimated 5,400 mph.",
-          "link": "https://www.nbcnews.com/science/space/nasa-images-moon-crater-spacex-rocket-crash-rcna593224",
-          "pub": 1787091326000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        },
-        {
-          "title": "NASA spots new crater on the moon created when a SpaceX rocket crashed",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/nasa-spots-crater-moon-created-221526438.html",
-          "pub": 1787091326000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Liberia agrees to take over 1,000 third-country deportees from US over next year",
-      "pub": 1787091291000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Liberia agrees to take over 1,000 third-country deportees from US over next year",
-          "deck": "Liberia has agreed to accept up to 1,200 third-country deportees from the United States, authorities in the West African country said Tuesday.",
-          "link": "https://nypost.com/2026/08/18/us-news/liberia-agrees-to-take-over-1k-third-country-deportees-from-us/",
-          "pub": 1787091291000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     }
