@@ -1,16 +1,439 @@
 {
-  "generated": "2026-08-19T07:32:36.866Z",
+  "generated": "2026-08-19T08:28:15.919Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Democrats Declare Victory In Pennsylvania Seat Held By Republicans Since 1999",
+      "title": "Lindsay Clancy's family testify in murder trial",
+      "pub": 1787128006000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lindsay Clancy's family testify in murder trial",
+          "deck": "Clancy's mother, sister and former mother-in-law have testified in court as the trial continues.",
+          "link": "https://www.bbc.co.uk/news/videos/c1l13pegj8no?at_medium=RSS&at_campaign=rss",
+          "pub": 1787128006000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Florida boater sentenced to life in prison for killing drinking buddy, pushing him into water during marina fight",
+      "pub": 1787127943000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Florida boater sentenced to life in prison for killing drinking buddy, pushing him into water during marina fight",
+          "deck": "A Florida boater was sentenced to life in prison for killing his new drinking buddy in a drunken fight that began on his sailboat before spilling out onto the dock and tossing his body into the water.",
+          "link": "https://nypost.com/2026/08/19/us-news/florida-boater-kamala-padlowski-sentenced-to-life-in-prison-for-2024-melvin-jimenez-murder/",
+          "pub": 1787127943000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
+      "pub": 1787127783000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
+          "deck": "The former defense minister, whose firing sparked weeks of protests, said Ukraine needed to find a way to hold elections despite the prolonged war with Russia.",
+          "link": "https://www.cbsnews.com/news/ukraine-election-fedorov-zelensky-war-russia/",
+          "pub": 1787127783000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "World’s largest olive oil company pops 17% as rivals circle in takeover battle",
+      "pub": 1787127742000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "World’s largest olive oil company pops 17% as rivals circle in takeover battle",
+          "deck": "Shares of Spain's Deoleo jumped nearly 16% on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+          "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+          "pub": 1787127742000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Super El Niño To Beat All Others?",
+      "pub": 1787127300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Super El Niño To Beat All Others?",
+          "deck": "The Super El Niño To Beat All Others?",
+          "link": "https://www.zerohedge.com/weather/super-el-nino-beat-all-others",
+          "pub": 1787127300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada",
+      "pub": 1787127076000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
+          "pub": 1787127076000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "pub": 1787126719000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": false,
+      "versions": [
+        {
+          "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/uk-inflation-rises-2-9-061251582.html",
+          "pub": 1787126719000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+          "deck": "The cost of things is now rising at a faster pace compared with last month.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787126715000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Sold! Meybohm, VanderMorgan announce Augusta-area real estate merger",
+      "pub": 1787126704000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sold! Meybohm, VanderMorgan announce Augusta-area real estate merger",
+          "deck": "",
+          "link": "https://finance.yahoo.com/real-estate/articles/sold-meybohm-vandermorgan-announce-augusta-080504177.html",
+          "pub": 1787126704000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Afghan farmers turn their grapes into raisins after border closures slash fruit exports to Pakistan",
+      "pub": 1787126568000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Afghan farmers turn their grapes into raisins after border closures slash fruit exports to Pakistan",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/afghan-farmers-turn-grapes-raisins-080248044.html",
+          "pub": 1787126568000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "OBOOK Details Stablecoin Plan to Accelerate Global Payments at OBOOK Conference",
+      "pub": 1787126517000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "OBOOK Details Stablecoin Plan to Accelerate Global Payments at OBOOK Conference",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/obook-details-stablecoin-plan-accelerate-080157954.html",
+          "pub": 1787126517000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran war: Trump tries economic pressure — again",
+      "pub": 1787126456000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran war: Trump tries economic pressure — again",
+          "deck": "Iran has survived decades of sanctions.",
+          "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+          "pub": 1787126456000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump-backed Republican who kicked Liz Cheney out of Congress seeks higher office in reddest state",
+      "pub": 1787126438000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump-backed Republican who kicked Liz Cheney out of Congress seeks higher office in reddest state",
+          "deck": "Wyoming Republicans chose Rep.",
+          "link": "https://nypost.com/2026/08/19/us-news/trump-backed-rep-harriet-hageman-who-kicked-liz-cheney-out-of-congress-seeks-higher-office-in-reddest-state/",
+          "pub": 1787126438000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Brickbat: Texas Two-Step",
+      "pub": 1787126419000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brickbat: Texas Two-Step",
+          "deck": "Social media messaging app Discord has agreed to a Texas court order requiring it to introduce the same age-verification it already… The post Brickbat: Texas Two-Step appeared first on Reason.",
+          "link": "https://reason.com/2026/08/19/brickbat-texas-two-step-3/",
+          "pub": 1787126419000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Australia mushroom killer Erin Patterson appeals 3 murder convictions after poisoning elderly relatives",
+      "pub": 1787126196000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Australia mushroom killer Erin Patterson appeals 3 murder convictions after poisoning elderly relatives",
+          "deck": "Judges are hearing her appeal relating to a lunch of beef Wellington pastries she prepared at her rural home in July 2023.",
+          "link": "https://nypost.com/2026/08/19/world-news/australia-mushroom-killer-erin-patterson-appeals-3-murder-convictions-after-poisoning-elderly-relatives/",
+          "pub": 1787126196000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
+      "pub": 1787126160000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
+          "deck": "State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm.",
+          "link": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
+          "pub": 1787126160000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Kai Trump recalls ‘a lot of crying’ with mom Vanessa before college amid breast cancer battle",
+      "pub": 1787126081000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kai Trump recalls ‘a lot of crying’ with mom Vanessa before college amid breast cancer battle",
+          "deck": "President Donald Trump’s 19-year-old granddaughter recently began her freshman year at the University of Miami.",
+          "link": "https://nypost.com/2026/08/19/us-news/kai-trump-recalls-a-lot-of-crying-with-mom-vanessa-before-college-amid-breast-cancer-battle/",
+          "pub": 1787126081000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+      "pub": 1787125919000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+          "deck": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there.",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+          "pub": 1787125919000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jump in energy bills drives inflation to 2.9% - the highest rate for four months",
+      "pub": 1787125747000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jump in energy bills drives inflation to 2.9% - the highest rate for four months",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/uk-inflation-rate-rises-2-060931194.html",
+          "pub": 1787125747000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump Administration Moves to Allow Logging in Pristine National Forests",
+      "pub": 1787125551000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Administration Moves to Allow Logging in Pristine National Forests",
+          "deck": "The move to repeal the ‘roadless rule’ would pave the way for road construction and logging in nearly 45 million acres of untouched back country.",
+          "link": "https://www.nytimes.com/2026/08/18/climate/trump-ends-roadless-rule-forests.html",
+          "pub": 1787125551000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rain arrives for some but is another UK heatwave on the way in September?",
+      "pub": 1787125517000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rain arrives for some but is another UK heatwave on the way in September?",
+          "deck": "Some long range forecasts are suggesting autumn could be hotter and drier than average.",
+          "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
+          "pub": 1787125517000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "As Europe bakes, momentum grows for climate-resilient farming",
+      "pub": 1787125453000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "As Europe bakes, momentum grows for climate-resilient farming",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/europe-bakes-momentum-grows-climate-060500704.html",
+          "pub": 1787125453000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Olivia Rodrigo secretly helps pay off University of Alabama student’s college tuition",
+      "pub": 1787125379000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Olivia Rodrigo secretly helps pay off University of Alabama student’s college tuition",
+          "deck": "The “Drivers License” singer’s kind gesture was revealed by student Jamie Causey in a TikTok video Tuesday.",
+          "link": "https://pagesix.com/2026/08/19/celebrity-news/olivia-rodrigo-secretly-helps-pay-off-university-of-alabama-students-college-tuition/",
+          "pub": 1787125379000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "iOS 26.6.1 And iOS 18.7.10—Update Now Warning For All iPhone Users",
+      "pub": 1787124681000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "iOS 26.6.1 And iOS 18.7.10—Update Now Warning For All iPhone Users",
+          "deck": "Apple has issued iOS 26.",
+          "link": "https://www.forbes.com/sites/kateoflahertyuk/2026/08/19/ios-2661-and-ios-18710-update-now-warning-for-all-iphone-users/",
+          "pub": 1787124681000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Democrats Claim Victory In Pennsylvania Seat Held By Republicans Since 1999",
       "pub": 1787124658000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Democrats Declare Victory In Pennsylvania Seat Held By Republicans Since 1999",
+          "title": "Democrats Claim Victory In Pennsylvania Seat Held By Republicans Since 1999",
           "deck": "Democrat Brandon Dukes is leading Republican Scott Timko in a special election in the Pennsylvania state House's 12th District.",
           "link": "https://www.newsweek.com/democrats-declare-victory-pennsylvania-seat-held-republicans-since-1999-brandon-dukes-12340582",
           "pub": 1787124658000,
@@ -39,33 +462,6 @@
       ]
     },
     {
-      "title": "Chinese robotics giant Unitree soars in stock market debut",
-      "pub": 1787124138000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": false,
-      "versions": [
-        {
-          "title": "Chinese robotics giant Unitree soars in stock market debut",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-robotics-giant-unitree-soars-014952830.html",
-          "pub": 1787124138000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Chinese robotics giant Unitree soars in stock market debut",
-          "deck": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787123970000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
       "pub": 1787124010000,
       "lean": "ll",
@@ -84,17 +480,35 @@
       ]
     },
     {
-      "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
-      "pub": 1787123725000,
-      "lean": "ll",
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "pub": 1787123970000,
+      "lean": "ct",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+          "title": "Chinese robotics giant Unitree soars in stock market debut",
+          "deck": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787123970000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI to expand ChatGPT ads to 31 European markets",
+      "pub": 1787123913000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "OpenAI to expand ChatGPT ads to 31 European markets",
           "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/humanoid-maker-unitree-surges-more-071525970.html",
-          "pub": 1787123725000,
+          "link": "https://finance.yahoo.com/media-advertising/articles/openai-expand-chatgpt-ads-31-071833684.html",
+          "pub": 1787123913000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -120,6 +534,24 @@
       ]
     },
     {
+      "title": "Florida Goes To Court And Asserts That OpenAI And Sam Altman Are Legally A Public Nuisance",
+      "pub": 1787123700000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Florida Goes To Court And Asserts That OpenAI And Sam Altman Are Legally A Public Nuisance",
+          "deck": "Florida filed a legal case against OpenAI and Sam Altman that claims their AI is a public nuisance.",
+          "link": "https://www.forbes.com/sites/lanceeliot/2026/08/19/florida-goes-to-court-and-asserts-that-openai-and-sam-altman-are-legally-a-public-nuisance/",
+          "pub": 1787123700000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "pub": 1787123690000,
       "lean": "ct",
@@ -131,78 +563,6 @@
           "deck": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
           "pub": 1787123690000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots",
-      "pub": 1787123583000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html",
-          "pub": 1787123583000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Is St. Joe (JOE) Expensive Or Undervalued On Its Mixed Valuation Signals?",
-      "pub": 1787123568000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is St. Joe (JOE) Expensive Or Undervalued On Its Mixed Valuation Signals?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/st-joe-joe-expensive-undervalued-071248506.html",
-          "pub": 1787123568000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "UPS (UPS) Stock Still Trades At A Discount As Shares Fell 33% In Five Years",
-      "pub": 1787123562000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "UPS (UPS) Stock Still Trades At A Discount As Shares Fell 33% In Five Years",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ups-ups-stock-still-trades-071242063.html",
-          "pub": 1787123562000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "pub": 1787123397000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-          "deck": "The cost of things is now rising at a faster pace compared with last month.",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787123397000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -336,14 +696,14 @@
       ]
     },
     {
-      "title": "Dear Abby: I’m being harrassed about an explicit video that I’m pretty sure I didn’t star in",
+      "title": "Dear Abby: I’m being harassed about an explicit video that I’m pretty sure I didn’t star in",
       "pub": 1787122800000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Dear Abby: I’m being harrassed about an explicit video that I’m pretty sure I didn’t star in",
+          "title": "Dear Abby: I’m being harassed about an explicit video that I’m pretty sure I didn’t star in",
           "deck": "Dear Abby advises someone who has been harassed about a video she doesn't know about, and someone who wants to bring on extra help for their mom so they can travel, before it is too late, but their mother refuses.",
           "link": "https://nypost.com/2026/08/19/lifestyle/dear-abby-im-being-harrassed-about-an-explicit-video-that-im-pretty-sure-i-didnt-star-in/",
           "pub": 1787122800000,
@@ -408,24 +768,6 @@
       ]
     },
     {
-      "title": "Jump in energy bills drives inflation to 2.9% - the highest rate for four months",
-      "pub": 1787121926000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jump in energy bills drives inflation to 2.9% - the highest rate for four months",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/articles/uk-inflation-rate-rises-2-060931194.html",
-          "pub": 1787121926000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Germany Opens New Drone Security Center Amid Fears Of Russian Hybrid Warfare",
       "pub": 1787121900000,
       "lean": "lr",
@@ -480,29 +822,20 @@
       ]
     },
     {
-      "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
-      "pub": 1787121017000,
-      "lean": "ll",
-      "cat": "World",
-      "single": false,
+      "title": "How Carrick's Man Utd are shaping up for Premier League season",
+      "pub": 1787120966000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
       "versions": [
         {
-          "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
-          "deck": "The former defense minister, whose firing sparked weeks of protests, said Ukraine needed to find a way to hold elections despite the prolonged war with Russia.",
-          "link": "https://www.cbsnews.com/news/ukraine-election-fedorov-zelensky-war-russia/",
-          "pub": 1787121017000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        },
-        {
-          "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/ukraines-fired-defense-minister-calls-063017285.html",
-          "pub": 1787121017000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "How Carrick's Man Utd are shaping up for Premier League season",
+          "deck": "As Manchester United prepare to start the new Premier League season at Hull on Saturday, BBC Sport examines how Michael Carrick's team will set up tactically.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cg5l9p58dv6o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787120966000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -557,24 +890,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "As Europe bakes, momentum grows for climate-resilient farming",
-      "pub": 1787119500000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "As Europe bakes, momentum grows for climate-resilient farming",
-          "deck": "",
-          "link": "https://finance.yahoo.com/energy/articles/europe-bakes-momentum-grows-climate-060500704.html",
-          "pub": 1787119500000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -706,7 +1021,7 @@
     },
     {
       "title": "Rosie O’Donnell Rags on Trump’s Strait of Hormuz Claims",
-      "pub": 1787118342000,
+      "pub": 1787118343000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -715,7 +1030,7 @@
           "title": "Rosie O’Donnell Rags on Trump’s Strait of Hormuz Claims",
           "deck": "“I’ll put it this way: If the U.",
           "link": "https://www.nytimes.com/2026/08/19/arts/television/rosie-odonnell-late-night-trump-strait-of-hormuz.html",
-          "pub": 1787118342000,
+          "pub": 1787118343000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -777,24 +1092,6 @@
       ]
     },
     {
-      "title": "Five in Five: Football quiz No 3",
-      "pub": 1787117836000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Five in Five: Football quiz No 3",
-          "deck": "Will you beat the clock by getting all five of today's answers in five minutes?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c74gde30nryo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787117836000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Penn State frat cocaine ring: members drawn by 'fast cash,' ex-dealer says",
       "pub": 1787117795000,
       "lean": "ct",
@@ -809,24 +1106,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
-      "pub": 1787117763000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
-          "deck": "State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm.",
-          "link": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
-          "pub": 1787117763000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -850,7 +1129,7 @@
     },
     {
       "title": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
-      "pub": 1787117415000,
+      "pub": 1787117416000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -859,7 +1138,7 @@
           "title": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
           "deck": "Gas prices are going to remain high.",
           "link": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
-          "pub": 1787117415000,
+          "pub": 1787117416000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -976,23 +1255,14 @@
     },
     {
       "title": "Minimum wage comments are 'madness', says business",
-      "pub": 1787116393000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": false,
+      "pub": 1787116387000,
+      "lean": "ct",
+      "cat": "Business",
+      "single": true,
       "versions": [
         {
           "title": "Minimum wage comments are 'madness', says business",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/minimum-wage-comments-madness-says-051313345.html",
-          "pub": 1787116393000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Minimum wage comments are 'madness', says business",
-          "deck": "Businesses, charities and politicans have reacted to criticism of the minimum wage by a minister.",
+          "deck": "Businesses, charities and politicans react to criticism of the minimum wage by a minister.",
           "link": "https://www.bbc.co.uk/news/articles/cgk45ppm0lyo?at_medium=RSS&at_campaign=rss",
           "pub": 1787116387000,
           "src": "BBC",
@@ -1877,10 +2147,19 @@
     {
       "title": "Wyoming secretary of state wins GOP primary for open House seat",
       "pub": 1787110501000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": false,
       "versions": [
+        {
+          "title": "Wyoming secretary of state wins GOP primary for open House seat",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/wyoming-secretary-state-wins-gop-033501845.html",
+          "pub": 1787110501000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
         {
           "title": "Wyoming secretary of state wins GOP primary for open House seat",
           "deck": "Wyoming Secretary of State Chuck Gray (R) is projected to win the GOP primary for his state’s at-large House seat, according to Decision Decision HQ.",
@@ -2082,24 +2361,6 @@
       ]
     },
     {
-      "title": "Tom Holland poised to make a whopping $100M+ for ‘Spider-Man: Brand New Day’",
-      "pub": 1787109570000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tom Holland poised to make a whopping $100M+ for ‘Spider-Man: Brand New Day’",
-          "deck": "The film has already passed the $2 billion milestone at the worldwide box office.",
-          "link": "https://pagesix.com/2026/08/18/entertainment/tom-hollands-massive-spider-man-brand-new-day-payday-revealed/",
-          "pub": 1787109570000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
       "pub": 1787109537000,
       "lean": "ll",
@@ -2186,24 +2447,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "San Diego’s famous Wonder Bread factory is getting a surprising new second act",
-      "pub": 1787108950000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "San Diego’s famous Wonder Bread factory is getting a surprising new second act",
-          "deck": "A historic former Wonder Bread factory in downtown San Diego is set to get a rocking second act.",
-          "link": "https://nypost.com/2026/08/18/lifestyle/live-nation-to-transform-san-diegos-historic-wonder-bread-factory/",
-          "pub": 1787108950000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -2406,24 +2649,6 @@
       ]
     },
     {
-      "title": "Oldest known Iberian orca found with potential shotgun wounds, sparking investigation from Spain officials",
-      "pub": 1787108051000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Oldest known Iberian orca found with potential shotgun wounds, sparking investigation from Spain officials",
-          "deck": "Toñi, also known as \"La Abuela,\" or \"the grandmother,\" is the oldest known member of the Iberian orca population.",
-          "link": "https://nypost.com/2026/08/18/world-news/oldest-known-iberian-orca-found-with-potential-shotgun-wounds-sparking-investigation-from-officials/",
-          "pub": 1787108051000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Harriet Hageman, Backed by Trump, Wins Wyoming’s Republican Senate Primary",
       "pub": 1787108043000,
       "lean": "ll",
@@ -2465,42 +2690,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Harrowing video shows US Marshals plunge several feet when deck collapses at home of convicted sex offender",
-      "pub": 1787107870000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Harrowing video shows US Marshals plunge several feet when deck collapses at home of convicted sex offender",
-          "deck": "Five deputies were hospitalized with broken bones, torn muscles, and concussions after the shocking deck collapse.",
-          "link": "https://nypost.com/2026/08/18/us-news/harrowing-video-shows-us-marshals-plunge-several-feet-when-deck-collapses-at-home-of-convicted-sex-offender/",
-          "pub": 1787107870000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "NJ Transit workers miraculously recover wedding ring passenger accidentally flushed down toilet",
-      "pub": 1787107845000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "NJ Transit workers miraculously recover wedding ring passenger accidentally flushed down toilet",
-          "deck": "After using the restroom on her North Jersey Coast Line train on July 7, Julie Angelicola washed her hands, but the sink was out of water.",
-          "link": "https://nypost.com/2026/08/18/us-news/nj-transit-workers-recover-wedding-ring-passenger-flushed-down-toilet/",
-          "pub": 1787107845000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -2577,15 +2766,15 @@
       ]
     },
     {
-      "title": "Darline Graham's Debate Comment Could 'Spin Out of Control': GOP Strategist",
+      "title": "Darline Graham Trips Up On National Security, Population Number In Debate",
       "pub": 1787107336000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Darline Graham's Debate Comment Could 'Spin Out of Control': GOP Strategist",
-          "deck": "Darline Graham said national security is “not my thing” during a debate one week before South Carolina’s GOP Senate runoff.",
+          "title": "Darline Graham Trips Up On National Security, Population Number In Debate",
+          "deck": "Darline Graham said national security is \"not my thing\" during a debate one week before South Carolina's GOP Senate runoff.",
           "link": "https://www.newsweek.com/darline-graham-debate-comment-raises-red-flags-for-republican-strategists-12340294",
           "pub": 1787107336000,
           "src": "NWWK",
@@ -2757,14 +2946,14 @@
       ]
     },
     {
-      "title": "Trump pauses 50% tariffs on Canada for 3 days",
+      "title": "Trump pauses 50% tariffs on Canada for 3 days, citing a new deal",
       "pub": 1787106179000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Trump pauses 50% tariffs on Canada for 3 days",
+          "title": "Trump pauses 50% tariffs on Canada for 3 days, citing a new deal",
           "deck": "President Donald Trump late Tuesday slammed the brakes on a wave of tariffs that were set to hit Canada at midnight.",
           "link": "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariffs-rcna593176",
           "pub": 1787106179000,
@@ -3274,24 +3463,6 @@
           "pub": 1787104228000,
           "src": "NBC",
           "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Florida Rep. Cory Mills Loses Primary After Scandal-Filled Campaign",
-      "pub": 1787104221000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Florida Rep. Cory Mills Loses Primary After Scandal-Filled Campaign",
-          "deck": "Despite Trump’s endorsement, Mills was unable to escape his long history of controversy.",
-          "link": "https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/",
-          "pub": 1787104221000,
-          "src": "TIME",
-          "srcFull": "TIME",
           "lean": "ll"
         }
       ]
@@ -4224,24 +4395,6 @@
       ]
     },
     {
-      "title": "Is another UK heatwave on the way in September?",
-      "pub": 1787098864000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is another UK heatwave on the way in September?",
-          "deck": "Some long range forecasts are suggesting autumn could be hotter and drier than average.",
-          "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
-          "pub": 1787098864000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump Ally Scott Singer Wins Republican Primary in Florida’s 25th District",
       "pub": 1787098849000,
       "lean": "ll",
@@ -4584,6 +4737,24 @@
       ]
     },
     {
+      "title": "‘Hebrew Hammer’ defeats social media influencer after bitter campaign marred by antisemitic posts",
+      "pub": 1787097615000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Hebrew Hammer’ defeats social media influencer after bitter campaign marred by antisemitic posts",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/hebrew-hammer-defeats-social-media-000015226.html",
+          "pub": 1787097615000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Republican Byron Donalds and Democrat David Jolly set to square off for Florida’s governorship",
       "pub": 1787097612000,
       "lean": "ll",
@@ -4597,24 +4768,6 @@
           "pub": 1787097612000,
           "src": "NBC",
           "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "FDA Approves First Drug to Treat a Cause of Narcolepsy",
-      "pub": 1787097533000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "FDA Approves First Drug to Treat a Cause of Narcolepsy",
-          "deck": "The drug is the first to address one of the root causes of the sleeping disorder.",
-          "link": "https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/",
-          "pub": 1787097533000,
-          "src": "TIME",
-          "srcFull": "TIME",
           "lean": "ll"
         }
       ]
@@ -5300,168 +5453,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s South Korea snub sows strife with an ally — again",
-      "pub": 1787092777000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s South Korea snub sows strife with an ally — again",
-          "deck": "President Trump has a tendency of unnecessarily sowing dissension with America's allies — and that's a foolhardy game at a time of growing international threats.",
-          "link": "https://nypost.com/2026/08/18/opinion/trumps-south-korea-snub-sows-strife-with-an-ally-again/",
-          "pub": 1787092777000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Bill Gates' daughter under scrutiny for alleged cookie stuffing scheme: Reports",
-      "pub": 1787092629000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bill Gates' daughter under scrutiny for alleged cookie stuffing scheme: Reports",
-          "deck": "\"Cookie stuffing\" can carry a 20-year maximum prison sentence, attorney Ariel Givner posted on X.",
-          "link": "https://www.newsnationnow.com/business/bill-gates-daughter-phoebe-gates-cookie-stuffing-scheme/",
-          "pub": 1787092629000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "McDonald’s just launched a Hello Kitty x Godzilla Happy Meal",
-      "pub": 1787092576000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "McDonald’s just launched a Hello Kitty x Godzilla Happy Meal",
-          "deck": "McDonald's just dropped the new Hello Kitty & Friends x Godzilla Happy Meal and you can collect all eight toys for a limited time.",
-          "link": "https://www.newsnationnow.com/entertainment-news/food/mcdonalds-hello-kitty-x-godzilla-happy-meal/",
-          "pub": 1787092576000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "How To Solve Today’s NYT Pips Puzzles, Wednesday August 19",
-      "pub": 1787092202000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "How To Solve Today’s NYT Pips Puzzles, Wednesday August 19",
-          "deck": "Looking for help with today's New York Times Pips?",
-          "link": "https://www.forbes.com/sites/erikkain/2026/08/18/nyt-pips-answers-wednesday-august-19/",
-          "pub": 1787092202000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "8/18: CBS Evening News",
-      "pub": 1787092200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "8/18: CBS Evening News",
-          "deck": "New details in Hayden Panettiere's death; Recycling plant explosions kill 2 in Ohio.",
-          "link": "https://www.cbsnews.com/video/081826-cbs-evening-news/",
-          "pub": 1787092200000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Don’t buy lefties’ crocodile tears over the USS Abraham Lincoln crew",
-      "pub": 1787092060000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Don’t buy lefties’ crocodile tears over the USS Abraham Lincoln crew",
-          "deck": "Just a few months back, recall, the Trump-haters were griping about servicemen enjoying steak and lobster.",
-          "link": "https://nypost.com/2026/08/18/opinion/dont-buy-lefties-crocodile-tears-over-the-uss-abraham-lincoln-crew/",
-          "pub": 1787092060000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "UK prime minister brushes off Susie Wiles impersonator incident: ‘Not embarrassed’",
-      "pub": 1787092052000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "UK prime minister brushes off Susie Wiles impersonator incident: ‘Not embarrassed’",
-          "deck": "British Prime Minister Andy Burnham on Tuesday brushed off an incident where he exchanged messages with an impersonator posing as White House chief of staff Susie Wiles, saying he was \"not embarrassed.",
-          "link": "https://thehill.com/policy/international/6036519-prime-minister-burnham-white-house-impersonator-response/",
-          "pub": 1787092052000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Former Fauci associate David Morens pleads guilty to conspiracy",
-      "pub": 1787092020000,
-      "lean": "ct",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "Former Fauci associate David Morens pleads guilty to conspiracy",
-          "deck": "Dr. David Morens, former senior adviser at the National Institute of Allergy and Infectious Diseases and once an associate to Dr. Anthony Fauci, pleaded guilty Thursday to a conspiracy to defraud the U.S. in relation to efforts to evade Freedom of Information Act (FOIA) requests. The Department of Justice (DOJ) announced the guilty plea Tuesday....",
-          "link": "https://thehill.com/regulation/court-battles/6036678-david-morens-pleads-guilty-foia-conspiracy/",
-          "pub": 1787092020000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump inverts his own foreign policy mantra",
-      "pub": 1787092003000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump inverts his own foreign policy mantra",
-          "deck": "U.S. moves in Asia show strategic confusion.",
-          "link": "https://www.washingtonpost.com/opinions/2026/08/18/trump-iran-war-is-undermining-his-own-defense-strategy/",
-          "pub": 1787092003000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
         }
       ]
     }
