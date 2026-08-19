@@ -1,19 +1,37 @@
 {
-  "generated": "2026-08-19T10:54:18.673Z",
+  "generated": "2026-08-19T11:19:03.073Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
-      "pub": 1787136571000,
+      "title": "Iran's top diplomat and Trump cast doubt on any hope for a peace deal",
+      "pub": 1787138305000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran's top diplomat and Trump cast doubt on any hope for a peace deal",
+          "deck": "Iran's foreign minister says Tehran is interested only in a deal to fully end the war, not a ceasefire, after Trump says there's currently no dialogue at all.",
+          "link": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+          "pub": 1787138305000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
+      "pub": 1787138194000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
+          "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
           "deck": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
           "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-          "pub": 1787136571000,
+          "pub": 1787138194000,
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
@@ -21,8 +39,674 @@
       ]
     },
     {
+      "title": "Trump’s steam obsession risks crippling the U.S. carrier fleet",
+      "pub": 1787138100000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s steam obsession risks crippling the U.S. carrier fleet",
+          "deck": "Steam power was cutting-edge technology in the 19th century.",
+          "link": "https://www.washingtonpost.com/opinions/2026/08/19/us-navy-readiness-could-be-crippled-by-trump-steam-obsession/",
+          "pub": 1787138100000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Why Healthcare’s AI Breakthrough Must Be Built On Trust",
+      "pub": 1787138100000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Healthcare’s AI Breakthrough Must Be Built On Trust",
+          "deck": "The next era of AI will not be defined by the sophistication of the models alone.",
+          "link": "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/why-healthcares-ai-breakthrough-must-be-built-on-trust/",
+          "pub": 1787138100000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "As Bill Clinton Turns 80, a Searching Look Back at His Life",
+      "pub": 1787137984000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "As Bill Clinton Turns 80, a Searching Look Back at His Life",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/as_bill_clinton_turns_80_a_searching_look_back_at_his_life_708370.html",
+          "pub": 1787137984000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Sen. Dan Sullivan, Mary Peltola advance in Alaska Senate primary",
+      "pub": 1787137911000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sen. Dan Sullivan, Mary Peltola advance in Alaska Senate primary",
+          "deck": "In Alaska, the top four vote getters in the primary advance to the general election.",
+          "link": "https://www.cbsnews.com/news/mary-peltola-dan-sullivan-alaska-senate-primary-results/",
+          "pub": 1787137911000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Left's Crocodile Tears Over the USS Abraham Lincoln Crew",
+      "pub": 1787137907000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Left's Crocodile Tears Over the USS Abraham Lincoln Crew",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/the_lefts_crocodile_tears_over_the_uss_abraham_lincoln_crew_708364.html",
+          "pub": 1787137907000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Britain Must Meet Putin's War of Words With Action",
+      "pub": 1787137905000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Britain Must Meet Putin's War of Words With Action",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/britain_must_meet_putins_war_of_words_with_action_708366.html",
+          "pub": 1787137905000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Medicaid and Transgender Treatments for Kids",
+      "pub": 1787137904000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Medicaid and Transgender Treatments for Kids",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/medicaid_and_transgender_treatments_for_kids_708359.html",
+          "pub": 1787137904000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Washington's $40 Trillion Debt Milestone",
+      "pub": 1787137902000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Washington's $40 Trillion Debt Milestone",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/washingtonrsquos_40_trillion_debt_milestone_708358.html",
+          "pub": 1787137902000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        },
+        {
+          "title": "Washington’s $40 trillion debt milestone",
+          "deck": "The threat to America is no longer a global pandemic but Congress's addiction to spending money it doesn't have.",
+          "link": "https://www.washingtonpost.com/opinions/2026/08/18/40-trillion-national-debt-milestone-shows-america-has-spending-problem/",
+          "pub": 1787085546000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+      "pub": 1787137773000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+          "deck": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
+          "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+          "pub": 1787137773000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+      "pub": 1787137722000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+          "deck": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787137722000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The AI We’re Building Needs a Kill Switch | Opinion",
+      "pub": 1787137701000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "The AI We're Building Needs a Kill Switch Opinion",
+          "deck": "Leadership the world can trust requires that our most powerful systems stay safe, accountable, and answerable to us.",
+          "link": "https://www.realclearpolitics.com/2026/08/19/the_ai_were_building_needs_a_kill_switch__opinion_708398.html",
+          "pub": 1787137701000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        },
+        {
+          "title": "The AI We’re Building Needs a Kill Switch | Opinion",
+          "deck": "Leadership the world can trust requires that our most powerful systems stay safe, accountable, and answerable to us.",
+          "link": "https://www.newsweek.com/the-ai-were-building-needs-a-kill-switch-12333342",
+          "pub": 1787130000000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Australian woman appeals murder convictions in poison mushroom case",
+      "pub": 1787137700000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Australian woman appeals murder convictions in poison mushroom case",
+          "deck": "Triple-murderer Erin Patterson appeals convictions for poisoning four of her estranged husband's relatives with death cap mushrooms.",
+          "link": "https://www.cbsnews.com/news/australia-erin-patterson-mushroom-murder-appeal/",
+          "pub": 1787137700000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Dollar risks are mounting. Here’s what could weaken the greenback",
+      "pub": 1787137683000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dollar risks are mounting. Here’s what could weaken the greenback",
+          "deck": "Currency strategists flag Treasury risk, softer U.",
+          "link": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+          "pub": 1787137683000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fusion Power Is the Answer to America's AI Challenge",
+      "pub": 1787137678000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fusion Power Is the Answer to America's AI Challenge",
+          "deck": "America is in an artificial intelligence arms race with China but we are continuing to miss a crucial technology required to secure the win.",
+          "link": "https://www.realclearpolitics.com/2026/08/19/fusion_power_is_the_answer_to_americas_ai_challenge_708374.html",
+          "pub": 1787137678000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Race to Build U.S.'s First Nuclear Reactor in a Generation",
+      "pub": 1787137675000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Race to Build U.S.'s First Nuclear Reactor in a Generation",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/the_race_to_build_uss_first_nuclear_reactor_in_a_generation_708361.html",
+          "pub": 1787137675000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Democratic socialist wins in Florida and Hayden Panettiere’s mother speaks out: Morning Rundown",
+      "pub": 1787137665000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democratic socialist wins in Florida and Hayden Panettiere’s mother speaks out: Morning Rundown",
+          "deck": "Democratic socialist Angie Nixon scores major upset in Florida’s Democratic Senate primary.",
+          "link": "https://www.nbcnews.com/news/us-news/angie-nixon-florida-result-hayden-panettiere-mom-morning-rundown-rcna593286",
+          "pub": 1787137665000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mickey Mouse, Welcome to the Resistance",
+      "pub": 1787137618000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mickey Mouse, Welcome to the Resistance",
+          "deck": "It's a battle for the First Amendment.",
+          "link": "https://www.realclearpolitics.com/2026/08/19/mickey_mouse_welcome_to_the_resistance_708372.html",
+          "pub": 1787137618000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fake News, Part II: Faking for Fun",
+      "pub": 1787137617000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fake News, Part II: Faking for Fun",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/articles/2026/08/19/fake_news_part_ii_faking_for_fun_154424.html",
+          "pub": 1787137617000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Arsenal pushing on with deal to sign Villa's Konsa",
+      "pub": 1787137580000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Arsenal pushing on with deal to sign Villa's Konsa",
+          "deck": "Arsenal refocus their efforts on negotiating a deal with Aston Villa to sign defender Ezri Konsa.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787137580000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Sanctification of Jason Arday",
+      "pub": 1787137521000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Sanctification of Jason Arday",
+          "deck": "The narrative being spun about his tragic death is an affront to reason and a free media.",
+          "link": "https://www.realclearpolitics.com/2026/08/19/the_sanctification_of_jason_arday_708407.html",
+          "pub": 1787137521000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Unitree IPO Soars 460% As \"Strong Retail Appetite\" May Ignite Physical AI Listing Boom",
+      "pub": 1787137500000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Unitree IPO Soars 460% As \"Strong Retail Appetite\" May Ignite Physical AI Listing Boom",
+          "deck": "Unitree IPO Soars 460% As \"Strong Retail Appetite\" May Ignite Physical AI Listing Boom Summary: Unitree Soars 460% in Shanghai IPO Solactive China Humanoid Robotics Index Plunges As IPO \"Drew Funds Away\" Unitree IPO 5,550 Times Oversubscribed As UBS Says Grey Market Points To 3.",
+          "link": "https://www.zerohedge.com/markets/unitree-ipo-5550-times-oversubscribed-ubs-says-grey-market-points-35x-open",
+          "pub": 1787137500000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump's Menacing But Dumb Plan to Break the Midterms",
+      "pub": 1787137495000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump's Menacing But Dumb Plan to Break the Midterms",
+          "deck": "He can try to fake a national emergency to seize control of elections, but that doesn't mean it will work.",
+          "link": "https://www.realclearpolitics.com/2026/08/19/trumps_menacing_but_dumb_plan_to_break_the_midterms_708395.html",
+          "pub": 1787137495000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "How GOP Can Pull Off an Upset in Minnesota",
+      "pub": 1787137486000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How GOP Can Pull Off an Upset in Minnesota",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/articles/2026/08/19/how_gop_can_pull_off_an_upset_in_minnesota_154425.html",
+          "pub": 1787137486000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Peru’s OLCI demands customs modernisation to curb used clothing smuggling",
+      "pub": 1787137485000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Peru’s OLCI demands customs modernisation to curb used clothing smuggling",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/peru-olci-demands-customs-modernisation-110445465.html",
+          "pub": 1787137485000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Last Stand of the Corporate Democrats",
+      "pub": 1787137458000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Last Stand of the Corporate Democrats",
+          "deck": "Their reign is coming to an end",
+          "link": "https://www.realclearpolitics.com/2026/08/19/the_last_stand_of_the_corporate_democrats_708413.html",
+          "pub": 1787137458000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Cerebras debuts CS-4 AI accelerator with new wafer-scale architecture",
+      "pub": 1787137385000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Cerebras debuts CS-4 AI accelerator with new wafer-scale architecture",
+          "deck": "",
+          "link": "https://tech.yahoo.com/ai/articles/cerebras-debuts-cs-4-ai-110305573.html",
+          "pub": 1787137385000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+      "pub": 1787137369000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+          "deck": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787137369000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How I Became a Subaru Socialist",
+      "pub": 1787137367000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How I Became a Subaru Socialist",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/how_i_became_a_subaru_socialist_708373.html",
+          "pub": 1787137367000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Status Defines Friendship for Too Many Americans",
+      "pub": 1787137331000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Status Defines Friendship for Too Many Americans",
+          "deck": "The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant.",
+          "link": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
+          "pub": 1787137331000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Skull Ridge Gold acquires 689 claims in central Newfoundland",
+      "pub": 1787137299000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Skull Ridge Gold acquires 689 claims in central Newfoundland",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/skull-ridge-gold-acquires-689-110139952.html",
+          "pub": 1787137299000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Evolution Mining Ltd (CAHPF) (FY 2026) Earnings Call Highlights: Record EBITDA and Dividend ...",
+      "pub": 1787137296000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Evolution Mining Ltd (CAHPF) (FY 2026) Earnings Call Highlights: Record EBITDA and Dividend ...",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/evolution-mining-ltd-cahpf-fy-110136471.html",
+          "pub": 1787137296000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Southern Cross Electrical Engineering Ltd (ASX:SXE) (FY 2026) Earnings Call Highlights: Record ...",
+      "pub": 1787137288000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Southern Cross Electrical Engineering Ltd (ASX:SXE) (FY 2026) Earnings Call Highlights: Record ...",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-electrical-engineering-ltd-110128923.html",
+          "pub": 1787137288000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Woke 1.0 Canceled America. Woke 2.0 Will Destroy It.",
+      "pub": 1787137261000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woke 1.0 Canceled America. Woke 2.0 Will Destroy It.",
+          "deck": "Confessions of a former cult member.",
+          "link": "https://www.realclearpolitics.com/2026/08/19/woke_10_canceled_america_woke_20_will_destroy_it_708415.html",
+          "pub": 1787137261000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "How Radical Will the Democrats Get?",
+      "pub": 1787137260000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Radical Will the Democrats Get?",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/how_radical_will_the_democrats_get_708360.html",
+          "pub": 1787137260000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "8 Takeaways & Surprises from Tuesday's Primaries",
+      "pub": 1787137256000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "8 Takeaways & Surprises from Tuesday's Primaries",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/19/8_takeaways_amp_surprises_from_tuesdays_primaries_708367.html",
+          "pub": 1787137256000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Today in Supreme Court History: August 19, 1937",
+      "pub": 1787137249000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Today in Supreme Court History: August 19, 1937",
+          "deck": "8/19/1937: Justice Hugo Black takes the oath.",
+          "link": "https://reason.com/volokh/2026/08/19/today-in-supreme-court-history-august-19-1937-6/",
+          "pub": 1787137249000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "pub": 1787136565000,
+      "pub": 1787137221000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
@@ -31,7 +715,7 @@
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "deck": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787136565000,
+          "pub": 1787137221000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -39,17 +723,413 @@
       ]
     },
     {
-      "title": "CIL-SIML JV secures road contracts worth $224m in India",
-      "pub": 1787136365000,
+      "title": "Trump's Dictator Envy Is Once Again on Display in Tiff with South Korea",
+      "pub": 1787137218000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump's Dictator Envy Is Once Again on Display in Tiff with South Korea",
+          "deck": "The president openly admires world leaders who exercise absolute power.",
+          "link": "https://reason.com/2026/08/19/trumps-dictator-envy-is-once-again-on-display-in-tiff-with-south-korea/",
+          "pub": 1787137218000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Moving Through Grief",
+      "pub": 1787137205000,
+      "lean": "ll",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Moving Through Grief",
+          "deck": "August is National Grief Awareness Month, and Kate Doerge wants to reimagine how we deal with grief.",
+          "link": "https://www.cbsnews.com/video/healthful-norah-odonnell-08192026-episode-7/",
+          "pub": 1787137205000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Car dealerships are relying more on parts and service for profits",
+      "pub": 1787137201000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "CIL-SIML JV secures road contracts worth $224m in India",
+          "title": "Car dealerships are relying more on parts and service for profits",
+          "deck": "Dealership gross profits have fallen from the supply-constrained days of 2022.",
+          "link": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
+          "pub": 1787137201000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+      "pub": 1787137201000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+          "deck": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
+          "link": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
+          "pub": 1787137201000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "What to Know About the Pentagon’s Crackdown on Universities’ Foreign Research Ties",
+      "pub": 1787137200000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What to Know About the Pentagon’s Crackdown on Universities’ Foreign Research Ties",
+          "deck": "Harvard and MIT were reportedly among the universities ordered to review and terminate “problematic” ties to foreign institutions or risk losing funding.",
+          "link": "https://time.com/article/2026/08/19/higher-education-universities-china-research-defense-department-harvard-mit/",
+          "pub": 1787137200000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rethinking the haphazard marijuana social experiment",
+      "pub": 1787137200000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rethinking the haphazard marijuana social experiment",
+          "deck": "Accumulating evidence is forcing some facile beliefs about the drug to evolve.",
+          "link": "https://www.washingtonpost.com/opinions/2026/08/19/marijuana-legalization-is-being-reconsidered-use-spreads/",
+          "pub": 1787137200000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "America has 3 billion words of legal code riddled with ‘policy sludge’",
+      "pub": 1787137200000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "America has 3 billion words of legal code riddled with ‘policy sludge’",
+          "deck": "Outdated rules are gumming up governments across the country.",
+          "link": "https://www.washingtonpost.com/opinions/2026/08/19/us-legal-code-is-more-than-3-billion-words-ai-read-them-all/",
+          "pub": 1787137200000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Missing Layer In Agentic AI: Blockchain-Based Governance",
+      "pub": 1787137200000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Missing Layer In Agentic AI: Blockchain-Based Governance",
+          "deck": "The downsides of AI, such as lack of interpretability, hallucinations and sycophancy, could easily wreak havoc if amplified through multiple AI agents and left unchecked.",
+          "link": "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/the-missing-layer-in-agentic-ai-blockchain-based-governance/",
+          "pub": 1787137200000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Baltimore is outpacing the nation on violence reduction — here’s how",
+      "pub": 1787137200000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Baltimore is outpacing the nation on violence reduction — here’s how",
+          "deck": "The larger lesson of Baltimore’s progress is this: cities do not have to choose between accountability and support.",
+          "link": "https://thehill.com/opinion/criminal-justice/6036150-baltimore-crime-prevention-success/",
+          "pub": 1787137200000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Woman Thrifts Dress for $10 From Goodwill Bins—Then She Checks the Label",
+      "pub": 1787137200000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woman Thrifts Dress for $10 From Goodwill Bins—Then She Checks the Label",
+          "deck": "She initially thought the dress fabric looked like curtains, which almost kept her from taking a closer look.",
+          "link": "https://www.newsweek.com/woman-thrifts-dress-for-10-dollars-goodwill-checks-label-12334278",
+          "pub": 1787137200000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Hayden Panettiere ‘moved slow’ on set of final film amid ‘severe’ health issues months before death",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hayden Panettiere ‘moved slow’ on set of final film amid ‘severe’ health issues months before death",
+          "deck": "Page Six previously reported the \"Nashville\" star was struggling with back problems before her tragic death.",
+          "link": "https://pagesix.com/2026/08/19/celebrity-news/hayden-panettiere-moved-slow-on-final-film-before-death-co-star/",
+          "pub": 1787137200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Maria Rojas On ‘Ted Lasso’: Is That Dani Rojas’ Real-Life Sister?!",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Maria Rojas On ‘Ted Lasso’: Is That Dani Rojas’ Real-Life Sister?!",
+          "deck": "Here's why Paloma Cinco looks so familiar.",
+          "link": "https://decider.com/2026/08/19/ted-lasso-maria-rojas-paloma-cinco-cristo-fernandez-sister/",
+          "pub": 1787137200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Best of the Babylon Bee: AOC struggling to meet single men under 90 at work",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Best of the Babylon Bee: AOC struggling to meet single men under 90 at work",
+          "deck": "Every week, The Post will bring you our picks of the best one-liners and stories from satirical site the Babylon Bee to take the edge off Hump Day.",
+          "link": "https://nypost.com/2026/08/19/opinion/best-of-the-babylon-bee-aoc-struggling-to-meet-single-men-under-90-at-work/",
+          "pub": 1787137200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Iran war puts new strain on US efforts to deter China",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran war puts new strain on US efforts to deter China",
+          "deck": "The Iran war is placing new strain on America’s ability to deter China in the Indo-Pacific, as the conflict draws military assets, munitions, and attention away from the region.",
+          "link": "https://www.washingtonexaminer.com/policy/defense/4692040/iran-war-strain-us-efforts-deter-china/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Starving Iran of oil revenue won’t topple the regime. It might just save it",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Starving Iran of oil revenue won’t topple the regime. It might just save it",
+          "deck": "The Trump administration believes that by placing increasing pressure on Iran’s oil sector, it will enhance its leverage over Tehran.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4692155/why-oil-sanctions-wont-collapse-iran-authoritarian-nationalism-change-tehran-behavior/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Maryland Democrats had a 7-1 advantage. That still wasn’t enough",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Maryland Democrats had a 7-1 advantage. That still wasn’t enough",
+          "deck": "Since 2002, Maryland has led the nation in one unfortunate respect: partisan gerrymandering.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4690749/maryland-gerrymandering-lawsuit-question-3/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Middle East ‘neutrality’ is a fraud. Trump must shatter it before the trap is complete",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Middle East ‘neutrality’ is a fraud. Trump must shatter it before the trap is complete",
+          "deck": "The Levant and Persian Gulf are drifting into a dangerous delusion.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4691544/shatter-middle-east-non-alignment-trap/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hegseth’s growing campaign role sparks talk of political future",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hegseth’s growing campaign role sparks talk of political future",
+          "deck": "War Secretary Pete Hegseth‘s increasing presence on the 2026 campaign trail is sparking rumors about his political future.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4689701/pete-hegseth-2028-iowa-visit/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "How fake polling could upend the midterm elections",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How fake polling could upend the midterm elections",
+          "deck": "Adding to the polling industry’s growing list of problems is a company that has admitted to releasing fake polls as a “social experiment” to see what kind of impact the misinformation could have.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4692211/fake-polls-median-strategies-midterm-elections/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "California special interest groups follow Newsom into early 2028 primary states",
+      "pub": 1787137200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "California special interest groups follow Newsom into early 2028 primary states",
+          "deck": "Gov. Gavin Newsom (D-CA) may not have announced a 2028 campaign yet, but California activists and interest groups are already treating him like a presidential candidate — and increasingly taking their fights with him beyond the state’s borders. With Newsom entering the final months of his governorship, groups battling him over labor, artificial intelligence, transportation […]",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4691654/california-special-interest-groups-newsom-early-2028-states/",
+          "pub": 1787137200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Karmelo Anthony back in court seeking new trial, judge",
+      "pub": 1787137034000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Karmelo Anthony back in court seeking new trial, judge",
+          "deck": "Anthony was sentenced to 35 years in prison after being convicted in the murder of Austin Metcalf.",
+          "link": "https://www.newsnationnow.com/crime/karmelo-anthony-seeks-new-judge-trial/",
+          "pub": 1787137034000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+      "pub": 1787136900000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+          "deck": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel Brent at $90.",
+          "link": "https://www.zerohedge.com/energy/jeff-currie-forget-91-brent-real-crisis-170-diesel",
+          "pub": 1787136900000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Helicopter crashes in a remote area of northern Kenya, aviation authorities say",
+      "pub": 1787136887000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Helicopter crashes in a remote area of northern Kenya, aviation authorities say",
           "deck": "",
-          "link": "https://finance.yahoo.com/real-estate/articles/cil-siml-jv-secures-road-104605817.html",
-          "pub": 1787136365000,
+          "link": "https://www.yahoo.com/news/world/articles/helicopter-crashes-remote-area-northern-105447789.html",
+          "pub": 1787136887000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -57,38 +1137,20 @@
       ]
     },
     {
-      "title": "2 Financials Stocks on Our Watchlist and 1 We Ignore",
-      "pub": 1787136362000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "pub": 1787136442000,
+      "lean": "ct",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "2 Financials Stocks on Our Watchlist and 1 We Ignore",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/2-financials-stocks-watchlist-1-104602274.html",
-          "pub": 1787136362000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "AI in smart grids: how grid tech is navigating challenges and opportunities",
-      "pub": 1787136346000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI in smart grids: how grid tech is navigating challenges and opportunities",
-          "deck": "",
-          "link": "https://tech.yahoo.com/ai/articles/ai-smart-grids-grid-tech-104546169.html",
-          "pub": 1787136346000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+          "deck": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787136442000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -147,20 +1209,20 @@
       ]
     },
     {
-      "title": "Brazilian company targets Charlotte expansion, new jobs",
-      "pub": 1787136013000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Security Isn't About More Controls—It's About Proving They Work",
+      "pub": 1787136300000,
+      "lean": "ct",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Brazilian company targets Charlotte expansion, new jobs",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/brazilian-company-targets-charlotte-expansion-104013574.html",
-          "pub": 1787136013000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Security Isn't About More Controls—It's About Proving They Work",
+          "deck": "Cybersecurity theme",
+          "link": "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/security-isnt-about-more-controls-its-about-proving-they-work/",
+          "pub": 1787136300000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -183,24 +1245,6 @@
       ]
     },
     {
-      "title": "The Fund Sold Floor & Decor (FND) as Housing Demand Stayed Weak",
-      "pub": 1787135994000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Fund Sold Floor & Decor (FND) as Housing Demand Stayed Weak",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/fund-sold-floor-decor-fnd-103954829.html",
-          "pub": 1787135994000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
       "pub": 1787135989000,
       "lean": "ll",
@@ -214,24 +1258,6 @@
           "pub": 1787135989000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Australian woman appeals murder convictions in poison mushroom case",
-      "pub": 1787135937000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Australian woman appeals murder convictions in poison mushroom case",
-          "deck": "Triple-murderer Erin Patterson appeals convictions for poisoning four of her estranged husband's relatives with death cap mushrooms.",
-          "link": "https://www.cbsnews.com/news/australia-erin-patterson-mushroom-murder-appeal/",
-          "pub": 1787135937000,
-          "src": "CBS",
-          "srcFull": "CBS News",
           "lean": "ll"
         }
       ]
@@ -255,20 +1281,20 @@
       ]
     },
     {
-      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-      "pub": 1787135575000,
-      "lean": "ct",
-      "cat": "Politics",
+      "title": "Disengagement: Trump Vows New Strategy To 'Strangle' Iran Over Time",
+      "pub": 1787135580000,
+      "lean": "lr",
+      "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-          "deck": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
-          "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787135575000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
+          "title": "Disengagement: Trump Vows New Strategy To 'Strangle' Iran Over Time",
+          "deck": "Disengagement: Trump Vows New Strategy To 'Strangle' Iran Over Time Summary No talks: Trump confirms US-Iran negotiations are off, vows to 'strangle them' over time.",
+          "link": "https://www.zerohedge.com/geopolitical/trump-posts-map-showing-hormuz-new-us-territory-just-after-latest-tanker-attack",
+          "pub": 1787135580000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
         }
       ]
     },
@@ -399,6 +1425,42 @@
       ]
     },
     {
+      "title": "Inside PayPal Mafia Billionaire Max Levchin’s Slow-And-Steady Path To Fintech Profitability",
+      "pub": 1787135400000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Inside PayPal Mafia Billionaire Max Levchin’s Slow-And-Steady Path To Fintech Profitability",
+          "deck": "Despite racking up more than $2 billion in losses while sticking to a do-it-yourself strategy, buy-now, pay-later pioneer Affirm is finally profitable—and worth $25 billion.",
+          "link": "https://www.forbes.com/sites/jeffkauflin/2026/08/19/inside-paypal-mafia-billionaire-max-levchins-slow-and-steady-path-to-fintech-profitability/",
+          "pub": 1787135400000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "​The New Currency Of Cybersecurity Is Speed, But Only If The Fix Doesn’t Break Production",
+      "pub": 1787135400000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "​The New Currency Of Cybersecurity Is Speed, But Only If The Fix Doesn’t Break Production",
+          "deck": "Most security teams can see their exposures.",
+          "link": "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/the-new-currency-of-cybersecurity-is-speed-but-only-if-the-fix-doesnt-break-production/",
+          "pub": 1787135400000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "7 Federal Agencies & Big Pharma Quietly Built A Pandemic-Industrial Complex",
       "pub": 1787135400000,
       "lean": "lr",
@@ -417,14 +1479,14 @@
       ]
     },
     {
-      "title": "I’m head coach of the Gotham FC women’s soccer team — why I took paternity leave in the middle of a season",
+      "title": "I’m head coach of the Gotham FC women’s soccer team — why I took paternity leave in the middle of the season",
       "pub": 1787135340000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "I’m head coach of the Gotham FC women’s soccer team — why I took paternity leave in the middle of a season",
+          "title": "I’m head coach of the Gotham FC women’s soccer team — why I took paternity leave in the middle of the season",
           "deck": "Juan Carlos Amorós announced in June that he would be taking paternity leave from coaching women's soccer champs Gotham FC, following the birth of his second child.",
           "link": "https://nypost.com/2026/08/19/health/im-head-coach-of-the-gotham-fc-why-i-took-paternity-leave/",
           "pub": 1787135340000,
@@ -475,7 +1537,7 @@
       "pub": 1787135151000,
       "lean": "ll",
       "cat": "World",
-      "single": true,
+      "single": false,
       "versions": [
         {
           "title": "Skeletal remains believed to be ritual offering unearthed in Peru",
@@ -485,23 +1547,14 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran's top diplomat and Trump cast doubt on any hope for a peace deal",
-      "pub": 1787134816000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
+        },
         {
-          "title": "Iran's top diplomat and Trump cast doubt on any hope for a peace deal",
-          "deck": "Iran's foreign minister says Tehran is interested only in a deal to fully end the war, not a ceasefire, after Trump says there's currently no dialogue at all.",
-          "link": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
-          "pub": 1787134816000,
-          "src": "CBS",
-          "srcFull": "CBS News",
+          "title": "Skeletal remains believed to be ritual offering unearthed in Peru",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/skeletal-remains-believed-ritual-offering-102551477.html",
+          "pub": 1787135151000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -624,24 +1677,6 @@
       ]
     },
     {
-      "title": "Sen. Dan Sullivan, Mary Peltola advance in Alaska Senate primary",
-      "pub": 1787134411000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sen. Dan Sullivan, Mary Peltola advance in Alaska Senate primary",
-          "deck": "In Alaska, the top four vote getters in the primary advance to the general election.",
-          "link": "https://www.cbsnews.com/news/mary-peltola-dan-sullivan-alaska-senate-primary-results/",
-          "pub": 1787134411000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ukrainian man arrested over Nord Stream gas pipeline blasts",
       "pub": 1787134397000,
       "lean": "lr",
@@ -696,6 +1731,24 @@
       ]
     },
     {
+      "title": "US Air Force flight to Antarctica turns back after space activity warning",
+      "pub": 1787133917000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "US Air Force flight to Antarctica turns back after space activity warning",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/us-air-force-flight-antarctica-071502392.html",
+          "pub": 1787133917000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Ukrainian diver suspected of Nord Stream attack arrested in Croatia",
       "pub": 1787133823000,
       "lean": "ll",
@@ -733,7 +1786,7 @@
     },
     {
       "title": "How Tech Executives Limit Their Kids’ Screen Time, and Trump’s Race to Finish His Ballroom",
-      "pub": 1787133612000,
+      "pub": 1787133613000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -742,9 +1795,27 @@
           "title": "How Tech Executives Limit Their Kids’ Screen Time, and Trump’s Race to Finish His Ballroom",
           "deck": "Plus, the political emails are coming for you.",
           "link": "https://www.nytimes.com/2026/08/19/podcasts/the-headlines/screen-time-kids-trump-ballroom.html",
-          "pub": 1787133612000,
+          "pub": 1787133613000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How to Recover From an Embarrassing Faux Pas",
+      "pub": 1787133604000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How to Recover From an Embarrassing Faux Pas",
+          "deck": "Put your foot in your mouth?",
+          "link": "https://time.com/article/2026/08/19/how-to-recover-after-faux-pas/",
+          "pub": 1787133604000,
+          "src": "TIME",
+          "srcFull": "TIME",
           "lean": "ll"
         }
       ]
@@ -930,24 +2001,6 @@
       ]
     },
     {
-      "title": "Trump dangles Netanyahu endorsement in pressure campaign on Gaza",
-      "pub": 1787133600000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump dangles Netanyahu endorsement in pressure campaign on Gaza",
-          "deck": "President Trump is dangling the possibility of an endorsement in Israel’s late October election as he seeks to pressure Israeli Prime Minister Benjamin Netanyahu to move forward on his Gaza peace plan.",
-          "link": "https://thehill.com/policy/international/6036801-trump-netanyahu-endorsement-gaza-pressure/",
-          "pub": 1787133600000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "The Memo: On Iran, Trump’s critics see tough talk as a mask for frustration",
       "pub": 1787133600000,
       "lean": "ct",
@@ -958,6 +2011,24 @@
           "title": "The Memo: On Iran, Trump’s critics see tough talk as a mask for frustration",
           "deck": "President Trump is talking tough on Iran — but his critics say it’s evidence of frustration rather than strength almost six months on from the start of the conflict.",
           "link": "https://thehill.com/homenews/administration/6036749-trump-threatened-oman-naval-blockade/",
+          "pub": 1787133600000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump dangles Netanyahu endorsement in pressure campaign on Gaza",
+      "pub": 1787133600000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump dangles Netanyahu endorsement in pressure campaign on Gaza",
+          "deck": "President Trump is dangling the possibility of an endorsement in Israel’s late October election as he seeks to pressure Israeli Prime Minister Benjamin Netanyahu to move forward on his Gaza peace plan.",
+          "link": "https://thehill.com/policy/international/6036801-trump-netanyahu-endorsement-gaza-pressure/",
           "pub": 1787133600000,
           "src": "HILL",
           "srcFull": "The Hill",
@@ -1056,34 +2127,16 @@
       ]
     },
     {
-      "title": "Second round of August Social Security payments goes out today",
+      "title": "The cracks in Trump’s coalition are getting deeper",
       "pub": 1787133600000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Second round of August Social Security payments goes out today",
-          "deck": "The second round of August Social Security payments for retirees, now capped at $5,181, will be issued today.",
-          "link": "https://www.washingtonexaminer.com/news/4676641/second-round-august-social-security-payments-today/",
-          "pub": 1787133600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Leash Vance, unleash Israel: Trump’s only path to victory in Iran",
-      "pub": 1787133600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Leash Vance, unleash Israel: Trump’s only path to victory in Iran",
-          "deck": "Common sense tells us that the enemy of our enemy is our friend, and as well the converse: the friend of our enemy is our enemy.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4690356/trump-israel-vance-iran-strait-of-hormuz-strategy/",
+          "title": "The cracks in Trump’s coalition are getting deeper",
+          "deck": "This week, a new Reuters/Ipsos poll has President Donald Trump’s approval rating at an abysmal 33%, a new low in his presidency.",
+          "link": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4691959/cracks-trump-coalition-getting-deeper/",
           "pub": 1787133600000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -1110,64 +2163,10 @@
       ]
     },
     {
-      "title": "Trump is right to send allies the bill. Cutting our own drills is the wrong currency",
-      "pub": 1787133600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump is right to send allies the bill. Cutting our own drills is the wrong currency",
-          "deck": "Within a matter of days, Washington produced three snapshots of the hidden bill from the Iran war.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4691490/trump-south-korea-burden-sharing-military-exercises-freedom-shield/",
-          "pub": 1787133600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Terry Moran confirms it: ABC News has morphed into MSABC",
-      "pub": 1787133600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Terry Moran confirms it: ABC News has morphed into MSABC",
-          "deck": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America.",
-          "link": "https://www.washingtonexaminer.com/in_focus/4691626/abc-news-has-morphed-into-msabc/",
-          "pub": 1787133600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump DOJ making tens of thousands more immigrants deportable every month under new effort",
-      "pub": 1787133600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump DOJ making tens of thousands more immigrants deportable every month under new effort",
-          "deck": "The Department of Justice-operated immigration courts are making tens of thousands more immigrants deportable every month through a backdoor change to how quickly and often court cases can be scheduled.",
-          "link": "https://www.washingtonexaminer.com/news/justice/4691700/immigration-courts-bulk-schedule-cases-mega-masters/",
-          "pub": 1787133600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Mark Levin’s strategic folly on Iran",
       "pub": 1787133600000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1182,52 +2181,34 @@
       ]
     },
     {
-      "title": "What the odd July jobs report means for the Fed",
-      "pub": 1787133600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What the odd July jobs report means for the Fed",
-          "deck": "Last month, jobs in the American economy fell by 23,000, yet the unemployment rate improved to 4.",
-          "link": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4691766/what-odd-july-jobs-report-means-for-fed/",
-          "pub": 1787133600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Meet the 10 members with ongoing ethics investigations",
-      "pub": 1787133600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Meet the 10 members with ongoing ethics investigations",
-          "deck": "The House Ethics Committee has been noticeably busy this Congress amid a slew of investigations into lawmakers — punctuated by three resignations — and 10 inquiries still outstanding.",
-          "link": "https://www.washingtonexaminer.com/news/house/4691879/meet-the-10-members-with-ongoing-ethics-investigations/",
-          "pub": 1787133600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The cracks in Trump’s coalition are getting deeper",
+      "title": "Trump is right to send allies the bill. Cutting our own drills is the wrong currency",
       "pub": 1787133600000,
       "lean": "lr",
       "cat": "Opinion",
       "single": true,
       "versions": [
         {
-          "title": "The cracks in Trump’s coalition are getting deeper",
-          "deck": "This week, a new Reuters/Ipsos poll has President Donald Trump’s approval rating at an abysmal 33%, a new low in his presidency.",
-          "link": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4691959/cracks-trump-coalition-getting-deeper/",
+          "title": "Trump is right to send allies the bill. Cutting our own drills is the wrong currency",
+          "deck": "Within a matter of days, Washington produced three snapshots of the hidden bill from the Iran war.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4691490/trump-south-korea-burden-sharing-military-exercises-freedom-shield/",
+          "pub": 1787133600000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Leash Vance, unleash Israel: Trump’s only path to victory in Iran",
+      "pub": 1787133600000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Leash Vance, unleash Israel: Trump’s only path to victory in Iran",
+          "deck": "Common sense tells us that the enemy of our enemy is our friend, and as well the converse: the friend of our enemy is our enemy.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4690356/trump-israel-vance-iran-strait-of-hormuz-strategy/",
           "pub": 1787133600000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -1267,6 +2248,24 @@
           "pub": 1787133470000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Prosecutors say bullet engraving shows Charlie Kirk was targeted for his politics",
+      "pub": 1787133146000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Prosecutors say bullet engraving shows Charlie Kirk was targeted for his politics",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/prosecutors-bullet-engraving-shows-charlie-082956676.html",
+          "pub": 1787133146000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1321,24 +2320,6 @@
           "pub": 1787132907000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Israel pushes ahead with controversial E1 settlement project",
-      "pub": 1787132903000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israel pushes ahead with controversial E1 settlement project",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/israel-pushes-ahead-controversial-e1-094823813.html",
-          "pub": 1787132903000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1506,24 +2487,6 @@
       ]
     },
     {
-      "title": "Dollar risks are mounting. Here’s what could weaken the greenback",
-      "pub": 1787131976000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dollar risks are mounting. Here’s what could weaken the greenback",
-          "deck": "Currency strategists flag Treasury risk, softer U.",
-          "link": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
-          "pub": 1787131976000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Key takeaways from action-packed primary election night in Florida",
       "pub": 1787131829000,
       "lean": "lr",
@@ -1686,24 +2649,6 @@
       ]
     },
     {
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "pub": 1787130668000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-          "deck": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787130668000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Miami Hits 100°F for First Time Since 1942",
       "pub": 1787130547000,
       "lean": "ct",
@@ -1758,24 +2703,6 @@
       ]
     },
     {
-      "title": "The Magnificent 7 are struggling. Don't let them sink your 401(k)",
-      "pub": 1787130308000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Magnificent 7 are struggling. Don't let them sink your 401(k)",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-struggling-dont-let-090508524.html",
-          "pub": 1787130308000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Who Is to Blame When Surrogacy Goes Wrong?",
       "pub": 1787130222000,
       "lean": "ll",
@@ -1789,24 +2716,6 @@
           "pub": 1787130222000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Authorities rescue Israeli shoppers, seize illegal monkey from residence in Jericho, West Bank",
-      "pub": 1787130199000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Authorities rescue Israeli shoppers, seize illegal monkey from residence in Jericho, West Bank",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/authorities-rescue-israeli-shoppers-seize-090319743.html",
-          "pub": 1787130199000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1967,24 +2876,6 @@
           "deck": "When several horses wildly outperformed the odds at tracks at Saratoga and the Jersey Shore, bookmakers in London were stung and industry watchers suspected an elaborate plot.",
           "link": "https://www.nytimes.com/2026/08/19/business/horse-racing-betting-coup.html",
           "pub": 1787130148000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Friendship Is the New Luxury Good",
-      "pub": 1787130141000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Friendship Is the New Luxury Good",
-          "deck": "The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant.",
-          "link": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
-          "pub": 1787130141000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -2370,24 +3261,6 @@
       ]
     },
     {
-      "title": "The AI We’re Building Needs a Kill Switch | Opinion",
-      "pub": 1787130000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The AI We’re Building Needs a Kill Switch | Opinion",
-          "deck": "Leadership the world can trust requires that our most powerful systems stay safe, accountable, and answerable to us.",
-          "link": "https://www.newsweek.com/the-ai-were-building-needs-a-kill-switch-12333342",
-          "pub": 1787130000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "'Tony' Refuses to Make Anthony Bourdain a Hero. That's Why It Works",
       "pub": 1787130000000,
       "lean": "ct",
@@ -2434,24 +3307,6 @@
           "title": "Quantum Computing’s Revolutionary Promise Is Bringing Real-World Solutions",
           "deck": "“We are saying right now that it’s here.",
           "link": "https://www.newsweek.com/nw-ai-technology/quantum-computings-revolutionary-promise-is-bringing-real-world-solutions-12332913",
-          "pub": 1787130000000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "For Months, Doctors Blamed Anxiety. The Real Diagnosis Changed Everything",
-      "pub": 1787130000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "For Months, Doctors Blamed Anxiety. The Real Diagnosis Changed Everything",
-          "deck": "It was the darkest time of my life.",
-          "link": "https://www.newsweek.com/doctors-blamed-anxiety-real-diagnosis-changed-everything-12332160",
           "pub": 1787130000000,
           "src": "NWWK",
           "srcFull": "Newsweek",
@@ -2510,6 +3365,24 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Unitree unveils ‘Superman’ humanoid robot",
+      "pub": 1787129553000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Unitree unveils ‘Superman’ humanoid robot",
+          "deck": "Chinese robotics company Unitree unveiled a new humanoid robot dubbed “Superman” which it says is “breaking the limits of humanity.",
+          "link": "https://www.nbcnews.com/video/unitree-unveils-superman-humanoid-robot-268519493780",
+          "pub": 1787129553000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
         }
       ]
     },
@@ -2708,6 +3581,60 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Arday's Final Self-Delusion",
+      "pub": 1787128355000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Arday's Final Self-Delusion",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/08/18/ardays_final_self-delusion_708346.html",
+          "pub": 1787128355000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Call to Power: Islamic Leaders See Ballot Box as Path to Paradise",
+      "pub": 1787128349000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Call to Power: Islamic Leaders See Ballot Box as Path to Paradise",
+          "deck": "The call to prayer is sounding across America.",
+          "link": "https://www.realclearinvestigations.com/articles/2026/08/18/a_call_to_power_islamic_leaders_see_ballot_box_as_path_to_paradise_1200926.html",
+          "pub": 1787128349000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "In Common Sense vs. Crazy, Dems Lose Every Time",
+      "pub": 1787128339000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "In Common Sense vs. Crazy, Dems Lose Every Time",
+          "deck": "The midterm elections present a stark choice for voters: common-sense Republican leadership versus radical Democratic extremism.",
+          "link": "https://www.realclearpolitics.com/2026/08/18/in_common_sense_vs_crazy_dems_lose_every_time_708348.html",
+          "pub": 1787128339000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
         }
       ]
     },
@@ -2929,7 +3856,7 @@
     },
     {
       "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
-      "pub": 1787126160000,
+      "pub": 1787126161000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -2938,28 +3865,10 @@
           "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
           "deck": "State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm.",
           "link": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
-          "pub": 1787126160000,
+          "pub": 1787126161000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Kai Trump recalls ‘a lot of crying’ with mom Vanessa before college amid breast cancer battle",
-      "pub": 1787126081000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kai Trump recalls ‘a lot of crying’ with mom Vanessa before college amid breast cancer battle",
-          "deck": "President Donald Trump’s 19-year-old granddaughter recently began her freshman year at the University of Miami.",
-          "link": "https://nypost.com/2026/08/19/us-news/kai-trump-recalls-a-lot-of-crying-with-mom-vanessa-before-college-amid-breast-cancer-battle/",
-          "pub": 1787126081000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -3018,24 +3927,6 @@
       ]
     },
     {
-      "title": "Olivia Rodrigo secretly helps pay off University of Alabama student’s college tuition",
-      "pub": 1787125379000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Olivia Rodrigo secretly helps pay off University of Alabama student’s college tuition",
-          "deck": "The “Drivers License” singer’s kind gesture was revealed by student Jamie Causey in a TikTok video Tuesday.",
-          "link": "https://pagesix.com/2026/08/19/celebrity-news/olivia-rodrigo-secretly-helps-pay-off-university-of-alabama-students-college-tuition/",
-          "pub": 1787125379000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "iOS 26.6.1 And iOS 18.7.10—Update Now Warning For All iPhone Users",
       "pub": 1787124681000,
       "lean": "ct",
@@ -3068,6 +3959,24 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bear attacks man at Colorado apartment complex, officials say",
+      "pub": 1787124577000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bear attacks man at Colorado apartment complex, officials say",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/bear-attacks-man-colorado-apartment-072937234.html",
+          "pub": 1787124577000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3216,24 +4125,6 @@
       ]
     },
     {
-      "title": "Nelson Peltz might take Wendy’s private following six straight quarterly sales declines as customers flee its poor franchise models and bad marketing",
-      "pub": 1787122800000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Nelson Peltz might take Wendy’s private following six straight quarterly sales declines as customers flee its poor franchise models and bad marketing",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nelson-peltz-might-wendy-private-070000066.html",
-          "pub": 1787122800000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Open Thread",
       "pub": 1787122800000,
       "lean": "ct",
@@ -3265,24 +4156,6 @@
           "pub": 1787122800000,
           "src": "DISP",
           "srcFull": "The Dispatch",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Dear Abby: I’m being harassed about an explicit video that I’m pretty sure I didn’t star in",
-      "pub": 1787122800000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dear Abby: I’m being harassed about an explicit video that I’m pretty sure I didn’t star in",
-          "deck": "Dear Abby advises someone who has been harassed about a video she doesn't know about, and someone who wants to bring on extra help for their mom so they can travel, before it is too late, but their mother refuses.",
-          "link": "https://nypost.com/2026/08/19/lifestyle/dear-abby-im-being-harrassed-about-an-explicit-video-that-im-pretty-sure-i-didnt-star-in/",
-          "pub": 1787122800000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -4134,6 +5007,24 @@
       ]
     },
     {
+      "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
+      "pub": 1787112089000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/iran-latest-warning-us-signals-040129736.html",
+          "pub": 1787112089000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "In a Faltering Chinese Economy, Working-Class Stories Strike a Chord",
       "pub": 1787112008000,
       "lean": "ll",
@@ -4553,879 +5444,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
-      "pub": 1787108488000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
-          "deck": "Dr. Overton is a fierce opponent of abortion rights and a supporter of Health Secretary Robert F. Kennedy Jr.’s Make America Healthy Again agenda.",
-          "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
-          "pub": 1787108488000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "pub": 1787108435000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-          "deck": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-          "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787108435000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Why Are So Many Democrats Being Arrested On Fraud Charges?",
-      "pub": 1787108400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Are So Many Democrats Being Arrested On Fraud Charges?",
-          "deck": "Why Are So Many Democrats Being Arrested On Fraud Charges?",
-          "link": "https://www.zerohedge.com/political/why-are-so-many-democrats-being-arrested-fraud-charges",
-          "pub": 1787108400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate",
-      "pub": 1787108315000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate",
-          "deck": "Eric Barlow’s defeat of Megan Degenfelder, the state superintendent of education, again showed the limits of the president’s favor.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/wyoming-governor-republican-primary.html",
-          "pub": 1787108315000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jolly thanks supporters after projected win in Florida Democratic gubernatorial primary",
-      "pub": 1787108295000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jolly thanks supporters after projected win in Florida Democratic gubernatorial primary",
-          "deck": "Former Rep.",
-          "link": "https://www.nbcnews.com/video/jolly-thanks-supporters-after-projected-win-in-florida-democratic-gubernatorial-primary-268511301851",
-          "pub": 1787108295000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump pauses 50% tariffs on Canada hours before deadline after announcing potential deal",
-      "pub": 1787108071000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump pauses 50% tariffs on Canada hours before deadline after announcing potential deal",
-          "deck": "President Donald Trump paused 50% tariffs on Canadian imports hours before they took effect, saying a deal with Canada is pending finalization.",
-          "link": "https://www.foxbusiness.com/politics/trump-pauses-50-tariffs-canada-hours-before-deadline-after-announcing-new-deal",
-          "pub": 1787108071000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Harriet Hageman, Backed by Trump, Wins Wyoming’s Republican Senate Primary",
-      "pub": 1787108043000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Harriet Hageman, Backed by Trump, Wins Wyoming’s Republican Senate Primary",
-          "deck": "Ms. Hageman, who unseated Representative Liz Cheney in 2022, is a heavy favorite to replace Senator Cynthia Lummis in the deep-red state.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/wyoming-senate-trump-republican-hageman.html",
-          "pub": 1787108043000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming",
-      "pub": 1787108023000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming",
-          "deck": "Hageman, Wyoming’s lone House member, won the GOP nomination to succeed retiring Sen.",
-          "link": "https://www.nbcnews.com/politics/2026-election/trump-backed-pharriet-hageman-wins-republican-senate-primary-wyoming-rcna592388",
-          "pub": 1787108023000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Chinese Robot Maker Unitree Soars 500 Percent in Trading Debut",
-      "pub": 1787107643000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chinese Robot Maker Unitree Soars 500 Percent in Trading Debut",
-          "deck": "Unitree is the second major Chinese technology company linked to the country’s artificial intelligence boom to surge following its initial public offering in the past month.",
-          "link": "https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html",
-          "pub": 1787107643000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How NASA Engineers Are Keeping the Voyagers Alive",
-      "pub": 1787107624000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "How NASA Engineers Are Keeping the Voyagers Alive",
-          "deck": "A reworking of the spacecraft’s power systems could extend the nearly 50-year-old Voyagers’ exploration of interstellar space into the early 2030s.",
-          "link": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
-          "pub": 1787107624000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "5 Things to Know About Angie Nixon, Democratic Senate Candidate in Florida",
-      "pub": 1787107298000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "5 Things to Know About Angie Nixon, Democratic Senate Candidate in Florida",
-          "deck": "Ms. Nixon, a democratic socialist, is running on a platform that calls for universal health care and a federal minimum wage of $25 per hour.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/angie-nixon-democrat-florida-senate-candidate.html",
-          "pub": 1787107298000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Angie Nixon Scores Upset Win in Florida Senate Primary",
-      "pub": 1787107005000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Angie Nixon Scores Upset Win in Florida Senate Primary",
-          "deck": "Angie Nixon faces another difficult test this November against a Republican incumbent heavily favored to win.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-democratic-senate-primary-results.html",
-          "pub": 1787107005000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Where Have All The Conservatives Gone?",
-      "pub": 1787106900000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Where Have All The Conservatives Gone?",
-          "deck": "Where Have All The Conservatives Gone?",
-          "link": "https://www.zerohedge.com/political/where-have-all-conservatives-gone",
-          "pub": 1787106900000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy trial: 'Mortal sin' question a 'cheap shot,' attorney says",
-      "pub": 1787106785000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lindsay Clancy trial: 'Mortal sin' question a 'cheap shot,' attorney says",
-          "deck": "The judge paused questioning and later told jurors to disregard the question.",
-          "link": "https://www.newsnationnow.com/crime/lindsay-clancy-trial-mortal-sin-prosecutor/",
-          "pub": 1787106785000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump announces three-day delay to 50% tariffs on Canadian imports, says US and northern neighbor ‘have a DEAL!’",
-      "pub": 1787106590000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump announces three-day delay to 50% tariffs on Canadian imports, says US and northern neighbor ‘have a DEAL!’",
-          "deck": "\"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!",
-          "link": "https://nypost.com/2026/08/18/us-news/trump-announces-3-day-delay-to-50-tariffs-on-canadian-imports-says-us-and-neighbor-have-a-deal/",
-          "pub": 1787106590000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
-      "pub": 1787106583000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
-          "deck": "President Trump’s White House aide Natalie Harp is always by his side.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
-          "pub": 1787106583000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "U.S., South Korea cut short their joint military drills at Trump's direction",
-      "pub": 1787106360000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "U.S., South Korea cut short their joint military drills at Trump's direction",
-          "deck": "President Trump ordered the exercises be scaled back, citing what he said was a good relationship with North Korean leader Kim Jong Un and South Korea's refusal to join the U.",
-          "link": "https://www.cbsnews.com/news/u-s-south-korea-cut-short-joint-military-drills-trump/",
-          "pub": 1787106360000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump pauses 50% tariffs on Canada for 3 days, citing a new deal",
-      "pub": 1787106179000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump pauses 50% tariffs on Canada for 3 days, citing a new deal",
-          "deck": "President Donald Trump late Tuesday slammed the brakes on a wave of tariffs that were set to hit Canada at midnight.",
-          "link": "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariffs-rcna593176",
-          "pub": 1787106179000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Michael Goodwin: Voluntary regime change in Iran appears to be a pipe dream — despite Trump’s efforts",
-      "pub": 1787106104000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Michael Goodwin: Voluntary regime change in Iran appears to be a pipe dream — despite Trump’s efforts",
-          "deck": "It’s a dispiriting but sober assessment that anyone who still believes a voluntary regime change is possible is pursuing a fool’s ­errand.",
-          "link": "https://nypost.com/2026/08/18/opinion/michael-goodwin-regime-change-in-iran-remains-a-pipe-dream-but-trump-has-still-achieved-meaningful-change/",
-          "pub": 1787106104000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Scandal-ridden Cory Mills ousted in GOP primary in Florida's 7th District",
-      "pub": 1787105979000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scandal-ridden Cory Mills ousted in GOP primary in Florida's 7th District",
-          "deck": "The Trump-backed incumbent has struggled to raise money for his reelection bid as the House Ethics Committee investigates numerous allegations against him.",
-          "link": "https://www.cbsnews.com/news/florida-7th-district-gop-primary-results-cory-mills-ryan-elijah/",
-          "pub": 1787105979000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Abdul El-Sayed’s mom worked for ‘global terrorist’ group accused of funding bin Laden, Hamas and Taliban: report",
-      "pub": 1787105940000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Abdul El-Sayed’s mom worked for ‘global terrorist’ group accused of funding bin Laden, Hamas and Taliban: report",
-          "deck": "The mother of lefty Michigan State Senate candidate Abdul El-Sayed, worked for 'global terrorist' organization accused of funding Osama Bin Laden, Hamas and the Taliban, according to a new report.",
-          "link": "https://nypost.com/2026/08/18/us-news/abdul-el-sayeds-mom-worked-for-global-terrorist-group-accused-of-funding-bin-laden-hamas-and-taliban-report/",
-          "pub": 1787105940000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Illegal Immigrant Killer Found Not Guilty By Insanity, Flees US During Hospital Leave",
-      "pub": 1787105400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Illegal Immigrant Killer Found Not Guilty By Insanity, Flees US During Hospital Leave",
-          "deck": "Illegal Immigrant Killer Found Not Guilty By Insanity, Flees US During Hospital Leave An illegal immigrant found not guilty by reason of insanity in a 2019 killing managed to flee the United States on a one-way flight to his native Tajikistan while on an approved 48-hour pass from a state mental health facility.",
-          "link": "https://www.zerohedge.com/political/illegal-immigrant-killer-found-not-guilty-insanity-flees-us-during-hospital-leave",
-          "pub": 1787105400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Democratic Socialists Take the Senate Nomination — in Florida, of All Places",
-      "pub": 1787105278000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Democratic Socialists Take the Senate Nomination — in Florida, of All Places",
-          "deck": "Democratic base voters are no longer moved by tales of a ‘Resistance’ that only brought Trump back to the presidency.",
-          "link": "https://www.nationalreview.com/corner/the-democratic-socialists-take-the-senate-nomination-in-florida-of-all-places/",
-          "pub": 1787105278000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Progressive Defeats Vindman in Primary for Florida Senate",
-      "pub": 1787105222000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Progressive Defeats Vindman in Primary for Florida Senate",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/18/progressive_defeats_vindman_in_primary_for_florida_senate_708355.html",
-          "pub": 1787105222000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Arday's Final Self-Delusion",
-      "pub": 1787105218000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Arday's Final Self-Delusion",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/08/18/ardays_final_self-delusion_708346.html",
-          "pub": 1787105218000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Coolidge on the Christian Roots of American Liberty",
-      "pub": 1787105216000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Coolidge on the Christian Roots of American Liberty",
-          "deck": "Calvin Coolidge's speech in honor of the declaration's 150th anniversary is a permanent contribution to America's self-understanding.",
-          "link": "https://www.realclearpolitics.com/2026/08/18/coolidge_on_the_christian_roots_of_american_liberty_708351.html",
-          "pub": 1787105216000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Call to Power: Islamic Leaders See Ballot Box as Path to Paradise",
-      "pub": 1787105213000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Call to Power: Islamic Leaders See Ballot Box as Path to Paradise",
-          "deck": "The call to prayer is sounding across America.",
-          "link": "https://www.realclearinvestigations.com/articles/2026/08/18/a_call_to_power_islamic_leaders_see_ballot_box_as_path_to_paradise_1200926.html",
-          "pub": 1787105213000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "What Americans Do and Don't Like About Democrats",
-      "pub": 1787105212000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What Americans Do and Don't Like About Democrats",
-          "deck": "Hakeem Jeffries is betting that moderates can unite the party around progressive policies while keeping their distance from socialism.",
-          "link": "https://www.realclearpolitics.com/2026/08/18/what_americans_do_and_dont_like_about_democrats_708250.html",
-          "pub": 1787105212000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "In Common Sense vs. Crazy, Dems Lose Every Time",
-      "pub": 1787105210000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "In Common Sense vs. Crazy, Dems Lose Every Time",
-          "deck": "The midterm elections present a stark choice for voters: common-sense Republican leadership versus radical Democratic extremism.",
-          "link": "https://www.realclearpolitics.com/2026/08/18/in_common_sense_vs_crazy_dems_lose_every_time_708348.html",
-          "pub": 1787105210000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Primary Day in Florida and Alaska",
-      "pub": 1787105208000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Primary Day in Florida and Alaska",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/video/2026/08/18/rcp_podcast_primary_day_in_florida_and_alaska_flock_cameras_catch_heat_trumps_korea_gamble.html",
-          "pub": 1787105208000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Donalds To Face Jolly for Florida Governor",
-      "pub": 1787105206000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Donalds To Face Jolly for Florida Governor",
-          "deck": "The two leading candidates are running to replace Gov.",
-          "link": "https://www.realclearpolitics.com/2026/08/18/donalds_to_face_jolly_for_florida_governor_708357.html",
-          "pub": 1787105206000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Webster's pick loses GOP primary for open Florida House seat",
-      "pub": 1787105147000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Webster's pick loses GOP primary for open Florida House seat",
-          "deck": "Retiring Rep.",
-          "link": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
-          "pub": 1787105147000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
-      "pub": 1787105071000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
-          "deck": "Mr. Mills, who is under investigation by the House Ethics Committee and has faced allegations of assault and threatening behavior toward women, lost to Ryan Elijah, a former TV news anchor.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
-          "pub": 1787105071000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Costco plots major expansion into senior healthcare with Medicare partnership",
-      "pub": 1787104909000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Costco plots major expansion into senior healthcare with Medicare partnership",
-          "deck": "In a first-of-its-kind venture, Costco is partnering with SCAN Health Plan on senior-focused insurance products that could include pharmacy, vision and hearing benefits.",
-          "link": "https://www.foxbusiness.com/retail/costco-plots-major-expansion-senior-healthcare-medicare-partnership",
-          "pub": 1787104909000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Darline Graham says ‘national security is not my thing,’ during South Carolina debate",
-      "pub": 1787104822000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Darline Graham says ‘national security is not my thing,’ during South Carolina debate",
-          "deck": "The appointed senator and her GOP primary opponent, Rep.",
-          "link": "https://www.nbcnews.com/politics/2026-election/darline-graham-defends-resume-south-carolina-debate-saying-national-se-rcna593244",
-          "pub": 1787104822000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "NYT Strands Hints, Spangram, Answers: Wednesday, August 19 (For Better Or Wurst)",
-      "pub": 1787104807000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "NYT Strands Hints, Spangram, Answers: Wednesday, August 19 (For Better Or Wurst)",
-          "deck": "Looking for help with today's NYT Strands puzzle?",
-          "link": "https://www.forbes.com/sites/paultassi/2026/08/18/nyt-strands-hints-spangram-answers-wednesday-august-19-for-better-or-wurst/",
-          "pub": 1787104807000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-      "pub": 1787104625000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-          "deck": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-          "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-          "pub": 1787104625000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "U.S. military drills with South Korea are cut short after surprise Trump order",
-      "pub": 1787104481000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "U.S. military drills with South Korea are cut short after surprise Trump order",
-          "deck": "The annual U.",
-          "link": "https://www.nbcnews.com/world/asia/us-south-korea-joint-military-drills-scaled-back-trump-order-rcna593264",
-          "pub": 1787104481000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Nixon to voters: ‘We deserve to thrive’",
-      "pub": 1787104228000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Nixon to voters: ‘We deserve to thrive’",
-          "deck": "State Rep. Angie Nixon celebrated with supporters after her projected win in the Florida Democratic Senate primary. She defeated former National Security Council aide Alex Vindman.",
-          "link": "https://www.nbcnews.com/video/rep-angie-nixon-celebrates-projected-florida-senate-primary-win-268507205771",
-          "pub": 1787104228000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Why ‘progressive’ Ro Khanna wants to lend money to billionaires",
-      "pub": 1787104129000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why ‘progressive’ Ro Khanna wants to lend money to billionaires",
-          "deck": "There are a lot of problems with California's proposed \"billionaire tax,\" Proposition 40.",
-          "link": "https://nypost.com/2026/08/18/opinion/why-progressive-ro-khanna-wants-to-lend-money-to-billionaires/",
-          "pub": 1787104129000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Eric Hobsbawm's Age of Contradictions",
-      "pub": 1787104075000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Eric Hobsbawm's Age of Contradictions",
-          "deck": "For most academics, professional success extends to citations and conference invites.",
-          "link": "https://www.realclearpolitics.com/2026/08/18/eric_hobsbawms_age_of_contradictions_708249.html",
-          "pub": 1787104075000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "California bans most replacement tires — so much for ‘affordability’!",
-      "pub": 1787103594000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "California bans most replacement tires — so much for ‘affordability’!",
-          "deck": "California just adopted new regulations for replacement tires that will further squeeze family budgets and make our roads more dangerous.",
-          "link": "https://nypost.com/2026/08/18/opinion/california-bans-most-spare-tires-forget-affordability/",
-          "pub": 1787103594000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Son Of A Boxing Legend Featured In Bare Knuckle Boxing Event",
-      "pub": 1787103396000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Son Of A Boxing Legend Featured In Bare Knuckle Boxing Event",
-          "deck": "BKB 58 Miami takes place Aug.",
-          "link": "https://www.forbes.com/sites/brianmazique/2026/08/18/bkb-58-miami-date-time-and-how-to-watch/",
-          "pub": 1787103396000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Byron Donalds Wins Republican Nomination for Florida Governor",
-      "pub": 1787103319000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": false,
-      "versions": [
-        {
-          "title": "Byron Donalds Wins Republican Nomination for Florida Governor",
-          "deck": "Mr. Donalds, a conservative congressman with the backing of President Trump, seeks to become the state’s first Black governor.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
-          "pub": 1787103319000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        },
-        {
-          "title": "Byron Donalds wins Republican nomination for Florida governor",
-          "deck": "Donalds had the endorsement of President Donald Trump and was the heavy favorite to win the nomination.",
-          "link": "https://justthenews.com/politics-policy/holdperson-wins-republican-nomination-florida-governor?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
-          "pub": 1787011200000,
-          "src": "JTN",
-          "srcFull": "Just the News",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-      "pub": 1787103262000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-          "deck": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
-          "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-          "pub": 1787103262000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight",
-      "pub": 1787102984000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/touchdown-private-chinese-rocket-aces-012944647.html",
-          "pub": 1787102984000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "ICE alleges House Democrats 'disrupted operations' at Georgia detention center",
-      "pub": 1787102960000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "ICE alleges House Democrats 'disrupted operations' at Georgia detention center",
-          "deck": "Immigration and Customs Enforcement (ICE) on Tuesday accused several House Democrats, including Rep.",
-          "link": "https://thehill.com/homenews/house/6036966-ice-house-democrats-disrupted-operations-stewart-detention/",
-          "pub": 1787102960000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
-      "pub": 1787102628000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
-          "deck": "The former Republican congressman will try to appeal to voters disaffected with President Trump in a state where Republicans significantly outnumber Democrats.",
-          "link": "https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html",
-          "pub": 1787102628000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     }
