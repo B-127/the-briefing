@@ -1,22 +1,544 @@
 {
-  "generated": "2026-08-21T22:16:58.552Z",
+  "generated": "2026-08-21T22:48:46.811Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Iran touts its trade ties as U.S. turns from bombs to economic warfare",
-      "pub": 1787350522000,
+      "title": "Giants already seeing payoff from demanding John Harbaugh training camp",
+      "pub": 1787352476000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Giants already seeing payoff from demanding John Harbaugh training camp",
+          "deck": "Giants players credit head coach John Harbaugh’s grueling training camp for helping them thrive in sweltering joint practices with the Dolphins.",
+          "link": "https://nypost.com/2026/08/21/sports/giants-seeing-payoff-from-demanding-john-harbaugh-training-camp/",
+          "pub": 1787352476000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Accused casino slasher flashes evil glare wearing suicide vest in first court appearance",
+      "pub": 1787352444000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Accused casino slasher flashes evil glare wearing suicide vest in first court appearance",
+          "deck": "The accused mass stabber might’ve injured many more people had not some of his coworkers stepped in.",
+          "link": "https://nypost.com/2026/08/21/us-news/alleged-thunder-valley-casino-attacker-makes-first-court-appearance-in-suicide-vest/",
+          "pub": 1787352444000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "pub": 1787352301000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Two injured in stabbing attack at Canada Sikh temple",
+          "deck": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787352301000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump says he'll spend 'a lot' of MAGA Inc. war chest in midterms",
+      "pub": 1787352249000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says he'll spend 'a lot' of MAGA Inc. war chest in midterms",
+          "deck": "President Trump said he’s prepared to spend ‘a lot’ of money from his MAGA Inc.",
+          "link": "https://thehill.com/homenews/administration/6044628-trump-spending-maga-pac-midterms/",
+          "pub": 1787352249000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "pub": 1787352247000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "deck": "",
+          "link": "https://finance.yahoo.com/media-advertising/articles/tiktok-pay-400m-us-one-213713713.html",
+          "pub": 1787352247000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fast delivery used to mean days — now, retailers are aiming for minutes",
+      "pub": 1787352169000,
+      "lean": "ct",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fast delivery used to mean days — now, retailers are aiming for minutes",
+          "deck": "Major retailers are doubling down on the need for speed, betting ultrafast service is key to winning customers.",
+          "link": "https://www.newsnationnow.com/business/your-money/fast-delivery-retailers/",
+          "pub": 1787352169000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "WNBA Bans Fan Who Threw Adult Toy on Court During Dream-Sparks Game",
+      "pub": 1787352129000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "WNBA Bans Fan Who Threw Adult Toy on Court During Dream-Sparks Game",
+          "deck": "The fan who threw an adult toy onto the court during Thursday's Dream vs Sparks game was swiftly disciplined by the WNBA.",
+          "link": "https://www.newsweek.com/wnba-bans-fan-who-threw-adult-toy-on-court-during-dream-sparks-game-12355071",
+          "pub": 1787352129000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
+      "pub": 1787352052000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
+          "deck": "The Pentagon has given separation notices to both the publisher and the editor-in-chief of Stars and Stripes, according to people familiar with the matter.",
+          "link": "https://www.cbsnews.com/news/stars-and-stripes-publisher-editor-separation-notices-pentagon/",
+          "pub": 1787352052000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "DOJ says Rubio should have final say over Foreign Service board in latest bid to tighten executive powers",
+      "pub": 1787351995000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "DOJ says Rubio should have final say over Foreign Service board in latest bid to tighten executive powers",
+          "deck": "President Donald Trump‘s Secretary of State Marco Rubio should have the final say when U.",
+          "link": "https://www.washingtonexaminer.com/news/justice/4696864/doj-rubio-foreign-service-board-tighten-executive-powers/",
+          "pub": 1787351995000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Rising data center backlash shakes up 2026 races",
+      "pub": 1787351934000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rising data center backlash shakes up 2026 races",
+          "deck": "{beacon} Technology Technology The Big Story Rising data center backlash shakes up 2026 races As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities.",
+          "link": "https://thehill.com/newsletters/technology/6044609-rising-data-center-backlash-shakes-up-2026-races/",
+          "pub": 1787351934000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "TikTok to pay $400 mn settlement in US children's privacy case",
+      "pub": 1787351904000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "TikTok to pay $400 mn settlement in US children's privacy case",
+          "deck": "",
+          "link": "https://finance.yahoo.com/media-advertising/articles/tiktok-pay-400-mn-settlement-214017166.html",
+          "pub": 1787351904000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "pub": 1787351772000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "deck": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "pub": 1787351772000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "You Max the 401(k), Own the House, and Still Have Cash Piling Up. These 3 ETFs Are the Next Account",
+      "pub": 1787351757000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "You Max the 401(k), Own the House, and Still Have Cash Piling Up. These 3 ETFs Are the Next Account",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/max-401-k-own-house-223557149.html",
+          "pub": 1787351757000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "pub": 1787351717000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+          "deck": "Beef prices in the U.",
+          "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+          "pub": 1787351717000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jim Cramer reveals the sweet spot for buying Target stock",
+      "pub": 1787351580000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jim Cramer reveals the sweet spot for buying Target stock",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-sweet-spot-223300892.html",
+          "pub": 1787351580000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump backs ‘honest’ SC Sen. Darline Graham after national security debate flop: ‘She’s very smart’",
+      "pub": 1787351515000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump backs ‘honest’ SC Sen. Darline Graham after national security debate flop: ‘She’s very smart’",
+          "deck": "\"All she was is being honest.",
+          "link": "https://nypost.com/2026/08/21/us-news/trump-backs-honest-sen-darline-graham-after-national-security-debate-flop/",
+          "pub": 1787351515000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "American colleges are facing an enrollment crisis as young people turn to trades",
+      "pub": 1787351501000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "American colleges are facing an enrollment crisis as young people turn to trades",
+          "deck": "\"People always ask me, 'Should I go to barber school?",
+          "link": "https://nypost.com/2026/08/21/us-news/american-colleges-are-facing-a-crisis-as-young-people-turn-to-trades/",
+          "pub": 1787351501000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "\"Everything as it was\": Explore the bedrooms of kids killed in school shootings",
+      "pub": 1787351404000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "\"Everything as it was\": Explore the bedrooms of kids killed in school shootings",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/everything-explore-bedrooms-kids-killed-210011759.html",
+          "pub": 1787351404000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "pub": 1787351317000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+          "deck": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+          "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787351317000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Interior Department outlines short-term plan for water cuts in California, Arizona, Nevada",
+      "pub": 1787351223000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Interior Department outlines short-term plan for water cuts in California, Arizona, Nevada",
+          "deck": "{beacon} Energy & Environment Energy & Environment The Big Story DOI outlines short-term plan for water cuts in CA, AZ, NV The federal government has unveiled its short-term plans for Colorado River water cuts from California, Arizona and Nevada — issuing a plan that’s largely in line with what the states themselves have proposed.",
+          "link": "https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv/",
+          "pub": 1787351223000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court Chief Justice Pauses Block On White House Ballroom Construction",
+      "pub": 1787351100000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Supreme Court Chief Justice Pauses Block On White House Ballroom Construction",
+          "deck": "Supreme Court Chief Justice Pauses Block On White House Ballroom Construction Authored by Zachary Stieber via The Epoch Times, Supreme Court Chief Justice John Roberts on Aug.",
+          "link": "https://www.zerohedge.com/political/supreme-court-chief-justice-pauses-block-white-house-ballroom-construction",
+          "pub": 1787351100000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Meghan Markle eyeing role in Guy Ritchie’s ‘The Gentlemen’ ahead of UK return",
+      "pub": 1787351013000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Meghan Markle eyeing role in Guy Ritchie’s ‘The Gentlemen’ ahead of UK return",
+          "deck": "The role would mark Markle's return to acting after an eight-year hiatus from the screen.",
+          "link": "https://pagesix.com/2026/08/21/royal-family/meghan-markle-eyeing-role-in-netflixs-the-gentlemen-ahead-of-uk-return/",
+          "pub": 1787351013000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Meghan Markle eyeing role in Guy Ritchie’s ‘The Gentlemen’ as UK return looms",
+      "pub": 1787351013000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Meghan Markle eyeing role in Guy Ritchie’s ‘The Gentlemen’ as UK return looms",
+          "deck": "The role would mark Markle's return to acting after an eight-year hiatus from the screen.",
+          "link": "https://pagesix.com/2026/08/21/royal-family/meghan-markle-eyeing-role-in-netflixs-the-gentlemen-ahead-of-uk-return/",
+          "pub": 1787351013000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
+      "pub": 1787351002000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
+          "deck": "President Trump will hit the campaign trail Friday in South Carolina to rally support for Sen.",
+          "link": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
+          "pub": 1787351002000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Darryl Strawberry has words for detractors of cocaine-suspended Nick Kyrgios",
+      "pub": 1787350970000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Darryl Strawberry has words for detractors of cocaine-suspended Nick Kyrgios",
+          "deck": "Darryl Strawberry has a succinct message for anyone trying to dunk on Nick Kyrgios' suspension for cocaine: Back off.",
+          "link": "https://nypost.com/2026/08/21/sports/darryl-strawberry-backs-nick-kyrgios-amid-cocaine-suspension/",
+          "pub": 1787350970000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump says Iran \"not ready to make the right deal\" as U.S. turns to economic warfare",
+      "pub": 1787350965000,
       "lean": "ll",
       "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Iran touts its trade ties as U.S. turns from bombs to economic warfare",
+          "title": "Trump says Iran \"not ready to make the right deal\" as U.S. turns to economic warfare",
           "deck": "As Vice President JD Vance declares economic pressure \"the most effective tool that we have,\" Iran seeks to show deepening trade ties with its neighbors.",
           "link": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-          "pub": 1787350522000,
+          "pub": 1787350965000,
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Gustavo Gordillo, NYC DSA’s phony union champion, is doing $1.4M in repairs on home — and permits reveal hypocrisy",
+      "pub": 1787350851000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gustavo Gordillo, NYC DSA’s phony union champion, is doing $1.4M in repairs on home — and permits reveal hypocrisy",
+          "deck": "So much for solidarity!",
+          "link": "https://nypost.com/2026/08/21/us-news/gustavo-gordillo-nyc-dsas-phony-union-champion-is-doing-1-4m-in-repairs-on-home-and-permits-reveal-hypocrisy/",
+          "pub": 1787350851000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "This week in science: A new black hole star, exercises for dementia, and winter shrews",
+      "pub": 1787350742000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "This week in science: A new black hole star, exercises for dementia, and winter shrews",
+          "deck": "NPR's science podcast Short Wave talks about a new type of black hole star, the types of exercise linked to lowered dementia risk, and the wintry adaptations of the long-clawed shrew.",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5931450/this-week-in-science-a-new-black-hole-star-exercises-for-dementia-and-winter-shrews",
+          "pub": 1787350742000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime",
+      "pub": 1787350676000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-lawsuit-against-nonprofit-221756941.html",
+          "pub": 1787350676000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump has mountain of Leavitt replacements, says Scott Jennings 'is good'",
+      "pub": 1787350631000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump has mountain of Leavitt replacements, says Scott Jennings 'is good'",
+          "deck": "President Trump on Friday said he's never seen so many job applications in his life in response to the opening created by Karoline Leavitt's decision to leave her post as White House press secretary.",
+          "link": "https://thehill.com/homenews/administration/6044575-leavitt-leaves-white-house/",
+          "pub": 1787350631000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
         }
       ]
     },
@@ -39,20 +561,38 @@
       ]
     },
     {
-      "title": "Google exec killed while biking as grieving family rips LA for removing bike lanes",
+      "title": "Pregnant Google exec killed while biking — grieving family are pinning the blame on LA city policy",
       "pub": 1787350430000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Google exec killed while biking as grieving family rips LA for removing bike lanes",
+          "title": "Pregnant Google exec killed while biking — grieving family are pinning the blame on LA city policy",
           "deck": "The family of the pregnant Google executive killed while biking is pointing the finger at the city of Los Angeles for her death.",
           "link": "https://nypost.com/2026/08/21/us-news/family-blames-la-for-death-of-pregnant-google-exec-struck-while-biking/",
           "pub": 1787350430000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Pentagon fires Stars and Stripes editor in chief, publisher, reporter",
+      "pub": 1787350274000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pentagon fires Stars and Stripes editor in chief, publisher, reporter",
+          "deck": "The Pentagon fired the publisher, editor in chief and at least one reporter at Stars and Stripes, a historically independent military news outlet, Friday as the department has looked to reshape its coverage in recent months.",
+          "link": "https://thehill.com/policy/defense/6044565-pentagon-fires-stars-stripes-leaders/",
+          "pub": 1787350274000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
         }
       ]
     },
@@ -75,24 +615,6 @@
       ]
     },
     {
-      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "pub": 1787350225000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-          "deck": "Beef prices in the U.",
-          "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-          "pub": 1787350225000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Conjoined twin girls, 2, die in desperate surgical operation minutes after being separated",
       "pub": 1787350203000,
       "lean": "lr",
@@ -111,6 +633,24 @@
       ]
     },
     {
+      "title": "Lindsay Clancy trial: What each possible verdict would mean",
+      "pub": 1787350202000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lindsay Clancy trial: What each possible verdict would mean",
+          "deck": "Under Massachusetts law, the burden is on prosecutors to prove beyond a reasonable doubt Clancy was criminally responsible.",
+          "link": "https://www.newsnationnow.com/crime/lindsay-clancy-possible-verdicts/",
+          "pub": 1787350202000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Timberwolves’ Anthony Edwards ordered to pay $14K in child support — to kid he’s never met",
       "pub": 1787350165000,
       "lean": "lr",
@@ -125,6 +665,42 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Max Holloway Reveals the Only 2 UFC Fights He Wants After Conor McGregor Win",
+      "pub": 1787350092000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Max Holloway Reveals the Only 2 UFC Fights He Wants After Conor McGregor Win",
+          "deck": "Fresh off a UFC 329 win over Conor McGregor, Max Holloway has made it clear he's has just two fights in mind for his next bout.",
+          "link": "https://www.newsweek.com/sports/mma/max-holloway-reveals-the-only-2-ufc-fights-he-wants-after-conor-mcgregor-win-12354805",
+          "pub": 1787350092000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Plane crash near remote radar site in Alaska kills 8 people",
+      "pub": 1787349926000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Plane crash near remote radar site in Alaska kills 8 people",
+          "deck": "A plane crash in a remote region of Alaska has left eight people dead, including two U.",
+          "link": "https://www.nbcnews.com/video/plane-crash-near-remote-radar-site-in-alaska-kills-8-people-268694597822",
+          "pub": 1787349926000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
         }
       ]
     },
@@ -165,24 +741,6 @@
       ]
     },
     {
-      "title": "Exclusive-Fauci's lawyers set up legal defense fund as US probes multiply",
-      "pub": 1787349805000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Exclusive-Fauci's lawyers set up legal defense fund as US probes multiply",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/exclusive-faucis-lawyers-set-legal-203949707.html",
-          "pub": 1787349805000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Harry who? Meet the hidden royals living like normal U.S. residents",
       "pub": 1787349777000,
       "lean": "lr",
@@ -212,60 +770,6 @@
           "deck": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case.",
           "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
           "pub": 1787349730000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-      "pub": 1787349639000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-          "deck": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water in West Sussex.",
-          "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787349639000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "pub": 1787349626000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-          "deck": "",
-          "link": "https://finance.yahoo.com/media-advertising/articles/tiktok-pay-400m-us-one-213713713.html",
-          "pub": 1787349626000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "pub": 1787349623000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-          "deck": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-          "pub": 1787349623000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -335,66 +839,12 @@
       "versions": [
         {
           "title": "Trump defends beef import plan after GOP blowback",
-          "deck": "President Trump Friday defended his decision to temporary suspend higher tariffs on ground beef imports, saying it’s “what the people want.",
+          "deck": "President Trump defended his decision Friday to temporarily suspend higher tariffs on ground beef imports, saying it’s “what the people want.",
           "link": "https://thehill.com/homenews/administration/6044555-trump-suspends-ground-beef-tariffs/",
           "pub": 1787349555000,
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Amylyx (AMLX) Faces a Binary Phase 3 Test. Can Avexitide Rebuild the Company?",
-      "pub": 1787349488000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Amylyx (AMLX) Faces a Binary Phase 3 Test. Can Avexitide Rebuild the Company?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/healthcare/articles/amylyx-amlx-faces-binary-phase-215808575.html",
-          "pub": 1787349488000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Advance Auto Parts vs. Lockheed Martin: Which Stock Is a Better Buy in 2026?",
-      "pub": 1787349481000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Advance Auto Parts vs. Lockheed Martin: Which Stock Is a Better Buy in 2026?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-vs-lockheed-215801381.html",
-          "pub": 1787349481000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Why Ross Stores Stock Is Up Today",
-      "pub": 1787349472000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Ross Stores Stock Is Up Today",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-ross-stores-stock-today-215752415.html",
-          "pub": 1787349472000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -412,6 +862,24 @@
           "pub": 1787349293000,
           "src": "HILL",
           "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Who Is Lindsay Clancy’s Ex-Husband? Patrick Clancy Has Remarried",
+      "pub": 1787349293000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Who Is Lindsay Clancy’s Ex-Husband? Patrick Clancy Has Remarried",
+          "deck": "Jurors assess Lindsay Clancy’s responsibility while her ex‑husband details her mental decline.",
+          "link": "https://www.newsweek.com/lindsay-clancy-trial-husband-patrick-kids-case-12354062",
+          "pub": 1787349293000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -453,6 +921,24 @@
       ]
     },
     {
+      "title": "Who Was Alisa Goods? Missing New Yorker Found Dead in Las Vegas",
+      "pub": 1787349192000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Who Was Alisa Goods? Missing New Yorker Found Dead in Las Vegas",
+          "deck": "Alisa Goods, a 63-year-old Brooklyn grandmother who vanished during a trip to Las Vegas, has been found dead, relatives said.",
+          "link": "https://www.newsweek.com/who-was-alisa-goods-missing-new-yorker-found-dead-in-las-vegas-12354454",
+          "pub": 1787349192000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "TCU star Jacob Fields dismissed for allegedly assaulting teammate in shocker",
       "pub": 1787349033000,
       "lean": "lr",
@@ -489,14 +975,14 @@
       ]
     },
     {
-      "title": "Boxing champion Zolani Tete shot dead at 28 in ‘hail of bullets’",
+      "title": "Boxing champion Zolani Tete shot dead at 38 in ‘hail of bullets’",
       "pub": 1787348993000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Boxing champion Zolani Tete shot dead at 28 in ‘hail of bullets’",
+          "title": "Boxing champion Zolani Tete shot dead at 38 in ‘hail of bullets’",
           "deck": "Zolani Tete, a boxing world champion in multiple weight classes, was shot dead outside his home in his hometown, Mdantsane, Eastern Cape, South Africa.",
           "link": "https://nypost.com/2026/08/21/sports/boxing-champion-zolani-tete-shot-dead-at-28-in-hail-of-bullets/",
           "pub": 1787348993000,
@@ -520,6 +1006,24 @@
           "pub": 1787348973000,
           "src": "REAS",
           "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mercury Rookie Celebrates Diana Taurasi With Portrait",
+      "pub": 1787348887000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mercury Rookie Celebrates Diana Taurasi With Portrait",
+          "deck": "Phoenix Mercury rookie Marta Suarez celebrated Diana Taurasi by painting a portrait of her ahead of her Ring of Honor ceremony.",
+          "link": "https://www.newsweek.com/sports/mercury-rookie-celebrates-diana-taurasi-with-portrait-12354681",
+          "pub": 1787348887000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -564,7 +1068,7 @@
       "title": "Charter boat hauls in 1,260-pound blue marlin believed to be East Coast's largest catch",
       "pub": 1787348719000,
       "lean": "ll",
-      "cat": "Science",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
@@ -597,17 +1101,17 @@
       ]
     },
     {
-      "title": "Swedish police say 1 dead, 2 injured after school sword attack",
-      "pub": 1787348601000,
+      "title": "Sword attack at school in Sweden leaves 1 dead, police say",
+      "pub": 1787348580000,
       "lean": "ll",
       "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Swedish police say 1 dead, 2 injured after school sword attack",
+          "title": "Sword attack at school in Sweden leaves 1 dead, police say",
           "deck": "An 18-year-old with a sword attacked a school Friday in central Sweden, killing one person and seriously injuring at least two others.",
           "link": "https://www.cbsnews.com/news/sweden-school-sword-attack-fagersta/",
-          "pub": 1787348601000,
+          "pub": 1787348580000,
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
@@ -773,6 +1277,24 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump Floats Names of Potential Karoline Leavitt Successors",
+      "pub": 1787348266000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Donald Trump Floats Names of Potential Karoline Leavitt Successors",
+          "deck": "Trump spoke about who could replace Karoline Leavitt, floating Scott Jennings, Margo Martin and even a reporter.",
+          "link": "https://www.newsweek.com/trump-karoline-leavitt-replacement-scott-jennings-margo-martin-12354764",
+          "pub": 1787348266000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -957,6 +1479,42 @@
       ]
     },
     {
+      "title": "Texans Sign Two Veteran WRs After Jayden Higgins' Torn ACL",
+      "pub": 1787347879000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Texans Sign Two Veteran WRs After Jayden Higgins' Torn ACL",
+          "deck": "Houston is bringing in reinforcements at wide receiver after Jayden Higgins' season-ending ACL injury.",
+          "link": "https://www.newsweek.com/sports/nfl/texans-sign-two-veteran-wrs-after-jayden-higgins-torn-acl-12354554",
+          "pub": 1787347879000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "AI Data Centers Would Go Dark First On North America’s Largest Grid",
+      "pub": 1787347833000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "AI Data Centers Would Go Dark First On North America’s Largest Grid",
+          "deck": "PJM would cut new 50-megawatt data centers before anyone else unless they bring newly built power.",
+          "link": "https://www.forbes.com/sites/robertszczerba/2026/08/21/ai-data-centers-would-go-dark-first-on-north-americas-largest-grid/",
+          "pub": 1787347833000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
       "pub": 1787347634000,
       "lean": "ct",
@@ -1029,46 +1587,10 @@
       ]
     },
     {
-      "title": "Met security guard ‘ruins’ romantic wedding proposal by ordering kneeling groom to ‘get up’",
-      "pub": 1787347380000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Met security guard ‘ruins’ romantic wedding proposal by ordering kneeling groom to ‘get up’",
-          "deck": "Lina, who said she's lawyer, was standing happily with her boyfriend in front of the stained glass section of the Big Apple museum, when he popped the question, according to footage she posted on Instagram last week.",
-          "link": "https://nypost.com/2026/08/21/us-news/met-security-guard-ruins-romantic-wedding-proposal-by-ordering-kneeling-groom-to-get-up/",
-          "pub": 1787347380000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "US imposes deep Colorado River water cuts to California, Nevada and Arizona",
-      "pub": 1787347278000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "US imposes deep Colorado River water cuts to California, Nevada and Arizona",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/us-finalizes-deep-colorado-river-180655328.html",
-          "pub": 1787347278000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "DOJ and TikTok reach $400 million settlement amid child privacy violation",
       "pub": 1787347241000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
@@ -1158,7 +1680,7 @@
       "title": "French cuisine takes Manhattan by storm — with more spots opening next month",
       "pub": 1787346950000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Business",
       "single": true,
       "versions": [
         {
@@ -1187,24 +1709,6 @@
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How Peyton Manning’s son Marshall fared in high school debut",
-      "pub": 1787346794000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Peyton Manning’s son Marshall fared in high school debut",
-          "deck": "Another Manning tasked with continuing his family’s dominance at quarterback took a step toward that point Thursday night.",
-          "link": "https://nypost.com/2026/08/21/sports/how-peyton-mannings-son-marshall-fared-in-high-school-debut/",
-          "pub": 1787346794000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1407,24 +1911,6 @@
       ]
     },
     {
-      "title": "Old school LA bar napkins from classic nightclubs are a nostalgic sip of a bygone era",
-      "pub": 1787346064000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Old school LA bar napkins from classic nightclubs are a nostalgic sip of a bygone era",
-          "deck": "The colorful collection, believed to date largely back to the 1950's and 1960's, was recently discovered and shared on Reddit.",
-          "link": "https://nypost.com/2026/08/21/lifestyle/old-school-los-angeles-bar-napkins-from-classic-bygone-nightclubs/",
-          "pub": 1787346064000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Vance’s homecoming is a throwback to 2024 — and a preview for 2026 and 2028: From the Politics Desk",
       "pub": 1787346000000,
       "lean": "ll",
@@ -1515,6 +2001,24 @@
       ]
     },
     {
+      "title": "Justin Fields Makes Travis Kelce Feel Old with 'Back in the Day' Comment",
+      "pub": 1787345774000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Justin Fields Makes Travis Kelce Feel Old with 'Back in the Day' Comment",
+          "deck": "Kansas City Chiefs quarterback Justin Fields stunned tight end Travis Kelce by not knowing a popular band.",
+          "link": "https://www.newsweek.com/sports/nfl/justin-fields-makes-travis-kelce-feel-old-with-back-in-the-day-comment-12354492",
+          "pub": 1787345774000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Footage of Toronto pro-Israel event misrepresented as recent Christian march",
       "pub": 1787345762000,
       "lean": "ll",
@@ -1564,6 +2068,24 @@
           "pub": 1787345675000,
           "src": "REAS",
           "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Former Mavericks Assistant Coach Joining 76ers Coaching Staff",
+      "pub": 1787345669000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Former Mavericks Assistant Coach Joining 76ers Coaching Staff",
+          "deck": "Former Dallas Mavericks assistant coach Phil Handy is reportedly joining the Philadelphia 76ers coaching staff next season.",
+          "link": "https://www.newsweek.com/sports/nba/former-mavericks-assistant-coach-joining-76ers-coaching-staff-12354460",
+          "pub": 1787345669000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -1803,6 +2325,24 @@
       ]
     },
     {
+      "title": "Lindsay Clancy Trial Predictions: What to Expect as Jury Decides",
+      "pub": 1787345135000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lindsay Clancy Trial Predictions: What to Expect as Jury Decides",
+          "deck": "Jurors enter a decisive phase in the Lindsay Clancy trial as they weigh intent against claims of severe mental illness.",
+          "link": "https://www.newsweek.com/lindsay-clancy-trial-update-outcome-murder-patrick-kids-12349407",
+          "pub": 1787345135000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "The A.I.-Robotics Job Only a Human Can Do",
       "pub": 1787345124000,
       "lean": "ll",
@@ -1893,28 +2433,10 @@
       ]
     },
     {
-      "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
-      "pub": 1787344799000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
-          "deck": "The Pentagon has given separation notices to both the publisher and the editor-in-chief of Stars and Stripes, according to people familiar with the matter.",
-          "link": "https://www.cbsnews.com/news/stars-and-stripes-publisher-editor-separation-notices-pentagon/",
-          "pub": 1787344799000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
       "pub": 1787344713000,
       "lean": "ll",
-      "cat": "Science",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -1965,6 +2487,24 @@
       ]
     },
     {
+      "title": "Titans QB Cam Ward Can't Stop Raving About Rookie WR Carnell Tate",
+      "pub": 1787344561000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Titans QB Cam Ward Can't Stop Raving About Rookie WR Carnell Tate",
+          "deck": "Titans QB Cam Ward opened up about what makes rookie WR Carnell Tate special, even after a quiet preseason debut.",
+          "link": "https://www.newsweek.com/sports/nfl/titans-qb-cam-ward-cant-stop-raving-about-rookie-wr-carnell-tate-12354402",
+          "pub": 1787344561000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
       "pub": 1787344540000,
       "lean": "ll",
@@ -2001,6 +2541,24 @@
       ]
     },
     {
+      "title": "ESPN Analyst Predicts 'Awesome' Bengals Will Win AFC North",
+      "pub": 1787344434000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "ESPN Analyst Predicts 'Awesome' Bengals Will Win AFC North",
+          "deck": "ESPN's Dan Orlovsky expects the Cincinnati Bengals to capture the AFC North title with a gaudy record in 2026.",
+          "link": "https://www.newsweek.com/sports/nfl/espn-analyst-predicts-awesome-bengals-will-win-afc-north-12354282",
+          "pub": 1787344434000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election 'legal battles'",
       "pub": 1787344424000,
       "lean": "ll",
@@ -2015,6 +2573,24 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "USWNT Star Named Best NWSL Player of 2026",
+      "pub": 1787344300000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "USWNT Star Named Best NWSL Player of 2026",
+          "deck": "Washington Spirit forward Trinity Rodman was named the best NWSL player of the 2026 season by ESPN's Jeff Kassouf.",
+          "link": "https://www.newsweek.com/sports/uswnt-star-named-best-nwsl-player-of-2026-12354317",
+          "pub": 1787344300000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -2050,6 +2626,24 @@
           "pub": 1787344092000,
           "src": "BBC",
           "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump's Economic War Pushes Iran Toward a Dangerous Limit",
+      "pub": 1787344080000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Donald Trump's Economic War Pushes Iran Toward a Dangerous Limit",
+          "deck": "An Iranian expert told Newsweek \"if the economic situation becomes truly critical,\" the answer may be \"major\" military escalation.",
+          "link": "https://www.newsweek.com/donald-trumps-economic-war-pushes-iran-toward-a-dangerous-limit-12350672",
+          "pub": 1787344080000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -2469,6 +3063,24 @@
       ]
     },
     {
+      "title": "Epic UGM: AI Ambitions Meet Health System Reality",
+      "pub": 1787342542000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Epic UGM: AI Ambitions Meet Health System Reality",
+          "deck": "Epic put AI agents, Cosmos and collaboration in the spotlight, while health systems wrestled with resource requirements.",
+          "link": "https://www.newsweek.com/pro/health-care/epic-ugm-ai-ambitions-meet-health-system-reality-access-health-12354400",
+          "pub": 1787342542000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "How a losing campaign in the Alleghenies became the blueprint for a Democratic upset in Trump country",
       "pub": 1787342527000,
       "lean": "lr",
@@ -2531,30 +3143,12 @@
       "versions": [
         {
           "title": "Trump, his clout on the line, to stump for Graham in South Carolina",
-          "deck": "The president’s political clout is on the line as he heads to South Carolina to campaign for Darline Graham.",
+          "deck": "The president brushed aside questions about Darline Graham's debate stumble, saying she was \"very smart\" and was focused on issues that voters care about like the price of groceries.",
           "link": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/",
           "pub": 1787342400000,
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "America’s commitments have outrun its fleet",
-      "pub": 1787342400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "America’s commitments have outrun its fleet",
-          "deck": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America.",
-          "link": "https://www.washingtonexaminer.com/in_focus/4696093/us-commitments-outrun-fleet/",
-          "pub": 1787342400000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -2595,19 +3189,55 @@
       ]
     },
     {
-      "title": "Navy reportedly weighs naming aircraft carrier for Trump instead of Black Pearl Harbor hero",
-      "pub": 1787341965000,
+      "title": "Black voters rip Dems over taking them for granted in El-Sayed's backyard: ‘Hush us up’",
+      "pub": 1787342263000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Black voters rip Dems over taking them for granted in El-Sayed's backyard: ‘Hush us up’",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/black-voters-rip-dems-over-195743067.html",
+          "pub": 1787342263000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Raiders HC Klint Kubiak Makes Maxx Crosby Decision After Texans Game",
+      "pub": 1787342098000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Navy reportedly weighs naming aircraft carrier for Trump instead of Black Pearl Harbor hero",
-          "deck": "The name of Pearl Harbor hero Doris Miller could be removed from one of the U.",
-          "link": "https://thehill.com/policy/defense/6044226-navy-doris-miller-trump-aircraft-carrier/",
-          "pub": 1787341965000,
-          "src": "HILL",
-          "srcFull": "The Hill",
+          "title": "Raiders HC Klint Kubiak Makes Maxx Crosby Decision After Texans Game",
+          "deck": "The Raiders have made a decision on Maxx Crosby's preseason status after the star pass rusher missed the team's first two games.",
+          "link": "https://www.newsweek.com/sports/nfl/raiders-hc-klint-kubiak-makes-maxx-crosby-decision-after-texans-game-12354070",
+          "pub": 1787342098000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Michigan Had Interest in Star Transfer Quarterback",
+      "pub": 1787341988000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Michigan Had Interest in Star Transfer Quarterback",
+          "deck": "The Michigan Wolverines appeared to have some interest in brining an elite transfer quarterback in to play in 2026.",
+          "link": "https://www.newsweek.com/sports/ncaa/michigan-had-interest-in-star-transfer-quarterback-12354262",
+          "pub": 1787341988000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -2627,6 +3257,24 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Nico Iamaleava Says Being Overlooked Will Fuel UCLA This Season",
+      "pub": 1787341827000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Nico Iamaleava Says Being Overlooked Will Fuel UCLA This Season",
+          "deck": "UCLA quarterback Nico Iamaleava explained how the Bruins being overlooked will fuel the team to win this season.",
+          "link": "https://www.newsweek.com/sports/ncaa/nico-iamaleava-says-being-overlooked-will-fuel-ucla-this-season-12354023",
+          "pub": 1787341827000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -2699,6 +3347,24 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mavericks' Klay Thompson Fires Back at 'Casuals' in Ray Allen NBA Debate",
+      "pub": 1787341702000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mavericks' Klay Thompson Fires Back at 'Casuals' in Ray Allen NBA Debate",
+          "deck": "Klay Thompson fired back at NBA fans, calling them \"casuals\" in a debate on whether Ray Allen is the better all-time player.",
+          "link": "https://www.newsweek.com/sports/nba/mavericks-klay-thompson-fires-back-at-casuals-in-ray-allen-nba-debate-12354139",
+          "pub": 1787341702000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
         }
       ]
     },
@@ -2811,19 +3477,19 @@
       ]
     },
     {
-      "title": "Appeals court affirms top federal prosecutor in Albany 'not lawfully serving'",
-      "pub": 1787341385000,
+      "title": "Alex Rodriguez Announces Increased Role with Timberwolves, Lynx After Sale",
+      "pub": 1787341460000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Appeals court affirms top federal prosecutor in Albany 'not lawfully serving'",
-          "deck": "A federal appeals court panel ruled Friday that John Sarcone was “not lawfully serving” as the top federal prosecutor in upstate New York when he subpoenaed New York Attorney General Letitia James's (D) office last year.",
-          "link": "https://thehill.com/regulation/court-battles/6044119-sarcone-albany-appeals-court-not-lawfully-serving/",
-          "pub": 1787341385000,
-          "src": "HILL",
-          "srcFull": "The Hill",
+          "title": "Alex Rodriguez Announces Increased Role with Timberwolves, Lynx After Sale",
+          "deck": "Alex Rodriguez will increase his investment in the Minnesota Timberwolves and Lynx after his co-partner sold shares.",
+          "link": "https://www.newsweek.com/sports/nba/alex-rodriguez-announces-increased-role-with-timberwolves-lynx-after-sale-12354166",
+          "pub": 1787341460000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -2832,7 +3498,7 @@
       "title": "US ambassador to Belgium criticizes Ghent University’s suspension of professor over Jason Arday accusations",
       "pub": 1787341219000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -2861,24 +3527,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "GOP backlash grows to Trump's beef price intervention",
-      "pub": 1787340795000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "GOP backlash grows to Trump's beef price intervention",
-          "deck": "GOP lawmakers and cattle ranchers are immediately raising alarm bells over President Trump’s decision to temporarily lift certain tariffs on imported ground beef to mitigate the cost for American consumers.",
-          "link": "https://thehill.com/homenews/administration/6044174-gop-ranchers-protest-imports/",
-          "pub": 1787340795000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -3387,10 +4035,28 @@
       ]
     },
     {
+      "title": "Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference",
+      "pub": 1787339559000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/us--media-pentagon-stars-and-stripes-191239275.html",
+          "pub": 1787339559000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "HHS launches autistic missing persons alert initiative",
       "pub": 1787339449000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Health",
       "single": true,
       "versions": [
         {
@@ -3534,7 +4200,7 @@
       "title": "Employer health costs projected to rise 9.5 percent",
       "pub": 1787338643000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Health",
       "single": true,
       "versions": [
         {
@@ -3909,42 +4575,6 @@
       ]
     },
     {
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "pub": 1787336835000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Two injured in stabbing attack at Canada Sikh temple",
-          "deck": "One suspect is in custody, but police have not disclosed a possible motive.",
-          "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787336835000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "8 South Florida cities among 'worst' real estate markets in state, says new report",
-      "pub": 1787336584000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "8 South Florida cities among 'worst' real estate markets in state, says new report",
-          "deck": "",
-          "link": "https://finance.yahoo.com/real-estate/articles/8-south-florida-cities-among-182304418.html",
-          "pub": 1787336584000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
       "pub": 1787336520000,
       "lean": "ll",
@@ -3963,17 +4593,17 @@
       ]
     },
     {
-      "title": "1 passenger dead after fire erupts on tour bus on California freeway: Authorities",
-      "pub": 1787336436000,
+      "title": "Hasan Piker calls Hamas 'far more moderate,' dismisses terror group’s brutal rule in Gaza",
+      "pub": 1787336305000,
       "lean": "ll",
       "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "1 passenger dead after fire erupts on tour bus on California freeway: Authorities",
+          "title": "Hasan Piker calls Hamas 'far more moderate,' dismisses terror group’s brutal rule in Gaza",
           "deck": "",
-          "link": "https://www.yahoo.com/news/articles/1-passenger-dead-fire-erupts-182036300.html",
-          "pub": 1787336436000,
+          "link": "https://www.yahoo.com/news/politics/articles/hasan-piker-calls-hamas-far-181825520.html",
+          "pub": 1787336305000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -3999,14 +4629,14 @@
       ]
     },
     {
-      "title": "Google AI gives wildly racist ‘advice’ about social situations with different groups: ‘I am alone with a Brit’",
+      "title": "Google AI gives wildly ‘racist’ advice about social situations with different groups: ‘I am alone with a Brit’",
       "pub": 1787336069000,
       "lean": "lr",
       "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Google AI gives wildly racist ‘advice’ about social situations with different groups: ‘I am alone with a Brit’",
+          "title": "Google AI gives wildly ‘racist’ advice about social situations with different groups: ‘I am alone with a Brit’",
           "deck": "Trust your gut, not the bot.",
           "link": "https://nypost.com/2026/08/21/tech/google-ai-gives-wildly-racist-advice-about-social-situations-with-different-groups-i-am-alone-with-a-brit/",
           "pub": 1787336069000,
@@ -4154,6 +4784,24 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/science/articles/using-thunderquakes-x-ray-earth-180409522.html",
           "pub": 1787335449000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump US attorney pick can no longer investigate one of the president’s top foes, court rules",
+      "pub": 1787335368000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump US attorney pick can no longer investigate one of the president’s top foes, court rules",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-us-attorney-pick-no-180248863.html",
+          "pub": 1787335368000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -4750,654 +5398,6 @@
           "pub": 1787331600000,
           "src": "FORB",
           "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Mother and son charged after college soccer player's body found on campus",
-      "pub": 1787331577000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mother and son charged after college soccer player's body found on campus",
-          "deck": "Royce Moser told investigators he had a \"demon take over\" during the confrontation.",
-          "link": "https://www.newsnationnow.com/crime/mother-son-college-soccer-players-body/",
-          "pub": 1787331577000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
-      "pub": 1787331096000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/nato-members-discuss-strait-hormuz-163705918.html",
-          "pub": 1787331096000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
-      "pub": 1787331034000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
-          "deck": "The country’s coming election will not be decided by the American president.",
-          "link": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
-          "pub": 1787331034000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Status Defines Friendship for Too Many Americans",
-      "pub": 1787330896000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Status Defines Friendship for Too Many Americans",
-          "deck": "The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant.",
-          "link": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
-          "pub": 1787330896000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Should You Invest in Bonds Right Now?",
-      "pub": 1787330883000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Should You Invest in Bonds Right Now?",
-          "deck": "High-quality bonds are still safer than stocks, but they have been swinging in value, so move cautiously, our columnist says.",
-          "link": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
-          "pub": 1787330883000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Before the quakes: Building trust and branching out in Venezuela",
-      "pub": 1787330868000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Before the quakes: Building trust and branching out in Venezuela",
-          "deck": "Before Venezuela’s deadly earthquakes, a decline in violent crime in Caracas – and a sense of opportunity following the ouster of Nicolás Maduro – had residents exploring their city in new ways.",
-          "link": "https://www.csmonitor.com/World/Americas/2026/0821/venezuela-barrio-trust-chavismo-neighbors?icid=rss",
-          "pub": 1787330868000,
-          "src": "CSM",
-          "srcFull": "Christian Science Monitor",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "California helicopter maker lands major Army training deal, could support hundreds of US jobs",
-      "pub": 1787330821000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "California helicopter maker lands major Army training deal, could support hundreds of US jobs",
-          "deck": "Robinson Helicopter’s R66 will train the next generation of Army pilots in a deal the California manufacturer says could support hundreds of American jobs.",
-          "link": "https://www.foxbusiness.com/fox-news-air-space/california-helicopter-maker-lands-major-army-training-deal-could-support-hundreds-us-jobs",
-          "pub": 1787330821000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The A.I.s Are Already Out of Control",
-      "pub": 1787330768000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The A.I.s Are Already Out of Control",
-          "deck": "Helen Toner, who served on OpenAI’s board, hopes the recent hack by that company’s models serves as a warning.",
-          "link": "https://www.nytimes.com/video/opinion/100000011091562/the-ais-are-already-out-of-control.html",
-          "pub": 1787330768000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "pub": 1787330709000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-          "deck": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-          "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787330709000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Woman Charged In ISIS-Inspired Plot To Bomb NY State Capitol",
-      "pub": 1787330700000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Woman Charged In ISIS-Inspired Plot To Bomb NY State Capitol",
-          "deck": "Woman Charged In ISIS-Inspired Plot To Bomb NY State Capitol Authored by Jill McLaughlin via The Epoch Times, FBI agents foiled an alleged ISIS-inspired bomb plot on the New York State Capitol on Aug.",
-          "link": "https://www.zerohedge.com/geopolitical/woman-charged-isis-inspired-plot-bomb-ny-state-capitol",
-          "pub": 1787330700000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Florida woman sues highway patrol after Flock data falsely identified her",
-      "pub": 1787330563000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Florida woman sues highway patrol after Flock data falsely identified her",
-          "deck": "Lindsey Isaacs faced eight felony counts after police failed to examine evidence contradicting Flock camera information.",
-          "link": "https://www.newsnationnow.com/business/tech/ai/florida-sues-highway-patrol-flock-data/",
-          "pub": 1787330563000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "California grocery chain closes all stores after 49 years, lays off entire staff",
-      "pub": 1787330559000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "California grocery chain closes all stores after 49 years, lays off entire staff",
-          "deck": "Another California grocery chain bites the dust.",
-          "link": "https://nypost.com/2026/08/21/business/classic-california-grocery-chain-closes-last-stores-after-49-years/",
-          "pub": 1787330559000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Why A.I.s Lie, Cheat and Steal",
-      "pub": 1787330503000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why A.I.s Lie, Cheat and Steal",
-          "deck": "Why does A.",
-          "link": "https://www.nytimes.com/video/opinion/100000011091563/why-ais-lie-cheat-and-steal.html",
-          "pub": 1787330503000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "pub": 1787330459000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-          "deck": "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump's name up in three places at the arts complex.",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-          "pub": 1787330459000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Countries fall far short of pledges to restore stricken land, report shows",
-      "pub": 1787330391000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Countries fall far short of pledges to restore stricken land, report shows",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/countries-fall-far-short-pledges-010248255.html",
-          "pub": 1787330391000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-      "pub": 1787329984000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-          "deck": "Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism.",
-          "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
-          "pub": 1787329984000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "’They Weaponized You Like Nobody’s Ever Been Weaponized’: Trump and Michael Cohen Make Peace",
-      "pub": 1787329963000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "’They Weaponized You Like Nobody’s Ever Been Weaponized’: Trump and Michael Cohen Make Peace",
-          "deck": "\"They weaponized you like nobody's ever been weaponized,\" Trump told his former lawyer during an appearance on Cohen's radio show.",
-          "link": "https://time.com/article/2026/08/21/trump-michael-cohen-radio/",
-          "pub": 1787329963000,
-          "src": "TIME",
-          "srcFull": "TIME",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "HHS launches first national alert system for missing autistic people",
-      "pub": 1787329800000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "HHS launches first national alert system for missing autistic people",
-          "deck": "It will also establish a national framework of best practices to address the leading causes of preventable injury and death among autistic individuals.",
-          "link": "https://www.newsnationnow.com/missing/hhs-alert-missing-autistic/",
-          "pub": 1787329800000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Hoover Institution (@HooverInst) Videos, Podcasts, and More, Now at Hoover+",
-      "pub": 1787329782000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hoover Institution (@HooverInst) Videos, Podcasts, and More, Now at Hoover+",
-          "deck": "Check them out, at http://hoover.",
-          "link": "https://reason.com/volokh/2026/08/21/hoover-institution-hooverinst-videos-podcasts-and-more-now-at-hoover/",
-          "pub": 1787329782000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
-      "pub": 1787329753000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
-          "deck": "The favorite energy stocks of hedge funds - including one with a projected 65% upside",
-          "link": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
-          "pub": 1787329753000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "pub": 1787329613000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-          "deck": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-          "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787329613000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
-      "pub": 1787329599000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
-          "deck": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
-          "link": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
-          "pub": 1787329599000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Situational Flipping: Citadel Has Dumped Almost All Of The Stocks It Acquired From Leopold Aschenbrenner",
-      "pub": 1787329500000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Situational Flipping: Citadel Has Dumped Almost All Of The Stocks It Acquired From Leopold Aschenbrenner",
-          "deck": "Situational Flipping: Citadel Has Dumped Almost All Of The Stocks It Acquired From Leopold Aschenbrenner After the market learned in late July that Leopold Aschenbrenner's Situational Awareness hedge fund had blown up under too much Total Return Swap and option leverage (as we had warned a month earlier would happen), the next big question facing investors was: how long would Citadel keep the positions it bought from Leopold (at a huge market and transactional discount - recall Citadel only agre",
-          "link": "https://www.zerohedge.com/markets/situational-flipping-citadel-has-dumped-almost-all-stocks-it-acquired-leopold-aschenbrenner",
-          "pub": 1787329500000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "European tourists are worse than American tourists",
-      "pub": 1787329478000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "European tourists are worse than American tourists",
-          "deck": "One of Europe’s most tedious habits is its reflexive sense of superiority over Americans.",
-          "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4686739/european-tourists-worse-than-american-tourists/",
-          "pub": 1787329478000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Dave Portnoy backs Pizza Hut rebrand as 'brilliant move' — then makes his pitch",
-      "pub": 1787329448000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dave Portnoy backs Pizza Hut rebrand as 'brilliant move' — then makes his pitch",
-          "deck": "Barstool Sports' Dave Portnoy called Pizza Hut's temporary \"Hut\" rebrand for the NFL season \"brilliant,\" while pitching Barstool Sports as the ideal ad partner.",
-          "link": "https://www.foxbusiness.com/retail/dave-portnoy-backs-pizza-hut-rebrand-brilliant-makes-his-pitch",
-          "pub": 1787329448000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
-      "pub": 1787329364000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
-          "deck": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.",
-          "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-          "pub": 1787329364000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "pub": 1787329255000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-          "deck": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-          "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787329255000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump announces plan to lower beef prices, but ranchers and some Republicans are already balking",
-      "pub": 1787329225000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump announces plan to lower beef prices, but ranchers and some Republicans are already balking",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/president-donald-trump-announces-plan-162025279.html",
-          "pub": 1787329225000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How New York’s Second-Home Tax Turned Into a Headache for Mamdani",
-      "pub": 1787328964000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How New York’s Second-Home Tax Turned Into a Headache for Mamdani",
-          "deck": "The bumpy rollout of the tax created an opportunity for Mayor Zohran Mamdani’s opponents to fight him in court and in the City Council.",
-          "link": "https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html",
-          "pub": 1787328964000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The U.S. Is Sending Deportees to Countries They've Never Called Home",
-      "pub": 1787328925000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The U.S. Is Sending Deportees to Countries They've Never Called Home",
-          "deck": "The Trump administration is using so-called \"third-country deportations\" both punitively and to expel migrants who have been granted protection from their home countries.",
-          "link": "https://reason.com/2026/08/21/the-u-s-is-sending-deportees-to-countries-theyve-never-called-home/",
-          "pub": 1787328925000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A New Horror Movie Passes ‘Obsession’ With The Best Rotten Tomatoes Score Of 2026",
-      "pub": 1787328920000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "A New Horror Movie Passes ‘Obsession’ With The Best Rotten Tomatoes Score Of 2026",
-          "deck": "A new film has been released with a 95% Rotten Tomatoes review score that means it ties 'Teenage Sex and Death at Camp Miasma' for the year's best horror movie.",
-          "link": "https://www.forbes.com/sites/paultassi/2026/08/21/a-new-horror-movie-passes-obsession-with-the-best-rotten-tomatoes-score-of-2026/",
-          "pub": 1787328920000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Exorcist Files vs. Jesus 911 Libel Suit Can Go Forward",
-      "pub": 1787328659000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Exorcist Files vs. Jesus 911 Libel Suit Can Go Forward",
-          "deck": "From Martins v.",
-          "link": "https://reason.com/volokh/2026/08/21/exorcist-files-vs-jesus-911-libel-suit-can-go-forward/",
-          "pub": 1787328659000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Rare South American Diseases Offer Clues on the Next Pandemic",
-      "pub": 1787328405000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rare South American Diseases Offer Clues on the Next Pandemic",
-          "deck": "Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans.",
-          "link": "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html",
-          "pub": 1787328405000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump Tells Michael Cohen \"They Weaponized You\" In Radio Interview, Praises His Recanting",
-      "pub": 1787328300000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Tells Michael Cohen \"They Weaponized You\" In Radio Interview, Praises His Recanting",
-          "deck": "Trump Tells Michael Cohen \"They Weaponized You\" In Radio Interview, Praises His Recanting Authored by Emel Akan via The Epoch Times, President Donald Trump appeared on Michael Cohen’s radio show and commended his former attorney for recanting his previous statements.",
-          "link": "https://www.zerohedge.com/political/trump-tells-michael-cohen-they-weaponized-you-radio-interview-praises-his-recanting",
-          "pub": 1787328300000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Anaphite’s Dry Coating Could Make EV Batteries Cheaper And Greener",
-      "pub": 1787328264000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Anaphite’s Dry Coating Could Make EV Batteries Cheaper And Greener",
-          "deck": "Anaphite aims to transform battery manufacturing by eliminating solvent-heavy processes, reducing factory energy use and potentially boosting cell performance.",
-          "link": "https://www.forbes.com/sites/jamesmorris/2026/08/21/anaphites-dry-coating-could-make-ev-batteries-cheaper-and-greener/",
-          "pub": 1787328264000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "'Who knows?': Jill Biden responds to theory Joe Biden was drugged before debate",
-      "pub": 1787328218000,
-      "lean": "ct",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "'Who knows?': Jill Biden responds to theory Joe Biden was drugged before debate",
-          "deck": "I don't think the lesson here is that Jill Biden should never talk about her husband's presidency.",
-          "link": "https://thehill.com/opinion/lindseys-lens/6043643-biden-debate-performance-speculation/",
-          "pub": 1787328218000,
-          "src": "HILL",
-          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
