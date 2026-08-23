@@ -1,7 +1,340 @@
 {
-  "generated": "2026-08-23T05:00:47.275Z",
+  "generated": "2026-08-23T05:53:18.827Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "Odell Beckham Jr. came oh-so-close to proving to Giants, fans he still has it",
+      "pub": 1787464050000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Odell Beckham Jr. came oh-so-close to proving to Giants, fans he still has it",
+          "deck": "Odell Beckham Jr.",
+          "link": "https://nypost.com/2026/08/23/sports/odell-beckham-jr-came-oh-so-close-to-proving-to-giants-fans-he-still-has-it/",
+          "pub": 1787464050000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "pub": 1787464003000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "deck": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787464003000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "pub": 1787464003000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+          "deck": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787464003000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+      "pub": 1787463980000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+          "deck": "Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party.",
+          "link": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
+          "pub": 1787463980000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Chinese humanoid robot beats Usain Bolt's sprint world record",
+      "pub": 1787463615000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Chinese humanoid robot beats Usain Bolt's sprint world record",
+          "deck": "Two human records were smashed by robots competing in the Olympics-like World Humanoid Robot Games in China.",
+          "link": "https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/",
+          "pub": 1787463615000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "What Does a D-Wave Quantum Insider's Sale of 23,850 Shares Mean for Investors?",
+      "pub": 1787463073000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "What Does a D-Wave Quantum Insider's Sale of 23,850 Shares Mean for Investors?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/does-d-wave-quantum-insiders-053113785.html",
+          "pub": 1787463073000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Which Energy ETF Is a Better Buy: Broad Vanguard Fund or Concentrated XLE?",
+      "pub": 1787462641000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Which Energy ETF Is a Better Buy: Broad Vanguard Fund or Concentrated XLE?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/energy-etf-better-buy-broad-052401908.html",
+          "pub": 1787462641000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Cyber attack shut down small power plant",
+      "pub": 1787462546000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": false,
+      "versions": [
+        {
+          "title": "Cyber attack shut down small power plant",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/cyber-attack-shuts-down-small-024846487.html",
+          "pub": 1787462546000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Cyber attack shut down small power plant",
+          "deck": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+          "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787453321000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mets’ Luis Robert Jr. belts two homers in win over his ex-team",
+      "pub": 1787462463000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mets’ Luis Robert Jr. belts two homers in win over his ex-team",
+          "deck": "Luis Robert Jr.",
+          "link": "https://nypost.com/2026/08/23/sports/mets-luis-robert-jr-belts-two-homers-in-win-over-his-ex-team/",
+          "pub": 1787462463000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "South Korean ship sets sail for Europe via Arctic for first time",
+      "pub": 1787462300000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "South Korean ship sets sail for Europe via Arctic for first time",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/south-korean-ship-sets-sail-051820027.html",
+          "pub": 1787462300000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "IDI analysis shows National-Religious men driving shift in IDF reserve duty as overall numbers fall",
+      "pub": 1787461859000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "IDI analysis shows National-Religious men driving shift in IDF reserve duty as overall numbers fall",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/idi-analysis-shows-national-religious-051059473.html",
+          "pub": 1787461859000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "AOC announces completion of egg retrieval journey, vows to share more public updates on process",
+      "pub": 1787461844000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "AOC announces completion of egg retrieval journey, vows to share more public updates on process",
+          "deck": "“Squad” Rep.",
+          "link": "https://nypost.com/2026/08/23/us-news/aoc-announces-completion-of-egg-retrieval-journey-vows-to-share-more-public-updates-on-process/",
+          "pub": 1787461844000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "BioNTech (BNTX) Is Up 25.2% After First-in-Class Pumitamig Plus B7H3 ADC Lung Data – What's Changed",
+      "pub": 1787461825000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "BioNTech (BNTX) Is Up 25.2% After First-in-Class Pumitamig Plus B7H3 ADC Lung Data – What's Changed",
+          "deck": "",
+          "link": "https://finance.yahoo.com/healthcare/articles/biontech-bntx-25-2-first-051025358.html",
+          "pub": 1787461825000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
+      "pub": 1787461823000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/carney-calls-trumps-fresh-tariffs-154501275.html",
+          "pub": 1787461823000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Three killed as east Jerusalem family feud erupts into gunfire, Molotov cocktail attacks",
+      "pub": 1787461757000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Three killed as east Jerusalem family feud erupts into gunfire, Molotov cocktail attacks",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/three-killed-east-jerusalem-family-050917267.html",
+          "pub": 1787461757000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The Papers: 'Power to block nimby protests' and Meghan 'deal could be off'",
+      "pub": 1787461643000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Papers: 'Power to block nimby protests' and Meghan 'deal could be off'",
+          "deck": "New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss",
+          "pub": 1787461643000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Buc-ee’s chain draws outcry in Ohio for launching fight over a mini mart's beaver logo",
+      "pub": 1787461239000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Buc-ee’s chain draws outcry in Ohio for launching fight over a mini mart's beaver logo",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/buc-ee-chain-draws-outcry-050039893.html",
+          "pub": 1787461239000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "America Was on a Heroine’s Journey. What Happened?",
+      "pub": 1787461206000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "America Was on a Heroine’s Journey. What Happened?",
+          "deck": "‘The Odyssey’ and ‘Barbie’ show a zeitgeist shift that goes beyond Hollywood: The hero’s narrative is corroding our political and public life.",
+          "link": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
+          "pub": 1787461206000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
     {
       "title": "Reviving U.S. Leadership to Stop Religious Persecution",
       "pub": 1787461200000,
@@ -39,50 +372,32 @@
       ]
     },
     {
-      "title": "Federal government attempts to seize personal information of over 17 million commercial drivers",
-      "pub": 1787459280000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Larry Wheels Vs. Vitaly Results, Highlights And Reactions",
+      "pub": 1787458768000,
+      "lean": "ct",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Federal government attempts to seize personal information of over 17 million commercial drivers",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/federal-government-attempts-seize-personal-042800726.html",
-          "pub": 1787459280000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Larry Wheels Vs. Vitaly Results, Highlights And Reactions",
+          "deck": "Larry Wheels vs.",
+          "link": "https://www.forbes.com/sites/brianmazique/2026/08/23/larry-wheels-vs-vitaly-results-highlights-and-reactions/",
+          "pub": 1787458768000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
     {
-      "title": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
-      "pub": 1787458800000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
-          "pub": 1787458800000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Maniac fires wildly on Brooklyn Street, shooting dog that miraculously survived",
+      "title": "Maniac fires wildly on Brooklyn street, shooting dog that miraculously survived",
       "pub": 1787458588000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Maniac fires wildly on Brooklyn Street, shooting dog that miraculously survived",
+          "title": "Maniac fires wildly on Brooklyn street, shooting dog that miraculously survived",
           "deck": "Police are hunting for a ruthless gunman who opened fire on a Brooklyn street Wednesday afternoon, nearly killing a developmentally delayed woman and leaving her family's beloved dog bleeding from a bullet wound.",
           "link": "https://nypost.com/2026/08/23/us-news/maniac-fires-wildly-brooklyn-street-shooting-dog-barely-missing-developmentally-delayed-woman/",
           "pub": 1787458588000,
@@ -93,56 +408,20 @@
       ]
     },
     {
-      "title": "Encompass Health (EHC) Stock May Be 16% Undervalued As Cash Flow Holds Up",
-      "pub": 1787458575000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Live-Action ‘Gundam’ Movie Is Apparently Set In The Universal Century Timeline",
+      "pub": 1787458156000,
+      "lean": "ct",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Encompass Health (EHC) Stock May Be 16% Undervalued As Cash Flow Holds Up",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/encompass-health-ehc-stock-may-041615894.html",
-          "pub": 1787458575000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Is HighPeak Energy (HPK) Still Trading At A Discount After Q2?",
-      "pub": 1787458536000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is HighPeak Energy (HPK) Still Trading At A Discount After Q2?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/energy/articles/highpeak-energy-hpk-still-trading-041536141.html",
-          "pub": 1787458536000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Unusual Machines (UMAC) Changes Stockholder Voting Rules",
-      "pub": 1787458523000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Unusual Machines (UMAC) Changes Stockholder Voting Rules",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-changes-stockholder-041523900.html",
-          "pub": 1787458523000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Live-Action ‘Gundam’ Movie Is Apparently Set In The Universal Century Timeline",
+          "deck": "In a new interview with Noah Centineo, he talks briefly about the upcoming live-action 'Gundam' movie and says that it will be set in the Universal Century timeline.",
+          "link": "https://www.forbes.com/sites/olliebarder/2026/08/23/live-action-gundam-movie-is-apparently-set-in-the-universal-century-timeline/",
+          "pub": 1787458156000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -179,24 +458,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump will kick off the IndyCar race in the Beast before cars zoom through Washington's streets",
-      "pub": 1787457677000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump will kick off the IndyCar race in the Beast before cars zoom through Washington's streets",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-kick-off-indycar-race-040117023.html",
-          "pub": 1787457677000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -669,24 +930,6 @@
       ]
     },
     {
-      "title": "Cyber attack shut down small power plant",
-      "pub": 1787453321000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cyber attack shut down small power plant",
-          "deck": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-          "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787453321000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Newsom praises Trump Accounts, first lady foster-youth efforts",
       "pub": 1787453199000,
       "lean": "ct",
@@ -1083,24 +1326,6 @@
       ]
     },
     {
-      "title": "Iranian women defy efforts by hardliners to enforce wearing of hijab",
-      "pub": 1787450429000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iranian women defy efforts by hardliners to enforce wearing of hijab",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/iranian-women-defy-efforts-hardliners-020029104.html",
-          "pub": 1787450429000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Rolly Romero Fights Teofimo Lopez In Huge Title Fight, Here’s What Happened",
       "pub": 1787450169000,
       "lean": "ct",
@@ -1115,60 +1340,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A-list actor barely recognizable in heartwarming Disneyland moment: ‘More starstruck by Goofy’",
-      "pub": 1787450010000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A-list actor barely recognizable in heartwarming Disneyland moment: ‘More starstruck by Goofy’",
-          "deck": "It didn’t take long for people online to notice the Hollywood star lurking in the background.",
-          "link": "https://nypost.com/2026/08/22/lifestyle/matt-damon-barely-recognizable-in-heartwarming-disneyland-moment-more-starstruck-by-goofy/",
-          "pub": 1787450010000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "One dead after 2000s rock band Buckcherry’s tour bus involved in fatal crash",
-      "pub": 1787449900000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "One dead after 2000s rock band Buckcherry’s tour bus involved in fatal crash",
-          "deck": "The band was traveling from its most recent performance at the Orange Peel in Asheville, North Carolina.",
-          "link": "https://pagesix.com/2026/08/22/entertainment/one-dead-after-2000s-rock-band-buckcherrys-tour-bus-involved-in-fatal-crash/",
-          "pub": 1787449900000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Bills’ Josh Allen ‘very sad and angry’ over how news of Ed Oliver’s 2-year-old son’s death leaked",
-      "pub": 1787449691000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bills’ Josh Allen ‘very sad and angry’ over how news of Ed Oliver’s 2-year-old son’s death leaked",
-          "deck": "Many, including Bills star Josh Allen, were upset about exactly how the news of Ed Oliver's 2-year-old son's tragic death came out.",
-          "link": "https://nypost.com/2026/08/22/sports/bills-qb-josh-allen-very-sad-and-angry-over-how-news-of-ed-olivers-2-year-old-sons-death-leaked/",
-          "pub": 1787449691000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1425,24 +1596,6 @@
       ]
     },
     {
-      "title": "Ben Gurion union chief rejects blame as Netanyahu moves against his Likud membership",
-      "pub": 1787446663000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ben Gurion union chief rejects blame as Netanyahu moves against his Likud membership",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/ben-gurion-union-chief-rejects-005743149.html",
-          "pub": 1787446663000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Canada says it will begin retaliatory tariffs on U.S. goods after Labor Day",
       "pub": 1787446539000,
       "lean": "ll",
@@ -1605,24 +1758,6 @@
       ]
     },
     {
-      "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
-      "pub": 1787442733000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/connecticut-police-officers-shot-suspect-235213687.html",
-          "pub": 1787442733000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "For Decades, The United States Ignored Latin America. All That Changed Under Trump.",
       "pub": 1787442600000,
       "lean": "lr",
@@ -1652,24 +1787,6 @@
           "deck": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
           "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
           "pub": 1787442301000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Papers: 'Power to block nimby protests' and Meghan 'deal could be off'",
-      "pub": 1787442039000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Papers: 'Power to block nimby protests' and Meghan 'deal could be off'",
-          "deck": "New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers.",
-          "link": "https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss",
-          "pub": 1787442039000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -1709,24 +1826,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "pub": 1787440927000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/did-goat-herders-lucky-200-232207865.html",
-          "pub": 1787440927000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2104,24 +2203,6 @@
           "pub": 1787437800000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Shin Bet head Zini rejects Eisenkot's security detail request, accused of political motives",
-      "pub": 1787437670000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Shin Bet head Zini rejects Eisenkot's security detail request, accused of political motives",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/shin-bet-head-zini-rejects-222750494.html",
-          "pub": 1787437670000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -3076,42 +3157,6 @@
           "pub": 1787429538000,
           "src": "HILL",
           "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "pub": 1787429400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-          "deck": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787429400000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
-      "pub": 1787429400000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
-          "deck": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787429400000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -4191,7 +4236,7 @@
       "title": "An Ancient Sumerian Solution to Our $40 Trillion Deficit",
       "pub": 1787417034000,
       "lean": "ll",
-      "cat": "Opinion",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -4638,6 +4683,24 @@
       ]
     },
     {
+      "title": "Rogan says Dems 'full of s---' if they won't specify which 'Woke 1.0' stances went too far; strategists agree",
+      "pub": 1787411718000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rogan says Dems 'full of s---' if they won't specify which 'Woke 1.0' stances went too far; strategists agree",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/rogan-says-dems-full-sh-151518883.html",
+          "pub": 1787411718000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
       "pub": 1787411334000,
       "lean": "ll",
@@ -4656,24 +4719,6 @@
       ]
     },
     {
-      "title": "Netflix’s New Nordic Murder Show Nabs A Solid Rotten Tomatoes Score",
-      "pub": 1787411224000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Netflix’s New Nordic Murder Show Nabs A Solid Rotten Tomatoes Score",
-          "deck": "A new Swedish murder mystery series is climbing the Netflix top 10 list, and has a solid Rotten Tomatoes critic score as it does so.",
-          "link": "https://www.forbes.com/sites/paultassi/2026/08/22/netflixs-new-nordic-murder-show-nabs-a-solid-rotten-tomatoes-score/",
-          "pub": 1787411224000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Dave Portnoy’s theory why Pizza Hut’s wild name change is a genius move",
       "pub": 1787410906000,
       "lean": "lr",
@@ -4688,24 +4733,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "AI Continues To Bypass Half Of The Workforce",
-      "pub": 1787410886000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI Continues To Bypass Half Of The Workforce",
-          "deck": "Lack of AI training and disconnected systems elude workers outside the office",
-          "link": "https://www.forbes.com/sites/joemckendrick/2026/08/22/ai-continues-to-bypass-half-of-the-workforce/",
-          "pub": 1787410886000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
         }
       ]
     },
@@ -5453,24 +5480,6 @@
           "src": "RCP",
           "srcFull": "RealClear Politics",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-      "pub": 1787403901000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-          "deck": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
-          "link": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
-          "pub": 1787403901000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
         }
       ]
     }
