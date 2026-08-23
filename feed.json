@@ -1,7 +1,241 @@
 {
-  "generated": "2026-08-23T03:28:45.747Z",
+  "generated": "2026-08-23T04:09:46.899Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
+      "pub": 1787457970000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
+          "deck": "Gov. Mike Braun called on the local utility to “match the urgency” of Gary area residents who have had to endure an outage approaching its second week.",
+          "link": "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html",
+          "pub": 1787457970000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Liberty’s Leonie Fiebich has big night, shows rare on-court emotion in return from lengthy injury",
+      "pub": 1787457727000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Liberty’s Leonie Fiebich has big night, shows rare on-court emotion in return from lengthy injury",
+          "deck": "Leonie Fiebich is usually stoic on the court for the Liberty.",
+          "link": "https://nypost.com/2026/08/23/sports/leonie-fiebich-has-big-night-shows-rare-emotion-in-libertys-win/",
+          "pub": 1787457727000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "pub": 1787457668000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+          "deck": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+          "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+          "pub": 1787457668000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fetterman rejects data center and AI ‘doomsdaying’ after Shapiro executive order",
+      "pub": 1787457598000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fetterman rejects data center and AI ‘doomsdaying’ after Shapiro executive order",
+          "deck": "Sen. John Fetterman (D-PA), one of the more centrist Democrats on Capitol Hill, took to social media on Saturday to underscore his stance on data centers after Gov. Josh Shapiro (D-PA) signed an executive order restricting their development in Pennsylvania on Tuesday. “AI supremacy and energy dominance underpins our national security,” Fetterman said on X […]",
+          "link": "https://www.washingtonexaminer.com/policy/infrastructure/4697477/fetterman-data-center-ai-doomsdaying-shapiro-order/",
+          "pub": 1787457598000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Reds’ JJ Bleday homers to complete cycle in win — eight months after he was cut by A’s",
+      "pub": 1787457250000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Reds’ JJ Bleday homers to complete cycle in win — eight months after he was cut by A’s",
+          "deck": "JJ Bleday, 28, hit for the cycle in just six innings on Saturday to lead the Cincinnati Reds to an 11-5 blowout win over the Diamondbacks in Arizona.",
+          "link": "https://nypost.com/2026/08/22/sports/reds-jj-bleday-homers-to-complete-in-blowout-win/",
+          "pub": 1787457250000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "South Korean survivor fights for workplace harassment 'justice'",
+      "pub": 1787456965000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "South Korean survivor fights for workplace harassment 'justice'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/south-korean-survivor-fights-workplace-022320058.html",
+          "pub": 1787456965000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "UFC Fight Night Sacramento Results, Bonus Winners And Highlights",
+      "pub": 1787456686000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "UFC Fight Night Sacramento Results, Bonus Winners And Highlights",
+          "deck": "UFC Sacramento was an event packed with finishes and standout performances.",
+          "link": "https://www.forbes.com/sites/brianmazique/2026/08/22/ufc-fight-night-sacramento-results-bonus-winners-and-highlights/",
+          "pub": 1787456686000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
+      "pub": 1787456581000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/articles/apple-cut-standard-eu-app-034301930.html",
+          "pub": 1787456581000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Boy, 7, reportedly left alone on Mount Fuji while father, brother finished hike",
+      "pub": 1787456507000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Boy, 7, reportedly left alone on Mount Fuji while father, brother finished hike",
+          "deck": "Multiple outlets have reported on the incident, including the Japan Times, the BBC and Newsweek.",
+          "link": "https://www.newsnationnow.com/world/boy-reportedly-left-alone-mount-fuji/",
+          "pub": 1787456507000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "3rd person dies in Florida from flesh-eating bacteria: Department of Health",
+      "pub": 1787456126000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "3rd person dies in Florida from flesh-eating bacteria: Department of Health",
+          "deck": "Recently updated data from the Florida Department of Health shows that another person has died in the state from the flesh-eating bacteria Vibrio vulnificus.",
+          "link": "https://www.newsnationnow.com/us-news/southeast/3rd-person-dies-florida-flesh-eating-bacteria/",
+          "pub": 1787456126000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iran declares it has won the war as U.S. turns to economic warfare",
+      "pub": 1787456034000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran declares it has won the war as U.S. turns to economic warfare",
+          "deck": "Iran's president said Friday the world had \"approved\" the country's victory, as Vice President JD Vance declares economic pressure \"the most effective tool that we have.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+          "pub": 1787456034000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "These baby names are popular in one state and one state only: Data",
+      "pub": 1787455984000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "These baby names are popular in one state and one state only: Data",
+          "deck": "Think your baby has a unique name?",
+          "link": "https://www.newsnationnow.com/health/baby-names-popular-in-one-state-one-state-only/",
+          "pub": 1787455984000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Woman found dead in Bronx apartment building on Friday — authorities investigating as possible homicide",
+      "pub": 1787455865000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Woman found dead in Bronx apartment building on Friday — authorities investigating as possible homicide",
+          "deck": "A woman was found dead in a Bronx apartment on Friday afternoon — and authorities are eyeing her mentally ill son as a possible homicide suspect, according to sources.",
+          "link": "https://nypost.com/2026/08/22/us-news/woman-found-dead-bronx-apartment-building-friday-authorities-investigating-possible-homicide/",
+          "pub": 1787455865000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
     {
       "title": "French visitor dies in Death Valley National Park after becoming stranded on remote road",
       "pub": 1787455674000,
@@ -34,6 +268,42 @@
           "pub": 1787455656000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Why Keysight Technologies Stock Sank This Week",
+      "pub": 1787455432000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Keysight Technologies Stock Sank This Week",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-keysight-technologies-stock-sank-032352331.html",
+          "pub": 1787455432000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "US shoppers are leaving corn syrup for sugar, but cheap imports are undercutting producers",
+      "pub": 1787455320000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "US shoppers are leaving corn syrup for sugar, but cheap imports are undercutting producers",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/policy/articles/us-shoppers-leaving-corn-syrup-032200191.html",
+          "pub": 1787455320000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -75,14 +345,14 @@
       ]
     },
     {
-      "title": "Sophie Cunningham supporters, detractors, rally outside NYC arena during Liberty-Fever WNBA game",
+      "title": "Sophie Cunningham supporters, detractors clash outside Barclays Center during Liberty-Fever game",
       "pub": 1787455073000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Sophie Cunningham supporters, detractors, rally outside NYC arena during Liberty-Fever WNBA game",
+          "title": "Sophie Cunningham supporters, detractors clash outside Barclays Center during Liberty-Fever game",
           "deck": "A large group of protesters rallied outside Barclays Arena Saturday night in the midst of Sophie Cunningham's 'trans' scandal where she spoke up for protecting women in sports.",
           "link": "https://nypost.com/2026/08/22/us-news/sophie-cunningham-supporters-detractors-rally-outside-nyc-arena-during-liberty-v-fever-wnba-game-amid-trans-scandal/",
           "pub": 1787455073000,
@@ -97,7 +367,7 @@
       "pub": 1787455027000,
       "lean": "ll",
       "cat": "Politics",
-      "single": true,
+      "single": false,
       "versions": [
         {
           "title": "Army Secretary Dan Driscoll considering stepping down, sources say",
@@ -107,75 +377,12 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Atlassian (TEAM) Stock Looks Near Fair Value After Its 98% Run",
-      "pub": 1787455007000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
+        },
         {
-          "title": "Atlassian (TEAM) Stock Looks Near Fair Value After Its 98% Run",
+          "title": "Army Secretary Dan Driscoll considering stepping down, sources say",
           "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/atlassian-team-stock-looks-near-031647804.html",
-          "pub": 1787455007000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Is Vestas Wind Systems (CPSE:VWS) Fully Valued As Earnings Lifted Full Year Guidance?",
-      "pub": 1787455005000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is Vestas Wind Systems (CPSE:VWS) Fully Valued As Earnings Lifted Full Year Guidance?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/vestas-wind-systems-cpse-vws-031645621.html",
-          "pub": 1787455005000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Clorox (CLX) Could Be 56% Below Fair Value As Valuation Views Split",
-      "pub": 1787455004000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Clorox (CLX) Could Be 56% Below Fair Value As Valuation Views Split",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/clorox-clx-could-56-below-031644141.html",
-          "pub": 1787455004000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Red Cat Holdings (RCAT) Expands Blue Ops Integration, Is The Upside Already Priced In?",
-      "pub": 1787454991000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Red Cat Holdings (RCAT) Expands Blue Ops Integration, Is The Upside Already Priced In?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-expands-031631916.html",
-          "pub": 1787454991000,
+          "link": "https://www.yahoo.com/news/politics/articles/army-secretary-dan-driscoll-considering-031707323.html",
+          "pub": 1787455027000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -201,17 +408,17 @@
       ]
     },
     {
-      "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
-      "pub": 1787454869000,
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "pub": 1787454656000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
+          "title": "Mayors to get powers to overrule local councils on planning decisions",
           "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/tropical-storm-moke-expected-bring-203854447.html",
-          "pub": 1787454869000,
+          "link": "https://www.yahoo.com/news/politics/articles/mayors-powers-overrule-local-councils-031056687.html",
+          "pub": 1787454656000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -232,6 +439,24 @@
           "pub": 1787454651000,
           "src": "BBC",
           "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+      "pub": 1787454574000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+          "deck": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war hero, and had considered President Trump's name as a replacement.",
+          "link": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
+          "pub": 1787454574000,
+          "src": "HILL",
+          "srcFull": "The Hill",
           "lean": "ct"
         }
       ]
@@ -633,15 +858,15 @@
       ]
     },
     {
-      "title": "NYC mom of two recalls near-death slashing by ex-con in Arizona: ‘everything was bloody’",
+      "title": "NYC mom recalls escaping with her life after ex-con takes knife to her throat during hiking trip: ‘Everything was bloody’",
       "pub": 1787451251000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "NYC mom of two recalls near-death slashing by ex-con in Arizona: ‘everything was bloody’",
-          "deck": "Tricia Rowan, 47, said she will \"not stop until justice is served\" after her daughter, Alexis, 27, was brutally attacked by an ex-con in Arizona last week.",
+          "title": "NYC mom recalls escaping with her life after ex-con takes knife to her throat during hiking trip: ‘Everything was bloody’",
+          "deck": "Tricia Rowan, 47, said she will \"not stop until justice is served\" after her daughter, Alexis, 27, was brutally attacked by an ex-con last week.",
           "link": "https://nypost.com/2026/08/22/us-news/nyc-mom-of-two-recalls-near-death-slashing-by-ex-con-in-arizona-one-day-before-27th-birthday-everything-was-bloody/",
           "pub": 1787451251000,
           "src": "NYP",
@@ -791,24 +1016,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Iranian women defy efforts by hardliners to enforce wearing of hijab",
-      "pub": 1787450429000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iranian women defy efforts by hardliners to enforce wearing of hijab",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/iranian-women-defy-efforts-hardliners-020029104.html",
-          "pub": 1787450429000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -993,42 +1200,6 @@
       ]
     },
     {
-      "title": "Rams’ staggering playoff odds are nearly unheard of in NFL history",
-      "pub": 1787448127000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams’ staggering playoff odds are nearly unheard of in NFL history",
-          "deck": "The 2026 Los Angeles Rams haven’t played a single game yet, but the oddsmakers are already treating their playoff chances like January can be penciled into the calendar.",
-          "link": "https://nypost.com/2026/08/22/sports/los-angeles-rams-have-nfls-best-playoff-odds-at-historic-500/",
-          "pub": 1787448127000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "California beach shut down after 58-foot boat runs aground — spilling toxic chemicals",
-      "pub": 1787447997000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "California beach shut down after 58-foot boat runs aground — spilling toxic chemicals",
-          "deck": "The vessel ran aground Friday morning, prompting a multi-agency response as crews worked to remove its potentially hazardous cargo.",
-          "link": "https://nypost.com/2026/08/22/us-news/san-francisco-beach-closed-after-fishing-boat-carrying-1000-gallons-of-diesel-runs-aground/",
-          "pub": 1787447997000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "The Gray Zone Spreads",
       "pub": 1787447904000,
       "lean": "lr",
@@ -1042,24 +1213,6 @@
           "pub": 1787447904000,
           "src": "NR",
           "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Rose McGowan calls for end to child stardom after fellow ‘Scream’ star Hayden Panettiere’s death",
-      "pub": 1787447871000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rose McGowan calls for end to child stardom after fellow ‘Scream’ star Hayden Panettiere’s death",
-          "deck": "Panettiere died on Aug.",
-          "link": "https://pagesix.com/2026/08/22/celebrity-news/rose-mcgowan-calls-to-end-child-stardom-after-hayden-panettieres-death/",
-          "pub": 1787447871000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -1457,24 +1610,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
-      "pub": 1787441402000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
-          "deck": "Gov. Mike Braun called on the local utility to “match the urgency” of Gary area residents who have had to endure an outage approaching its second week.",
-          "link": "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html",
-          "pub": 1787441402000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -1904,24 +2039,6 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/politics/articles/shin-bet-head-zini-rejects-222750494.html",
           "pub": 1787437670000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Texas judge denies Karmelo Anthony's request for new trial in deadly stabbing at track meet",
-      "pub": 1787437482000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Texas judge denies Karmelo Anthony's request for new trial in deadly stabbing at track meet",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/texas-judge-denies-karmelo-anthonys-222442041.html",
-          "pub": 1787437482000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -2505,24 +2622,6 @@
       ]
     },
     {
-      "title": "Iran declares it has won the war as U.S. turns to economic warfare",
-      "pub": 1787432133000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran declares it has won the war as U.S. turns to economic warfare",
-          "deck": "Iran's president said Friday the world had \"approved\" the country's victory, as Vice President JD Vance declares economic pressure \"the most effective tool that we have.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-          "pub": 1787432133000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Treasury Bars Scammy ESG Funds From Trump Accounts, Citing Left-Wing 'Political Activism' Concerns",
       "pub": 1787432100000,
       "lean": "lr",
@@ -2960,24 +3059,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Wife of police officer who was found dead is considered ‘armed and dangerous,’ chief says",
-      "pub": 1787429227000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wife of police officer who was found dead is considered ‘armed and dangerous,’ chief says",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/arrest-warrant-issued-amid-search-162809146.html",
-          "pub": 1787429227000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -3427,24 +3508,6 @@
           "pub": 1787422856000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Bill Maher blasts Democratic Party, says it is fine with religion 'as long as that faith isn’t Jewish'",
-      "pub": 1787422659000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bill Maher blasts Democratic Party, says it is fine with religion 'as long as that faith isn’t Jewish'",
-          "deck": "",
-          "link": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-blasts-democratic-party-181739524.html",
-          "pub": 1787422659000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -3999,24 +4062,6 @@
       ]
     },
     {
-      "title": "‘Let the man have one f***ing friend’: Bill Maher defends Trump aide Natalie Harp",
-      "pub": 1787417647000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Let the man have one f***ing friend’: Bill Maher defends Trump aide Natalie Harp",
-          "deck": "Comedian and political commentator Bill Maher defended President Donald Trump and his top aide, Natalie Harp, praising her for being “devoted to her job.",
-          "link": "https://www.washingtonexaminer.com/news/entertainment/4697319/bill-maher-defend-trump-aide-natalie-harp/",
-          "pub": 1787417647000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Beyond The Ban: Why Embracing AI Is Essential For Higher Education",
       "pub": 1787417400000,
       "lean": "lr",
@@ -4323,6 +4368,24 @@
       ]
     },
     {
+      "title": "Deleted tweets show Natalie Harp’s zealous support of Trump on January 6",
+      "pub": 1787414429000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Deleted tweets show Natalie Harp’s zealous support of Trump on January 6",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/deleted-tweets-show-natalie-harp-160029919.html",
+          "pub": 1787414429000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Trump's trade war with Canada: A timeline of how we got here",
       "pub": 1787414408000,
       "lean": "ll",
@@ -4462,6 +4525,24 @@
           "pub": 1787412871000,
           "src": "NYT",
           "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A US envoy says Israel did not give a warning to the US ahead of a recent Syria air strike",
+      "pub": 1787412405000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "A US envoy says Israel did not give a warning to the US ahead of a recent Syria air strike",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/us-envoy-says-israel-did-152645817.html",
+          "pub": 1787412405000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -4661,24 +4742,6 @@
           "src": "TIME",
           "srcFull": "TIME",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "There Will Be More ‘Outer Banks’ On Netflix After Season 5, Kind Of",
-      "pub": 1787409551000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "There Will Be More ‘Outer Banks’ On Netflix After Season 5, Kind Of",
-          "deck": "'Outer Banks' may be over after season 5's finale, but the Outer Banks Universe is a real thing that is coming afterward.",
-          "link": "https://www.forbes.com/sites/paultassi/2026/08/22/there-will-be-more-outer-banks-on-netflix-after-season-5-kind-of/",
-          "pub": 1787409551000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
         }
       ]
     },
@@ -5426,60 +5489,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "How will Mayor Mamdani make his groceries work? First, smoke some more pot . . .",
-      "pub": 1787403600000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "How will Mayor Mamdani make his groceries work? First, smoke some more pot . . .",
-          "deck": "Last week, city Economic Development Corp.",
-          "link": "https://nypost.com/2026/08/22/opinion/how-will-mayor-mamdani-make-his-groceries-work-first-smoke-some-more-pot/",
-          "pub": 1787403600000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Britain Hands Out 'Rape Leaflets' for Illegal Immigrants",
-      "pub": 1787403505000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Britain Hands Out 'Rape Leaflets' for Illegal Immigrants",
-          "deck": "Something extraordinary happened in Britain this week: Our leftist government acknowledged a truth it has long denied.",
-          "link": "https://www.realclearpolitics.com/2026/08/22/britain_hands_out_rape_leaflets_for_illegal_immigrants_708729.html",
-          "pub": 1787403505000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Graham Does Damage Control",
-      "pub": 1787403292000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Graham Does Damage Control",
-          "deck": "Friday, August 21st on RealClearPolitics - Joined by RCP National Political Correspondent, Susan Crabtree",
-          "link": "https://www.realclearpolitics.com/2026/08/22/graham_does_damage_control_708701.html",
-          "pub": 1787403292000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
         }
       ]
     }
