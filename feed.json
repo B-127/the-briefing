@@ -1,19 +1,532 @@
 {
-  "generated": "2026-08-23T18:19:13.178Z",
+  "generated": "2026-08-23T18:55:41.932Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "pub": 1787509054000,
+      "title": "Transcript: Dr. Mehmet Oz on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+      "pub": 1787511176000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Dr. Mehmet Oz on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+          "deck": "The following is the transcript of an interview with Dr.",
+          "link": "https://www.cbsnews.com/news/mehmet-oz-cms-administrator-face-the-nation-transcript-08-23-2026/",
+          "pub": 1787511176000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+      "pub": 1787511153000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+          "deck": "The following is the transcript of the interview with Rep.",
+          "link": "https://www.cbsnews.com/news/byron-donalds-florida-governor-candidate-face-the-nation-transcript-08-23-2026/",
+          "pub": 1787511153000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/transcript-rep-byron-donalds-face-162614833.html",
+          "pub": 1787502374000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Homeowners’ fight against Mamdani’s tax: Letters to the Editor — Aug. 22, 2026",
+      "pub": 1787511132000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Homeowners’ fight against Mamdani’s tax: Letters to the Editor — Aug. 22, 2026",
+          "deck": "NY Post readers discuss New York City homeowners’ legal battle against Mayor Mamdani’s new pied-à-terre tax.",
+          "link": "https://nypost.com/2026/08/23/opinion/homeowners-fight-against-mamdanis-tax-letters/",
+          "pub": 1787511132000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+      "pub": 1787511127000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+          "deck": "The following is the transcript of an interview with Neel Kashkari, President and CEO of the Federal Reserve Bank of Minneapolis that aired on \"Face the Nation with Margaret Brennan\" on Aug.",
+          "link": "https://www.cbsnews.com/news/neel-kashkari-minneapolis-fed-face-the-nation-transcript-08-23-2026/",
+          "pub": 1787511127000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Dr. Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+      "pub": 1787511102000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Dr. Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+          "deck": "The following is the transcript of the interview with former FDA Commissioner Scott Gottlieb, who is on the boards of Pfizer and UnitedHealthCare, that aired on \"Face the Nation with Margaret Brennan\" on Aug.",
+          "link": "https://www.cbsnews.com/news/scott-gottlieb-face-the-nation-transcript-08-23-2026/",
+          "pub": 1787511102000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Popular NJ Indian restaurant to open at The Ellery tower",
+      "pub": 1787510982000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Popular NJ Indian restaurant to open at The Ellery tower",
+          "deck": "Samudhra signed a lease for about 10,000 square feet at the luxury tower.",
+          "link": "https://nypost.com/2026/08/23/business/popular-nj-indian-restaurant-to-open-at-the-ellery-tower/",
+          "pub": 1787510982000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Chaos on California’s State Route 4 as big rig smashes into cars",
+      "pub": 1787510853000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Chaos on California’s State Route 4 as big rig smashes into cars",
+          "deck": "The California Highway Patrol said the crash happened along State Route 4 near Avenue H shortly before 11 p.",
+          "link": "https://nypost.com/2026/08/23/us-news/chaos-on-californias-state-route-4-as-big-rig-smashes-into-cars/",
+          "pub": 1787510853000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Oz says MMR is \"not a lethal vaccine\" despite Trump's comments",
+      "pub": 1787510807000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dr. Oz says MMR is \"not a lethal vaccine\" despite Trump's comments",
+          "deck": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services, said the MMR vaccine is \"not a lethal vaccine,\" despite President Trump's claims in recent days.",
+          "link": "https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/",
+          "pub": 1787510807000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Major bands descend on California for Just Like Heaven festival",
+      "pub": 1787510807000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Major bands descend on California for Just Like Heaven festival",
+          "deck": "The festival featured major bands such as The Strokes and LCD Soundsystem.",
+          "link": "https://nypost.com/2026/08/23/lifestyle/major-bands-descend-on-california-for-just-like-heaven-festival/",
+          "pub": 1787510807000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+      "pub": 1787510659000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
+          "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+          "deck": "Former Vice President Mike Pence denied Sunday that the U.",
+          "link": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
+          "pub": 1787510659000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "JJ McCarthy ‘banged up’ during rough Vikings showing after losing starting job",
+      "pub": 1787510537000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "JJ McCarthy ‘banged up’ during rough Vikings showing after losing starting job",
+          "deck": "The injury-plagued QB's latest preseason showcase ended earlier than expected.",
+          "link": "https://nypost.com/2026/08/23/sports/jj-mccarthy-banged-up-during-rough-vikings-showing/",
+          "pub": 1787510537000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "A powerful country on the other side of the world is quietly shaping Trump's latest trade fight",
+      "pub": 1787510518000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "A powerful country on the other side of the world is quietly shaping Trump's latest trade fight",
+          "deck": "President Donald Trump's tariff standoff with Canada deepens as Ottawa strikes a deal with Beijing on electric vehicles, steel, and market access.",
+          "link": "https://www.foxbusiness.com/politics/powerful-country-other-side-world-quietly-shaping-trumps-latest-trade-fight",
+          "pub": 1787510518000,
+          "src": "FoxB",
+          "srcFull": "Fox Business",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Turning Point USA announces Charlie Kirk memorial on university campus where he was shot",
+      "pub": 1787510488000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Turning Point USA announces Charlie Kirk memorial on university campus where he was shot",
+          "deck": "Turning Point USA announced that Turning Point USA co-founder Charlie Kirk will be honored at a Sept.",
+          "link": "https://thehill.com/homenews/state-watch/6045850-uv-event-commemorates-kirk/",
+          "pub": 1787510488000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Duffy: Carney will 'come to the table' because tariffs will be 'devastating'",
+      "pub": 1787510214000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Duffy: Carney will 'come to the table' because tariffs will be 'devastating'",
+          "deck": "Transportation Secretary Sean Duffy said Sunday that Canadian Prime Minister Mark Carney is going to “come to the table” on trade because tariffs against the U.",
+          "link": "https://thehill.com/business/6045845-duffy-predicts-carney-trade-negotiations/",
+          "pub": 1787510214000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Public Schools budget uncertainty looms as students head back to classes",
+      "pub": 1787510100000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Chicago Public Schools budget uncertainty looms as students head back to classes",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/chicago-public-schools-budget-uncertainty-183500093.html",
+          "pub": 1787510100000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
+      "pub": 1787510100000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/billionaires-stanley-druckenmiller-dan-loeb-183500485.html",
+          "pub": 1787510100000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Karmelo Anthony Request For New Trial Denied After Disturbing Revelations",
+      "pub": 1787510100000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Karmelo Anthony Request For New Trial Denied After Disturbing Revelations",
+          "deck": "Karmelo Anthony Request For New Trial Denied After Disturbing Revelations The narrative of the innocent black kid standing up to \"white bullies\" is falling apart.",
+          "link": "https://www.zerohedge.com/political/karmelo-anthony-request-new-trial-denied-after-disturbing-revelations",
+          "pub": 1787510100000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "pub": 1787510024000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": false,
+      "versions": [
+        {
+          "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+          "deck": "",
+          "link": "https://sports.yahoo.com/articles/trump-arrives-high-speed-indycar-165711131.html",
+          "pub": 1787510024000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
           "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
           "deck": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
           "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
           "pub": 1787509054000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
+      "pub": 1787509898000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
+          "deck": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.",
+          "link": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
+          "pub": 1787509898000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Kroy Biermann steps out for first time since teen son KJ’s sexual assault arrest",
+      "pub": 1787509800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kroy Biermann steps out for first time since teen son KJ’s sexual assault arrest",
+          "deck": "The former NFL star's outing came nearly a week after his son KJ was arrested for aggravated sodomy and aggravated sexual battery.",
+          "link": "https://pagesix.com/2026/08/23/celebrity-news/kroy-biermann-steps-out-for-first-time-since-teen-son-kjs-sexual-assault-arrest/",
+          "pub": 1787509800000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Illinois officer placed on leave in Flock camera misuse investigation",
+      "pub": 1787509624000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Illinois officer placed on leave in Flock camera misuse investigation",
+          "deck": "An Illinois officer is under investigation after an audit flagged possible misuse of a powerful license plate tracking system.",
+          "link": "https://www.newsnationnow.com/business/tech/illinois-flock-cameras-misuse/",
+          "pub": 1787509624000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+      "pub": 1787509512000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+          "deck": "On this \"Face the Nation with Margaret Brennan\" broadcast, Reps.",
+          "link": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-23-2026/",
+          "pub": 1787509512000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Zohran Mamdani, the Democratic Party’s shadow presidential nominee",
+      "pub": 1787509448000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Zohran Mamdani, the Democratic Party’s shadow presidential nominee",
+          "deck": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America.",
+          "link": "https://www.washingtonexaminer.com/in_focus/4653797/zohran-mamdani-shadow-presidential-nominee/",
+          "pub": 1787509448000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Oz pressed on Trump comments, says MMR vaccine is not 'lethal'",
+      "pub": 1787509432000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dr. Oz pressed on Trump comments, says MMR vaccine is not 'lethal'",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/dr-oz-pressed-trump-comments-182352365.html",
+          "pub": 1787509432000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Kashkari: Inflation could be extended as Canada fight goes on",
+      "pub": 1787509364000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kashkari: Inflation could be extended as Canada fight goes on",
+          "deck": "Neel Kashkari, president of the Federal Reserve Bank of Minneapolis, said the tariff fight with Canada could extend U.",
+          "link": "https://www.cbsnews.com/news/neel-kashkari-minneapolis-fed-canada-tariff-inflation/",
+          "pub": 1787509364000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump kicks off Freedom 250 IndyCar race in the streets of Washington, D.C.",
+      "pub": 1787509305000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump kicks off Freedom 250 IndyCar race in the streets of Washington, D.C.",
+          "deck": "The open-wheel race is the latest of President Trump's celebrations this year to mark America's 250th birthday.",
+          "link": "https://www.cbsnews.com/news/trump-freedom-250-grand-prix-indycar-washington-dc/",
+          "pub": 1787509305000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A Grocery Outlet Insider Purchases 8,000 Shares Amid a 40% Stock Decline",
+      "pub": 1787509201000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Grocery Outlet Insider Purchases 8,000 Shares Amid a 40% Stock Decline",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-insider-purchases-8-182001220.html",
+          "pub": 1787509201000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "pub": 1787509061000,
+      "lean": "ll",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/guinea-rubbish-landfill-collapse-kills-181741640.html",
+          "pub": 1787509061000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "deck": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787509057000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -147,19 +660,19 @@
       ]
     },
     {
-      "title": "Target admits it still has big problems to fix",
-      "pub": 1787508180000,
+      "title": "What to Know About the Ebola Outbreak Centered in Congo",
+      "pub": 1787508278000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Target admits it still has big problems to fix",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/target-admits-still-big-problems-180300058.html",
-          "pub": 1787508180000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
+          "title": "What to Know About the Ebola Outbreak Centered in Congo",
+          "deck": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
+          "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+          "pub": 1787508278000,
+          "src": "NYT",
+          "srcFull": "New York Times",
           "lean": "ll"
         }
       ]
@@ -201,74 +714,20 @@
       ]
     },
     {
-      "title": "As Car Sales Profits Shrink, Dealerships Are Making Bank On Service, Finance, And Insurance",
-      "pub": 1787508014000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "As Car Sales Profits Shrink, Dealerships Are Making Bank On Service, Finance, And Insurance",
-          "deck": "",
-          "link": "https://finance.yahoo.com/small-business/articles/car-sales-profits-shrink-dealerships-180014388.html",
-          "pub": 1787508014000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "11 Grocery Chains That Once Ruled and Then Closed",
+      "title": "NYT Connections Hint Today: Monday, August 24 Clues And Answers",
       "pub": 1787508000000,
-      "lean": "ll",
-      "cat": "Business",
+      "lean": "ct",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "11 Grocery Chains That Once Ruled and Then Closed",
-          "deck": "",
-          "link": "https://www.yahoo.com/lifestyle/articles/11-grocery-chains-once-ruled-180000207.html",
+          "title": "NYT Connections Hint Today: Monday, August 24 Clues And Answers",
+          "deck": "Looking for today's NYT Connections hints?",
+          "link": "https://www.forbes.com/sites/krisholt/2026/08/23/nyt-connections-hint-today-answer-monday-august-24-1170/",
           "pub": 1787508000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
-      "pub": 1787508000000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/target-just-reported-earnings-heres-180000119.html",
-          "pub": 1787508000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Moneywise editors share their most expensive impulse purchases — and why they'd do it all over again",
-      "pub": 1787508000000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Moneywise editors share their most expensive impulse purchases — and why they'd do it all over again",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/articles/moneywise-editors-share-most-expensive-180000749.html",
-          "pub": 1787508000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -399,14 +858,14 @@
       ]
     },
     {
-      "title": "‘Appalling’: Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
+      "title": "Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
       "pub": 1787507346000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "‘Appalling’: Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
+          "title": "Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
           "deck": "Mark Ruffalo is pushing back against Paramount Skydance after the media giant characterized his anti-merger comments as antisemitic.",
           "link": "https://www.nbcnews.com/news/us-news/mark-ruffalo-paramount-antisemitism-accusation-dishonest-rcna594004",
           "pub": 1787507346000,
@@ -795,15 +1254,15 @@
       ]
     },
     {
-      "title": "See photos from the first Indycar Grand Prix in Washington DC",
+      "title": "See photos from the first IndyCar race in Washington",
       "pub": 1787506380000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "See photos from the first Indycar Grand Prix in Washington DC",
-          "deck": "Photos from the first Grand Prix in Washington DC",
+          "title": "See photos from the first IndyCar race in Washington",
+          "deck": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph.",
           "link": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
           "pub": 1787506380000,
           "src": "WaPo",
@@ -885,24 +1344,6 @@
       ]
     },
     {
-      "title": "Transcript: Dr. Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-      "pub": 1787506186000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Transcript: Dr. Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-          "deck": "The following is the transcript of the interview with former FDA Commissioner Scott Gottlieb, who is on the boards of Pfizer and UnitedHealthCare, that aired on \"Face the Nation with Margaret Brennan\" on Aug.",
-          "link": "https://www.cbsnews.com/news/scott-gottlieb-face-the-nation-transcript-08-23-2026/",
-          "pub": 1787506186000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "San Diego high school attacked students over pro-Trump LGBT poster: suit",
       "pub": 1787506124000,
       "lean": "lr",
@@ -924,7 +1365,7 @@
       "title": "Grab the popcorn for the soap-opera civil wars of both parties in Florida",
       "pub": 1787506056000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -971,24 +1412,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
-      "pub": 1787505813000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
-          "deck": "The five-time Pro Bowler is the second Cowboys player to have his property burglarized in the last three years.",
-          "link": "https://nypost.com/2026/08/23/sports/ceedee-lamb-had-300k-worth-of-property-stolen-during-home-burglary/",
-          "pub": 1787505813000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1047,42 +1470,6 @@
       ]
     },
     {
-      "title": "Maine madman fired at Jewish summer camp basketball court, forced harrowing lockdown for kids in ‘antisemitic’ attack: docs",
-      "pub": 1787505365000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Maine madman fired at Jewish summer camp basketball court, forced harrowing lockdown for kids in ‘antisemitic’ attack: docs",
-          "deck": "Nathan Hewett, who is accused of the antisemitic attack on Aug.",
-          "link": "https://nypost.com/2026/08/23/us-news/maine-madman-fired-at-jewish-summer-camp-basketball-court-docs/",
-          "pub": 1787505365000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "‘The Challenge’ star Tyler Duckworth laid to rest in private funeral attended by ‘brother’ Johnny ‘Bananas’ Devenanzio",
-      "pub": 1787505012000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘The Challenge’ star Tyler Duckworth laid to rest in private funeral attended by ‘brother’ Johnny ‘Bananas’ Devenanzio",
-          "deck": "The TV personality tragically died on Aug.",
-          "link": "https://pagesix.com/2026/08/23/celebrity-news/the-challenge-star-tyler-duckworth-laid-to-rest-in-private-funeral/",
-          "pub": 1787505012000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Artemis II astronaut Reid Wiseman takes 'Fastest Seat in Sports' ride",
       "pub": 1787505001000,
       "lean": "ct",
@@ -1112,24 +1499,6 @@
           "deck": "This week on \"Face the Nation with Margaret Brennan,\" Minneapolis Fed President and CEO Neel Kashkari joins to discuss the U.",
           "link": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-aug-23-2026/",
           "pub": 1787504813000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-      "pub": 1787504591000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-          "deck": "The following is the transcript of an interview with Neel Kashkari, President and CEO of the Federal Reserve Bank of Minneapolis that aired on \"Face the Nation with Margaret Brennan\" on Aug.",
-          "link": "https://www.cbsnews.com/news/neel-kashkari-minneapolis-fed-face-the-nation-transcript-08-23-2026/",
-          "pub": 1787504591000,
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
@@ -1223,24 +1592,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Chucky mask sicko Zymire Hughes could be lurking in California after stalking Philly jogger",
-      "pub": 1787504283000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chucky mask sicko Zymire Hughes could be lurking in California after stalking Philly jogger",
-          "deck": "Police said the suspect, identified as Zamire Hughes, made threatening comments toward the woman during the Aug.",
-          "link": "https://nypost.com/2026/08/23/us-news/chucky-mask-sicko-zymire-hughes-could-be-lurking-in-california-after-stalking-philly-jogger/",
-          "pub": 1787504283000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1371,14 +1722,14 @@
       ]
     },
     {
-      "title": "Man arrested travelling to France after one dead and eight injured in London house fire",
+      "title": "Man arrested travelling to France after one dead and eight injured in London fire",
       "pub": 1787503104000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Man arrested travelling to France after one dead and eight injured in London house fire",
+          "title": "Man arrested travelling to France after one dead and eight injured in London fire",
           "deck": "A 34-year-old man is arrested on suspicion of murder following a fatal fire in Hounslow.",
           "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
           "pub": 1787503104000,
@@ -1420,51 +1771,6 @@
           "pub": 1787502463000,
           "src": "YAH",
           "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-      "pub": 1787502374000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": false,
-      "versions": [
-        {
-          "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-          "deck": "The following is the transcript of the interview with Rep.",
-          "link": "https://www.cbsnews.com/news/byron-donalds-florida-governor-candidate-face-the-nation-transcript-08-23-2026/",
-          "pub": 1787502374000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        },
-        {
-          "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/transcript-rep-byron-donalds-face-162614833.html",
-          "pub": 1787502374000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Transcript: Dr. Mehmet Oz on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-      "pub": 1787502005000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Transcript: Dr. Mehmet Oz on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-          "deck": "The following is the transcript of an interview with Dr.",
-          "link": "https://www.cbsnews.com/news/mehmet-oz-cms-administrator-face-the-nation-transcript-08-23-2026/",
-          "pub": 1787502005000,
-          "src": "CBS",
-          "srcFull": "CBS News",
           "lean": "ll"
         }
       ]
@@ -1929,24 +2235,6 @@
       ]
     },
     {
-      "title": "House Speaker Mike Johnson wants the D.C. IndyCar race to be annual: 'I'll be pushing for that'",
-      "pub": 1787499264000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "House Speaker Mike Johnson wants the D.C. IndyCar race to be annual: 'I'll be pushing for that'",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/article/house-speaker-mike-johnson-wants-the-dc-indycar-race-to-be-annual-ill-be-pushing-for-that-153424486.html",
-          "pub": 1787499264000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ben & Jerry's Lawsuit Over \"Social-Mission\"-Related Contract Related to Its Earlier Sale",
       "pub": 1787499146000,
       "lean": "ct",
@@ -1996,24 +2284,6 @@
           "pub": 1787499019000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii",
-      "pub": 1787499019000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/weather-news/articles/tropical-storm-moke-carrying-more-153019776.html",
-          "pub": 1787499019000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -2069,24 +2339,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Penguins Bolt After Spotting a Leopard Seal",
-      "pub": 1787498100000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Penguins Bolt After Spotting a Leopard Seal",
-          "deck": "",
-          "link": "https://www.yahoo.com/lifestyle/articles/penguins-bolt-spotting-leopard-seal-151500231.html",
-          "pub": 1787498100000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2301,7 +2553,7 @@
       "title": "Pence: 'Last thing' US economy needs is trade war with Canada",
       "pub": 1787497171000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -2586,24 +2838,6 @@
       ]
     },
     {
-      "title": "McMahon says Education Department ‘cracking down’ on teachers harassing students",
-      "pub": 1787494461000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "McMahon says Education Department ‘cracking down’ on teachers harassing students",
-          "deck": "Education Secretary Linda McMahon said Sunday her department is “cracking down” on K-12 teachers sexually harassing students.",
-          "link": "https://thehill.com/homenews/education/6045594-mcmahon-education-department-teacher-misconduct/",
-          "pub": 1787494461000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Gallery: Photos of the Week",
       "pub": 1787494383000,
       "lean": "ll",
@@ -2636,6 +2870,24 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
+      "pub": 1787494282000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/carney-warned-economic-coercion-now-141122752.html",
+          "pub": 1787494282000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -2841,7 +3093,7 @@
       "title": "How should the moon and Mars be governed?",
       "pub": 1787493600000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2978,6 +3230,24 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Chris Van Hollen says he won’t reject DSA endorsement but ‘certainly not seeking’ it: Full interview",
+      "pub": 1787492708000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Chris Van Hollen says he won’t reject DSA endorsement but ‘certainly not seeking’ it: Full interview",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/chris-van-hollen-says-won-134508074.html",
+          "pub": 1787492708000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3216,6 +3486,24 @@
       ]
     },
     {
+      "title": "Virginia Dem admits system ‘failure’ after illegal immigrant accused in landlord killing escapes to Tajikistan",
+      "pub": 1787490023000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Virginia Dem admits system ‘failure’ after illegal immigrant accused in landlord killing escapes to Tajikistan",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/virginia-dem-admits-system-failure-130023361.html",
+          "pub": 1787490023000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Democrats Need a Candidate Who Inspires, and Can Win",
       "pub": 1787490012000,
       "lean": "ll",
@@ -3320,24 +3608,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "September Social Security direct payment worth $994 goes out in nine days",
-      "pub": 1787490000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "September Social Security direct payment worth $994 goes out in nine days",
-          "deck": "The September Supplemental Security Income payments, worth up to $994, will be sent to recipients on Sept.",
-          "link": "https://www.washingtonexaminer.com/news/4678249/september-supplemental-security-income-nine-days/",
-          "pub": 1787490000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3504,24 +3774,6 @@
       ]
     },
     {
-      "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
-      "pub": 1787489087000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
-          "deck": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.",
-          "link": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
-          "pub": 1787489087000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "\"Iran Is Losing Its Grip On Hormuz\": Strait Traffic Explodes Nearly 400%",
       "pub": 1787488620000,
       "lean": "lr",
@@ -3559,20 +3811,11 @@
     },
     {
       "title": "Republicans Grow Concerned With Economy’s Impact on Midterms",
-      "pub": 1787488597000,
+      "pub": 1787488596000,
       "lean": "ll",
-      "cat": "Technology",
-      "single": false,
+      "cat": "Politics",
+      "single": true,
       "versions": [
-        {
-          "title": "Republicans Grow Concerned With Economy’s Impact on Midterms",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/videos/republicans-grow-concerned-economy-impact-123637966.html",
-          "pub": 1787488597000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
         {
           "title": "Republicans Grow Concerned With Economy’s Impact on Midterms",
           "deck": "Meet the Press moderator Kristen Welker joins Sunday TODAY’s Willie Geist to discuss how Republicans are feeling about the midterm elections as affordability continues to be the no.",
@@ -4269,6 +4512,24 @@
       ]
     },
     {
+      "title": "‘Barbaric’ abortion provision fuels Christian push to crack down on Dem governor",
+      "pub": 1787482807000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Barbaric’ abortion provision fuels Christian push to crack down on Dem governor",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/barbaric-abortion-provision-fuels-christian-110007450.html",
+          "pub": 1787482807000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Baggu has bestsellers and more up to 50% off during its summer sale",
       "pub": 1787482800000,
       "lean": "ll",
@@ -4737,24 +4998,6 @@
       ]
     },
     {
-      "title": "Who's who? Meet the Penn State frat bros accused of operating the off-campus coke ring",
-      "pub": 1787479246000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Who's who? Meet the Penn State frat bros accused of operating the off-campus coke ring",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/whos-meet-penn-state-frat-100046108.html",
-          "pub": 1787479246000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
       "pub": 1787479222000,
       "lean": "ll",
@@ -4928,6 +5171,24 @@
           "deck": "",
           "link": "https://www.yahoo.com/lifestyle/articles/hooked-day-trading-8-years-092501298.html",
           "pub": 1787477101000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
+      "pub": 1787477015000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/zelenskyy-details-rift-dismissed-defense-092335211.html",
+          "pub": 1787477015000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -5201,258 +5462,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
-      "pub": 1787472388000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html",
-          "pub": 1787472388000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "It’s Exactly 18 Years Until The Next Total Solar Eclipse In The Contiguous U.S.",
-      "pub": 1787472180000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "It’s Exactly 18 Years Until The Next Total Solar Eclipse In The Contiguous U.S.",
-          "deck": "The next total solar eclipse for the contiguous U.",
-          "link": "https://www.forbes.com/sites/jamiecartereurope/2026/08/23/its-exactly-18-years-until-the-next-total-solar-eclipse-in-the-contiguous-us/",
-          "pub": 1787472180000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
-      "pub": 1787470587000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/russian-online-retailer-ozon-warehouse-073627070.html",
-          "pub": 1787470587000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "pub": 1787469352000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-          "deck": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States.",
-          "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-          "pub": 1787469352000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "AI Prefers AI-Generated Content So Game Those Ubiquitous AI Assessments By Having AI Write Your Materials If You Dare",
-      "pub": 1787469300000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI Prefers AI-Generated Content So Game Those Ubiquitous AI Assessments By Having AI Write Your Materials If You Dare",
-          "deck": "Research shows that AI prefers AI-written content.",
-          "link": "https://www.forbes.com/sites/lanceeliot/2026/08/23/ai-prefers-ai-generated-content-so-game-those-ubiquitous-ai-assessments-by-having-ai-write-your-materials-if-you-dare/",
-          "pub": 1787469300000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Byron Donalds explains his vision for Florida ahead of November election",
-      "pub": 1787468400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Byron Donalds explains his vision for Florida ahead of November election",
-          "deck": "Byron Donalds joins NewsNation's Batya Ungar-Sargon to discuss his campaign and priorities ahead of the November election.",
-          "link": "https://www.newsnationnow.com/batya/byron-donalds-explains-his-vision-for-florida-ahead-of-november-election/",
-          "pub": 1787468400000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ossoff's Natalie Harp-Trump remark 'was factual' about relationship: Subramanyam",
-      "pub": 1787468400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ossoff's Natalie Harp-Trump remark 'was factual' about relationship: Subramanyam",
-          "deck": "Rep. Suhas Subramanyam, D-Va., joins \"Batya!\" to discuss Sen. Jon Ossoff's comments about Natalie Harp's role in the White House. Subramanyam argued that Ossoff's remarks were not sexist but reflected Harp's highly visible role in President Donald Trump's orbit. He pointed to Harp's recent public profile, including attention surrounding her relationship with the president and notes she has written that have drawn public scrutiny.",
-          "link": "https://www.newsnationnow.com/batya/ossoffs-natalie-harp-trump-remark-was-factual-about-relationship-subramanyam/",
-          "pub": 1787468400000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Open Thread",
-      "pub": 1787468400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Open Thread",
-          "deck": "What’s on your mind?",
-          "link": "https://reason.com/volokh/2026/08/23/open-thread-305/",
-          "pub": 1787468400000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump fires back at Canada after Carney suspends trade talks, accuses US of last-minute 'power play'",
-      "pub": 1787468390000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump fires back at Canada after Carney suspends trade talks, accuses US of last-minute 'power play'",
-          "deck": "President Donald Trump accused Canada of wanting the benefits of statehood on Truth Social after Canadian PM Mark Carney suspended U.",
-          "link": "https://www.foxbusiness.com/politics/trump-fires-back-canada-after-carney-suspends-trade-talks-accuses-us-last-minute-power-play",
-          "pub": 1787468390000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "pub": 1787467140000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-          "deck": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.",
-          "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-          "pub": 1787467140000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Scammers increasingly using QR codes to steal money and data",
-      "pub": 1787466234000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Scammers increasingly using QR codes to steal money and data",
-          "deck": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787466234000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Les used a QR code to download a parking app - but it was a scam",
-      "pub": 1787466234000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Les used a QR code to download a parking app - but it was a scam",
-          "deck": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787466234000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Canada says it will begin retaliatory tariffs on U.S. goods after Labor Day",
-      "pub": 1787465660000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canada says it will begin retaliatory tariffs on U.S. goods after Labor Day",
-          "deck": "The U.S. and Canada have wrangled for decades over trade, and somehow, they still managed to remain friends, allies and trading partners.",
-          "link": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
-          "pub": 1787465660000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The Barbie Backlash",
-      "pub": 1787465598000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Barbie Backlash",
-          "deck": "‘The Odyssey’ and ‘Barbie’ show a zeitgeist shift that goes beyond Hollywood: The hero’s narrative is corroding our political and public life.",
-          "link": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
-          "pub": 1787465598000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     }
