@@ -1,22 +1,499 @@
 {
-  "generated": "2026-08-25T06:38:47.395Z",
+  "generated": "2026-08-25T07:38:43.972Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Burnham refuses to rule out tax rises in autumn Budget",
-      "pub": 1787639584000,
+      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+      "pub": 1787643373000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+          "deck": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+          "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787643373000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
+      "pub": 1787643264000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Asbestos killed my mum in her 40s – was her school to blame?",
+          "deck": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
+          "link": "https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787643264000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Vietnam says its foreign minister will visit Myanmar on Wednesday",
+      "pub": 1787643051000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Burnham refuses to rule out tax rises in autumn Budget",
+          "title": "Vietnam says its foreign minister will visit Myanmar on Wednesday",
           "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/burnham-refuses-rule-tax-rises-013551696.html",
-          "pub": 1787639584000,
+          "link": "https://www.yahoo.com/news/world/articles/vietnam-says-foreign-minister-visit-063032993.html",
+          "pub": 1787643051000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Norway Takes Oilfield Climate Battle To Supreme Court",
+      "pub": 1787643000000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Norway Takes Oilfield Climate Battle To Supreme Court",
+          "deck": "Norway Takes Oilfield Climate Battle To Supreme Court By Tsvetana Paraskova of OilPrice.",
+          "link": "https://www.zerohedge.com/energy/norway-takes-oilfield-climate-battle-supreme-court",
+          "pub": 1787643000000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "pub": 1787642978000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": false,
+      "versions": [
+        {
+          "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/weather-news/articles/tornado-tears-french-village-leaving-012727566.html",
+          "pub": 1787642978000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        },
+        {
+          "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+          "deck": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+          "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+          "pub": 1787642023000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Target pulls ‘offensive’ Halloween costume from stores",
+      "pub": 1787642832000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Target pulls ‘offensive’ Halloween costume from stores",
+          "deck": "The retailer pulled the kids' circus clown costume after social media users accused it of selling racist merchandise.",
+          "link": "https://nypost.com/2026/08/25/business/target-pulls-offensive-halloween-costume-critics-accused-of-evoking-blackface-we-are-deeply-sorry/",
+          "pub": 1787642832000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "2 Cash-Heavy Stocks to Consider Right Now and 1 Facing Challenges",
+      "pub": 1787642804000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "2 Cash-Heavy Stocks to Consider Right Now and 1 Facing Challenges",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-consider-072644836.html",
+          "pub": 1787642804000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Tornado in France injures 41 people, damages hundreds of homes",
+      "pub": 1787642710000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tornado in France injures 41 people, damages hundreds of homes",
+          "deck": "Winds are estimated to have reached 73 mph.",
+          "link": "https://www.cbsnews.com/news/tornado-france-aude-pomas-storm-weather/",
+          "pub": 1787642710000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Reddit's Steve Huffman Filed a Form 4 Right as the Index Pop Faded. Here's What Long-Term Investors Should Know",
+      "pub": 1787642541000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Reddit's Steve Huffman Filed a Form 4 Right as the Index Pop Faded. Here's What Long-Term Investors Should Know",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/reddits-steve-huffman-filed-form-072221126.html",
+          "pub": 1787642541000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mike Lindell accuses Minnesota of ‘bait and switch’ in recount efforts",
+      "pub": 1787642439000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mike Lindell accuses Minnesota of ‘bait and switch’ in recount efforts",
+          "deck": "MyPillow founder-turned-political activist Mike Lindell announced he was withholding his $825,000 payment for a recount in the recent Minnesota gubernatorial primary.",
+          "link": "https://www.washingtonexaminer.com/news/4699038/mike-lindell-accuses-minnesota-of-bait-and-switch-in-recount-efforts/",
+          "pub": 1787642439000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The 5 Most Interesting Analyst Questions From Mercury Systems’s Q2 Earnings Call",
+      "pub": 1787642324000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The 5 Most Interesting Analyst Questions From Mercury Systems’s Q2 Earnings Call",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-071844877.html",
+          "pub": 1787642324000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Which trial moments could decide Lindsay Clancy's fate?",
+      "pub": 1787641487000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Which trial moments could decide Lindsay Clancy's fate?",
+          "deck": "The jury must decide whether she was suffering from postpartum psychosis, or if she intentionally killed them.",
+          "link": "https://www.newsnationnow.com/crime/lindsay-clancy-trial-closing-arguments-jury/",
+          "pub": 1787641487000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "10 Things To Know About NASA’s Roman Space Telescope Before Its Aug. 30 Launch",
+      "pub": 1787641200000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "10 Things To Know About NASA’s Roman Space Telescope Before Its Aug. 30 Launch",
+          "deck": "NASA’s Roman Space Telescope launches Aug.",
+          "link": "https://www.forbes.com/sites/jamiecartereurope/2026/08/25/10-things-to-know-about-nasas-roman-space-telescope-before-its-aug-30-launch/",
+          "pub": 1787641200000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Open Thread",
+      "pub": 1787641200000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Open Thread",
+          "deck": "What’s on your mind?",
+          "link": "https://reason.com/volokh/2026/08/25/open-thread-307/",
+          "pub": 1787641200000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How The U.S. Racked Up Its $40 Trillion Debt",
+      "pub": 1787641200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How The U.S. Racked Up Its $40 Trillion Debt",
+          "deck": "Can the U.S. grow its way out of this?",
+          "link": "https://thedispatch.com/podcast/dispatch-podcast/how-the-u-s-racked-up-its-40-trillion-debt/",
+          "pub": 1787641200000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Civility vs. Collegiality | Interview: Judges Tom Griffith and David Tatel",
+      "pub": 1787641200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Civility vs. Collegiality | Interview: Judges Tom Griffith and David Tatel",
+          "deck": "We’re all over the political spectrum here.",
+          "link": "https://thedispatch.com/podcast/advisoryopinions/civility-vs-collegiality-interview-judges-tom-griffith-and-david-tatel/",
+          "pub": 1787641200000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dear Abby: I left my wife over her judgmental religious beliefs — then she turned my kids against me",
+      "pub": 1787641200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dear Abby: I left my wife over her judgmental religious beliefs — then she turned my kids against me",
+          "deck": "Dear Abby gives advice to a reader who is filled with regret after his daughters grew up without him in their lives after his divorce.",
+          "link": "https://nypost.com/2026/08/25/lifestyle/dear-abby-i-left-my-wife-over-her-judgmental-religious-beliefs-then-she-turned-my-kids-against-me/",
+          "pub": 1787641200000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "pub": 1787641143000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "deck": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787641143000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "pub": 1787640886000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+          "deck": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787640886000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "US Issues Travel Warning for Mexicali, Mexico Over 'Potential Threat'",
+      "pub": 1787640814000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "US Issues Travel Warning for Mexicali, Mexico Over 'Potential Threat'",
+          "deck": "The U.S. government has suspended operations in Mexicali and advised Americans against travelling to the city on Tuesday.",
+          "link": "https://www.newsweek.com/us-issues-travel-warning-for-mexicali-mexico-over-potential-threat-12362102",
+          "pub": 1787640814000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Canada plans tariff retaliation after Trump warns its leaders to 'fall in line'",
+      "pub": 1787640661000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Canada plans tariff retaliation after Trump warns its leaders to 'fall in line'",
+          "deck": "Prime Minister Mark Carney says Canada will match new U.",
+          "link": "https://www.foxbusiness.com/politics/canada-plans-tariff-retaliation-after-trump-warns-its-leaders-fall-line",
+          "pub": 1787640661000,
+          "src": "FoxB",
+          "srcFull": "Fox Business",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Nearly one in 12 German long-distance trains cancelled in first half",
+      "pub": 1787640505000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Nearly one in 12 German long-distance trains cancelled in first half",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/nearly-one-12-german-long-064825634.html",
+          "pub": 1787640505000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran Unveils Huge New Gas Discovery Amid US Economic Pressure",
+      "pub": 1787640300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran Unveils Huge New Gas Discovery Amid US Economic Pressure",
+          "deck": "Iran Unveils Huge New Gas Discovery Amid US Economic Pressure Iran announced a huge new gas discovery in the southern province of Fars, with the oil ministry reporting estimates of 7.",
+          "link": "https://www.zerohedge.com/energy/iran-unveils-huge-new-gas-discovery-amid-us-economic-pressure",
+          "pub": 1787640300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Burnham refuses to rule out tax rises in autumn Budget",
+      "pub": 1787640033000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Burnham refuses to rule out tax rises in autumn Budget",
+          "deck": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+          "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+          "pub": 1787640033000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iran says it's ready for new U.S. sanctions, has 2-year plan",
+      "pub": 1787639987000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran says it's ready for new U.S. sanctions, has 2-year plan",
+          "deck": "Iran's economy minister said the country has been preparing for a long time for the sanctions U.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/",
+          "pub": 1787639987000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Is Mercedes' 2026 dominance over? F1 Q&A",
+      "pub": 1787639752000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Is Mercedes' 2026 dominance over? F1 Q&A",
+          "deck": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Dutch Grand Prix.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787639752000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "'Change is necessary' - players unite against Fifa",
+      "pub": 1787639479000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Change is necessary' - players unite against Fifa",
+          "deck": "A number of current and former footballers unite against Fifa president Gianni Infantino, stating that \"change is necessary\" at the global governing body.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss",
+          "pub": 1787639479000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -39,24 +516,6 @@
       ]
     },
     {
-      "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
-      "pub": 1787639100000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
-          "deck": "",
-          "link": "https://finance.yahoo.com/energy/articles/prediction-spacexs-power-needs-turn-062500850.html",
-          "pub": 1787639100000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
       "pub": 1787639076000,
       "lean": "ll",
@@ -75,69 +534,6 @@
       ]
     },
     {
-      "title": "Statement",
-      "pub": 1787638800000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Statement",
-          "deck": "",
-          "link": "https://sports.yahoo.com/articles/statement-062000102.html",
-          "pub": 1787638800000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Germany's Q2 economic growth at 0.3%, surpassing initial estimate",
-      "pub": 1787638708000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Germany's Q2 economic growth at 0.3%, surpassing initial estimate",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/articles/german-economy-grows-0-3-060619801.html",
-          "pub": 1787638708000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "pub": 1787638674000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": false,
-      "versions": [
-        {
-          "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/iran-faces-economic-d-day-103928268.html",
-          "pub": 1787638674000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        },
-        {
-          "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-          "deck": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787638588000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
       "pub": 1787638560000,
       "lean": "lr",
@@ -152,42 +548,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Iran says it's ready for new U.S. sanctions, has 2-year plan",
-      "pub": 1787638246000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran says it's ready for new U.S. sanctions, has 2-year plan",
-          "deck": "Iran's economy minister said the country has been preparing for a long time for the sanctions U.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/",
-          "pub": 1787638246000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Grealish back for Man City - but for how long?",
-      "pub": 1787638150000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Grealish back for Man City - but for how long?",
-          "deck": "Man City winger has made two substitute appearances so far this season, but his future remains in doubt.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy0znx93x05o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787638150000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -239,24 +599,6 @@
           "deck": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
           "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
           "pub": 1787637141000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "pub": 1787636468000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-          "deck": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
-          "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787636468000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -426,42 +768,6 @@
       ]
     },
     {
-      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
-      "pub": 1787634552000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Asbestos killed my mum in her 40s – was her school to blame?",
-          "deck": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
-          "link": "https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787634552000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Six months into Iran war, almost half of global oil flows from war zones",
-      "pub": 1787634522000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Six months into Iran war, almost half of global oil flows from war zones",
-          "deck": "",
-          "link": "https://finance.yahoo.com/news/six-months-iran-war-almost-050842411.html",
-          "pub": 1787634522000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Drought leaves 'barely any apples' to make cider",
       "pub": 1787634517000,
       "lean": "ct",
@@ -476,24 +782,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A women's shelter for refugees in Poland fights for survival as anti-Ukrainian sentiment rises",
-      "pub": 1787634216000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "A women's shelter for refugees in Poland fights for survival as anti-Ukrainian sentiment rises",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/womens-shelter-refugees-poland-fights-050336642.html",
-          "pub": 1787634216000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -732,6 +1020,24 @@
       ]
     },
     {
+      "title": "Reasonable doubt in Lindsay Clancy hearing: Ex-prosecutor",
+      "pub": 1787633403000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Reasonable doubt in Lindsay Clancy hearing: Ex-prosecutor",
+          "deck": "Whether Clancy was suffering from depression or had psychosis when she killed her children emerged as a key point Monday.",
+          "link": "https://www.newsnationnow.com/crime/lindsay-clancy-prosecution-failed-mortal-sin/",
+          "pub": 1787633403000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
       "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
       "pub": 1787633358000,
       "lean": "ll",
@@ -920,7 +1226,7 @@
       "versions": [
         {
           "title": "4 NJ teens steal $220K G Wagon, lead cops on hours-long car chase before crashing, killing beloved couple",
-          "deck": "The crash killed killing a beloved grandmother and her longtime partner.",
+          "deck": "The crash killed a beloved grandmother and her longtime partner.",
           "link": "https://nypost.com/2026/08/25/us-news/4-nj-teens-steal-220k-g-wagon-lead-cops-on-hours-long-car-chase-before-crashing-killing-beloved-couple/",
           "pub": 1787631331000,
           "src": "NYP",
@@ -1013,24 +1319,6 @@
           "deck": "",
           "link": "https://www.yahoo.com/news/science/articles/watch-2-astronauts-replace-failed-040100867.html",
           "pub": 1787630460000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says",
-      "pub": 1787630425000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/lindsay-clancy-trial-postpartum-real-040025126.html",
-          "pub": 1787630425000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -1527,7 +1815,7 @@
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "pub": 1787626162000,
       "lean": "ct",
-      "cat": "World",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -1722,24 +2010,6 @@
       ]
     },
     {
-      "title": "Dramatic moment rescuers find two climbers trapped on popular 600ft Big Sur cliff",
-      "pub": 1787625000000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dramatic moment rescuers find two climbers trapped on popular 600ft Big Sur cliff",
-          "deck": "Two climbers stranded on a treacherous cliffside 600 feet below a Big Sur roadway were dramatically airlifted to safety after rescuers swooped in with a helicopter Saturday evening.",
-          "link": "https://nypost.com/2026/08/24/us-news/big-sur-climbers-stranded-on-cliffside-airlifted-to-safety-by-rescuers/",
-          "pub": 1787625000000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
       "pub": 1787624880000,
       "lean": "ll",
@@ -1761,7 +2031,7 @@
       "title": "Rob Bonta, stop toying with California jobs",
       "pub": 1787624817000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2172,24 +2442,6 @@
       ]
     },
     {
-      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "pub": 1787622517000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/burnham-visit-kyiv-first-foreign-230714130.html",
-          "pub": 1787622517000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Jets HC Aaron Glenn Reveals Week 1 Outlook for Breece Hall, Kenyon Sadiq",
       "pub": 1787622449000,
       "lean": "ct",
@@ -2280,24 +2532,6 @@
       ]
     },
     {
-      "title": "Burnham refuses to rule out tax rises in autumn Budget",
-      "pub": 1787621747000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Burnham refuses to rule out tax rises in autumn Budget",
-          "deck": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-          "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787621747000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Chiefs' Andy Reid Won't Predict Patrick Mahomes' Week 1 Status",
       "pub": 1787621409000,
       "lean": "ct",
@@ -2311,24 +2545,6 @@
           "pub": 1787621409000,
           "src": "NWWK",
           "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Tornado tears through French village leaving dozens injured",
-      "pub": 1787621241000,
-      "lean": "ct",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Tornado tears through French village leaving dozens injured",
-          "deck": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-          "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-          "pub": 1787621241000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -2676,24 +2892,6 @@
       ]
     },
     {
-      "title": "Trail Blazers Guard Out For Six Months With Torn Meniscus",
-      "pub": 1787618870000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trail Blazers Guard Out For Six Months With Torn Meniscus",
-          "deck": "Portland Trail Blazers guard Shaedon Sharpe suffered a torn meniscus that is expected to sideline him for six months.",
-          "link": "https://www.newsweek.com/sports/nba/trail-blazers-guard-out-for-six-months-with-torn-meniscus-12361564",
-          "pub": 1787618870000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
       "pub": 1787618603000,
       "lean": "ll",
@@ -2841,7 +3039,7 @@
       "title": "US removes Syria from list of state sponsors of terrorism",
       "pub": 1787617045000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -2888,24 +3086,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "California GOP candidate Steve Hilton pushes for school supply reform",
-      "pub": 1787616544000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "California GOP candidate Steve Hilton pushes for school supply reform",
-          "deck": "The proposal would provide every teacher with a $1,000 classroom basics account.",
-          "link": "https://www.newsnationnow.com/us-news/west/steve-hilton-proposal-school-supplies-reform-california/",
-          "pub": 1787616544000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
         }
       ]
     },
@@ -2960,6 +3140,24 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions",
+      "pub": 1787616272000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/us-supreme-court-lifts-judicial-210302186.html",
+          "pub": 1787616272000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3468,24 +3666,6 @@
       ]
     },
     {
-      "title": "Watson among Britons through in US Open qualifying",
-      "pub": 1787613081000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Watson among Britons through in US Open qualifying",
-          "deck": "Heather Watson is among the British winners in the first round of US Open qualifying as she bids for a first New York main-drawn appearance in five years.",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787613081000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
       "pub": 1787613040000,
       "lean": "ct",
@@ -3540,14 +3720,14 @@
       ]
     },
     {
-      "title": "The grieving family who say the coroner's courts aren't working",
+      "title": "The grieving family who say the coroners' courts aren't working",
       "pub": 1787612956000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "The grieving family who say the coroner's courts aren't working",
+          "title": "The grieving family who say the coroners' courts aren't working",
           "deck": "One man's death highlights the growing strains on the UK's coroner's courts",
           "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
           "pub": 1787612956000,
@@ -3774,38 +3954,20 @@
       ]
     },
     {
-      "title": "Three reasons Chelsea could challenge for title - and one they may not",
+      "title": "Three reasons Chelsea could challenge for title - and one issue that could haunt them",
       "pub": 1787612076000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Three reasons Chelsea could challenge for title - and one they may not",
+          "title": "Three reasons Chelsea could challenge for title - and one issue that could haunt them",
           "deck": "While Chelsea's front three produced a sparkling display in their win over Fulham, goalkeeper Robert Sanchez remains a major concern.",
           "link": "https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss",
           "pub": 1787612076000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
-      "pub": 1787612020000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/putin-panicked-defiant-ukraine-marks-225340763.html",
-          "pub": 1787612020000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -4386,24 +4548,6 @@
       ]
     },
     {
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "pub": 1787609616000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lockerbie bombing trial postponed days before it was due to start",
-          "deck": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787609616000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "This scientist uses light to perform smarter, cleaner chemistry",
       "pub": 1787609611000,
       "lean": "ll",
@@ -4620,14 +4764,14 @@
       ]
     },
     {
-      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
       "pub": 1787608729000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+          "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
           "deck": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
           "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
           "pub": 1787608729000,
@@ -5052,24 +5196,6 @@
       ]
     },
     {
-      "title": "Supreme Court lifts block on Trump’s mail-ballot executive order",
-      "pub": 1787606902000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Supreme Court lifts block on Trump’s mail-ballot executive order",
-          "deck": "The Supreme Court clears a path for President Donald Trump’s mail-ballot executive order ahead of the midterm elections, marking another key win for the administration on the high court’s emergency docket.",
-          "link": "https://www.washingtonexaminer.com/news/supreme-court/4677698/supreme-court-clears-path-trump-mail-ballot-executive-order-emergency-petition/",
-          "pub": 1787606902000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "US formally removes Syria’s designation as State Sponsor of Terrorism",
       "pub": 1787606772000,
       "lean": "ct",
@@ -5223,6 +5349,24 @@
       ]
     },
     {
+      "title": "US removes Syria’s state sponsor of terrorism designation",
+      "pub": 1787606178000,
+      "lean": "lr",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "US removes Syria’s state sponsor of terrorism designation",
+          "deck": "The United States on Monday removed Syria from its list of state sponsors of terrorism, ending a designation in place for nearly five decades as the Trump administration moves to improve relations with the country’s post-Assad government.",
+          "link": "https://www.washingtonexaminer.com/policy/foreign-policy/4698697/us-syria-state-sponsor-of-terrorism-designation-since-1979-blocked-persons-lifted/",
+          "pub": 1787606178000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
       "pub": 1787605989000,
       "lean": "ll",
@@ -5273,150 +5417,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "This YouTuber Got Kicked Out of the Flock Convention. So He Ran His Own Surveillance.",
-      "pub": 1787605683000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "This YouTuber Got Kicked Out of the Flock Convention. So He Ran His Own Surveillance.",
-          "deck": "Benn Jordan wants the snoopers to be “a little unsettled.",
-          "link": "https://reason.com/2026/08/24/this-youtuber-got-kicked-out-of-the-flock-convention-so-he-ran-his-own-surveillance/",
-          "pub": 1787605683000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Darline Graham insists voters aren’t concerned about Taiwan: ‘Worried about the price of groceries’",
-      "pub": 1787605666000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Darline Graham insists voters aren’t concerned about Taiwan: ‘Worried about the price of groceries’",
-          "deck": "Sen. Darline Graham insisted that voters aren't fazed by her stumble over a debate question about Taiwan and are more focused on affordability, which is her priority.",
-          "link": "https://nypost.com/2026/08/24/us-news/darline-graham-insists-voters-arent-concerned-about-taiwan-worried-about-the-price-of-groceries/",
-          "pub": 1787605666000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump moves to reshape White House’s South Lawn",
-      "pub": 1787605402000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump moves to reshape White House’s South Lawn",
-          "deck": "The president's latest construction project involves changing the lawn's slope to bring it flush with his new helipad.",
-          "link": "https://www.washingtonpost.com/politics/2026/08/24/trump-moves-re-slope-white-houses-south-lawn/",
-          "pub": 1787605402000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order",
-      "pub": 1787605366000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order",
-          "deck": "The Trump administration wants to exert greater control over mail-in ballots ahead of the midterms despite the primary role states play in overseeing elections.",
-          "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
-          "pub": 1787605366000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
-      "pub": 1787605290000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
-          "deck": "The Mexican man was sent to his home country after assisting federal law enforcement by testifying against Mexican drug cartels.",
-          "link": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
-          "pub": 1787605290000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "8/24: The Takeout with Major Garrett",
-      "pub": 1787605200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "8/24: The Takeout with Major Garrett",
-          "deck": "Trump administration unveils new sanctions against Iran; Supreme Court allows Trump order overhauling mail-in voting to proceed for now.",
-          "link": "https://www.cbsnews.com/video/082426-the-takeout-with-major-garrett/",
-          "pub": 1787605200000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Pluto losing its planet status may be the best thing that ever happened to solar system diversity",
-      "pub": 1787605200000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pluto losing its planet status may be the best thing that ever happened to solar system diversity",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/pluto-losing-planet-status-may-210000192.html",
-          "pub": 1787605200000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "DEI Refuses To Die",
-      "pub": 1787605200000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "DEI Refuses To Die",
-          "deck": "DEI Refuses To Die Authored by Kenin M.",
-          "link": "https://www.zerohedge.com/political/dei-refuses-die",
-          "pub": 1787605200000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
         }
       ]
     }
