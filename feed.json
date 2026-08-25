@@ -1,28 +1,46 @@
 {
-  "generated": "2026-08-25T11:27:37.869Z",
+  "generated": "2026-08-25T11:55:09.870Z",
   "count": 300,
   "clusters": [
     {
-      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-      "pub": 1787657158000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "pub": 1787658843000,
+      "lean": "ct",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-          "deck": "United is betting big on premium, international travel with a host of new routes.",
-          "link": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-          "pub": 1787657158000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "deck": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787658843000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "pub": 1787658816000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+          "deck": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "pub": 1787658816000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
     {
       "title": "Man dies in crash after police pursuit",
-      "pub": 1787657111000,
+      "pub": 1787658751000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
@@ -31,7 +49,7 @@
           "title": "Man dies in crash after police pursuit",
           "deck": "A woman is also seriously injured and remains in hospital in critical condition.",
           "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787657111000,
+          "pub": 1787658751000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -39,35 +57,125 @@
       ]
     },
     {
-      "title": "Why Trump's Mail-In Ballot Win Is Likely Too Little, Too Late",
-      "pub": 1787657036000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Trump's Mail-In Ballot Win Is Likely Too Little, Too Late",
-          "deck": "Trump scored a Supreme Court win on mail voting, but with ballots going out soon, the election clock matters more than the courts.",
-          "link": "https://www.newsweek.com/trump-mail-in-ballot-supreme-court-midterms-too-late-12363240",
-          "pub": 1787657036000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Iran vows to resist widened US sanctions, says Washington seeks talks",
-      "pub": 1787657023000,
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "pub": 1787658573000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Iran vows to resist widened US sanctions, says Washington seeks talks",
+          "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+          "deck": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
+          "link": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+          "pub": 1787658573000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Let Iran Control the Strait of Hormuz",
+      "pub": 1787658573000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Let Iran Control the Strait of Hormuz",
+          "deck": "President Trump needs to face reality on the Strait of Hormuz.",
+          "link": "https://www.nytimes.com/2026/08/24/opinion/iran-strait-of-hormuz-oil-trump.html",
+          "pub": 1787658573000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
+      "pub": 1787658463000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
+          "deck": "Investors shrugged off the latest developments in the U.",
+          "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+          "pub": 1787658463000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bessent Drops Iran Sanctions Hammer On Dozens Of Chinese Firms, Spares Big Banks As Beijing Threatens Retaliation",
+      "pub": 1787658300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bessent Drops Iran Sanctions Hammer On Dozens Of Chinese Firms, Spares Big Banks As Beijing Threatens Retaliation",
+          "deck": "Bessent Drops Iran Sanctions Hammer On Dozens Of Chinese Firms, Spares Big Banks As Beijing Threatens Retaliation The Trump administration's \"Operation Economic Outcast\" has expanded the sanctions campaign across China and Hong Kong, targeting dozens of individuals and businesses while intentionally holding off on sanctioning major Chinese banks that keep Tehran connected to the global financial system.",
+          "link": "https://www.zerohedge.com/geopolitical/bessent-drops-iran-sanctions-hammer-dozens-chinese-firms-spares-big-banks-beijing",
+          "pub": 1787658300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "FDA Approves New Blood Test to Identify Signs of Alzheimer’s",
+      "pub": 1787658115000,
+      "lean": "ll",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "FDA Approves New Blood Test to Identify Signs of Alzheimer’s",
+          "deck": "The Food and Drug Administration has approved a new blood test to help identify signs of Alzheimer’s disease for people 55 and older who are already showing signs of cognitive decline.",
+          "link": "https://www.today.com/video/roche-and-eli-lilly-s-alzheimer-s-blood-test-gets-fda-approval-268820549705",
+          "pub": 1787658115000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
+      "pub": 1787658109000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
+          "deck": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+          "pub": 1787658109000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "See SpaceX 'jellyfish' rocket launch create glow over Florida's East Coast",
+      "pub": 1787658093000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "See SpaceX 'jellyfish' rocket launch create glow over Florida's East Coast",
           "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/iran-vows-retaliate-us-widens-010017732.html",
-          "pub": 1787657023000,
+          "link": "https://www.yahoo.com/news/science/articles/see-spacex-jellyfish-rocket-launch-114133533.html",
+          "pub": 1787658093000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -75,19 +183,253 @@
       ]
     },
     {
-      "title": "US EXIM issues $1.1bn project letter for Ivanhoe Electric copper project",
-      "pub": 1787657021000,
+      "title": "Dick’s Sporting Goods tumbles on guidance cut, Q2 miss",
+      "pub": 1787658087000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "US EXIM issues $1.1bn project letter for Ivanhoe Electric copper project",
+          "title": "Dick’s Sporting Goods tumbles on guidance cut, Q2 miss",
           "deck": "",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/us-exim-issues-1-1bn-112341375.html",
-          "pub": 1787657021000,
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dick-sporting-goods-tumbles-guidance-114127655.html",
+          "pub": 1787658087000,
           "src": "YAH",
           "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Commonwealth Bank unveils payout platform ahead of cheque exit",
+      "pub": 1787658058000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Commonwealth Bank unveils payout platform ahead of cheque exit",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/articles/commonwealth-bank-unveils-payout-platform-114058630.html",
+          "pub": 1787658058000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Stocks rise, oil down as traders weigh Iran sanctions threat",
+      "pub": 1787658048000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Stocks rise, oil down as traders weigh Iran sanctions threat",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-stagger-oil-rises-traders-024603014.html",
+          "pub": 1787658048000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Intel’s Skid Continues: One of The Biggest Global Banks Says It Will Provide 130% Returns From Here",
+      "pub": 1787658004000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Intel’s Skid Continues: One of The Biggest Global Banks Says It Will Provide 130% Returns From Here",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-skid-continues-one-biggest-114004162.html",
+          "pub": 1787658004000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "NFL and NBA preseason players are going back to college — how NCAA could have avoided this mess",
+      "pub": 1787658000000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "NFL and NBA preseason players are going back to college — how NCAA could have avoided this mess",
+          "deck": "The funny aspect to the current chaos that pervades major college sports is how easily it could have all been avoided.",
+          "link": "https://nypost.com/2026/08/25/sports/how-ncaa-could-have-avoided-nfl-nba-player-eligibility-chaos/",
+          "pub": 1787658000000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "pub": 1787657526000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+          "deck": "United is betting big on premium, international travel with a host of new routes.",
+          "link": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+          "pub": 1787657526000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court Hands Preliminary Win to Trump on Mail-in Ballots",
+      "pub": 1787657507000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Supreme Court Hands Preliminary Win to Trump on Mail-in Ballots",
+          "deck": "The Supreme Court handed President Donald Trump a political win after lifting a block on his efforts to limit who can receive a mail-in ballot.",
+          "link": "https://www.today.com/video/supreme-court-allows-trump-to-pursue-mail-in-voting-restrictions-268816965946",
+          "pub": 1787657507000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
+      "pub": 1787657404000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
+          "deck": "Emerald AI, now valued at $1.",
+          "link": "https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html",
+          "pub": 1787657404000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
+      "pub": 1787657401000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
+          "deck": "Bugatti CEO Mate Rimac told CNBC he thinks high-end sports cars will continue to have combustion engines \"for a very long time\" even with the rise of EVs.",
+          "link": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
+          "pub": 1787657401000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "JD Vance vs. King Dollar, revisited",
+      "pub": 1787657400000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "JD Vance vs. King Dollar, revisited",
+          "deck": "Whatever benefits undoing the currency’s global status would bring, it would mean less affordability for Americans.",
+          "link": "https://www.washingtonpost.com/opinions/2026/08/25/jd-vance-dollar-dominance-search-affordability/",
+          "pub": 1787657400000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The victory lap on Trump's nuclear campus plan is premature",
+      "pub": 1787657400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The victory lap on Trump's nuclear campus plan is premature",
+          "deck": "Before anyone declares the gridlock is broken, the plan should clear five tests.",
+          "link": "https://thehill.com/homenews/6033556-doe-nuclear-innovation-campus-plans/",
+          "pub": 1787657400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "pub": 1787657090000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+          "deck": "Concern over the size and the cost of U.",
+          "link": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+          "pub": 1787657090000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Canada Prepares to Retaliate on Trump's 50% Tariffs",
+      "pub": 1787657004000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Canada Prepares to Retaliate on Trump's 50% Tariffs",
+          "deck": "After President Donald Trump imposed 50% tariffs on some Canadian goods, Canada is saying it has leverage.",
+          "link": "https://www.today.com/video/trump-warns-sanctions-for-countries-doing-business-with-iran-268817989688",
+          "pub": 1787657004000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mystery as U.S. military transport plane lands in Moscow",
+      "pub": 1787656954000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mystery as U.S. military transport plane lands in Moscow",
+          "deck": "Mystery swirled around a U.",
+          "link": "https://www.nbcnews.com/world/russia/mystery-us-military-plane-lands-moscow-rcna594262",
+          "pub": 1787656954000,
+          "src": "NBC",
+          "srcFull": "NBC News",
           "lean": "ll"
         }
       ]
@@ -129,35 +471,17 @@
       ]
     },
     {
-      "title": "Son of Luxottica founder quits after succession row",
-      "pub": 1787656806000,
+      "title": "Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war escalates",
+      "pub": 1787656843000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Son of Luxottica founder quits after succession row",
+          "title": "Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war escalates",
           "deck": "",
-          "link": "https://finance.yahoo.com/small-business/articles/son-luxottica-founder-quits-succession-112006813.html",
-          "pub": 1787656806000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "3 Social Security Rules Retirees Forget About",
-      "pub": 1787656800000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "3 Social Security Rules Retirees Forget About",
-          "deck": "",
-          "link": "https://finance.yahoo.com/small-business/articles/3-social-security-rules-retirees-112000380.html",
-          "pub": 1787656800000,
+          "link": "https://www.yahoo.com/news/politics/articles/trump-says-hes-considering-renaming-112043272.html",
+          "pub": 1787656843000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -201,55 +525,19 @@
       ]
     },
     {
-      "title": "One million Afghan children suffering 'life-threatening' malnutrition: UN",
-      "pub": 1787656740000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "One million Afghan children suffering 'life-threatening' malnutrition: UN",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/one-million-afghan-children-suffering-111900500.html",
-          "pub": 1787656740000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-      "pub": 1787656660000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-          "deck": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
-          "link": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
-          "pub": 1787656660000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump Says US Considering Renaming Lake Ontario as Lake America",
-      "pub": 1787656561000,
+      "title": "Cut Through The AI-Wash: How To Tell Whether AI Is Truly Agentic",
+      "pub": 1787656500000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Trump Says US Considering Renaming Lake Ontario as Lake America",
-          "deck": "Trump's remarks come amid a deepening cross-border trade feud that has increasingly centered on Ontario Premier Doug Ford.",
-          "link": "https://www.newsweek.com/trump-says-us-considering-renaming-lake-ontario-as-lake-america-12363406",
-          "pub": 1787656561000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
+          "title": "Cut Through The AI-Wash: How To Tell Whether AI Is Truly Agentic",
+          "deck": "Agency is more than reasoning alone, and no amount of confident prose substitutes for the answers.",
+          "link": "https://www.forbes.com/councils/forbestechcouncil/2026/08/25/cut-through-the-ai-wash-how-to-tell-whether-ai-is-truly-agentic/",
+          "pub": 1787656500000,
+          "src": "FORB",
+          "srcFull": "Forbes",
           "lean": "ct"
         }
       ]
@@ -741,42 +1029,6 @@
       ]
     },
     {
-      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market",
-      "pub": 1787655663000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market",
-          "deck": "Dick's Sporting Goods reported second fiscal quarter revenue on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-          "pub": 1787655663000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What to watch in today’s primaries and Scott Bessent threatens new sanctions on Iran: Morning Rundown",
-      "pub": 1787655648000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to watch in today’s primaries and Scott Bessent threatens new sanctions on Iran: Morning Rundown",
-          "deck": "South Carolina voters will choose the Republican candidate in the race to replace the late Sen.",
-          "link": "https://www.nbcnews.com/news/us-news/south-carolina-primaries-scott-bessent-sanctions-iran-morning-rundown-rcna594253",
-          "pub": 1787655648000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Today in Supreme Court History: August 25, 1998",
       "pub": 1787655633000,
       "lean": "ct",
@@ -816,7 +1068,7 @@
       "title": "The best end-of-summer sales to shop now: Birkenstock, J.Crew, Le Creuset and more",
       "pub": 1787655600000,
       "lean": "ll",
-      "cat": "Health",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
@@ -845,6 +1097,42 @@
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Range Zero Partners With Hyundai, Others To Boost Commercial EV Sales",
+      "pub": 1787655600000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Range Zero Partners With Hyundai, Others To Boost Commercial EV Sales",
+          "deck": "Commercial EV distributor Range Zero announces three deals, including one with Hyundai's fuel cell truck company to help boost adoption of electric commericial vehicles.",
+          "link": "https://www.forbes.com/sites/edgarsten/2026/08/25/range-zero-partners-with-hyundai-others-to-boost-commercial-ev-sales/",
+          "pub": 1787655600000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Chief AI Officer: A Key Strategic Factor In AI Success",
+      "pub": 1787655600000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Chief AI Officer: A Key Strategic Factor In AI Success",
+          "deck": "Hiring the right CAIO is one of the hardest decisions companies face today—and your company's future depends on getting it right.",
+          "link": "https://www.forbes.com/councils/forbestechcouncil/2026/08/25/the-chief-ai-officer-a-key-strategic-factor-in-ai-success/",
+          "pub": 1787655600000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
         }
       ]
     },
@@ -939,42 +1227,6 @@
       ]
     },
     {
-      "title": "Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace",
-      "pub": 1787655595000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace",
-          "deck": "Bitcoin initially surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
-          "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-          "pub": 1787655595000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Map Shows States With Most Mail-in Voting as Supreme Court Backs Trump Admin",
-      "pub": 1787655592000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Map Shows States With Most Mail-in Voting as Supreme Court Backs Trump Admin",
-          "deck": "The Supreme Court has opened the door for the possible implementation of Trump’s executive order restricting mail-in voting.",
-          "link": "https://www.newsweek.com/map-shows-states-most-mail-in-voting-supreme-court-backs-trump-admin-12362648",
-          "pub": 1787655592000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum",
       "pub": 1787655572000,
       "lean": "ll",
@@ -1029,56 +1281,20 @@
       ]
     },
     {
-      "title": "Russia Denies Knowledge of US Military Plane Tracked Landing in Moscow",
-      "pub": 1787655386000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Russia Denies Knowledge of US Military Plane Tracked Landing in Moscow",
-          "deck": "Flight-tracking data showed the U.",
-          "link": "https://www.newsweek.com/russia-denies-knowledge-us-military-plane-tracked-landing-moscow-latvia-riga-12363169",
-          "pub": 1787655386000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Florida woman arrested for trespassing at Mar-a-Lago — again",
+      "title": "Homeless Florida woman arrested for trespassing at Mar-a-Lago — again",
       "pub": 1787655366000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Florida woman arrested for trespassing at Mar-a-Lago — again",
+          "title": "Homeless Florida woman arrested for trespassing at Mar-a-Lago — again",
           "deck": "A homeless woman previously banned from President Trump’s Mar-a-Lago estate was arrested for once again trespassing on the ritzy Florida property, according to police.",
           "link": "https://nypost.com/2026/08/25/us-news/florida-woman-arrested-for-trespassing-at-mar-a-lago-again/",
           "pub": 1787655366000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "pub": 1787655363000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-          "deck": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-          "pub": 1787655363000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -1371,17 +1587,17 @@
       ]
     },
     {
-      "title": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
-      "pub": 1787654120000,
+      "title": "Our multigenerational family trip to Spain didn't go as planned. I had to adjust our itinerary to suit my 1-year-old.",
+      "pub": 1787654221000,
       "lean": "ll",
-      "cat": "Technology",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
+          "title": "Our multigenerational family trip to Spain didn't go as planned. I had to adjust our itinerary to suit my 1-year-old.",
           "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/ukraines-zelenskiy-sees-window-u-091703086.html",
-          "pub": 1787654120000,
+          "link": "https://travel.yahoo.com/advice/lifestyle/articles/multigenerational-family-trip-spain-didnt-103701164.html",
+          "pub": 1787654221000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -1587,24 +1803,6 @@
       ]
     },
     {
-      "title": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans",
-      "pub": 1787653424000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans",
-          "deck": "Gold prices fell Tuesday after rising to their highest in over three months.",
-          "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-          "pub": 1787653424000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
       "pub": 1787653217000,
       "lean": "ll",
@@ -1745,24 +1943,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Merz opens Cabinet retreat with pledge to reignite German growth",
-      "pub": 1787652212000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Merz opens Cabinet retreat with pledge to reignite German growth",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/merz-opens-cabinet-retreat-pledge-100332040.html",
-          "pub": 1787652212000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -2262,6 +2442,24 @@
       ]
     },
     {
+      "title": "The US-Canada trade war is lose-lose",
+      "pub": 1787652000000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The US-Canada trade war is lose-lose",
+          "deck": "A U.S. tariff is an import tax, ultimately paid by U.S. consumers, as importers cannot absorb much, or any, of the tax. Likewise, a Canadian tariff is an import tax ultimately paid by Canadians. President Donald Trump’s threats of 50% tariffs on goods we purchase from Canada have turned into reality. Canada decided to tax Canadians […]",
+          "link": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4698801/no-winners-us-canada-trade-war/",
+          "pub": 1787652000000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "Three Companies Take 94% Of A $150 Billion Vertical Market",
       "pub": 1787651955000,
       "lean": "ct",
@@ -2352,24 +2550,6 @@
       ]
     },
     {
-      "title": "Abdul El-Sayed Clashes With Jesse Watters on Fox News: Five Key Takeaways",
-      "pub": 1787651138000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Abdul El-Sayed Clashes With Jesse Watters on Fox News: Five Key Takeaways",
-          "deck": "The interview covered transgender athletes, health care and culture-war issues as Michigan's closely watched Senate race tightens.",
-          "link": "https://www.newsweek.com/abdul-el-sayed-clashes-with-jesse-watters-on-fox-news-five-key-takeaways-12362273",
-          "pub": 1787651138000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Uranium Awakens From Five-Month Slumber As UBS Warns Market Is \"Tightening Structurally\"",
       "pub": 1787651100000,
       "lean": "lr",
@@ -2420,24 +2600,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Failed Canada Talks Show How U.S. Risks Losing Its Hidden Power | Opinion",
-      "pub": 1787650200000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Failed Canada Talks Show How U.S. Risks Losing Its Hidden Power | Opinion",
-          "deck": "\"There is a price to reminding the world of that power too often.",
-          "link": "https://www.newsweek.com/failed-canada-talks-show-how-u-s-risks-losing-its-hidden-power-opinion-12358579",
-          "pub": 1787650200000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -2568,24 +2730,6 @@
       ]
     },
     {
-      "title": "The Treasury's attempts to get bond yields down amount to 'financial repression,' Citadel Securities says",
-      "pub": 1787649301000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Treasury's attempts to get bond yields down amount to 'financial repression,' Citadel Securities says",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/treasurys-attempts-bond-yields-down-091501254.html",
-          "pub": 1787649301000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Tottenham sign Savinho for £75m - what will he bring to club?",
       "pub": 1787649279000,
       "lean": "ct",
@@ -2618,24 +2762,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "pub": 1787648893000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lockerbie bombing trial postponed days before it was due to start",
-          "deck": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787648893000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -2874,6 +3000,24 @@
       ]
     },
     {
+      "title": "Judge in Don Lemon indictment asks to see grand jury records, adding to growing scrutiny of Justice Department cases",
+      "pub": 1787648429000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Judge in Don Lemon indictment asks to see grand jury records, adding to growing scrutiny of Justice Department cases",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/judge-don-lemon-indictment-asks-090029083.html",
+          "pub": 1787648429000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "What does a self-reliant South Korea look like? Some push for a nuclear option.",
       "pub": 1787648409000,
       "lean": "ct",
@@ -2905,24 +3049,6 @@
           "pub": 1787648403000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-      "pub": 1787648400000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-          "deck": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change.",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-          "pub": 1787648400000,
-          "src": "NPR",
-          "srcFull": "NPR",
           "lean": "ll"
         }
       ]
@@ -2982,24 +3108,6 @@
       ]
     },
     {
-      "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
-      "pub": 1787648400000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
-          "deck": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings.",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
-          "pub": 1787648400000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
       "pub": 1787648400000,
       "lean": "ll",
@@ -3010,6 +3118,42 @@
           "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
           "deck": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
           "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+          "pub": 1787648400000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
+      "pub": 1787648400000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
+          "deck": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings.",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+          "pub": 1787648400000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Did climate change cause this heat wave? Most likely, and here's why",
+      "pub": 1787648400000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Did climate change cause this heat wave? Most likely, and here's why",
+          "deck": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change.",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
           "pub": 1787648400000,
           "src": "NPR",
           "srcFull": "NPR",
@@ -3090,42 +3234,6 @@
       ]
     },
     {
-      "title": "WNBA Doctor: Sports Medicine Must Get Better at Treating Women | Opinion",
-      "pub": 1787648400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "WNBA Doctor: Sports Medicine Must Get Better at Treating Women | Opinion",
-          "deck": "More investment is needed to improve outcomes for women and girls as more eyes turn to women's sports.",
-          "link": "https://www.newsweek.com/womens-sports-are-booming-womens-sports-medicine-must-catch-up-opinion-12343689",
-          "pub": 1787648400000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Why Mohammed Atta Chose That Particular Tuesday in September for the Attack",
-      "pub": 1787648400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why Mohammed Atta Chose That Particular Tuesday in September for the Attack",
-          "deck": "Mohammed Atta logged into his Travelocity account to shop for flights from Washington and Boston, departing on September 11.",
-          "link": "https://www.newsweek.com/why-mohammed-atta-chose-september-11-terror-attack-12249048",
-          "pub": 1787648400000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "‘Hadestown’ comes to streaming — Here’s where to watch the ‘Hadestown’ proshot",
       "pub": 1787648400000,
       "lean": "lr",
@@ -3162,6 +3270,24 @@
       ]
     },
     {
+      "title": "Blame spending for our $40 trillion debt",
+      "pub": 1787648400000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Blame spending for our $40 trillion debt",
+          "deck": "The federal government’s debt burden passed $40 trillion last week, a terrible milestone.",
+          "link": "https://www.washingtonexaminer.com/opinion/editorials/4698344/blame-spending-for-our-40-trillion-debt-undertaxed-answer-incorrect-corporations/",
+          "pub": 1787648400000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
       "title": "Details Of Iran's First Known Successful Cyberattack Against A UK Energy Facility",
       "pub": 1787648400000,
       "lean": "lr",
@@ -3176,24 +3302,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s Iran Sanctions Test Whether US or China Will Blink First",
-      "pub": 1787648107000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s Iran Sanctions Test Whether US or China Will Blink First",
-          "deck": "Donald Trump's threat to punish Iran is putting both China and the U.",
-          "link": "https://www.newsweek.com/trump-iran-war-sanctions-china-xi-12362333",
-          "pub": 1787648107000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -3306,24 +3414,6 @@
       ]
     },
     {
-      "title": "Air Force Major Jason Watson Hit With Military Charges After Trump Protest",
-      "pub": 1787647324000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Air Force Major Jason Watson Hit With Military Charges After Trump Protest",
-          "deck": "Major Jason Watson was arrested in July on the steps of the U.",
-          "link": "https://www.newsweek.com/air-force-major-jason-watson-hit-military-charges-after-trump-impeachment-protest-12362616",
-          "pub": 1787647324000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "What does your Premier League club still need in the transfer window?",
       "pub": 1787647220000,
       "lean": "ct",
@@ -3378,24 +3468,6 @@
       ]
     },
     {
-      "title": "World’s oldest lab-grown human brains grow for seven years recording ‘passage of time’",
-      "pub": 1787646503000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "World’s oldest lab-grown human brains grow for seven years recording ‘passage of time’",
-          "deck": "A team of scientists have produced organoids that have become the world’s oldest lab-grown human brains — with some cells growing for around seven years.",
-          "link": "https://nypost.com/2026/08/25/science/worlds-oldest-lab-grown-human-brains-grow-for-seven-years-recording-passage-of-time/",
-          "pub": 1787646503000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
       "pub": 1787646336000,
       "lean": "ct",
@@ -3409,42 +3481,6 @@
           "pub": 1787646336000,
           "src": "BBC",
           "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "I’m a Gut Health Scientist. These Are the 5 Foods I Never Eat",
-      "pub": 1787646088000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "I’m a Gut Health Scientist. These Are the 5 Foods I Never Eat",
-          "deck": "A gut health scientist avoids these five foods to lower his food poisoning risk.",
-          "link": "https://www.newsweek.com/im-a-gut-health-scientist-these-are-the-5-foods-i-never-eat-12359758",
-          "pub": 1787646088000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "NATO Scrambles Fighter Jets After Drone Threatens Airspace Again",
-      "pub": 1787645905000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "NATO Scrambles Fighter Jets After Drone Threatens Airspace Again",
-          "deck": "Romania has said that two Spanish F-18 jets were scrambled after an aerial target was detected near its border with Ukraine.",
-          "link": "https://www.newsweek.com/nato-scrambles-fighter-jets-after-drone-threatens-airspace-romania-ukraine-war-russia-12362342",
-          "pub": 1787645905000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -3464,42 +3500,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Air Force Releases Picture of Service Member Killed in Alaska Plane Crash",
-      "pub": 1787645430000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Air Force Releases Picture of Service Member Killed in Alaska Plane Crash",
-          "deck": "The plane crashed close to a radar site around 450 miles from Anchorage, Alaska, on Thursday.",
-          "link": "https://www.newsweek.com/air-force-releases-picture-of-airman-killed-in-remote-alaska-plane-crash-12362330",
-          "pub": 1787645430000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Flock's Major Rivals as Cameras Spark Increasing Backlash",
-      "pub": 1787645392000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Flock's Major Rivals as Cameras Spark Increasing Backlash",
-          "deck": "As Flock Safety faces backlash, rivals such as Axon, Motorola and Verkada move to capture agencies seeking ALPR alternatives.",
-          "link": "https://www.newsweek.com/flocks-major-rivals-cameras-spark-increasing-backlash-12362093",
-          "pub": 1787645392000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -3594,42 +3594,6 @@
       ]
     },
     {
-      "title": "Who Was Jenny Lupton? Flight Attendant Found Dead During Hawaii Layover",
-      "pub": 1787644148000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Who Was Jenny Lupton? Flight Attendant Found Dead During Hawaii Layover",
-          "deck": "The 50-year-old mother's death is being investigated by the Honolulu Police Department's homicide detail.",
-          "link": "https://www.newsweek.com/who-was-jenny-lupton-flight-attendant-found-dead-during-hawaii-layover-southwest-airlines-12362321",
-          "pub": 1787644148000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Common Supplement May Have Surprising Effect on Brain Health, Study Finds",
-      "pub": 1787644099000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Common Supplement May Have Surprising Effect on Brain Health, Study Finds",
-          "deck": "Once cognitive decline begins, identifying a modifiable factor becomes especially important, the senior author told Newsweek.",
-          "link": "https://www.newsweek.com/common-supplement-may-have-surprising-effect-on-brain-health-study-finds-12359942",
-          "pub": 1787644099000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Ranking the best managers in Premier League history",
       "pub": 1787643723000,
       "lean": "ct",
@@ -3680,24 +3644,6 @@
           "src": "FORB",
           "srcFull": "Forbes",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "UK moves ahead with first £10 billion wave of low-cost housing plan",
-      "pub": 1787643105000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "UK moves ahead with first £10 billion wave of low-cost housing plan",
-          "deck": "",
-          "link": "https://finance.yahoo.com/news/uk-moves-ahead-first-10-213614955.html",
-          "pub": 1787643105000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -3828,24 +3774,6 @@
       ]
     },
     {
-      "title": "Harvard’s $699 startup bootcamp has professors who never sleep–but that’s because they’re AI clones",
-      "pub": 1787641200000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Harvard’s $699 startup bootcamp has professors who never sleep–but that’s because they’re AI clones",
-          "deck": "",
-          "link": "https://tech.yahoo.com/ai/meta-ai/articles/harvard-699-startup-bootcamp-professors-070000145.html",
-          "pub": 1787641200000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
       "pub": 1787641200000,
       "lean": "ll",
@@ -3932,24 +3860,6 @@
           "src": "DISP",
           "srcFull": "The Dispatch",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "US Issues Travel Warning for Mexicali, Mexico Over ‘Potential Threat’",
-      "pub": 1787640814000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "US Issues Travel Warning for Mexicali, Mexico Over ‘Potential Threat’",
-          "deck": "The U.S. government has suspended operations in Mexicali and advised Americans against travelling to the city on Tuesday.",
-          "link": "https://www.newsweek.com/us-issues-travel-warning-for-mexicali-mexico-over-potential-threat-12362102",
-          "pub": 1787640814000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -4065,7 +3975,7 @@
       "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
       "pub": 1787637519000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
@@ -4075,24 +3985,6 @@
           "pub": 1787637519000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Police to deploy borrowed facial recognition van",
-      "pub": 1787636844000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Police to deploy borrowed facial recognition van",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/articles/police-deploy-borrowed-facial-recognition-054724049.html",
-          "pub": 1787636844000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -4530,24 +4422,6 @@
       ]
     },
     {
-      "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina's GOP Senate runoff",
-      "pub": 1787630779000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina's GOP Senate runoff",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/darline-graham-ralph-norman-head-040619353.html",
-          "pub": 1787630779000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Watch 2 astronauts replace failed ISS antenna during spacewalk today",
       "pub": 1787630460000,
       "lean": "ll",
@@ -4597,24 +4471,6 @@
           "pub": 1787629832000,
           "src": "FORB",
           "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "MAGA Inc. Makes $827K Final Push for Darline Graham in SC Runoff",
-      "pub": 1787629824000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "MAGA Inc. Makes $827K Final Push for Darline Graham in SC Runoff",
-          "deck": "The Trump-endorsed interim senator faces Congressman Ralph Norman in Tuesday’s closely watched Republican Senate runoff.",
-          "link": "https://www.newsweek.com/maga-inc-makes-final-827k-push-for-darline-graham-in-sc-runoff-12361983",
-          "pub": 1787629824000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -4728,24 +4584,6 @@
       ]
     },
     {
-      "title": "Former Bears Pro Bowl WR Announces NFL Retirement on 33rd Birthday",
-      "pub": 1787627613000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Former Bears Pro Bowl WR Announces NFL Retirement on 33rd Birthday",
-          "deck": "Ex-Chicago Bears Pro Bowl WR Allen Robinson announced on his birthday that he was retiring from the NFL after 11 seasons.",
-          "link": "https://www.newsweek.com/sports/nfl/former-bears-pro-bowl-wr-announces-nfl-retirement-on-33rd-birthday-12362035",
-          "pub": 1787627613000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
       "pub": 1787627296000,
       "lean": "ll",
@@ -4796,24 +4634,6 @@
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Cardinals' Trey McBride Weighs in on NFL Top 100 Landing Spot",
-      "pub": 1787626540000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cardinals' Trey McBride Weighs in on NFL Top 100 Landing Spot",
-          "deck": "Trey McBride shared his thoughts about where he landed in the NFL Top 100 list ahead of the Arizona Cardinals' season.",
-          "link": "https://www.newsweek.com/sports/nfl/cardinals-trey-mcbride-weighs-in-on-nfl-top-100-landing-spot-12361872",
-          "pub": 1787626540000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -5408,6 +5228,186 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump announces 50% tariffs on Canadian automotive and steel imports",
+      "pub": 1787617055000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump announces 50% tariffs on Canadian automotive and steel imports",
+          "deck": "President Trump said tariffs on Canadian automotive and steel imports will rise to 50% on Jan.",
+          "link": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
+          "pub": 1787617055000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "pub": 1787617045000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "US removes Syria from list of state sponsors of terrorism",
+          "deck": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+          "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787617045000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Moment tornado tears through southern France",
+      "pub": 1787616995000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Moment tornado tears through southern France",
+          "deck": "The tornado has injured more than 40 people and destroyed homes in villages.",
+          "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+          "pub": 1787616995000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
+      "pub": 1787616549000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
+          "deck": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
+          "link": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+          "pub": 1787616549000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Judge postpones U.S. trial for man accused in deadly 1988 Lockerbie bombing",
+      "pub": 1787616530000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Judge postpones U.S. trial for man accused in deadly 1988 Lockerbie bombing",
+          "deck": "A federal judge has postponed a trial in the U.",
+          "link": "https://www.cbsnews.com/news/lockerbie-bombing-suspect-us-trial-postponed-new-evidence/",
+          "pub": 1787616530000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "pub": 1787616329000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+          "deck": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+          "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+          "pub": 1787616329000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Michigan's Energy Abundance Is On The Ballot",
+      "pub": 1787616300000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Michigan's Energy Abundance Is On The Ballot",
+          "deck": "Michigan's Energy Abundance Is On The Ballot Authored by Samantha Fillmore via RealClearEnergy, It is indisputable that energy is the lifeblood of every civilization.",
+          "link": "https://www.zerohedge.com/energy/michigans-energy-abundance-ballot",
+          "pub": 1787616300000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions",
+      "pub": 1787616272000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/articles/us-supreme-court-lifts-judicial-210302186.html",
+          "pub": 1787616272000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+      "pub": 1787616191000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+          "deck": "The proposal comes after the Trump administration ran into legal challenges in its attempt to attach a similar fee to the H-1B visa last year.",
+          "link": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
+          "pub": 1787616191000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "New blood test for Alzheimer's disease gets FDA approval",
+      "pub": 1787616000000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "New blood test for Alzheimer's disease gets FDA approval",
+          "deck": "The Rouche test was developed in collaboration with Eli Lilly and is intended for people 55 years and older with “signs, symptoms, or complaints of cognitive decline.",
+          "link": "https://justthenews.com/politics-policy/health/new-blood-test-alzheimers-disease-gets-fda-approval?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+          "pub": 1787616000000,
+          "src": "JTN",
+          "srcFull": "Just the News",
+          "lean": "lr"
         }
       ]
     }
