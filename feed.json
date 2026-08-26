@@ -1,19 +1,136 @@
 {
-  "generated": "2026-08-26T05:59:43.720Z",
+  "generated": "2026-08-26T06:56:21.283Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Retired teacher Dan J. Sullivan advances in Alaska Senate race",
-      "pub": 1787723554000,
+      "title": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran",
+      "pub": 1787727197000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Retired teacher Dan J. Sullivan advances in Alaska Senate race",
+          "title": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran",
+          "deck": "Oil fell Wednesday, as investors continue to assess the U.",
+          "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+          "pub": 1787727197000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
+      "pub": 1787727103000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
+          "deck": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
+          "link": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
+          "pub": 1787727103000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Eminem reveals Dolly Parton’s impactful letter she sent him detailing their ‘unexplained connection’",
+      "pub": 1787727075000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Eminem reveals Dolly Parton’s impactful letter she sent him detailing their ‘unexplained connection’",
+          "deck": "Parton opened up about an “unexpected connection” she felt with the rapper.",
+          "link": "https://pagesix.com/2026/08/26/entertainment/eminem-reveals-dolly-partons-impactful-letter-she-sent-him-detailing-their-unexplained-connection/",
+          "pub": 1787727075000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "At Least 14 Newborns Die in Hospital Fire in Pakistan’s Capital",
+      "pub": 1787726927000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "At Least 14 Newborns Die in Hospital Fire in Pakistan’s Capital",
+          "deck": "The fire broke out on the third floor of Islamabad’s largest hospital.",
+          "link": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
+          "pub": 1787726927000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
+      "pub": 1787726846000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
+          "deck": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+          "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+          "pub": 1787726846000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "US Removes Syria, Including Al-Nusra Front, From Its List Of Terrorism Sponsors",
+      "pub": 1787726700000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "US Removes Syria, Including Al-Nusra Front, From Its List Of Terrorism Sponsors",
+          "deck": "US Removes Syria, Including Al-Nusra Front, From Its List Of Terrorism Sponsors Following a decade-and-a-half of a Washington-led full economic siege of the Syrian state, and after a fierce CIA-backed proxy war (Timber Sycamore) to oust Assad over that same period, this week has witnessed the huge milestone of the United States finally removing Syria from its state sponsors of terrorism list.",
+          "link": "https://www.zerohedge.com/geopolitical/us-removes-syria-including-al-nusra-front-its-list-terrorism-sponsors",
+          "pub": 1787726700000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fire in Pakistan hospital nursery kills at least 14 newborns, officials say",
+      "pub": 1787726535000,
+      "lean": "ll",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Fire in Pakistan hospital nursery kills at least 14 newborns, officials say",
+          "deck": "A fire at a nursery in a major government hospital in Pakistan's capital killed 14 newborns, hospital officials and the government said.",
+          "link": "https://www.cbsnews.com/news/fire-kills-14-newborns-pakistan-hospital/",
+          "pub": 1787726535000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        },
+        {
+          "title": "Fire in Pakistan hospital nursery kills at least 14 newborns, officials say",
           "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/retired-teacher-dan-j-sullivan-055234036.html",
-          "pub": 1787723554000,
+          "link": "https://www.yahoo.com/news/world/articles/fire-pakistan-hospital-nursery-kills-054800816.html",
+          "pub": 1787726535000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -21,20 +138,254 @@
       ]
     },
     {
-      "title": "Fire in Pakistan hospital nursery kills at least 14 newborns, officials say",
-      "pub": 1787723280000,
-      "lean": "ll",
-      "cat": "World",
+      "title": "Watch Nashville fans lay flowers in tribute",
+      "pub": 1787726250000,
+      "lean": "ct",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Fire in Pakistan hospital nursery kills at least 14 newborns, officials say",
-          "deck": "A fire at a nursery in a major government hospital in Pakistan's capital killed at least 14 newborns, hospital officials and the government said.",
-          "link": "https://www.cbsnews.com/news/fire-kills-14-newborns-pakistan-hospital/",
-          "pub": 1787723280000,
-          "src": "CBS",
-          "srcFull": "CBS News",
+          "title": "Watch Nashville fans lay flowers in tribute",
+          "deck": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
+          "link": "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787726250000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Australia inflation runs hot in July, markets reprice rate hike risk",
+      "pub": 1787725908000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Australia inflation runs hot in July, markets reprice rate hike risk",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/policy/articles/australia-inflation-tops-forecasts-july-020149323.html",
+          "pub": 1787725908000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ex-TV anchor Angelynn Mock admits to stabbing own mom to death on Halloween after believing she was the devil",
+      "pub": 1787725890000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ex-TV anchor Angelynn Mock admits to stabbing own mom to death on Halloween after believing she was the devil",
+          "deck": "\"I had to kill her, she wasn't going to stop.",
+          "link": "https://nypost.com/2026/08/26/us-news/former-tv-news-anchor-angelynn-mock-pleads-guilty-to-killing-mother-on-halloween-at-kansas-home/",
+          "pub": 1787725890000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+      "pub": 1787725845000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+          "deck": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.",
+          "link": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+          "pub": 1787725845000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Why India is importing sugar for the first time in nearly a decade",
+      "pub": 1787725828000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why India is importing sugar for the first time in nearly a decade",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/why-india-importing-sugar-first-063028132.html",
+          "pub": 1787725828000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Amazon.com vs. e.l.f. Beauty: Which High-Growth Consumer Stock Is a Better Investment in 2026?",
+      "pub": 1787725774000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Amazon.com vs. e.l.f. Beauty: Which High-Growth Consumer Stock Is a Better Investment in 2026?",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-vs-e-l-062934578.html",
+          "pub": 1787725774000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "From influencers to queens of women's boxing - five years of MVP",
+      "pub": 1787725708000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "From influencers to queens of women's boxing - five years of MVP",
+          "deck": "On Saturday, Most Valuable Promotions celebrates its fifth anniversary.",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787725708000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+      "pub": 1787725500000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+          "deck": "",
+          "link": "https://finance.yahoo.com/energy/articles/constellation-energy-just-raised-guidance-062500085.html",
+          "pub": 1787725500000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "pub": 1787725482000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+          "deck": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+          "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787725482000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia DA says ‘we’re gonna blow it up’ when discussing Trump’s White House ballroom",
+      "pub": 1787725319000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Philadelphia DA says ‘we’re gonna blow it up’ when discussing Trump’s White House ballroom",
+          "deck": "Philadelphia District Attorney Larry Krasner has an explosive vision of the future of the White House ballroom.",
+          "link": "https://www.washingtonexaminer.com/news/4700535/philadelphia-da-says-were-gonna-blow-it-up-when-discussing-trumps-white-house-ballroom/",
+          "pub": 1787725319000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Libyan cleared after Lockerbie bombing trial dies aged 70",
+      "pub": 1787725274000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Libyan cleared after Lockerbie bombing trial dies aged 70",
+          "deck": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787725274000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool's midfield is fragile - will they act in the window?",
+      "pub": 1787724274000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Liverpool's midfield is fragile - will they act in the window?",
+          "deck": "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787724274000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "NJ diner outraged after upscale restaurant serves her dessert with offensive birthday message",
+      "pub": 1787724209000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "NJ diner outraged after upscale restaurant serves her dessert with offensive birthday message",
+          "deck": "A New Jersey singer-songwriter was left spasming in anger when an upscale restaurant served her birthday dessert with a baffling message mentioning her wheelchair.",
+          "link": "https://nypost.com/2026/08/26/us-news/nj-diner-antonia-sinbaldi-outraged-after-upscale-restaurant-serves-her-dessert-with-offensive-birthday-message/",
+          "pub": 1787724209000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Normal Brits Are Unwittingly Funding Pro-Illegal Migrant Charities",
+      "pub": 1787724000000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Normal Brits Are Unwittingly Funding Pro-Illegal Migrant Charities",
+          "deck": "Normal Brits Are Unwittingly Funding Pro-Illegal Migrant Charities Authored by Steve Watson via Modernity News, Every week millions of ordinary Brits buy a National Lottery ticket hoping for a life-changing win.",
+          "link": "https://www.zerohedge.com/political/normal-brits-are-unwittingly-funding-pro-illegal-migrant-charities",
+          "pub": 1787724000000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
         }
       ]
     },
@@ -84,24 +435,6 @@
       ]
     },
     {
-      "title": "Interest rates must rise further, ECB's Schnabel tells Bloomberg",
-      "pub": 1787723031000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Interest rates must rise further, ECB's Schnabel tells Bloomberg",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/interest-rates-must-rise-further-054351757.html",
-          "pub": 1787723031000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "'Magical' and rare barn owl has bumper breeding season",
       "pub": 1787722985000,
       "lean": "ct",
@@ -120,38 +453,20 @@
       ]
     },
     {
-      "title": "Saudi revamps derivatives to attract foreign cash",
-      "pub": 1787722857000,
-      "lean": "ll",
-      "cat": "Business",
+      "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+      "pub": 1787722872000,
+      "lean": "ct",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Saudi revamps derivatives to attract foreign cash",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/options/articles/saudi-revamps-derivatives-attract-foreign-054057272.html",
-          "pub": 1787722857000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia's $6 Billion Deal for Poolside's Model Factory Is a Wager on Open-Source Models Driving Chip Demand",
-      "pub": 1787722800000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Nvidia's $6 Billion Deal for Poolside's Model Factory Is a Wager on Open-Source Models Driving Chip Demand",
-          "deck": "",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-6-billion-deal-poolsides-054000693.html",
-          "pub": 1787722800000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
+          "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+          "deck": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
+          "pub": 1787722872000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -188,24 +503,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Senegal-made sickle cell treatment raises hopes, reduces costs",
-      "pub": 1787722354000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senegal-made sickle cell treatment raises hopes, reduces costs",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/senegal-made-sickle-cell-treatment-053234142.html",
-          "pub": 1787722354000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
         }
       ]
     },
@@ -481,7 +778,7 @@
     },
     {
       "title": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
-      "pub": 1787720566000,
+      "pub": 1787720567000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -490,7 +787,7 @@
           "title": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
           "deck": "A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November.",
           "link": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
-          "pub": 1787720566000,
+          "pub": 1787720567000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -588,24 +885,6 @@
       ]
     },
     {
-      "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
-      "pub": 1787719805000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
-          "deck": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
-          "link": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
-          "pub": 1787719805000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ja’Marr Chase says he’s ‘fine’ after scary Bengals practice injury",
       "pub": 1787719033000,
       "lean": "lr",
@@ -678,32 +957,14 @@
       ]
     },
     {
-      "title": "More than a dozen infants killed in hospital fire in Pakistan’s capital",
-      "pub": 1787717972000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "More than a dozen infants killed in hospital fire in Pakistan’s capital",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/more-dozen-infants-killed-hospital-041932275.html",
-          "pub": 1787717972000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Man seen in Philadelphia wearing creepy, Chucky-style mask is arrested in Las Vegas, authorities say",
+      "title": "Man seen in Philadelphia wearing Chucky-style mask is arrested in Las Vegas, authorities say",
       "pub": 1787717791000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Man seen in Philadelphia wearing creepy, Chucky-style mask is arrested in Las Vegas, authorities say",
+          "title": "Man seen in Philadelphia wearing Chucky-style mask is arrested in Las Vegas, authorities say",
           "deck": "An arrest warrant was issued in Philadelphia after a masked man chased a jogger there and said, “Are you ready to die?",
           "link": "https://www.nbcnews.com/news/us-news/philadelphia-chucky-mask-arrest-las-vegas-rcna594461",
           "pub": 1787717791000,
@@ -732,17 +993,17 @@
       ]
     },
     {
-      "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary",
-      "pub": 1787717409000,
+      "title": "US conservative gay rights group says it is ending advocacy for transgender causes",
+      "pub": 1787717569000,
       "lean": "ll",
-      "cat": "Politics",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary",
+          "title": "US conservative gay rights group says it is ending advocacy for transgender causes",
           "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/republican-same-name-incumbent-dan-041009801.html",
-          "pub": 1787717409000,
+          "link": "https://www.yahoo.com/news/politics/articles/us-conservative-gay-rights-group-041249479.html",
+          "pub": 1787717569000,
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
@@ -799,6 +1060,24 @@
           "pub": 1787717259000,
           "src": "NBC",
           "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The second Dan Sullivan makes the general election in Alaska’s Senate race",
+      "pub": 1787717259000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The second Dan Sullivan makes the general election in Alaska’s Senate race",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/second-dan-sullivan-makes-general-040739484.html",
+          "pub": 1787717259000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -877,7 +1156,7 @@
     },
     {
       "title": "What to Know About Bank Melli, Singled Out in U.S. Call for Economic War",
-      "pub": 1787716865000,
+      "pub": 1787716866000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -886,7 +1165,7 @@
           "title": "What to Know About Bank Melli, Singled Out in U.S. Call for Economic War",
           "deck": "Bank Melli, Iran’s largest lender, already faces waves of sanctions that severely limit its ability to operate abroad.",
           "link": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html",
-          "pub": 1787716865000,
+          "pub": 1787716866000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -1034,24 +1313,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "BBC at Dolly Parton's Hollywood star as fans gather",
-      "pub": 1787715438000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "BBC at Dolly Parton's Hollywood star as fans gather",
-          "deck": "The BBC's LA correspondent Shaimaa Khalil spoke to fans gathered to mourn the country music star at her Hollywood Walk of Fame star on Tuesday evening.",
-          "link": "https://www.bbc.co.uk/news/videos/c8d3j9ryg3mo?at_medium=RSS&at_campaign=rss",
-          "pub": 1787715438000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -1219,7 +1480,7 @@
     },
     {
       "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
-      "pub": 1787713818000,
+      "pub": 1787713819000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
@@ -1228,7 +1489,7 @@
           "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
           "deck": "President Trump went all in for Senator Darline Graham in a primary runoff on Tuesday.",
           "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-          "pub": 1787713818000,
+          "pub": 1787713819000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -1632,24 +1893,6 @@
       ]
     },
     {
-      "title": "Giants trade Josh Ezeudu to Chiefs for 2028 seventh-round pick",
-      "pub": 1787712105000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Giants trade Josh Ezeudu to Chiefs for 2028 seventh-round pick",
-          "deck": "Josh Ezeudu is leaving the Giants five months later than expected.",
-          "link": "https://nypost.com/2026/08/25/sports/giants-trade-josh-ezeudu-to-chiefs-for-2028-seventh-round-pick/",
-          "pub": 1787712105000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "How To Solve Today’s NYT Pips Puzzles, Wednesday August 26",
       "pub": 1787711903000,
       "lean": "ct",
@@ -1776,28 +2019,10 @@
       ]
     },
     {
-      "title": "Empire State Building lights up in ‘pink sparkle’ to honor Dolly Parton",
-      "pub": 1787710813000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Empire State Building lights up in ‘pink sparkle’ to honor Dolly Parton",
-          "deck": "The country music icon died at the age of 80 after a secret and brief cancer battle.",
-          "link": "https://pagesix.com/2026/08/25/celebrity-news/empire-state-building-lights-up-in-pink-sparkle-to-honor-dolly-parton/",
-          "pub": 1787710813000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Abdul El-Sayed’s ‘Are you circumcised? blunder could cost Dems — and create greater party fracture",
       "pub": 1787710811000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2523,24 +2748,6 @@
       ]
     },
     {
-      "title": "Hayden Panettiere's Neighbor Speaks Out On Disturbing Brian Hickerson Claims",
-      "pub": 1787706000000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hayden Panettiere's Neighbor Speaks Out On Disturbing Brian Hickerson Claims",
-          "deck": "",
-          "link": "https://www.yahoo.com/entertainment/videos/hayden-panettieres-neighbor-speaks-disturbing-010000367.html",
-          "pub": 1787706000000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Democratic socialist wins primary runoff for Oklahoma Senate",
       "pub": 1787705924000,
       "lean": "ct",
@@ -2559,24 +2766,6 @@
       ]
     },
     {
-      "title": "Macroeconomic Data Is Really A Tool For Government Intervention",
-      "pub": 1787705700000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Macroeconomic Data Is Really A Tool For Government Intervention",
-          "deck": "Macroeconomic Data Is Really A Tool For Government Intervention Authored by Frank Shostak via Mises Institute, It is common for commentators and economists to refer to something called the \"economy,\" which sometimes performs well and, at other times, poorly.",
-          "link": "https://www.zerohedge.com/political/macroeconomic-data-really-tool-government-intervention",
-          "pub": 1787705700000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Is ICE Investigating Ilhan Omar? Trump 'Truths' Report On Withheld Fraud-Probe Records",
       "pub": 1787705700000,
       "lean": "lr",
@@ -2587,6 +2776,24 @@
           "title": "Is ICE Investigating Ilhan Omar? Trump 'Truths' Report On Withheld Fraud-Probe Records",
           "deck": "Is ICE Investigating Ilhan Omar?",
           "link": "https://www.zerohedge.com/political/ice-investigating-ilhan-omar-trump-truths-report-withheld-fraud-probe-records",
+          "pub": 1787705700000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Macroeconomic Data Is Really A Tool For Government Intervention",
+      "pub": 1787705700000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Macroeconomic Data Is Really A Tool For Government Intervention",
+          "deck": "Macroeconomic Data Is Really A Tool For Government Intervention Authored by Frank Shostak via Mises Institute, It is common for commentators and economists to refer to something called the \"economy,\" which sometimes performs well and, at other times, poorly.",
+          "link": "https://www.zerohedge.com/political/macroeconomic-data-really-tool-government-intervention",
           "pub": 1787705700000,
           "src": "ZH",
           "srcFull": "ZeroHedge",
@@ -3064,7 +3271,7 @@
     },
     {
       "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-      "pub": 1787702284000,
+      "pub": 1787702285000,
       "lean": "ll",
       "cat": "World",
       "single": true,
@@ -3073,7 +3280,7 @@
           "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
           "deck": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown.",
           "link": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-          "pub": 1787702284000,
+          "pub": 1787702285000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -3184,6 +3391,24 @@
           "pub": 1787701623000,
           "src": "CBS",
           "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Elissa Slotkin calls out Hasan Piker for blaming Jewish Americans targeted over their Israel views",
+      "pub": 1787701616000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Elissa Slotkin calls out Hasan Piker for blaming Jewish Americans targeted over their Israel views",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/elissa-slotkin-calls-hasan-piker-234656847.html",
+          "pub": 1787701616000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -3369,15 +3594,15 @@
       ]
     },
     {
-      "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
+      "title": "O'Neill takes responsibility after Celtic's latest European capitulation",
       "pub": 1787700946000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
-          "deck": "Celtic manager Martin O'Neill says his team have a \"million miles to go\" after defeat in Austria.",
+          "title": "O'Neill takes responsibility after Celtic's latest European capitulation",
+          "deck": "Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.",
           "link": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss",
           "pub": 1787700946000,
           "src": "BBC",
@@ -3783,14 +4008,14 @@
       ]
     },
     {
-      "title": "Back to school: How to save on uniform costs",
+      "title": "Back to school: How parents can save on costs as the new term starts",
       "pub": 1787699311000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Back to school: How to save on uniform costs",
+          "title": "Back to school: How parents can save on costs as the new term starts",
           "deck": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
           "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
           "pub": 1787699311000,
@@ -3812,24 +4037,6 @@
           "deck": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
           "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
           "pub": 1787699311000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Winter energy prices expected to rise to three-year high",
-      "pub": 1787699249000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Winter energy prices expected to rise to three-year high",
-          "deck": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
-          "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-          "pub": 1787699249000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -3999,24 +4206,6 @@
       ]
     },
     {
-      "title": "Karen Bass skips out on multiple LAHSA meetings despite homelessness being central to reelection campaign",
-      "pub": 1787698165000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Karen Bass skips out on multiple LAHSA meetings despite homelessness being central to reelection campaign",
-          "deck": "Los Angeles Mayor Karen Bass (D) has made homelessness one of the defining issues of her administration and a central focus of her reelection campaign.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/state/4700340/karen-bass-skips-lahsa-meetings-homelessness-self-appointed-attendance-vs-results/",
-          "pub": 1787698165000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
       "pub": 1787698057000,
       "lean": "ll",
@@ -4110,7 +4299,7 @@
       "title": "SpaceX plans to build the ‘biggest launch site on Earth’ for $100 billion in Louisiana",
       "pub": 1787697771000,
       "lean": "ll",
-      "cat": "Technology",
+      "cat": "Science",
       "single": true,
       "versions": [
         {
@@ -4305,14 +4494,14 @@
       ]
     },
     {
-      "title": "Mike Lindell refuses to pay for recount in Minnesota GOP primary, files lawsuit against election officials",
+      "title": "Mike Lindell won’t pay for recount in Minnesota GOP primary, files lawsuit against election officials",
       "pub": 1787696112000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Mike Lindell refuses to pay for recount in Minnesota GOP primary, files lawsuit against election officials",
+          "title": "Mike Lindell won’t pay for recount in Minnesota GOP primary, files lawsuit against election officials",
           "deck": "The MyPillow founder, a fierce Trump ally, said last week that he would pay $825,000 to fund a full hand recount after he lost the Republican gubernatorial primary.",
           "link": "https://www.nbcnews.com/politics/2026-election/mike-lindell-refuses-pay-recount-minnesota-gop-primary-files-lawsuit-rcna594395",
           "pub": 1787696112000,
@@ -4503,6 +4692,24 @@
       ]
     },
     {
+      "title": "Female Virginia officer sues police department after allegedly sharing locker room with biological male",
+      "pub": 1787694966000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Female Virginia officer sues police department after allegedly sharing locker room with biological male",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/female-virginia-officer-sues-police-215606097.html",
+          "pub": 1787694966000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Business leaders pay tribute to Dolly Parton after country icon’s death",
       "pub": 1787694803000,
       "lean": "lr",
@@ -4534,24 +4741,6 @@
           "pub": 1787694780000,
           "src": "CBS",
           "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, a family spokesperson says",
-      "pub": 1787694720000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, a family spokesperson says",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/montana-man-killed-8-relatives-215200591.html",
-          "pub": 1787694720000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -4804,6 +4993,24 @@
           "pub": 1787693530000,
           "src": "WaPo",
           "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "GOP election law expert: Many more ‘low propensity voters in Republican Party’ after Trump mail-in voting ruling",
+      "pub": 1787693513000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "GOP election law expert: Many more ‘low propensity voters in Republican Party’ after Trump mail-in voting ruling",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/gop-election-law-expert-many-213153134.html",
+          "pub": 1787693513000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -5218,204 +5425,6 @@
           "pub": 1787691453000,
           "src": "WaPo",
           "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
-      "pub": 1787691406000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
-          "deck": "The justices are still struggling with whether and when to explain themselves to the public when the court issues temporary, but consequential, orders.",
-          "link": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
-          "pub": 1787691406000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How Much Will Andy Burnham's 'No. 10 North' Cost British Taxpayers?",
-      "pub": 1787691387000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Much Will Andy Burnham's 'No. 10 North' Cost British Taxpayers?",
-          "deck": "Taxpayers have already paid $14,300 for branding the new office—and more than $1,300 for moving a replica Downing Street door to Manchester, according to a Freedom of Information request.",
-          "link": "https://reason.com/2026/08/25/how-much-will-andy-burnhams-no-10-north-cost-british-taxpayers/",
-          "pub": 1787691387000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "How Has The U.S.-Versus-China Quantum Rivalry Changed Since 2019?",
-      "pub": 1787691210000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Has The U.S.-Versus-China Quantum Rivalry Changed Since 2019?",
-          "deck": "U.S. strength in quantum computing and cryptography vies with China’s preeminence in quantum communication, with major new investments coming from both governments.",
-          "link": "https://www.forbes.com/sites/moorinsights/2026/08/25/how-has-the-us-versus-china-quantum-rivalry-changed-since-2019/",
-          "pub": 1787691210000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Wall Street Journal defends billionaire’s use of AI to write op-ed",
-      "pub": 1787691208000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wall Street Journal defends billionaire’s use of AI to write op-ed",
-          "deck": "Investor Stanley Druckenmiller said he used artificial intelligence to pen an op-ed.",
-          "link": "https://www.washingtonpost.com/business/2026/08/25/wall-street-journal-says-ai-generated-op-ed-didnt-breach-its-standards/",
-          "pub": 1787691208000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Disney offers voluntary early retirement packages to longtime executives amid restructuring push",
-      "pub": 1787691014000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Disney offers voluntary early retirement packages to longtime executives amid restructuring push",
-          "deck": "Disney's voluntary early retirement offer targets U.",
-          "link": "https://www.foxbusiness.com/markets/disney-offers-voluntary-early-retirement-packages-longtime-executives-amid-restructuring-push",
-          "pub": 1787691014000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "What to know about the court fights over voting by mail",
-      "pub": 1787690981000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to know about the court fights over voting by mail",
-          "deck": "After the Supreme Court's ruling on Monday, where do things stand in the lawsuits over President Donald Trump's attempt to limit who can cast ballots by mail?",
-          "link": "https://www.washingtonpost.com/politics/2026/08/25/what-know-about-court-fights-over-voting-by-mail/",
-          "pub": 1787690981000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
-      "pub": 1787690874000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
-          "deck": "In a major win for President Trump who went all in for the political newcomer, Sen.",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-          "pub": 1787690874000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Investor competition for commercial real estate sees strongest growth in a year",
-      "pub": 1787690691000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Investor competition for commercial real estate sees strongest growth in a year",
-          "deck": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
-          "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
-          "pub": 1787690691000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "pub": 1787690578000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-          "deck": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.",
-          "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-          "pub": 1787690578000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Approval Of Trump's Presidency And The War On Iran Hit New Lows",
-      "pub": 1787690400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Approval Of Trump's Presidency And The War On Iran Hit New Lows",
-          "deck": "Approval Of Trump's Presidency And The War On Iran Hit New Lows Americans' approval of the US-Israeli war on Iran has reached another record low, pulling Trump's approval rating down with it, to the worst reading of either of his two terms in office, according to a new Reuters/Ipsos poll.",
-          "link": "https://www.zerohedge.com/political/approval-trumps-presidency-and-trumps-war-iran-hit-new-lows",
-          "pub": 1787690400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
-      "pub": 1787690339000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
-          "deck": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-          "pub": 1787690339000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
           "lean": "ll"
         }
       ]
