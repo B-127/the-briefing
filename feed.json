@@ -1,7 +1,2176 @@
 {
-  "generated": "2026-09-11T02:25:17.925Z",
+  "generated": "2026-09-11T07:23:54.031Z",
   "count": 300,
   "clusters": [
+    {
+      "title": "UK economy grew faster than expected in July",
+      "pub": 1789111357000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "UK economy grew faster than expected in July",
+          "deck": "The economy expanded by 0.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789111357000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        },
+        {
+          "title": "UK economy grew faster than expected in July",
+          "deck": "",
+          "link": "https://finance.yahoo.com/economy/articles/uk-economy-grew-faster-expected-061315258.html",
+          "pub": 1789110213000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Georgia hiker finds two dead bodies on mountain in disturbing discovery",
+      "pub": 1789111184000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Georgia hiker finds two dead bodies on mountain in disturbing discovery",
+          "deck": "The remains were found on Mount Yonah in White County at about 11:20 a.",
+          "link": "https://nypost.com/2026/09/11/us-news/georgia-hiker-discovers-two-dead-bodies-on-mountain-sheriff-says/",
+          "pub": 1789111184000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+      "pub": 1789110936000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+          "deck": "Chow Hang-tung, Lee Cheuk-yan and Albert Ho were given lengthy prison sentences under a national security law imposed on the city by Beijing.",
+          "link": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+          "pub": 1789110936000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Chinese AI Chipmaker Enflame Mints Two Billionaires As Stock Surges 180% In Shanghai Debut",
+      "pub": 1789110920000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Chinese AI Chipmaker Enflame Mints Two Billionaires As Stock Surges 180% In Shanghai Debut",
+          "deck": "Market euphoria has vaulted Shanghai Enflame’s cofounders into the world’s billionaire ranks, raising questions about how long the rally can last.",
+          "link": "https://www.forbes.com/sites/ywang/2026/09/11/chinese-ai-chipmaker-enflame-mints-two-billionaires-as-stock-surges-180-in-shanghai-debut/",
+          "pub": 1789110920000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "State-By-State Laws Governing AI Mental Health Chats Spur Worrisome Jurisdictional Model Drift",
+      "pub": 1789110900000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "State-By-State Laws Governing AI Mental Health Chats Spur Worrisome Jurisdictional Model Drift",
+          "deck": "U.S. states are enacting AI laws on mental health chats. AI makers are dealing with jurisdictional model drift. An AI Insider analysis and scoop.",
+          "link": "https://www.forbes.com/sites/lanceeliot/2026/09/11/state-by-state-laws-governing-ai-mental-health-chats-spur-worrisome-jurisdictional-model-drift/",
+          "pub": 1789110900000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iran’s Araghchi thanks acting Navy Secretary Cao for saying Iran ‘blew the hell out of’ US base in Bahrain",
+      "pub": 1789110704000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran’s Araghchi thanks acting Navy Secretary Cao for saying Iran ‘blew the hell out of’ US base in Bahrain",
+          "deck": "Acting U.S. Navy Secretary Hung Cao’s shocking admission that the Iranian military caused extensive damage to the Navy base in Bahrain, saying that Iran “blew the hell out of Bahrain,” did not go unnoticed by Iran’s foreign minister Seyed Abbas Araghchi. In a social media post, early Friday morning, Araghchi expressed gratitude for the acting […]",
+          "link": "https://www.washingtonexaminer.com/news/4723311/araghchi-thanks-cao-for-saying-iran-blew-the-hell-out-of-us-base-in-bahrain/",
+          "pub": 1789110704000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Q1 FY27 net income rises 60% to $4.7bn as cloud revenues surge",
+      "pub": 1789110568000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Oracle Q1 FY27 net income rises 60% to $4.7bn as cloud revenues surge",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/articles/oracle-q1-fy27-net-income-070928415.html",
+          "pub": 1789110568000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Henry Zeffman: How Burnham got ready to govern with four key moments mapped out",
+      "pub": 1789110564000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Henry Zeffman: How Burnham got ready to govern with four key moments mapped out",
+          "deck": "There are questions over whether Burnham's government represents continuity or change, writes Henry Zeffman",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvz2r1qg4o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789110564000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Why Nigel Benn can't walk away from Conor",
+      "pub": 1789110537000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Nigel Benn can't walk away from Conor",
+          "deck": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789110537000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Zoom Communications Bets on AI to Turn Meetings Into Revenue-Driving Workflows",
+      "pub": 1789110123000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Zoom Communications Bets on AI to Turn Meetings Into Revenue-Driving Workflows",
+          "deck": "",
+          "link": "https://finance.yahoo.com/technology/ai/articles/zoom-communications-bets-ai-turn-070203787.html",
+          "pub": 1789110123000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "IBEX Ltd (IBEX) (Q4 2026) Earnings Call Highlights: Record Revenue and AI-Driven Growth Momentum",
+      "pub": 1789110056000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "IBEX Ltd (IBEX) (Q4 2026) Earnings Call Highlights: Record Revenue and AI-Driven Growth Momentum",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ibex-ltd-ibex-q4-2026-070056480.html",
+          "pub": 1789110056000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Open Thread",
+      "pub": 1789110000000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Open Thread",
+          "deck": "What’s on your mind?",
+          "link": "https://reason.com/volokh/2026/09/11/open-thread-324/",
+          "pub": 1789110000000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Did We Win the War on Terror?",
+      "pub": 1789110000000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Did We Win the War on Terror?",
+          "deck": "Who are our enemies?",
+          "link": "https://thedispatch.com/podcast/dispatch-podcast/did-we-win-the-war-on-terror/",
+          "pub": 1789110000000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dear Abby: I want to find out what happened in my estranged friend’s death",
+      "pub": 1789110000000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dear Abby: I want to find out what happened in my estranged friend’s death",
+          "deck": "Dear Abby advises on navigating an estranged friend's death and mixed emotions over a birthday.",
+          "link": "https://nypost.com/2026/09/11/lifestyle/dear-abby-i-wonder-about-my-estranged-friends-death/",
+          "pub": 1789110000000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Pan African maps route to 100,000 ounces a year at Mogale with Soweto tailings study",
+      "pub": 1789109940000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pan African maps route to 100,000 ounces a year at Mogale with Soweto tailings study",
+          "deck": "",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/pan-african-maps-route-100-065900500.html",
+          "pub": 1789109940000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "pub": 1789109686000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Princess Diana's 'revenge dress' goes up for auction",
+          "deck": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+          "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+          "pub": 1789109686000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "China's wealthy brace for a widening tax net as Beijing closes in",
+      "pub": 1789109586000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "China's wealthy brace for a widening tax net as Beijing closes in",
+          "deck": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
+          "link": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+          "pub": 1789109586000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Sports Illustrated swimsuit model Brooks Nader sizzles in daring sheer lace dress in NYC",
+      "pub": 1789109537000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sports Illustrated swimsuit model Brooks Nader sizzles in daring sheer lace dress in NYC",
+          "deck": "Sports Illustrated model Brooks Nader kicked off New York Fashion Week in a daring sheer black lace midi dress at a CFDA event in Manhattan.",
+          "link": "https://pagesix.com/2026/09/11/entertainment/sports-illustrated-swimsuit-model-brooks-nader-sizzles-in-daring-sheer-lace-dress-in-nyc/",
+          "pub": 1789109537000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "$10m on line at inaugural Ultimate Championship",
+      "pub": 1789109118000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "$10m on line at inaugural Ultimate Championship",
+          "deck": "The inaugural World Athletics Ultimate Championship begins on Friday.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789109118000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Mideast Chaos Sends Supertanker Rates Soaring To $800,000 A Day",
+      "pub": 1789109100000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mideast Chaos Sends Supertanker Rates Soaring To $800,000 A Day",
+          "deck": "Mideast Chaos Sends Supertanker Rates Soaring To $800,000 A Day Supertanker rates on the Baltic Exchange's benchmark Middle East-to-China shipping route have surged to a staggering $800,000 a day.",
+          "link": "https://www.zerohedge.com/energy/mideast-chaos-sends-supertanker-rates-soaring-800000-day",
+          "pub": 1789109100000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
+      "pub": 1789108924000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
+          "deck": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
+          "link": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
+          "pub": 1789108924000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "pub": 1789108395000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Philippine rescuers board ferry 40 hours after blaze began",
+          "deck": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+          "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+          "pub": 1789108395000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Video of dam in western India falsely shared as Nepal flood footage",
+      "pub": 1789108129000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Video of dam in western India falsely shared as Nepal flood footage",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/video-dam-western-india-falsely-062849309.html",
+          "pub": 1789108129000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "pub": 1789108122000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Man jailed after threatening to kill son's teacher in French village",
+          "deck": "The father had threatened to behead a female primary school teacher near Toulouse.",
+          "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789108122000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "El Niño likely to cause wetter and warmer-than-normal autumn",
+      "pub": 1789108040000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "El Niño likely to cause wetter and warmer-than-normal autumn",
+          "deck": "A warmer and wetter-than-normal autumn is in store for the UK, according to the latest Met Office forecasts.",
+          "link": "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789108040000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Aaron Judge gets ‘recovery’ day before big Subway Series vs. Mets",
+      "pub": 1789108028000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Aaron Judge gets ‘recovery’ day before big Subway Series vs. Mets",
+          "deck": "Aaron Judge was out of the lineup Thursday, but there is no reason to be concerned.",
+          "link": "https://nypost.com/2026/09/11/sports/aaron-judge-gets-recovery-day-before-subway-series-vs-mets/",
+          "pub": 1789108028000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+      "pub": 1789107880000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+          "deck": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789107880000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
+      "pub": 1789107604000,
+      "lean": "ll",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/science/articles/anthropic-says-blocked-possible-attempts-203324235.html",
+          "pub": 1789107604000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan's vice president secretly visits Italy",
+      "pub": 1789107526000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Taiwan's vice president secretly visits Italy",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/world/articles/taiwans-vice-president-secretly-visits-061846257.html",
+          "pub": 1789107526000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Has Trump won over voters with his midterm convention?",
+      "pub": 1789107414000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Has Trump won over voters with his midterm convention?",
+          "deck": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+          "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+          "pub": 1789107414000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "NJ hairdresser charged by feds for allegedly hiring Tinder hitman to kill cop ex-boyfriend, his teen daughter",
+      "pub": 1789107329000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "NJ hairdresser charged by feds for allegedly hiring Tinder hitman to kill cop ex-boyfriend, his teen daughter",
+          "deck": "NJ hairdresser Jaclyn Diiorio, 28, faces federal charges for allegedly trying to hire a hitman to kill her cop ex-boyfriend and his daughter.",
+          "link": "https://nypost.com/2026/09/11/us-news/nj-hairdresser-jaclyn-diiorio-charged-in-federal-murder-for-hire-plot-targeting-philadelphia-cop-ex-boyfriend-and-his-teen-daughter/",
+          "pub": 1789107329000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Legalised dying bill for England and Wales faces new vote in Commons",
+      "pub": 1789107143000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Legalised dying bill for England and Wales faces new vote in Commons",
+          "deck": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789107143000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "7 Takeaways From the Republican Midterm Convention",
+      "pub": 1789106903000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "7 Takeaways From the Republican Midterm Convention",
+          "deck": "On the second night of the Republican gathering in Dallas, Vice President JD Vance was the headliner.",
+          "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
+          "pub": 1789106903000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "pub": 1789106560000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+          "deck": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+          "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+          "pub": 1789106560000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Europe Today: EU's economy chief Dombrovskis on Euronews as 9/11 attacks mark 25 years",
+      "pub": 1789106486000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Europe Today: EU's economy chief Dombrovskis on Euronews as 9/11 attacks mark 25 years",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/europe-today-eus-economy-chief-060126626.html",
+          "pub": 1789106486000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Leeds want boss Farke to stay 'long-term'",
+      "pub": 1789106435000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Leeds want boss Farke to stay 'long-term'",
+          "deck": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789106435000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Austria's Headscarf Ban For Under-14 Schoolgirls Comes Into Force",
+      "pub": 1789106400000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Austria's Headscarf Ban For Under-14 Schoolgirls Comes Into Force",
+          "deck": "Austria's Headscarf Ban For Under-14 Schoolgirls Comes Into Force Via Remix News, Austria's new nationwide ban on \"traditional Muslim\" head coverings, including hijabs and burqas, for girls under 14 in both public and private schools, has now taken effect as of Sept.",
+          "link": "https://www.zerohedge.com/geopolitical/austrias-headscarf-ban-under-14-schoolgirls-comes-force",
+          "pub": 1789106400000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+      "pub": 1789106360000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+          "deck": "U.S. jets were hit by Iranian missiles while parked at a base in Jordan, sources tell CBS News, while Trump said the war will end \"immediately\" after midterms.",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/",
+          "pub": 1789106360000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Thousands of Michigan residents issued driver’s licenses, state IDs with stranger’s face: ‘Who is this man?’",
+      "pub": 1789106077000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thousands of Michigan residents issued driver’s licenses, state IDs with stranger’s face: ‘Who is this man?’",
+          "deck": "About 8,200 cards were misprinted because of an error by the state’s vendor.",
+          "link": "https://nypost.com/2026/09/11/us-news/michigan-residents-issued-drivers-licenses-state-ids-with-strangers-face-who-is-this-man/",
+          "pub": 1789106077000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+      "pub": 1789105993000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+          "deck": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+          "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+          "pub": 1789105993000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "pub": 1789105986000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+          "deck": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789105986000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "'I want to play for mum' – Arsenal's Cooney-Cross",
+      "pub": 1789105976000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'I want to play for mum' – Arsenal's Cooney-Cross",
+          "deck": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789105976000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Malachi Toney hits Heisman pose — again — as Miami wins in 70-point blowout",
+      "pub": 1789105622000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Malachi Toney hits Heisman pose — again — as Miami wins in 70-point blowout",
+          "deck": "Miami Hurricanes star receiver Malachi Toney may have been sending a message to Heisman Trophy voters in Thursday’s 77-7 blowout over Florida A&M.",
+          "link": "https://nypost.com/2026/09/11/sports/malachi-toney-hits-heisman-pose-as-miami-wins-in-70-point-blowout/",
+          "pub": 1789105622000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "pub": 1789105314000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+          "deck": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789105314000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "pub": 1789105221000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+          "deck": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said.",
+          "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+          "pub": 1789105221000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
+      "pub": 1789105205000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
+          "deck": "The president made clear as his midterm convention wrapped up that he wants to carry his party through a tough midterms.",
+          "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
+          "pub": 1789105205000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rubin warns MAGA movement could unravel after midterms",
+      "pub": 1789104498000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rubin warns MAGA movement could unravel after midterms",
+          "deck": "\"This is the most important election of our lifetime,\" Rubin said.",
+          "link": "https://www.newsnationnow.com/politics/rubin-maga-movement-could-unravel-midterms/",
+          "pub": 1789104498000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "'I survived the epicentre of 9/11 - I'm so lucky'",
+      "pub": 1789104467000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'I survived the epicentre of 9/11 - I'm so lucky'",
+          "deck": "Paul Berriff says his life expectancy has been cut short because of being buried under rubble.",
+          "link": "https://www.bbc.co.uk/news/articles/clyr0e5dgj8o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789104467000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How Maersk Is Using AI To Survive The New Era Of Tariff Chaos",
+      "pub": 1789103728000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Maersk Is Using AI To Survive The New Era Of Tariff Chaos",
+          "deck": "As tariffs, customs rules and trade regulations become increasingly complex, Maersk is turning to AI to avoid costly mistakes, delays and missed opportunities.",
+          "link": "https://www.forbes.com/sites/bernardmarr/2026/09/11/how-maersk-is-using-ai-to-survive-the-new-era-of-tariff-chaos/",
+          "pub": 1789103728000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Film Festival 2026: Naomi Watts, Josh Hartnett and more",
+      "pub": 1789103610000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Toronto Film Festival 2026: Naomi Watts, Josh Hartnett and more",
+          "deck": "Follow along for the best snaps from the festival.",
+          "link": "https://pagesix.com/2026/09/11/photos/toronto-film-festival-2026-naomi-watts-josh-hartnett-and-more/",
+          "pub": 1789103610000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+      "pub": 1789103557000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+          "deck": "Leaders of China, Russia, India and other BRICS club nations meet in New Delhi this weekend, but wars and soaring energy prices threaten to undermine unity.",
+          "link": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
+          "pub": 1789103557000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota State Fairgoer savagely beaten, stomped in teen mob attack",
+      "pub": 1789103513000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Minnesota State Fairgoer savagely beaten, stomped in teen mob attack",
+          "deck": "A Minnesota State Fairgoer was savagely attacked by a group of \"young men\" who fractured his jaw in multiple places — turning his night out with friends into a \"hellish nightmare,\" his fianceé claimed.",
+          "link": "https://nypost.com/2026/09/11/us-news/minnesota-state-fairgoer-sammy-kimbrough-critically-injured-by-group-of-young-men-who-attacked-him/",
+          "pub": 1789103513000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Vance, Eying 2028, Relishes the Spotlight at Trump’s Convention",
+      "pub": 1789103485000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance, Eying 2028, Relishes the Spotlight at Trump’s Convention",
+          "deck": "The vice president, widely seen as a potential White House candidate, sought to use his speech in Dallas to show a more personal side to the MAGA faithful.",
+          "link": "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html",
+          "pub": 1789103485000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "I watched as a hijacked plane flew over my home - moments later my wife was killed on 9/11",
+      "pub": 1789103350000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "I watched as a hijacked plane flew over my home - moments later my wife was killed on 9/11",
+          "deck": "A quarter of a century since the 9/11 attacks, Charles Wolf reflects on his wife's final moments.",
+          "link": "https://www.bbc.co.uk/news/articles/c8e31lwnz9ro?at_medium=RSS&at_campaign=rss",
+          "pub": 1789103350000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Bayeux Mania",
+      "pub": 1789102974000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bayeux Mania",
+          "deck": "Cutting-edge conservation techniques allowed the famous tapestry to travel to England from France.",
+          "link": "https://www.nytimes.com/2026/09/10/world/bayeux-tapestry-london-exhibition-trump-money.html",
+          "pub": 1789102974000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "JD Vance steals 2028 show at GOP convention — attendees deem VP ‘ready’ to be crowned Trump’s MAGA heir",
+      "pub": 1789102940000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "JD Vance steals 2028 show at GOP convention — attendees deem VP ‘ready’ to be crowned Trump’s MAGA heir",
+          "deck": "The buzz around Vice President JD Vance was palpable after he delivered a keynote address on the final day of the GOP midterm convention, with many attendees deeming him the clear heir apparent to President Trump.",
+          "link": "https://nypost.com/2026/09/11/us-news/jd-vance-steals-2028-show-at-gop-convention-attendees-hail-him-as-trumps-maga-heir/",
+          "pub": 1789102940000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Mamdani pays tribute to 9/11 victims, heroes during interfaith walk ending at NYC Islamic center",
+      "pub": 1789102927000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mamdani pays tribute to 9/11 victims, heroes during interfaith walk ending at NYC Islamic center",
+          "deck": "Mayor Zohran Mamdani joined an interfaith walk at an NYC Islamic center to honor 9/11 victims, amid calls for him to skip anniversary events.",
+          "link": "https://nypost.com/2026/09/11/us-news/mamdani-pays-tribute-to-9-11-victims-heroes-during-interfaith-walk-ending-at-nyc-islamic-center/",
+          "pub": 1789102927000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Russia’s Threats to Europe Extend Beyond Ukraine",
+      "pub": 1789102860000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russia’s Threats to Europe Extend Beyond Ukraine",
+          "deck": "It’s up to Ukraine’s NATO allies to show there are no weak links.",
+          "link": "https://thedispatch.com/article/russias-threat-ukraine-nato-europe/",
+          "pub": 1789102860000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+      "pub": 1789102816000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+          "deck": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789102816000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "What September 11 Took From Us",
+      "pub": 1789102800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What September 11 Took From Us",
+          "deck": "The terror attacks changed the world—and cut short far too many lives.",
+          "link": "https://thedispatch.com/article/september-11-deaths-war-losses/",
+          "pub": 1789102800000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Twenty-Five Years Later, We Must Rebuild",
+      "pub": 1789102800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Twenty-Five Years Later, We Must Rebuild",
+          "deck": "We built a tower and memorials after September 11.",
+          "link": "https://thedispatch.com/article/september-11-politics-history-unity/",
+          "pub": 1789102800000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What Do We Actually Remember About 9/11?",
+      "pub": 1789102800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What Do We Actually Remember About 9/11?",
+          "deck": "Remembering the catastrophe isn’t as easy as the slogans indicate.",
+          "link": "https://thedispatch.com/article/september-11-flashbulb-memory-world-trade-center/",
+          "pub": 1789102800000,
+          "src": "DISP",
+          "srcFull": "The Dispatch",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Florida suspected serial killer executed for 1996 strangulation connected to ‘Hog Trail Murders’",
+      "pub": 1789102627000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Florida suspected serial killer executed for 1996 strangulation connected to ‘Hog Trail Murders’",
+          "deck": "A Florida man convicted in one of a series of suspected killings that became known as the “Hog Trail Murders” in the 1990s was put to death Thursday, becoming the state’s 15th person executed this year.",
+          "link": "https://nypost.com/2026/09/11/us-news/florida-suspected-serial-killer-daniel-conahan-executed-for-1996-strangulation/",
+          "pub": 1789102627000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump declines Saudi crown prince's call for US strikes on Houthis, Axios reports",
+      "pub": 1789102276000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump declines Saudi crown prince's call for US strikes on Houthis, Axios reports",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-declines-saudi-crown-princes-045116085.html",
+          "pub": 1789102276000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rayner defends pause to local council overhaul",
+      "pub": 1789102265000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rayner defends pause to local council overhaul",
+          "deck": "The cabinet minister tells the BBC she wanted to ensure the plans could survive potential legal actions.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789102265000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
+      "pub": 1789101691000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
+          "deck": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+          "pub": 1789101691000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Papers: 'Day that changed the world forever' and 'Mayors plot hols tax'",
+      "pub": 1789101639000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Papers: 'Day that changed the world forever' and 'Mayors plot hols tax'",
+          "deck": "A levy on overnight stays in England and Wales, 9/11 anniversary and Dame Esther Rantzen lead Friday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/cqlwze9qgrlo?at_medium=RSS&at_campaign=rss",
+          "pub": 1789101639000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Max Fried still winless since April after inefficient start in Yankees victory",
+      "pub": 1789101162000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Max Fried still winless since April after inefficient start in Yankees victory",
+          "deck": "The worst team in baseball made Max Fried work for almost every out.",
+          "link": "https://nypost.com/2026/09/11/sports/max-fried-still-winless-since-april-despite-yankees-victory/",
+          "pub": 1789101162000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+      "pub": 1789100979000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+          "deck": "U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.",
+          "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+          "pub": 1789100979000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+      "pub": 1789100960000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+          "deck": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
+          "link": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+          "pub": 1789100960000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "At BRICS Summit, China and India Vie for Influence",
+      "pub": 1789100532000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "At BRICS Summit, China and India Vie for Influence",
+          "deck": "China sees the BRICS group as a vehicle for challenging American power.",
+          "link": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
+          "pub": 1789100532000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ex-Anthropic researcher warns AI could grow \"smart enough to kill us\"",
+      "pub": 1789100220000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ex-Anthropic researcher warns AI could grow \"smart enough to kill us\"",
+          "deck": "The development of AI \"doesn't look that different from say, 'Terminator,' or from science fiction films,\" Jacob Coxon said.",
+          "link": "https://www.cbsnews.com/news/anthropic-researcher-jacob-coxon-ai-warning/",
+          "pub": 1789100220000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Sean McVay delivers ‘humbling’ verdict after Rams’ 49ers debacle",
+      "pub": 1789100175000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sean McVay delivers ‘humbling’ verdict after Rams’ 49ers debacle",
+          "deck": "Sean McVay had no interest in blaming the Rams’ travel itinerary for their 27-7 debacle against the 49ers.",
+          "link": "https://nypost.com/2026/09/11/sports/sean-mcvay-says-rams-were-humbled-by-49ers-in-australia-season-opener/",
+          "pub": 1789100175000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Could Today’s Children Live to 150 Years Old? Health Leaders Talk Longevity Research",
+      "pub": 1789099964000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Could Today’s Children Live to 150 Years Old? Health Leaders Talk Longevity Research",
+          "deck": "Panelists at the 2026 TIME100 Health Leadership Forum discussed the latest in longevity research.",
+          "link": "https://time.com/collection/time100-leadership-forums/2026/from-living-longer-to-living-better-the-new-lens-of-longevity/",
+          "pub": 1789099964000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Health Leaders Talk Expanding Access to Specialty Care",
+      "pub": 1789099964000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Health Leaders Talk Expanding Access to Specialty Care",
+          "deck": "Panelists at the 2026 TIME100 Health Leadership Forum discussed how to make it easier for patients to get treated with lifesaving cell therapies.",
+          "link": "https://time.com/collection/time100-leadership-forums/2026/the-access-gap-expanding-pathways-to-life-saving-care/",
+          "pub": 1789099964000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ted Cruz Makes Bonkers Statement About AI Regulation",
+      "pub": 1789099866000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ted Cruz Makes Bonkers Statement About AI Regulation",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/ted-cruz-makes-bonkers-statement-041106875.html",
+          "pub": 1789099866000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "'Islam is being hijacked': Brother of Muslim first responder killed in 9/11",
+      "pub": 1789099824000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Islam is being hijacked': Brother of Muslim first responder killed in 9/11",
+          "deck": "Zeshan Hamdani, who lost his older brother in the North Tower, is speaking out after push back against New York Mayor Zohran Mamdani attending the 25-year memorial.",
+          "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789099824000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "GOP convention attendee calls for shooting Democrats during Cruz’s speech",
+      "pub": 1789098895000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "GOP convention attendee calls for shooting Democrats during Cruz’s speech",
+          "deck": "Democrats condemned the calls for violence.",
+          "link": "https://www.washingtonpost.com/politics/2026/09/10/gop-convention-attendee-calls-shooting-democrats-during-cruzs-speech/",
+          "pub": 1789098895000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Here’s the latest.",
+      "pub": 1789098612000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s the latest.",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
+          "pub": 1789098612000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "RNC finale ‘all about Vance’ as GOP base looks to 2028",
+      "pub": 1789098594000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "RNC finale ‘all about Vance’ as GOP base looks to 2028",
+          "deck": "Vice President Vance roused the closing night crowd at the Republican National Committee’s Dallas convention amid growing chatter about his 2028 prospects.",
+          "link": "https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter/",
+          "pub": 1789098594000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Demario Davis has ‘enjoyment of a rookie’ as he begins third stint with Jets",
+      "pub": 1789098556000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Demario Davis has ‘enjoyment of a rookie’ as he begins third stint with Jets",
+          "deck": "Demario Davis has been in this spot before.",
+          "link": "https://nypost.com/2026/09/10/sports/demario-davis-has-enjoyment-of-a-rookie-as-he-begins-third-stint-with-jets/",
+          "pub": 1789098556000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Here’s what they didn’t say at the Republican midterm convention",
+      "pub": 1789098443000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s what they didn’t say at the Republican midterm convention",
+          "deck": "There was a dilemma at the heart of the Republican midterm convention that every speaker had to navigate in their own way.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4723183/heres-what-they-didnt-say-republican-midterm-convention/",
+          "pub": 1789098443000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "NFL fans left baffled by bizarre ‘Welcome to Country’ ceremony: ‘I know Aaron Rodgers is pissed’",
+      "pub": 1789098405000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "NFL fans left baffled by bizarre ‘Welcome to Country’ ceremony: ‘I know Aaron Rodgers is pissed’",
+          "deck": "The ceremony was met with applause from the fans seated though many on social media were quick to bash it.",
+          "link": "https://nypost.com/2026/09/10/sports/nfl-australia-game-begins-with-controversial-welcome-to-country-ceremony/",
+          "pub": 1789098405000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
+      "pub": 1789098283000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
+          "deck": "China and the Philippines have been locked in years of tension over their competing claims in the South China Sea, with friction intensifying in recent months.",
+          "link": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
+          "pub": 1789098283000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jazz Chisholm Jr. confident he’ll return from thumb injury before playoffs",
+      "pub": 1789098236000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jazz Chisholm Jr. confident he’ll return from thumb injury before playoffs",
+          "deck": "Yankees second baseman Jazz Chisholm Jr.",
+          "link": "https://nypost.com/2026/09/10/sports/jazz-chisholm-jr-confident-hell-return-from-thumb-injury-before-playoffs/",
+          "pub": 1789098236000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+      "pub": 1789097957000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+          "deck": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
+          "link": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
+          "pub": 1789097957000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Wild twist as victim of Hollywood Hills home invasion unmasked as squatter",
+      "pub": 1789097828000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Wild twist as victim of Hollywood Hills home invasion unmasked as squatter",
+          "deck": "There’s no word yet on whether the two Hollywood Hills incidents are connected.",
+          "link": "https://nypost.com/2026/09/10/us-news/wild-twist-as-victim-of-hollywood-hills-home-invasion-unmasked-as-squatter/",
+          "pub": 1789097828000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Rams embarrassed as 49ers turn Australian red sea into rising tide",
+      "pub": 1789097719000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rams embarrassed as 49ers turn Australian red sea into rising tide",
+          "deck": "Finally, all the talk about travel plans, body clocks, time zones, injuries, unprecedented comebacks, bitter rivalries, and Super Bowl aspirations gave way to the only thing that truly mattered.",
+          "link": "https://nypost.com/2026/09/10/sports/rams-embarrassed-49ers-turn-australian-red-sea-into-rising-tide/",
+          "pub": 1789097719000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jessica Pegula has another wild beverage exchange after US Open semis loss",
+      "pub": 1789097706000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jessica Pegula has another wild beverage exchange after US Open semis loss",
+          "deck": "Jessica Pegula’s post-match press conference beverage choice has become as much of a topic as her play on the court over the years.",
+          "link": "https://nypost.com/2026/09/10/sports/jessica-pegula-has-another-wild-beverage-exchange-after-us-open-semis-loss/",
+          "pub": 1789097706000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Marco Rubio isn’t at the GOP’s midterm convention. Attendees love him anyway",
+      "pub": 1789097694000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Marco Rubio isn’t at the GOP’s midterm convention. Attendees love him anyway",
+          "deck": "DALLAS — Secretary of State Marco Rubio, one of President Donald Trump’s top deputies, isn’t in Dallas this week during the Republicans‘ high-stakes midterm convention.",
+          "link": "https://www.washingtonexaminer.com/news/white-house/4723213/marco-rubio-absence-gop-midterm-convention-attendees-love-him-anyway/",
+          "pub": 1789097694000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "We Are In World War Xi",
+      "pub": 1789097100000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "We Are In World War Xi",
+          "deck": "We Are In World War Xi Authored by Karen Siegemund and Bradley A.",
+          "link": "https://www.zerohedge.com/geopolitical/we-are-world-war-xi",
+          "pub": 1789097100000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
+      "pub": 1789097043000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
+          "deck": "Centers for Medicare & Medicaid (CMM) Administrator Dr.",
+          "link": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/",
+          "pub": 1789097043000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Republicans largely ignore the war in Iran at their midterm convention",
+      "pub": 1789096994000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Republicans largely ignore the war in Iran at their midterm convention",
+          "deck": "Aside from mentions by Trump and top administration officials, speakers at the convention mostly avoided talking about the war.",
+          "link": "https://www.nbcnews.com/politics/trump-administration/iran-war-largely-ignored-republican-midterm-convention-rcna597141",
+          "pub": 1789096994000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Vance appears more like Trump’s heir apparent at GOP convention",
+      "pub": 1789096938000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance appears more like Trump’s heir apparent at GOP convention",
+          "deck": "The vice president characterized Democrats as the “party of hatred,” while urging Republicans to unify.",
+          "link": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/",
+          "pub": 1789096938000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump pleads with voters to pretend he is on the ballot: ‘You’ve gotta do this for me’",
+      "pub": 1789096827000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump pleads with voters to pretend he is on the ballot: ‘You’ve gotta do this for me’",
+          "deck": "President Donald Trump reiterated his wish for Republican voters to pretend he is on the ballot for the midterm elections, which he called “one of the most important elections.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4723127/trump-night-two-speech-rnc-midterm-convention/",
+          "pub": 1789096827000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
+      "pub": 1789096669000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
+          "deck": "President Trump closed out the Republican midterm convention in Dallas on Thursday by urging attendees to pledge to go out and vote in November’s midterm elections.",
+          "link": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
+          "pub": 1789096669000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Hasan Piker, cowboys, Charlie Kirk, and more: Top six takeaways from Republican midterm convention Night 2",
+      "pub": 1789096581000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hasan Piker, cowboys, Charlie Kirk, and more: Top six takeaways from Republican midterm convention Night 2",
+          "deck": "The second night of the Republican Party’s midterm convention in Dallas undoubtedly belonged to Vice President JD Vance, who was greeted by loud chants of “48” as he paid tribute to Charlie Kirk and excoriated Democrats, in particular Michigan’s Senate hopeful Abdul el Sayed.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4723080/top-takeaways-republican-midterm-convention-night-two/",
+          "pub": 1789096581000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Gilgo Beach Killer busted for drugs, smuggling: Report",
+      "pub": 1789096220000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gilgo Beach Killer busted for drugs, smuggling: Report",
+          "deck": "Rex Heuermann has been disciplined for drug possession and smuggling a package into Clinton Correctional Facility.",
+          "link": "https://www.newsnationnow.com/us-news/northeast/gilgo-beach-killer-rex-heuermann-smuggling-drugs-prison/",
+          "pub": 1789096220000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Full speech: Trump closes out first Republican midterm convention",
+      "pub": 1789096219000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Full speech: Trump closes out first Republican midterm convention",
+          "deck": "President Donald Trump closed out the first-ever Republican midterm convention following Vice President JD Vance.",
+          "link": "https://www.nbcnews.com/now/video/full-speech-trump-closes-out-first-republican-midterm-convention-269681733846",
+          "pub": 1789096219000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Vance describes his hopes for baby son as he lays down a marker for 2028 with the speech of his life",
+      "pub": 1789095844000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance describes his hopes for baby son as he lays down a marker for 2028 with the speech of his life",
+          "deck": "DALLAS – JD Vance delivered the speech of his life on Thursday evening, weaving together the death of Charlie Kirk and the birth of his new son to deliver a powerful personal narrative and a coherent political philosophy.",
+          "link": "https://www.washingtonexaminer.com/news/washington-secrets/4722079/jd-vance-speech-lays-down-marker-2028/",
+          "pub": 1789095844000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Vance takes aim at Talarico in Texas convention speech",
+      "pub": 1789095831000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance takes aim at Talarico in Texas convention speech",
+          "deck": "Vice President Vance issued sharp criticism of James Talarico in the Democratic Senate candidate's backyard, while speaking at the Republican National Committee’s (RNC) midterm convention in Dallas on Thursday evening.",
+          "link": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/",
+          "pub": 1789095831000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Vance makes direct pitch to young men, independents disaffected by Trump policies",
+      "pub": 1789095360000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance makes direct pitch to young men, independents disaffected by Trump policies",
+          "deck": "DALLAS — Vice President JD Vance leaned on his family and the memory of Charlie Kirk to shore up support among young men and independents, the very voters Republicans need to win over before November’s 2026 midterm elections.",
+          "link": "https://www.washingtonexaminer.com/news/white-house/4722774/vance-rnc-convention-speech-2026/",
+          "pub": 1789095360000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Contempt Judgment From Missouri",
+      "pub": 1789095291000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Contempt Judgment From Missouri",
+          "deck": "The Secretary of State was subject to dueling injunctions from state and federal court.",
+          "link": "https://reason.com/volokh/2026/09/10/the-contempt-judgment-from-missouri/",
+          "pub": 1789095291000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "What Maria Shriver Wants Women to Know About Their Brain Health",
+      "pub": 1789095135000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What Maria Shriver Wants Women to Know About Their Brain Health",
+          "deck": "And why they should start talking about it now",
+          "link": "https://time.com/collection/time100-leadership-forums/2026/keynote-the-fight-for-women-s-brain-health/",
+          "pub": 1789095135000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump leads GOP midterm convention attendees in pledge to vote, warns them ‘you go to hell’ if they don’t",
+      "pub": 1789095108000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump leads GOP midterm convention attendees in pledge to vote, warns them ‘you go to hell’ if they don’t",
+          "deck": "After attendees eagerly complied, Trump added: \"You know what happens if you don't vote?",
+          "link": "https://nypost.com/2026/09/10/us-news/trump-leads-gop-midterm-convention-attendees-in-pledge-to-vote/",
+          "pub": 1789095108000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "“Think of it: $22 trillion coming into this country.”",
+      "pub": 1789094940000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "“Think of it: $22 trillion coming into this country.”",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/think-of-it-22-trillion-coming-into-this-country",
+          "pub": 1789094940000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "'It was heartbreaking'- Americans remember what they were doing on 9/11",
+      "pub": 1789094923000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "'It was heartbreaking'- Americans remember what they were doing on 9/11",
+          "deck": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+          "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789094923000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
+      "pub": 1789094843000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/now-were-cutting-your-prices-by-50-60-70-80-and-a-couple-of-cases-90-percent",
+          "pub": 1789094843000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+      "pub": 1789094790000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+          "deck": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "pub": 1789094790000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "“We delivered the largest tax cuts in American history.”",
+      "pub": 1789094789000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "“We delivered the largest tax cuts in American history.”",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/we-delivered-the-largest-tax-cuts-in-american-history",
+          "pub": 1789094789000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Marijuana Contracts Are Not Enforceable in Federal Court",
+      "pub": 1789094764000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Marijuana Contracts Are Not Enforceable in Federal Court",
+          "deck": "Just because marijuana is legal under state law does not mean marijuana is legal -- a useful reminder.",
+          "link": "https://reason.com/volokh/2026/09/10/8401150/",
+          "pub": 1789094764000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Vance positions himself as a fighter for family values and a ‘national birthright’",
+      "pub": 1789094630000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance positions himself as a fighter for family values and a ‘national birthright’",
+          "deck": "The vice president drew on the birth of his fourth child and the one-year anniversary of Charlie Kirk’s death in his GOP midterm convention speech.",
+          "link": "https://www.nbcnews.com/politics/jd-vance/vance-positions-fighter-family-values-national-birthright-rcna596594",
+          "pub": 1789094630000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Vance positions himself as a fighter for family values and a ‘national birthright’",
+      "pub": 1789094630000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Vance positions himself as a fighter for family values and a ‘national birthright’",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/vance-positions-himself-fighter-family-024350840.html",
+          "pub": 1789094630000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "“I built almost 2,000 miles of wall.”",
+      "pub": 1789094389000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "“I built almost 2,000 miles of wall.”",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/i-built-almost-2000-miles-of-wall",
+          "pub": 1789094389000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Health Experts on the Major Breakthroughs in Fighting Cancer",
+      "pub": 1789094358000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Health Experts on the Major Breakthroughs in Fighting Cancer",
+          "deck": "Vaccines and immunotherapy have shown promising results",
+          "link": "https://time.com/collection/time100-leadership-forums/2026/from-treatment-to-cure-the-breakthrough-science-to-beat-cancer/",
+          "pub": 1789094358000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Democrats don’t have ‘star power’ like RFK Jr. or JD Vance: Joe Concha",
+      "pub": 1789094226000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democrats don’t have ‘star power’ like RFK Jr. or JD Vance: Joe Concha",
+          "deck": "Washington Examiner columnist Joe Concha praised Department of Health and Human Services Secretary Robert F.",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/4722896/democrats-dont-have-star-power-rfk-jr-jd-vance-joe-concha/",
+          "pub": 1789094226000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "25 Years Later, Air Travel Still Bears The Imprint Of 9/11",
+      "pub": 1789094100000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "25 Years Later, Air Travel Still Bears The Imprint Of 9/11",
+          "deck": "25 Years Later, Air Travel Still Bears The Imprint Of 9/11 Authored by Jeremy Lott via The Epoch Times, The terror attacks 25 years ago this week had enduring costs for America's commercial aviation sector.",
+          "link": "https://www.zerohedge.com/geopolitical/25-years-later-air-travel-still-bears-imprint-911",
+          "pub": 1789094100000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Organizers of Hong Kong’s Tiananmen Square vigils sentenced to prison in national security case",
+      "pub": 1789093777000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Organizers of Hong Kong’s Tiananmen Square vigils sentenced to prison in national security case",
+          "deck": "Three pro-democracy activists in Hong Kong who organized annual vigils for victims of China’s 1989 Tiananmen Square crackdown were sentenced Friday under a national security law that critics say has stifled dissent.",
+          "link": "https://www.nbcnews.com/world/asia/organizers-hong-kong-tiananmen-vigils-sentenced-rcna596550",
+          "pub": 1789093777000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hernandez's family alleges abuse, trafficking in suit against D4vd",
+      "pub": 1789093542000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hernandez's family alleges abuse, trafficking in suit against D4vd",
+          "deck": "On Monday, Hernandez's family marked what would have been her 16th birthday by calling for Burke to face the death penalty.",
+          "link": "https://www.newsnationnow.com/crime/hernandez-family-alleges-abuse-trafficking-lawsuit-d4vd/",
+          "pub": 1789093542000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
+      "pub": 1789093529000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
+          "deck": "The owner of The Miami Herald said subscriber interest did not support its current level of investment.",
+          "link": "https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html",
+          "pub": 1789093529000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
     {
       "title": "Don Jr. urges Republicans to honor Charlie Kirk’s legacy and ‘save this nation’",
       "pub": 1789093403000,
@@ -17,6 +2186,24 @@
           "src": "EXAM",
           "srcFull": "Washington Examiner",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Why Postliberalism Failed--And Is Likely to Fail Again",
+      "pub": 1789093323000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why Postliberalism Failed--And Is Likely to Fail Again",
+          "deck": "Contemporary postliberalism may be a fitting ideology for the age—but that hardly makes its agenda a good one, let alone an American one.",
+          "link": "https://reason.com/volokh/2026/09/10/why-postliberalism-failed-and-is-likely-to-fail-again/",
+          "pub": 1789093323000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
         }
       ]
     },
@@ -57,56 +2244,20 @@
       ]
     },
     {
-      "title": "Texas judge rules TikTok misled users on child safety feature",
-      "pub": 1789093102000,
+      "title": "Singer D4vd sued by parents of teen girl he is accused of killing",
+      "pub": 1789093071000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Texas judge rules TikTok misled users on child safety feature",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/texas-judge-rules-tiktok-misled-021242124.html",
-          "pub": 1789093102000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
+          "title": "Singer D4vd sued by parents of teen girl he is accused of killing",
+          "deck": "Celeste Rivas Hernandez’s parents are suing the singer D4vd, accusing him of wrongful death after he was charged in the 14-year-old girl’s murder.",
+          "link": "https://www.nbcnews.com/news/us-news/singer-d4vd-sued-by-parents-teen-girl-accused-killing-rcna596772",
+          "pub": 1789093071000,
+          "src": "NBC",
+          "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Patchogue-Medford phys ed teacher creates workout challenge honoring 9/11 heroes",
-      "pub": 1789093018000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Patchogue-Medford phys ed teacher creates workout challenge honoring 9/11 heroes",
-          "deck": "A Patchogue-Medford phys ed teacher has inspired kids of all ages across the district to join a workout challenge honoring the heroes of Sept.",
-          "link": "https://nypost.com/2026/09/10/sports/long-island-phys-ed-teacher-creates-workout-challenge-honoring-9-11-heroes/",
-          "pub": 1789093018000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Another 49ers skill position player carted off with knee injury against Rams",
-      "pub": 1789092814000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Another 49ers skill position player carted off with knee injury against Rams",
-          "deck": "The 49ers’ injury problems followed them all the way to Australia.",
-          "link": "https://nypost.com/2026/09/10/sports/jake-tonges-carted-off-knee-injury-during-49ers-rams-game/",
-          "pub": 1789092814000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -125,24 +2276,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "RNC Convention Attendee Heard Saying Mamdani, El-Sayed ‘Should be Shot’",
-      "pub": 1789092769000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "RNC Convention Attendee Heard Saying Mamdani, El-Sayed ‘Should be Shot’",
-          "deck": "The remarks come amid a focus on political violence at the event, which included tributes to conservative activist Charlie Kirk.",
-          "link": "https://www.newsweek.com/rnc-convention-attendee-heard-saying-mamdani-el-sayed-should-be-shot-12429022",
-          "pub": 1789092769000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -201,24 +2334,6 @@
       ]
     },
     {
-      "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
-      "pub": 1789092544000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
-          "deck": "",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-stock-trades-020904725.html",
-          "pub": 1789092544000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Vance honors Charlie Kirk on the anniversary of his death",
       "pub": 1789092521000,
       "lean": "ll",
@@ -233,24 +2348,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "California killer drunk driver gets extraordinary 200-year sentence",
-      "pub": 1789092461000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "California killer drunk driver gets extraordinary 200-year sentence",
-          "deck": "According to prosecutors, Garcia had spent the day drinking by the Sacramento River.",
-          "link": "https://nypost.com/2026/09/10/us-news/california-drunk-driver-gets-nearly-200-year-sentence/",
-          "pub": 1789092461000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -327,96 +2424,6 @@
       ]
     },
     {
-      "title": "Anthony Volpe belts grand slam, gets curtain call in rousing Yankees return",
-      "pub": 1789092209000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Anthony Volpe belts grand slam, gets curtain call in rousing Yankees return",
-          "deck": "Anthony Volpe looks like he doesn't want to be sent back to the minors again.",
-          "link": "https://nypost.com/2026/09/10/sports/anthony-volpe-belts-grand-slam-get-curtain-call-in-rousing-yankees-return/",
-          "pub": 1789092209000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Global bonds buckle as surging oil prices inflame inflation risks",
-      "pub": 1789092193000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Global bonds buckle as surging oil prices inflame inflation risks",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/global-bonds-fall-surging-oil-005601417.html",
-          "pub": 1789092193000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Connecticut issues cease-and-desist orders to nine prediction market companies",
-      "pub": 1789092175000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Connecticut issues cease-and-desist orders to nine prediction market companies",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/connecticut-issues-cease-desist-orders-020255584.html",
-          "pub": 1789092175000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Judge Judy, 83, makes major announcement regarding her future on television as end of ‘Judy Justice’ nears",
-      "pub": 1789092168000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Judge Judy, 83, makes major announcement regarding her future on television as end of ‘Judy Justice’ nears",
-          "deck": "Sheindlin's \"Judge Judy\" ran for 25 seasons after its initial 1996 debut.",
-          "link": "https://pagesix.com/2026/09/10/entertainment/judge-judy-83-makes-major-announcement-regarding-her-future-on-television-as-end-of-judy-justice-nears/",
-          "pub": 1789092168000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "East Islip student athletes rock red bandanas to honor 9/11 hero Welles Crowther",
-      "pub": 1789092118000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "East Islip student athletes rock red bandanas to honor 9/11 hero Welles Crowther",
-          "deck": "They’re seeing red in East Islip for all the right reasons.",
-          "link": "https://nypost.com/2026/09/10/sports/li-athletes-rock-red-bandanas-to-honor-9-11-hero-welles-crowther/",
-          "pub": 1789092118000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case",
       "pub": 1789092086000,
       "lean": "ll",
@@ -471,24 +2478,6 @@
       ]
     },
     {
-      "title": "Rams Defender Had to Take Pay Cut Because of Aaron Donald",
-      "pub": 1789091782000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams Defender Had to Take Pay Cut Because of Aaron Donald",
-          "deck": "Aaron Donald's comeback is costing the Rams — here's how they're managing the cap to make it work.",
-          "link": "https://www.newsweek.com/sports/nfl/rams-defender-had-to-take-pay-cut-because-of-aaron-donald-12429115",
-          "pub": 1789091782000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
       "pub": 1789091753000,
       "lean": "ll",
@@ -525,42 +2514,6 @@
       ]
     },
     {
-      "title": "Charlie Kirk supporters vow to ‘continue what he started’ during emotional Utah Valley University ceremony one year after his murder",
-      "pub": 1789091705000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Charlie Kirk supporters vow to ‘continue what he started’ during emotional Utah Valley University ceremony one year after his murder",
-          "deck": "Thousands of Charlie Kirk supporters packed an arena at Utah Valley University on Thursday night to honor the conservative activist one year after he was assassinated on the campus.",
-          "link": "https://nypost.com/2026/09/10/us-news/charlie-kirk-supporters-vow-to-continue-what-he-started-during-emotional-utah-valley-university-ceremony-one-year-after-his-murder/",
-          "pub": 1789091705000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Spice Girls fans livid over group teasing major announcement only to drop new merch: ‘Are you kidding me?’",
-      "pub": 1789091664000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Spice Girls fans livid over group teasing major announcement only to drop new merch: ‘Are you kidding me?’",
-          "deck": "\"This meeting could have been an email,\" one person wrote of the letdown.",
-          "link": "https://pagesix.com/2026/09/10/entertainment/spice-girls-fans-livid-over-groups-merch-drop-after-teasing-major-announcement/",
-          "pub": 1789091664000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
       "pub": 1789091588000,
       "lean": "ll",
@@ -572,114 +2525,6 @@
           "deck": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
           "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
           "pub": 1789091588000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Potato Chip Recall Linked to Pork as Highest Risk Level Warning Issued",
-      "pub": 1789091421000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Potato Chip Recall Linked to Pork as Highest Risk Level Warning Issued",
-          "deck": "The recalled products include De Todito-branded potato chips that contain pork cracklings, a snack made with fried pork skin.",
-          "link": "https://www.newsweek.com/potato-chip-recall-linked-to-pork-as-highest-risk-level-warning-issued-12428485",
-          "pub": 1789091421000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Roger Goodell wears wild kangaroo coat in bizarre NFL Australia pregame scene",
-      "pub": 1789091362000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Roger Goodell wears wild kangaroo coat in bizarre NFL Australia pregame scene",
-          "deck": "The NFL's second game of the season was just a hop, skip and a jump for the commissioner.",
-          "link": "https://nypost.com/2026/09/10/sports/roger-goodell-wild-kangaroo-coat-in-bizarre-nfl-australia-pregame-scene/",
-          "pub": 1789091362000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "De’Zhaun Stribling carted to 49ers locker room vs. Rams with injury",
-      "pub": 1789091266000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "De’Zhaun Stribling carted to 49ers locker room vs. Rams with injury",
-          "deck": "De’Zhaun Stribling is officially a San Francisco 49er.",
-          "link": "https://nypost.com/2026/09/10/sports/dezhaun-stribling-carted-to-49ers-locker-room-vs-rams-with-injury/",
-          "pub": 1789091266000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "He Carried Her Out of the Tower on 9/11. Now They Carry Each Other.",
-      "pub": 1789091132000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "He Carried Her Out of the Tower on 9/11. Now They Carry Each Other.",
-          "deck": "A 9/11 photo captured Officer Ramon Suarez carrying Crystal Tyson to safety.",
-          "link": "https://www.newsweek.com/he-carried-her-out-of-the-tower-on-9-11-now-they-carry-each-other-12428594",
-          "pub": 1789091132000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "JD Vance Tells Protester With Mexican Flag to Leave Country",
-      "pub": 1789091120000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "JD Vance Tells Protester With Mexican Flag to Leave Country",
-          "deck": "Vance made an offer to the protester who interrupted his speech at the RNC midterm convention.",
-          "link": "https://www.newsweek.com/jd-vance-rnc-midterm-convention-protester-12429221",
-          "pub": 1789091120000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-      "pub": 1789091037000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-          "deck": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
-          "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-          "pub": 1789091037000,
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
@@ -723,92 +2568,20 @@
       ]
     },
     {
-      "title": "49ers fan duped by ‘front-row’ seats at historic Rams Australia game",
-      "pub": 1789090804000,
-      "lean": "lr",
+      "title": "Is Trump's $5,000 pledge a sign of panic?",
+      "pub": 1789090731000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "49ers fan duped by ‘front-row’ seats at historic Rams Australia game",
-          "deck": "One fan scored first-row seats for the NFL’s historic debut in Australia.",
-          "link": "https://nypost.com/2026/09/10/sports/rams-49ers-fan-reveals-unbelievable-front-row-view-at-melbourne-game/",
-          "pub": 1789090804000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Jets looking for ‘confidence and consistency’ in kicker as Week 1 starter still remains big question",
-      "pub": 1789090629000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jets looking for ‘confidence and consistency’ in kicker as Week 1 starter still remains big question",
-          "deck": "The Jets inched another day closer to the season opener Sunday without naming a kicker, extending an uninspiring competition.",
-          "link": "https://nypost.com/2026/09/10/sports/jets-havent-named-starting-kicker-yet-before-week-1/",
-          "pub": 1789090629000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-      "pub": 1789090627000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-          "deck": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
-          "link": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
-          "pub": 1789090627000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Brandon Gill names Vance as GOP’s ‘clear front-runner’ for 2028",
-      "pub": 1789090581000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Brandon Gill names Vance as GOP’s ‘clear front-runner’ for 2028",
-          "deck": "DALLAS — Rep.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4722890/brandon-gill-vance-gop-front-runner-2028/",
-          "pub": 1789090581000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Monstrous Georgia death row inmate Stacey Humphreys’ execution date is set — 23 years after viciously murdering 2 women",
-      "pub": 1789090557000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Monstrous Georgia death row inmate Stacey Humphreys’ execution date is set — 23 years after viciously murdering 2 women",
-          "deck": "As he prepares to be put to death, Humphreys' last meal request is a nauseating spread of barbecue beef brisket, pork ribs, a bacon double cheeseburger, French fries, coleslaw, cornbread, buffalo wings, a meat lover’s pan pizza and vanilla ice cream, according to state officials.",
-          "link": "https://nypost.com/2026/09/10/us-news/monstrous-georgia-death-row-inmates-execution-date-is-set-23-years-after-viciously-murdering-2-women/",
-          "pub": 1789090557000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Is Trump's $5,000 pledge a sign of panic?",
+          "deck": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
+          "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
+          "pub": 1789090731000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -831,56 +2604,56 @@
       ]
     },
     {
-      "title": "Armed trio attacks 3, steals $12K in Naruto cards during heinous NYC home invasion: cops, sources",
-      "pub": 1789089745000,
-      "lean": "lr",
-      "cat": "Politics",
+      "title": "Knoxville nonprofit leaders take on 120-mile hike in Spain, raising money for 'Homes of Love'",
+      "pub": 1789090085000,
+      "lean": "ll",
+      "cat": "World",
       "single": true,
       "versions": [
         {
-          "title": "Armed trio attacks 3, steals $12K in Naruto cards during heinous NYC home invasion: cops, sources",
-          "deck": "They fled with about 60 Naruto cards in tow, worth around $12,000, the sources said.",
-          "link": "https://nypost.com/2026/09/10/us-news/armed-trio-attacks-3-steals-12k-in-naruto-cards-during-heinous-nyc-home-invasion-cops-sources/",
-          "pub": 1789089745000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Knoxville nonprofit leaders take on 120-mile hike in Spain, raising money for 'Homes of Love'",
+          "deck": "",
+          "link": "https://www.yahoo.com/lifestyle/articles/knoxville-nonprofit-leaders-120-mile-012805816.html",
+          "pub": 1789090085000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
     {
-      "title": "Puka Nacua reveals alcohol struggles, rehab stint amid ‘darkest times’ of his life",
-      "pub": 1789089658000,
-      "lean": "lr",
+      "title": "More AI researchers warn of AI's threat to humanity",
+      "pub": 1789089585000,
+      "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Puka Nacua reveals alcohol struggles, rehab stint amid ‘darkest times’ of his life",
-          "deck": "Rams star Puka Nacua revealed his struggles with alcohol, stress and isolation while opening up about rehab, therapy and fatherhood before the 49ers opener.",
-          "link": "https://nypost.com/2026/09/10/sports/rams-puka-nacua-alcohol-struggles-darkest-times-life/",
-          "pub": 1789089658000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "More AI researchers warn of AI's threat to humanity",
+          "deck": "NBC News' Tom Llamas spoke to two more artificial intelligence researchers about the potential threat A.",
+          "link": "https://www.nbcnews.com/video/more-ai-researchers-warn-of-ai-s-threat-to-humanity-269675589913",
+          "pub": 1789089585000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
         }
       ]
     },
     {
-      "title": "Kering Foundation Caring for Women Dinner 2026 red carpet: Salma Hayek, Dakota Johnson, Pamela Anderson and more",
-      "pub": 1789089534000,
-      "lean": "lr",
-      "cat": "Politics",
+      "title": "Teen rescued after days stranded in the waters off Alaska",
+      "pub": 1789089499000,
+      "lean": "ll",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Kering Foundation Caring for Women Dinner 2026 red carpet: Salma Hayek, Dakota Johnson, Pamela Anderson and more",
-          "deck": "Entertainers advanced the cause at the Caring for Women Dinner.",
-          "link": "https://pagesix.com/2026/09/10/photos/kering-foundation-caring-for-women-dinner-2026-red-carpet-salma-hayek-dakota-johnson-pamela-anderson-and-more/",
-          "pub": 1789089534000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Teen rescued after days stranded in the waters off Alaska",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/videos/teen-rescued-days-stranded-waters-011819478.html",
+          "pub": 1789089499000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -1047,24 +2820,6 @@
       ]
     },
     {
-      "title": "Rams booed at ‘home’ as Melbourne turns into sea of 49ers red",
-      "pub": 1789089171000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams booed at ‘home’ as Melbourne turns into sea of 49ers red",
-          "deck": "The Rams traveled nearly 8,000 miles to find neutral territory as the 49ers consistently pack SoFi Stadium with all red.",
-          "link": "https://nypost.com/2026/09/10/sports/49ers-fans-turn-rams-melbourne-home-game-into-sea-of-red/",
-          "pub": 1789089171000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Mentor remembers Charlie Kirk: 'The greater the man, the greater the grief'",
       "pub": 1789088964000,
       "lean": "ct",
@@ -1079,24 +2834,6 @@
           "src": "NWSN",
           "srcFull": "NewsNation",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-      "pub": 1789088864000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-          "deck": "U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.",
-          "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
-          "pub": 1789088864000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
         }
       ]
     },
@@ -1119,56 +2856,20 @@
       ]
     },
     {
-      "title": "Rams' Puka Nacua Makes Admission Following Turbulent Offseason",
-      "pub": 1789088750000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams' Puka Nacua Makes Admission Following Turbulent Offseason",
-          "deck": "Los Angeles Rams wide receiver Puka Nacua made an admission regarding his behavior following a turbulent offseason.",
-          "link": "https://www.newsweek.com/sports/nfl/rams-puka-nacua-makes-admission-following-turbulent-offseason-12429072",
-          "pub": 1789088750000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "How to Make Chronic Care Fit Into Patients’ Lives",
+      "title": "Experts Discuss How to Make Chronic Care Fit Into Patients’ Lives",
       "pub": 1789088749000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "How to Make Chronic Care Fit Into Patients’ Lives",
+          "title": "Experts Discuss How to Make Chronic Care Fit Into Patients’ Lives",
           "deck": "Health leaders on how chronic care can better accommodate patients",
           "link": "https://time.com/collection/time100-leadership-forums/2026/designed-for-life-rethinking-chronic-care-around-patients/",
           "pub": 1789088749000,
           "src": "TIME",
           "srcFull": "TIME",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "No. 1 seed Aryna Sabalenka rolls past Jessica Pegula to earn spot in US Open final",
-      "pub": 1789088698000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "No. 1 seed Aryna Sabalenka rolls past Jessica Pegula to earn spot in US Open final",
-          "deck": "Top seed Aryna Sabalenka stayed on course, storming into the U.",
-          "link": "https://nypost.com/2026/09/10/sports/aryna-sabalenka-tops-jessica-pegula-to-reach-us-open-final/",
-          "pub": 1789088698000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1299,24 +3000,6 @@
       ]
     },
     {
-      "title": "Here’s the latest.",
-      "pub": 1789088073000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Here’s the latest.",
-          "deck": "",
-          "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
-          "pub": 1789088073000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "What to Know About Missouri’s High-Stakes Election Map Battle",
       "pub": 1789088009000,
       "lean": "ll",
@@ -1330,24 +3013,6 @@
           "pub": 1789088009000,
           "src": "NYT",
           "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Why is Uber pulling out of some African markets?",
-      "pub": 1789087910000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Why is Uber pulling out of some African markets?",
-          "deck": "",
-          "link": "https://finance.yahoo.com/economy/policy/articles/why-uber-pulling-african-markets-005150774.html",
-          "pub": 1789087910000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -1389,24 +3054,6 @@
       ]
     },
     {
-      "title": "Western Michigan Has Warning for Opponents After Being Robbed of Huge Win",
-      "pub": 1789087660000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Western Michigan Has Warning for Opponents After Being Robbed of Huge Win",
-          "deck": "The Western Michigan Broncos saw victory snatched from their fingers on Saturday.",
-          "link": "https://www.newsweek.com/sports/ncaa/western-michigan-has-warning-for-opponents-after-being-robbed-of-huge-win-12429048",
-          "pub": 1789087660000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Block AI from tracking your phone? There's an app for that",
       "pub": 1789087253000,
       "lean": "ct",
@@ -1425,24 +3072,6 @@
       ]
     },
     {
-      "title": "Trump says he’ll be a ‘blocker’ and cut deals with Democrats if they win Congress in 2026",
-      "pub": 1789087243000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump says he’ll be a ‘blocker’ and cut deals with Democrats if they win Congress in 2026",
-          "deck": "One day after casting the 2026 midterm elections as “one of the most important elections of your lives,” President Donald Trump dismissed on Thursday concerns that a Democratic victory would undercut the last two years of his presidency.",
-          "link": "https://www.washingtonexaminer.com/news/white-house/4719175/trump-blocker-cut-deals-if-democrats-win-midterms/",
-          "pub": 1789087243000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "RFK Jr. uses military aircraft as he campaigns for GOP in midterms",
       "pub": 1789087169000,
       "lean": "ll",
@@ -1451,48 +3080,12 @@
       "versions": [
         {
           "title": "RFK Jr. uses military aircraft as he campaigns for GOP in midterms",
-          "deck": "The White House and Department of Health and Human Services lawyers signed off on the plan to let the health secretary use military jets, five people said.",
+          "deck": "The White House and Department of Health and Human Services lawyers signed off on the plan to let the health secretary use military jets, according to people familiar with the plan.",
           "link": "https://www.washingtonpost.com/health/2026/09/10/rfk-jr-uses-military-aircraft-he-campaigns-gop-midterms/",
           "pub": 1789087169000,
           "src": "WaPo",
           "srcFull": "Washington Post",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Kentucky Coach has Extreme Request for Fans Ahead of Huge SEC Game",
-      "pub": 1789087108000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kentucky Coach has Extreme Request for Fans Ahead of Huge SEC Game",
-          "deck": "Kentucky head coach Will Stein is demanding a raucous environment from fans, and he has some wild requests of them.",
-          "link": "https://www.newsweek.com/sports/ncaa/kentucky-coach-has-extreme-request-for-fans-ahead-of-huge-sec-game-12429006",
-          "pub": 1789087108000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Mike Rogers accuses Abdul el Sayed of wanting to ‘represent Palestine’ over Michigan",
-      "pub": 1789086967000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mike Rogers accuses Abdul el Sayed of wanting to ‘represent Palestine’ over Michigan",
-          "deck": "Michigan GOP Senate nominee Mike Rogers used his Thursday speech at the Republican midterm convention to accuse his Democratic rival, Abdul el Sayed, of aspiring to represent a foreign territory over the state they’re running to serve.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4722689/mike-rogers-says-abdul-el-sayed-wants-represent-palestine-over-michigan/",
-          "pub": 1789086967000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -1511,78 +3104,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Pete Hegseth's Approval Hits Record Low Amid 2028 Speculation",
-      "pub": 1789086904000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pete Hegseth's Approval Hits Record Low Amid 2028 Speculation",
-          "deck": "Pete Hegseth's approval rating falls to a Quinnipiac record low as 2028 speculation continues.",
-          "link": "https://www.newsweek.com/pete-hegseth-approval-record-low-quinnipiac-poll-2028-12428968",
-          "pub": 1789086904000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Cardinals' Jeremiyah Love Sends Strong Message on Playing in Week 1",
-      "pub": 1789086812000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cardinals' Jeremiyah Love Sends Strong Message on Playing in Week 1",
-          "deck": "Jeremiyah Love made his feelings clear about playing for the Arizona Cardinals in Week 1 and beyond despite his lingering injury.",
-          "link": "https://www.newsweek.com/sports/nfl/cardinals-jeremiyah-love-sends-strong-message-on-playing-in-week-1-12428999",
-          "pub": 1789086812000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "J.J. Watt Praises NBC for 'Fantastic' Change to Player Introductions",
-      "pub": 1789086697000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "J.J. Watt Praises NBC for 'Fantastic' Change to Player Introductions",
-          "deck": "J.J. Watt, who calls NFL games for CBS, applauded NBC for a tweak to its player introductions on Wednesday night.",
-          "link": "https://www.newsweek.com/sports/nfl/j-j-watt-praises-nbc-for-fantastic-change-to-player-introductions-12428733",
-          "pub": 1789086697000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ted Cruz faces mixed reception on his 2028 plans at RNC convention",
-      "pub": 1789086671000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ted Cruz faces mixed reception on his 2028 plans at RNC convention",
-          "deck": "DALLAS — Sen.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4721969/ted-cruz-rnc-convention-2028/",
-          "pub": 1789086671000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -1623,24 +3144,6 @@
       ]
     },
     {
-      "title": "Raiders TE Michael Mayer Delivers Positive Update on Brock Bowers",
-      "pub": 1789086533000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Raiders TE Michael Mayer Delivers Positive Update on Brock Bowers",
-          "deck": "Brock Bowers will miss at least the first game of the Las Vegas Raiders' season after undergoing a meniscus trimming procedure.",
-          "link": "https://www.newsweek.com/sports/nfl/raiders-te-michael-mayer-delivers-positive-update-on-brock-bowers-12428778",
-          "pub": 1789086533000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Gavin Newsom calls Trump’s $5K voter payout ‘bulls—’ and a ‘desperate’ power grab",
       "pub": 1789086530000,
       "lean": "lr",
@@ -1655,78 +3158,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "We want to move beyond elections, face of India's 'cockroach' movement tells BBC",
-      "pub": 1789086440000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "We want to move beyond elections, face of India's 'cockroach' movement tells BBC",
-          "deck": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
-          "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789086440000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Patriots WR AJ Brown to Miss a Significant Amount of Time: Report",
-      "pub": 1789086348000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Patriots WR AJ Brown to Miss a Significant Amount of Time: Report",
-          "deck": "A new report indicates that New England Patriots WR A.",
-          "link": "https://www.newsweek.com/sports/nfl/patriots-wr-aj-brown-to-miss-a-significant-amount-of-time-report-12429061",
-          "pub": 1789086348000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Reagan-era prosecutor hired for Trump’s grand conspiracy’ resigns: ‘Differences of opinion’",
-      "pub": 1789086079000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Reagan-era prosecutor hired for Trump’s grand conspiracy’ resigns: ‘Differences of opinion’",
-          "deck": "Joseph diGenova, the former Reagan-era prosecutor hired only several months before, resigned Thursday as the prosecutor leading the Justice Department investigation into an alleged conspiracy against President Donald Trump.",
-          "link": "https://www.washingtonexaminer.com/news/justice/4722574/joe-digenova-resigns-trump-grand-conspiracy-probe/",
-          "pub": 1789086079000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Cubs Suffer Another Pitching Blow Amid Terrible Bullpen Stretch",
-      "pub": 1789086059000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cubs Suffer Another Pitching Blow Amid Terrible Bullpen Stretch",
-          "deck": "The Chicago Cubs won't get bullpen support any time soon with high-leverage reliever Phil Maton set to undergo knee surgery.",
-          "link": "https://www.newsweek.com/sports/mlb/cubs-suffer-another-bullpen-blow-amid-terrible-bullpen-stretch-12428712",
-          "pub": 1789086059000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1785,24 +3216,6 @@
       ]
     },
     {
-      "title": "Rashee Rice Delivers a Clear Message to Critics Before Week 1",
-      "pub": 1789085445000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rashee Rice Delivers a Clear Message to Critics Before Week 1",
-          "deck": "Kansas City Chiefs wide receiver Rashee Rice is set to take the field for Monday night's matchup against the Denver Broncos.",
-          "link": "https://www.newsweek.com/sports/nfl/rashee-rice-delivers-a-clear-message-to-critics-before-week-1-12428676",
-          "pub": 1789085445000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Weekly quiz: Alan Carr collected a prize for which TV show at the NTAs?",
       "pub": 1789085378000,
       "lean": "ct",
@@ -1814,42 +3227,6 @@
           "deck": "How much attention did you pay to what happened in the world over the past seven days?",
           "link": "https://www.bbc.co.uk/news/articles/cly59qzj6y7o?at_medium=RSS&at_campaign=rss",
           "pub": 1789085378000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Rams GM Makes Emphatic Sean McVay Claim Before Season-Opener",
-      "pub": 1789085337000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams GM Makes Emphatic Sean McVay Claim Before Season-Opener",
-          "deck": "Los Angeles Rams general manager Les Snead wouldn't consider trading head coach Sean McVay for any number of picks.",
-          "link": "https://www.newsweek.com/sports/nfl/rams-gm-makes-emphatic-sean-mcvay-claim-before-season-opener-12428545",
-          "pub": 1789085337000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Papers: 'Day that changed the world forever' and 'Mayors plot hols tax'",
-      "pub": 1789085289000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Papers: 'Day that changed the world forever' and 'Mayors plot hols tax'",
-          "deck": "A levy on overnight stays in England and Wales, 9/11 anniversary and Dame Esther Rantzen lead Friday's papers.",
-          "link": "https://www.bbc.co.uk/news/articles/cqlwze9qgrlo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789085289000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -1871,24 +3248,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Florida State Fans Start Fundraising Website for Mike Norvell's $49M Buyout",
-      "pub": 1789085072000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Florida State Fans Start Fundraising Website for Mike Norvell's $49M Buyout",
-          "deck": "Fans of the Florida State Seminoles have created a website for people to donate to help cover the cost of Mike Norvell's buyout.",
-          "link": "https://www.newsweek.com/sports/ncaa/florida-state-fans-start-fundraising-website-for-mike-norvells-49m-buyout-12428564",
-          "pub": 1789085072000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1983,24 +3342,6 @@
       ]
     },
     {
-      "title": "Giants WR Malik Nabers Refuses to Publicly Commit to Playing in Week 1",
-      "pub": 1789084610000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Giants WR Malik Nabers Refuses to Publicly Commit to Playing in Week 1",
-          "deck": "New York Giants wide receiver Malik Nabers continues to be coy about his injury status for Week 1 against the Dallas Cowboys.",
-          "link": "https://www.newsweek.com/sports/nfl/giants-wr-malik-nabers-refuses-to-publicly-commit-to-playing-in-week-1-12428576",
-          "pub": 1789084610000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
       "pub": 1789084585000,
       "lean": "ll",
@@ -2019,37 +3360,19 @@
       ]
     },
     {
-      "title": "Does your partner's snoring keep you up? It could be impacting your health",
+      "title": "'Like a hangover': Why your partner's snoring could be impacting your health",
       "pub": 1789084578000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Does your partner's snoring keep you up? It could be impacting your health",
+          "title": "'Like a hangover': Why your partner's snoring could be impacting your health",
           "deck": "Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
           "link": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
           "pub": 1789084578000,
           "src": "BBC",
           "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Phillies In Trouble After All-Star Exits Game Early Ahead of Postseason",
-      "pub": 1789084432000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Phillies In Trouble After All-Star Exits Game Early Ahead of Postseason",
-          "deck": "Philadelphia Phillies All-Star outfielder Brandon Marsh left Thursday's loss after fouling a ball off of his foot.",
-          "link": "https://www.newsweek.com/sports/mlb/phillies-in-trouble-after-all-star-exits-game-early-ahead-of-postseason-12428538",
-          "pub": 1789084432000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -2118,60 +3441,6 @@
       ]
     },
     {
-      "title": "Stephen A. Smith Points Finger Squarely at Drake Maye for Patriots' Implosion",
-      "pub": 1789084099000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Stephen A. Smith Points Finger Squarely at Drake Maye for Patriots' Implosion",
-          "deck": "ESPN's Stephen A.",
-          "link": "https://www.newsweek.com/sports/nfl/stephen-a-smith-points-finger-squarely-at-drake-maye-for-patriots-implosion-12428518",
-          "pub": 1789084099000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ex-Anthropic researcher warns AI could grow \"smart enough to kill us\"",
-      "pub": 1789084080000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ex-Anthropic researcher warns AI could grow \"smart enough to kill us\"",
-          "deck": "The development of AI \"doesn't look that different from say, 'Terminator,' or from science fiction films,\" Jacob Coxon said.",
-          "link": "https://www.cbsnews.com/news/anthropic-researcher-jacob-coxon-ai-warning/",
-          "pub": 1789084080000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Missouri’s high court finds top election official was in contempt in legal war over redistricting",
-      "pub": 1789084001000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Missouri’s high court finds top election official was in contempt in legal war over redistricting",
-          "deck": "The Missouri Supreme Court found Missouri Secretary of State Denny Hoskins in contempt on Thursday for telling officials to use a new congressional map for the November election, but that Hoskins had “purged” himself of the contempt by reversing course later in the day.",
-          "link": "https://www.washingtonexaminer.com/news/justice/4721125/missouri-high-court-top-election-official-contempt-legal-war-redistricting/",
-          "pub": 1789084001000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "How Social Media Platforms Are Identifying AI Content",
       "pub": 1789083947000,
       "lean": "ct",
@@ -2231,24 +3500,6 @@
           "src": "YAH",
           "srcFull": "Yahoo News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jim Jordan fans leadership bid speculation at Texas midterm convention",
-      "pub": 1789083691000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jim Jordan fans leadership bid speculation at Texas midterm convention",
-          "deck": "DALLAS — The speculation over Rep.",
-          "link": "https://www.washingtonexaminer.com/news/house/4722516/jim-jordan-leadership-bid-speculation-texas-midterm-convention/",
-          "pub": 1789083691000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -2374,7 +3625,7 @@
       "pub": 1789083273000,
       "lean": "ll",
       "cat": "Politics",
-      "single": false,
+      "single": true,
       "versions": [
         {
           "title": "Trump pitches $5,000 payments, but only if GOP wins House and Senate",
@@ -2384,33 +3635,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        },
-        {
-          "title": "Trump pitches $5,000 payments, but only if GOP wins House and Senate",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-pitches-5-000-checks-032348119.html",
-          "pub": 1789083273000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Fox News tops cable ratings during Trump’s opening-night midterm speech",
-      "pub": 1789083245000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fox News tops cable ratings during Trump’s opening-night midterm speech",
-          "deck": "Fox News beat two of its cable news competitors in overall views during President Donald Trump’s speech on the Republican midterm convention‘s opening night on Wednesday.",
-          "link": "https://www.washingtonexaminer.com/news/entertainment/4722435/fox-news-cable-ratings-trump-midterm-speech/",
-          "pub": 1789083245000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -2487,42 +3711,6 @@
       ]
     },
     {
-      "title": "Vance appears more like Trump’s heir apparent at GOP convention",
-      "pub": 1789082893000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Vance appears more like Trump’s heir apparent at GOP convention",
-          "deck": "Vice President JD Vance’s role at the Republican midterm convention is strengthening the perception that he is President Donald Trump’s chosen successor.",
-          "link": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/",
-          "pub": 1789082893000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
-      "pub": 1789082859000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
-          "deck": "The owner of The Miami Herald said subscriber interest did not support its current level of investment.",
-          "link": "https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html",
-          "pub": 1789082859000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "U.S. colonel shot down in Iran speaks with 60 Minutes in exclusive interview",
       "pub": 1789082753000,
       "lean": "ll",
@@ -2570,24 +3758,6 @@
           "deck": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
           "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
           "pub": 1789082531000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "pub": 1789082460000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-          "deck": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-          "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
-          "pub": 1789082460000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -2760,7 +3930,7 @@
       "title": "Are interest rates on the way up again?",
       "pub": 1789081389000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Business",
       "single": true,
       "versions": [
         {
@@ -2901,24 +4071,6 @@
       ]
     },
     {
-      "title": "Canada and Ukraine boost cooperation on drone production",
-      "pub": 1789080514000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canada and Ukraine boost cooperation on drone production",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/canada-ukraine-boost-cooperation-drone-224834551.html",
-          "pub": 1789080514000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "D.H.S. Takes Down Post Depicting Sikh Trucker and Optimus Prime",
       "pub": 1789080432000,
       "lean": "ll",
@@ -2950,24 +4102,6 @@
           "pub": 1789080414000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop'",
-      "pub": 1789080404000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop'",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/us/articles/openai-pulls-caltech-math-hackathon-224644789.html",
-          "pub": 1789080404000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
           "lean": "ll"
         }
       ]
@@ -3009,42 +4143,6 @@
       ]
     },
     {
-      "title": "Trump pledges $5,000 for Americans if GOP wins",
-      "pub": 1789080322000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump pledges $5,000 for Americans if GOP wins",
-          "deck": "President Trump is pledging $5,000 for all American adults if the GOP keeps control of the House and Senate.",
-          "link": "https://www.nbcnews.com/nightly-news/video/trump-pledges-5-000-for-americans-if-gop-wins-269663301710",
-          "pub": 1789080322000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "BARS has changed more than 40 times for different missions",
-      "pub": 1789080300000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "BARS has changed more than 40 times for different missions",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/world/articles/bars-changed-more-40-times-224500839.html",
-          "pub": 1789080300000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain: Report",
       "pub": 1789080201000,
       "lean": "ct",
@@ -3059,24 +4157,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Growing chorus of A.I. insiders warns of possible extinction of humans",
-      "pub": 1789080193000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Growing chorus of A.I. insiders warns of possible extinction of humans",
-          "deck": "Former employees from some of the top A.",
-          "link": "https://www.nbcnews.com/nightly-news/video/growing-chorus-of-a-i-insiders-warns-of-possible-extinction-of-humans-269663301684",
-          "pub": 1789080193000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
         }
       ]
     },
@@ -3120,7 +4200,7 @@
       "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
       "pub": 1789079762000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3149,6 +4229,24 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Two researchers who left Anthropic and Google warn AI could become ‘uncontrollable’",
+      "pub": 1789079604000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Two researchers who left Anthropic and Google warn AI could become ‘uncontrollable’",
+          "deck": "After Jacob Coxon roiled the AI industry with his viral departure from Anthropic, two more researchers are speaking out about their concerns over AI safety.",
+          "link": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+          "pub": 1789079604000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
         }
       ]
     },
@@ -3477,6 +4575,24 @@
       ]
     },
     {
+      "title": "Her phones, wallet, car and dog were left behind. Nearly a week later, a DC mother is still missing",
+      "pub": 1789077840000,
+      "lean": "ll",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "Her phones, wallet, car and dog were left behind. Nearly a week later, a DC mother is still missing",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/us/articles/her-phones-wallet-car-dog-211620401.html",
+          "pub": 1789077840000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "John Thune brushes off boos at GOP convention, says Trump isn’t ‘frustrated with my leadership’",
       "pub": 1789077825000,
       "lean": "lr",
@@ -3531,24 +4647,6 @@
       ]
     },
     {
-      "title": "Justice Department directs states to hold on to 2024 election records as it seeks their voter data",
-      "pub": 1789077569000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justice Department directs states to hold on to 2024 election records as it seeks their voter data",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/justice-department-directs-states-hold-215929092.html",
-          "pub": 1789077569000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
       "pub": 1789077528000,
       "lean": "ll",
@@ -3567,20 +4665,20 @@
       ]
     },
     {
-      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
-      "pub": 1789077509000,
-      "lean": "ct",
-      "cat": "Science",
+      "title": "Trump officials scramble to manage fallout after his $5K check pledge to all Americans",
+      "pub": 1789077398000,
+      "lean": "ll",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
-          "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
-          "deck": "The National Trust warns species are on the brink of extinction in a valley of Eryri National Park.",
-          "link": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789077509000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
+          "title": "Trump officials scramble to manage fallout after his $5K check pledge to all Americans",
+          "deck": "",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-officials-scramble-manage-fallout-215638154.html",
+          "pub": 1789077398000,
+          "src": "YAH",
+          "srcFull": "Yahoo News",
+          "lean": "ll"
         }
       ]
     },
@@ -3693,24 +4791,6 @@
       ]
     },
     {
-      "title": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
-      "pub": 1789077089000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/anthropic-says-blocked-possible-attempts-203324235.html",
-          "pub": 1789077089000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
       "pub": 1789077038000,
       "lean": "ll",
@@ -3765,24 +4845,6 @@
       ]
     },
     {
-      "title": "The Supreme Court Blocks Missouri’s Voting Map, Again",
-      "pub": 1789076804000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Supreme Court Blocks Missouri’s Voting Map, Again",
-          "deck": "Also, Vance privately gathered unvarnished views of the Iran war.",
-          "link": "https://www.nytimes.com/2026/09/10/briefing/supreme-court-voting-map-missouri.html",
-          "pub": 1789076804000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Trump sees backlash over $5K dividend pledge",
       "pub": 1789076727000,
       "lean": "ct",
@@ -3814,24 +4876,6 @@
           "pub": 1789076567000,
           "src": "CNBC",
           "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
-      "pub": 1789076507000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
-          "deck": "U.S. jets were hit by Iranian missiles while parked at a base in Jordan, sources tell CBS News, while Trump said the war will end \"immediately\" after midterms.",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/",
-          "pub": 1789076507000,
-          "src": "CBS",
-          "srcFull": "CBS News",
           "lean": "ll"
         }
       ]
@@ -4017,24 +5061,6 @@
       ]
     },
     {
-      "title": "What America got right–and wrong–in the post-9/11 era",
-      "pub": 1789075783000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "What America got right–and wrong–in the post-9/11 era",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/politics/articles/america-got-wrong-post-9-212943120.html",
-          "pub": 1789075783000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "America’s most powerful companies demand mayor wake up to safety crisis",
       "pub": 1789075667000,
       "lean": "lr",
@@ -4128,7 +5154,7 @@
       "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
       "pub": 1789075359000,
       "lean": "ll",
-      "cat": "Business",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
@@ -4164,7 +5190,7 @@
       "title": "Lummis ramps up pressure on Democrats over crypto bill",
       "pub": 1789075206000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Technology",
       "single": true,
       "versions": [
         {
@@ -4193,24 +5219,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "England captain Jones calls for fertility support",
-      "pub": 1789075137000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "England captain Jones calls for fertility support",
-          "deck": "England captain Meg Jones wants the Red Roses to have access to fertility support and egg freezing.",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ce9er3xdgvdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789075137000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -4283,24 +5291,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "9/11 attacks among 'most important historic events' in US adults' lifetimes: Poll",
-      "pub": 1789074859000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "9/11 attacks among 'most important historic events' in US adults' lifetimes: Poll",
-          "deck": "Nearly half of American adults consider the Sept.",
-          "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
-          "pub": 1789074859000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -4444,996 +5434,6 @@
           "pub": 1789074310000,
           "src": "CSM",
           "srcFull": "Christian Science Monitor",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Could Your Chatbot Be Stealing Ideas From You? It’s a Thorny Question.",
-      "pub": 1789074276000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Could Your Chatbot Be Stealing Ideas From You? It’s a Thorny Question.",
-          "deck": "A controversy around OpenAI’s latest math proof raises a fear that might become increasingly common: that A.",
-          "link": "https://www.nytimes.com/2026/09/10/science/chatbot-stealing-ideas.html",
-          "pub": 1789074276000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
-      "pub": 1789074254000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
-          "deck": "The president’s call to send a $5,000 “dividend” to every American adult if Republicans win the midterms disturbed some members of his party.",
-          "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html",
-          "pub": 1789074254000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Beware the AI Information Wars and Psyops",
-      "pub": 1789074186000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Beware the AI Information Wars and Psyops",
-          "deck": "This story is fascinating and is easily one of the most important things happening at the intersection of AI and politics right now.",
-          "link": "https://www.realclearpolitics.com/2026/09/10/beware_the_ai_information_wars_and_psyops_710601.html",
-          "pub": 1789074186000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
-      "pub": 1789074158000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
-          "deck": "The disgraced founder of the crypto exchange FTX is serving a 25-year prison sentence.",
-          "link": "https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html",
-          "pub": 1789074158000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Talarico leads Paxton in Texas by 4 points: Poll",
-      "pub": 1789074128000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Talarico leads Paxton in Texas by 4 points: Poll",
-          "deck": "Texas Democratic state Rep.",
-          "link": "https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll/",
-          "pub": 1789074128000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Man Utd put four past Sabah on Champions League return",
-      "pub": 1789074084000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man Utd put four past Sabah on Champions League return",
-          "deck": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-          "link": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789074084000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The political risk behind Trump’s $5,000 pledge: From the Politics Desk",
-      "pub": 1789074041000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The political risk behind Trump’s $5,000 pledge: From the Politics Desk",
-          "deck": "In today’s edition, Jonathan Allen digs into President Donald Trump’s latest promise to voters.",
-          "link": "https://www.nbcnews.com/politics/politics-news/political-risk-trumps-5000-pledge-politics-desk-rcna597112",
-          "pub": 1789074041000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Alstom to build new battery-electric train fleet",
-      "pub": 1789074033000,
-      "lean": "ct",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Alstom to build new battery-electric train fleet",
-          "deck": "The government says the work will support thousands of jobs across the UK.",
-          "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789074033000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Americans Have Learned Virtually No Lessons From 9/11",
-      "pub": 1789074026000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Americans Have Learned Virtually No Lessons From 9/11",
-          "deck": "We still believe in the false promise of trading freedom for safety.",
-          "link": "https://reason.com/2026/09/10/americans-have-learned-virtually-no-lessons-from-9-11/",
-          "pub": 1789074026000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Salmonella outbreak linked to recalled broccoli sprouts, FDA says",
-      "pub": 1789074010000,
-      "lean": "ct",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "Salmonella outbreak linked to recalled broccoli sprouts, FDA says",
-          "deck": "Twenty-two people have gotten sick in a salmonella outbreak linked to recalled broccoli sprouts, prompting a federal investigation.",
-          "link": "https://www.newsnationnow.com/us-news/recalls/salmonella-outbreak-broccoli-sprouts-recall/",
-          "pub": 1789074010000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84",
-      "pub": 1789074009000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84",
-          "deck": "A journalist, he was the first Japanese person to enter space, joining a Soviet crew as part of a spectacular $35 million ratings stunt in 1990.",
-          "link": "https://www.nytimes.com/2026/09/10/world/asia/toyohiro-akiyama-dead.html",
-          "pub": 1789074009000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "9/10: The Takeout with Major Garrett",
-      "pub": 1789074000000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "9/10: The Takeout with Major Garrett",
-          "deck": "President Trump pitches $5,000 dividends if GOP keeps Congress; Republicans hold Day 2 of midterm convention in Dallas.",
-          "link": "https://www.cbsnews.com/video/091026-the-takeout-with-major-garrett/",
-          "pub": 1789074000000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "South Koreans Rally Against Hormuz Deployment In Front Of US Embassy",
-      "pub": 1789074000000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "South Koreans Rally Against Hormuz Deployment In Front Of US Embassy",
-          "deck": "South Koreans Rally Against Hormuz Deployment In Front Of US Embassy Authored by Dave DeCamp via AntiWar.",
-          "link": "https://www.zerohedge.com/geopolitical/south-koreans-rally-against-hormuz-deployment-front-us-embassy",
-          "pub": 1789074000000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Thune ready to have ‘conversation’ with Fetterman about joining GOP — as Dems rage against RNC ‘stunt’",
-      "pub": 1789073936000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Thune ready to have ‘conversation’ with Fetterman about joining GOP — as Dems rage against RNC ‘stunt’",
-          "deck": "Rep. Madeleine Dean (D-Pa.) dismissed the video endorsement as a \"stunt,\" before taking aim at Fetterman's \"work ethic.\"",
-          "link": "https://nypost.com/2026/09/10/us-news/thune-ready-for-conversation-with-fetterman-about-joining-gop-as-dems-rage-against-rnc-stunt/",
-          "pub": 1789073936000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Beyoncé snubs Meghan at London birthday bash: Insider",
-      "pub": 1789073882000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Beyoncé snubs Meghan at London birthday bash: Insider",
-          "deck": "A source said that Meghan and Prince Harry make \"everything about themselves.",
-          "link": "https://www.newsnationnow.com/entertainment-news/beyonce-meghan-london-birthday-snub-royals/",
-          "pub": 1789073882000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump said the top U.S. general was at the midterm convention. It’s not true.",
-      "pub": 1789073811000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump said the top U.S. general was at the midterm convention. It’s not true.",
-          "deck": "Gen. Dan Caine, chairman of the Joint Chiefs, was at a 9/11 memorial event nearby.",
-          "link": "https://www.washingtonpost.com/politics/2026/09/10/trump-incorrectly-said-top-us-general-dan-caine-was-midterm-convention/",
-          "pub": 1789073811000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
-      "pub": 1789073763000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
-          "deck": "Here’s the process for vetting new smartphones and gadgets at The Times and Wirecutter.",
-          "link": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
-          "pub": 1789073763000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Watch live: Vance, Trump to close out Day 2 of RNC midterm convention",
-      "pub": 1789073672000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Watch live: Vance, Trump to close out Day 2 of RNC midterm convention",
-          "deck": "Vice President Vance is giving the keynote address Thursday evening at the first-ever GOP midterm convention in Dallas.",
-          "link": "https://www.newsnationnow.com/politics/watch-live-vance-trump-to-close-out-day-2-of-rnc-midterm-convention/",
-          "pub": 1789073672000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Bending Spoons Buys Miro At 90% Discount As SaaS Unicorns Sell For Scraps",
-      "pub": 1789073449000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bending Spoons Buys Miro At 90% Discount As SaaS Unicorns Sell For Scraps",
-          "deck": "Miro sells to Bending Spoons for $1.",
-          "link": "https://www.forbes.com/sites/josipamajic/2026/09/10/bending-spoons-buys-miro-at-90-discount-as-saas-unicorns-sell-for-scraps/",
-          "pub": 1789073449000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
-      "pub": 1789073437000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
-          "deck": "",
-          "link": "https://www.yahoo.com/news/science/articles/anthropic-says-blocked-misuse-ai-205037584.html",
-          "pub": 1789073437000,
-          "src": "YAH",
-          "srcFull": "Yahoo News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "California’s Governor Signs Landmark Online Child Safety Bills",
-      "pub": 1789073354000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "California’s Governor Signs Landmark Online Child Safety Bills",
-          "deck": "Gov. Gavin Newsom signed a bill that prohibits social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
-          "link": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
-          "pub": 1789073354000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-      "pub": 1789073294000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-          "deck": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-          "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-          "pub": 1789073294000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX sues Paxton, Texas county over public records",
-      "pub": 1789073284000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "SpaceX sues Paxton, Texas county over public records",
-          "deck": "SpaceX filed a lawsuit Tuesday against Texas Attorney General Ken Paxton (R) and Grimes County to block the release of the company’s public records, according to court records.",
-          "link": "https://thehill.com/regulation/court-battles/6083046-spacex-lawsuit-ken-paxton-grimes-county/",
-          "pub": 1789073284000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat",
-      "pub": 1789073196000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat",
-          "deck": "Senator Susan Collins, the only Republican seeking re-election in a state President Trump lost, steered clear of his convention as she distances herself from him and his record.",
-          "link": "https://www.nytimes.com/2026/09/10/us/politics/susan-collins-trump-maine.html",
-          "pub": 1789073196000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Oracle Rises After Cloud Revenues Beat Thanks To Massive CapEx, Soaring Debt",
-      "pub": 1789073164000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Oracle Rises After Cloud Revenues Beat Thanks To Massive CapEx, Soaring Debt",
-          "deck": "Oracle Rises After Cloud Revenues Beat Thanks To Massive CapEx, Soaring Debt Earnings season may be over, but the occasional earnings reports are still trickling through, and moments ago we got the latest off-season report from the most indebted company in AI, Oracle, which reported adjusted revenue for the first quarter that beat the average analyst estimate, and which helped push the stock higher, but just barely above where it opened.",
-          "link": "https://www.zerohedge.com/markets/oracle-rises-after-cloud-revenues-beat-thanks-massive-capex-soaring-debt",
-          "pub": 1789073164000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
-      "pub": 1789073159000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
-          "deck": "Health policy experts said the refunds are unlikely to defray steep premium increases following the lapse of enhanced ACA subsidies.",
-          "link": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
-          "pub": 1789073159000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Bayeux Mania",
-      "pub": 1789073149000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Bayeux Mania",
-          "deck": "Cutting-edge conservation techniques allowed the famous tapestry to travel to England from France.",
-          "link": "https://www.nytimes.com/2026/09/10/world/bayeux-tapestry-london-exhibition-trump-money.html",
-          "pub": 1789073149000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The GOP Midterm Convention Is the Campiest Apocalypse I've Ever Seen",
-      "pub": 1789072805000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The GOP Midterm Convention Is the Campiest Apocalypse I've Ever Seen",
-          "deck": "Inside the first event of its kind, where the end of the world is coming, but the sequins are fabulous.",
-          "link": "https://reason.com/2026/09/10/the-gop-midterm-convention-is-the-campiest-apocalypse-ive-ever-seen/",
-          "pub": 1789072805000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "iPhone Duo 1st Impressions: All You Need To Know About Apple’s $1,999 Foldable",
-      "pub": 1789072801000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "iPhone Duo 1st Impressions: All You Need To Know About Apple’s $1,999 Foldable",
-          "deck": "Apple announced its first foldable and it’s an intriguing and potentially exciting product.",
-          "link": "https://www.forbes.com/sites/davidphelan/2026/09/10/iphone-duo-1st-impressions-all-you-need-to-know-about-apples-1999-foldable/",
-          "pub": 1789072801000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Supreme Court Blocks Missouri Republicans' New Congressional Map",
-      "pub": 1789072800000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Supreme Court Blocks Missouri Republicans' New Congressional Map",
-          "deck": "Supreme Court Blocks Missouri Republicans' New Congressional Map The U.",
-          "link": "https://www.zerohedge.com/political/supreme-court-blocks-missouri-republicans-new-congressional-map",
-          "pub": 1789072800000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "JD Vance pays tribute to friend Charlie Kirk — credits widow Erika for major life decision",
-      "pub": 1789072791000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "JD Vance pays tribute to friend Charlie Kirk — credits widow Erika for major life decision",
-          "deck": "Vice President JD Vance reflected on his friendship with Charlie Kirk on the first anniversary of his assassination on Thursday.",
-          "link": "https://nypost.com/2026/09/10/us-news/jd-vance-pays-tribute-to-friend-charlie-kirk-credits-widow-erika-for-major-life-decision/",
-          "pub": 1789072791000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "25 years after the horrific 9/11 attacks, America’s collective memory is fading — but the lessons learned mustn’t be forgotten",
-      "pub": 1789072751000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "25 years after the horrific 9/11 attacks, America’s collective memory is fading — but the lessons learned mustn’t be forgotten",
-          "deck": "The 9/11 attacks completely failed to demoralize America: Instead, we came together — in mourning and in purpose — in a way almost unimaginable today.",
-          "link": "https://nypost.com/2026/09/10/opinion/25-years-after-the-horrific-9-11-attacks-its-meaning-must-continue-to-stand-forever/",
-          "pub": 1789072751000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump Is Getting Even Richer. Is That a Crime?",
-      "pub": 1789072719000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Is Getting Even Richer. Is That a Crime?",
-          "deck": "The legal murkiness of Trump’s highly profitable second term.",
-          "link": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
-          "pub": 1789072719000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Senior House leader to talk about Republicans targeting ‘communism’ in midterms",
-      "pub": 1789072635000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Senior House leader to talk about Republicans targeting ‘communism’ in midterms",
-          "deck": "Conference chairwoman Lisa McClain will focus on Democratic policies, including those on immigration.",
-          "link": "https://www.washingtonpost.com/politics/2026/09/10/senior-house-leader-talk-about-republicans-targeting-communism-midterms/",
-          "pub": 1789072635000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump's $5,000 dividend proposal could add $1.2T to federal deficit, analysts say",
-      "pub": 1789072621000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump's $5,000 dividend proposal could add $1.2T to federal deficit, analysts say",
-          "deck": "President Donald Trump proposed a $5,000 dividend to every U.",
-          "link": "https://www.foxbusiness.com/politics/trumps-5000-dividend-proposal-could-add-1-2t-federal-deficit-analysts-say",
-          "pub": 1789072621000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mail-in voting: State-by-state guide as Supreme Court weighs Trump's limits",
-      "pub": 1789072301000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mail-in voting: State-by-state guide as Supreme Court weighs Trump's limits",
-          "deck": "Here's what to know about each state's rules for mail-in voting and deadlines when voters must return their ballots",
-          "link": "https://www.newsnationnow.com/politics/2026-midterm-elections/mail-voting-supreme-limits/",
-          "pub": 1789072301000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The 25th anniversary of 9/11: Letters to the Editor — Sept. 11, 2026",
-      "pub": 1789072234000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The 25th anniversary of 9/11: Letters to the Editor — Sept. 11, 2026",
-          "deck": "NY Post readers discuss the 25th anniversary of the 9/11 terrorist attacks on the United States.",
-          "link": "https://nypost.com/2026/09/10/opinion/the-25th-anniversary-of-9-11-letters/",
-          "pub": 1789072234000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fall vaccines are now available. Here are your questions, answered.",
-      "pub": 1789072200000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fall vaccines are now available. Here are your questions, answered.",
-          "deck": "In the absence of guidance from the federal government, here’s what you need to know.",
-          "link": "https://www.washingtonpost.com/opinions/2026/09/10/flu-covid-rsv-vaccines-are-available-your-questions-answered/",
-          "pub": 1789072200000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
-      "pub": 1789072086000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
-          "deck": "One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder.",
-          "link": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
-          "pub": 1789072086000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump shares more details on $5,000 dividends in exclusive interview",
-      "pub": 1789072080000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump shares more details on $5,000 dividends in exclusive interview",
-          "deck": "CBS News Texas political reporter Jack Fink sat down with President Trump for an exclusive interview during the president's visit to North Texas.",
-          "link": "https://www.cbsnews.com/news/president-donald-trump-dallas-texas-republican-midterm-convention-interview/",
-          "pub": 1789072080000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump's Bribe, AI Doom Psyop, and the Rapture",
-      "pub": 1789071950000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump's Bribe, AI Doom Psyop, and the Rapture",
-          "deck": "Trump's $5,000 bribe, stay-at-home moms, car insurance beefs, AI doom, 9/11 memories, Zelda rumors, rom-coms, and the Rapture—Freed Up somehow fits it all into one episode.",
-          "link": "https://reason.com/podcast/2026/09/10/trumps-bribe-ai-doom-psyop-and-the-rapture/",
-          "pub": 1789071950000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump admin issues guidance on teaching 9/11 on 25th anniversary to students who weren’t alive yet",
-      "pub": 1789071821000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump admin issues guidance on teaching 9/11 on 25th anniversary to students who weren’t alive yet",
-          "deck": "The Trump administration is offering American teachers new guidance on how to mark the 25th anniversary of the September 2001 terror attacks for this generation of students who weren't alive during the ground-shaking day in history.",
-          "link": "https://nypost.com/2026/09/10/us-news/trump-admin-urges-teachers-to-remember-9-11-on-25th-anniversary-for-students-who-werent-alive-yet/",
-          "pub": 1789071821000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive: Top Ukrainian official gives NewsNation an inside look at the war",
-      "pub": 1789071816000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Exclusive: Top Ukrainian official gives NewsNation an inside look at the war",
-          "deck": "Head of Office for Volodymyr Zelensky talks technology, deaths, and hope for how the war with Russia could end.",
-          "link": "https://www.newsnationnow.com/world/russia-at-war/top-ukrainian-kyrylo-budanov-newsnation-inside-war-russia/",
-          "pub": 1789071816000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "LA restaurant apocalypse claims another beloved eatery: ‘All odds are against us’",
-      "pub": 1789071752000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "LA restaurant apocalypse claims another beloved eatery: ‘All odds are against us’",
-          "deck": "It was one of DTLA's buzziest dining rooms when it opened — and even wound up in the Michelin guide.",
-          "link": "https://nypost.com/2026/09/10/lifestyle/beloved-dtla-pasta-restaurant-to-close-after-nearly-a-decade-in-business/",
-          "pub": 1789071752000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas",
-      "pub": 1789071653000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas",
-          "deck": "The countermessaging includes speaking to Texas voters about affordability issues and Democratic efforts to regain control of the House.",
-          "link": "https://www.washingtonpost.com/politics/2026/09/10/democrats-play-up-trump-investigations-epstein-files-during-gop-convention-dallas/",
-          "pub": 1789071653000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Hillary Clinton warns the U.S. has let its guard down on terrorism 25 years after 9/11",
-      "pub": 1789071619000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hillary Clinton warns the U.S. has let its guard down on terrorism 25 years after 9/11",
-          "deck": "Former Secretary of State Hillary Clinton warned Thursday that the Trump administration isn’t doing enough to monitor and thwart terrorists who still pose a threat to the U.",
-          "link": "https://www.nbcnews.com/politics/politics-news/hillary-clinton-terrorism-warning-9-11-rcna597051",
-          "pub": 1789071619000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "When Grievance Enters The Huddle",
-      "pub": 1789071600000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "When Grievance Enters The Huddle",
-          "deck": "When Grievance Enters The Huddle Authored by Andre Billeaudeaux via American Thinker, The NAACP is asking some of America's best black high-school football players to consider withholding commitments from public universities in eight states because of congressional redistricting.",
-          "link": "https://www.zerohedge.com/political/when-grievance-enters-huddle",
-          "pub": 1789071600000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "AI Should Be a Wake-Up Call For Universities",
-      "pub": 1789071451000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI Should Be a Wake-Up Call For Universities",
-          "deck": "The AI era is \"precipitating a pivotal opportunity to reinvent higher education and embrace the broader scope it once had,\" writes Arianna Huffington.",
-          "link": "https://time.com/article/2026/09/10/ai-should-be-a-wake-up-call-for-universities/",
-          "pub": 1789071451000,
-          "src": "TIME",
-          "srcFull": "TIME",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Canoodling lawyers’ firm rocked by another major defection as top attorney bolts",
-      "pub": 1789071321000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canoodling lawyers’ firm rocked by another major defection as top attorney bolts",
-          "deck": "Linklaters, a London-based firm, poached Wachtell dealmaker Mark Gordon to run its Americas business and global M&A, according to a press release Thursday.",
-          "link": "https://nypost.com/2026/09/10/business/canoodling-lawyers-firm-rocked-by-another-major-defection-as-top-attorney-bolts/",
-          "pub": 1789071321000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Canada makes military deal with Ukraine as Russian attacks escalate",
-      "pub": 1789071250000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canada makes military deal with Ukraine as Russian attacks escalate",
-          "deck": "The deal gives Ukraine access to interceptors, which may include Patriot missiles.",
-          "link": "https://www.newsnationnow.com/world/russia-at-war/canada-military-deal-ukraine-russia-kyiv/",
-          "pub": 1789071250000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "August CPI report could spark the Fed's first rate hike in over 3 years",
-      "pub": 1789071180000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "August CPI report could spark the Fed's first rate hike in over 3 years",
-          "deck": "Friday's August CPI report could set the stage for the Federal Reserve's first interest rate hike in more than three years.",
-          "link": "https://www.cbsnews.com/news/august-cpi-report-fed-rate-hike/",
-          "pub": 1789071180000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump Announces $500 Rebates for Some Obamacare Customers,Weeks Before the Election",
-      "pub": 1789071067000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Announces $500 Rebates for Some Obamacare Customers,Weeks Before the Election",
-          "deck": "The White House plans to send the money to people in 30 states who have higher incomes and are insured under the Affordable Care Act.",
-          "link": "https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html",
-          "pub": 1789071067000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "pub": 1789071051000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man jailed after threatening to kill son's teacher in French village",
-          "deck": "The father had threatened to behead a female primary school teacher near Toulouse.",
-          "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-          "pub": 1789071051000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "15-year-old survives after fishing boat capsizes off Alaskan island, killing his brother and cousin",
-      "pub": 1789070971000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "15-year-old survives after fishing boat capsizes off Alaskan island, killing his brother and cousin",
-          "deck": "The teen was rescued Monday after he was found clinging to the overturned vessel about four miles east of St.",
-          "link": "https://www.nbcnews.com/news/us-news/15-year-old-boy-survives-days-sea-boat-capsizes-alaska-killing-2-other-rcna596782",
-          "pub": 1789070971000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A 50% Tariff on Pencil Parts? Welcome to the U.S.-Canada Trade War.",
-      "pub": 1789070935000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A 50% Tariff on Pencil Parts? Welcome to the U.S.-Canada Trade War.",
-          "deck": "Canada's retaliatory tariffs include the little metal band that holds an eraser onto a pencil.",
-          "link": "https://reason.com/2026/09/10/a-50-tariff-on-pencil-parts-welcome-to-the-u-s-canada-trade-war/",
-          "pub": 1789070935000,
-          "src": "REAS",
-          "srcFull": "Reason",
           "lean": "ct"
         }
       ]
