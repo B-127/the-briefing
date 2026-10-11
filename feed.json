@@ -1,19 +1,55 @@
 {
-  "generated": "2026-10-11T19:17:29.557Z",
+  "generated": "2026-10-11T23:01:30.137Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Nick Sirianni takes blame for costly Eagles decision in crushing loss to Jaguars: ‘I lost us that game’",
-      "pub": 1791746171000,
+      "title": "3 Cents On The Dollar: Hedge Funds Gorge On LA Fire Claims As Sacramento’s Crackdown Goes Up In Smoke",
+      "pub": 1791759600000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "3 Cents On The Dollar: Hedge Funds Gorge On LA Fire Claims As Sacramento’s Crackdown Goes Up In Smoke",
+          "deck": "3 Cents On The Dollar: Hedge Funds Gorge On LA Fire Claims As Sacramento’s Crackdown Goes Up In Smoke Nearly two years after the Eaton and Palisades fires torched an estimated $40 billion in insured property, nobody has figured out who ultimately pays.",
+          "link": "https://www.zerohedge.com/political/3-cents-dollar-hedge-funds-gorge-la-fire-claims-sacramentos-crackdown-goes-smoke",
+          "pub": 1791759600000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+      "pub": 1791759250000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+          "deck": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump’s recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy.",
+          "link": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
+          "pub": 1791759250000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "NHL goalie’s unexpected pregame companion has fans hopping with excitement",
+      "pub": 1791759192000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Nick Sirianni takes blame for costly Eagles decision in crushing loss to Jaguars: ‘I lost us that game’",
-          "deck": "A wild finish in the Eagles game in London left the Giants as the only team above .",
-          "link": "https://nypost.com/2026/10/11/sports/nick-sirianni-takes-blame-for-costly-eagles-decision-in-loss-to-jaguars/",
-          "pub": 1791746171000,
+          "title": "NHL goalie’s unexpected pregame companion has fans hopping with excitement",
+          "deck": "Calgary Flames goalie Devin Cooley turned heads when he arrived with his pet rabbit, Tito, for a special night supporting the Calgary Humane Society.",
+          "link": "https://nypost.com/2026/10/11/sports/flames-player-steals-the-show-with-adorable-four-legged-guest-before-ducks-game/",
+          "pub": 1791759192000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
@@ -21,20 +57,2180 @@
       ]
     },
     {
-      "title": "Justice Department opens antitrust probe as White House press-access fight escalates",
-      "pub": 1791746121000,
+      "title": "Titans HC Robert Saleh Addresses Calls to Bench QB Cam Ward",
+      "pub": 1791758951000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Titans HC Robert Saleh Addresses Calls to Bench QB Cam Ward",
+          "deck": "Tennessee Titans head coach Robert Saleh made it clear that he has no plans to bench starting quarterback Cam Ward.",
+          "link": "https://www.newsweek.com/sports/nfl/titans-hc-robert-saleh-addresses-calls-to-bench-qb-cam-ward-12553482",
+          "pub": 1791758951000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "pub": 1791758758000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "deck": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "pub": 1791758758000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Barrasso Expects Guilfoyle Investigation Amid 'Troubling' Reports",
+      "pub": 1791758742000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Barrasso Expects Guilfoyle Investigation Amid 'Troubling' Reports",
+          "deck": "Top Senate Republican John Barrasso expects a Kimberly Guilfoyle investigation amid mounting scrutiny of the ambassador.",
+          "link": "https://www.newsweek.com/john-barrasso-expects-kimberly-guilfoyle-investigation-12553462",
+          "pub": 1791758742000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Raiders’ flaws are catching up fast — and the schedule won’t wait",
+      "pub": 1791758736000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Raiders’ flaws are catching up fast — and the schedule won’t wait",
+          "deck": "FOXBOROUGH, Mass.",
+          "link": "https://nypost.com/2026/10/11/sports/raiders-loss-exposes-flaws-now-come-the-bills-and-rams/",
+          "pub": 1791758736000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Simon lashes Mexico's Pacific coast as a powerful Category 4 storm",
+      "pub": 1791758704000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hurricane Simon lashes Mexico's Pacific coast as a powerful Category 4 storm",
+          "deck": "Simon strengthened into a powerful Category 4 hurricane as it barreled toward Mexico's Pacific coast.",
+          "link": "https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-coast/",
+          "pub": 1791758704000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Bus rider, 56, stabbed blocks from busy NYC transit hub: cops",
+      "pub": 1791758700000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bus rider, 56, stabbed blocks from busy NYC transit hub: cops",
+          "deck": "A 56-year-old man was knifed once in the leg while aboard a Q44-SBS MTA bus near Main Street and 39th Avenue in Flushing.",
+          "link": "https://nypost.com/2026/10/11/us-news/bus-rider-stabbed-blocks-from-busy-nyc-transit-hub-cops/",
+          "pub": 1791758700000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
+      "pub": 1791758603000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
+          "deck": "More than 300 were injured in Saturday's attack.",
+          "link": "https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/",
+          "pub": 1791758603000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
+      "pub": 1791758446000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
+          "deck": "CAIRO (AP) — A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, the Saudi-led coalition fighting Iran-backed Houthi rebels in Yemen said.",
+          "link": "https://www.newsnationnow.com/world/ap-missile-attack-on-airport-in-saudi-arabias-capital-kills-12-people-and-injures-over-300/",
+          "pub": 1791758446000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Cole Beaudoin back with Rangers one day after demotion — and there’s a reason why",
+      "pub": 1791758347000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Cole Beaudoin back with Rangers one day after demotion — and there’s a reason why",
+          "deck": "Cole Beaudoin technically was slated to skate in his third professional hockey game in three days.",
+          "link": "https://nypost.com/2026/10/11/sports/cole-beaudoin-rejoins-rangers-two-days-after-demotion-amid-ltir-shuffle/",
+          "pub": 1791758347000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Ohio State Reacts to Marvin Harrison Jr-C.J. Stroud Reunion With Texans",
+      "pub": 1791758169000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ohio State Reacts to Marvin Harrison Jr-C.J. Stroud Reunion With Texans",
+          "deck": "The Houston Texans acquired Marvin Harrison Jr.",
+          "link": "https://www.newsweek.com/sports/ncaa/ohio-state-reacts-to-marvin-harrison-jr-c-j-stroud-reunion-with-texans-12553443",
+          "pub": 1791758169000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Jets takeaways, report card from NFL Week 5 win over Browns",
+      "pub": 1791758021000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jets takeaways, report card from NFL Week 5 win over Browns",
+          "deck": "Takeaways from Sunday’s 17-12 Jets win over the Browns.",
+          "link": "https://nypost.com/2026/10/11/sports/jets-takeaways-report-card-from-nfl-week-5-win-over-browns/",
+          "pub": 1791758021000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Super PAC funded by Knicks owner spends big to back AG candidate Saritha Komatireddy",
+      "pub": 1791757972000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Super PAC funded by Knicks owner spends big to back AG candidate Saritha Komatireddy",
+          "deck": "A Super PAC backing Bruce Blakeman for governor is also tapping resources to aid Republican Saritha Komatireddy's campaign for state attorney general.",
+          "link": "https://nypost.com/2026/10/11/us-news/super-pac-funded-by-knicks-owner-spends-big-to-back-ag-candidate-saritha-komatireddy/",
+          "pub": 1791757972000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Kelly Osbourne reveals how much weight she’s gained since drastic weight loss following dad Ozzy’s death",
+      "pub": 1791757959000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kelly Osbourne reveals how much weight she’s gained since drastic weight loss following dad Ozzy’s death",
+          "deck": "The former reality star admitted she was alarmed when she saw photos of herself from a shocking red carpet appearance in February.",
+          "link": "https://pagesix.com/2026/10/11/celebrity-news/kelly-osbourne-reveals-how-much-weight-shes-gained-since-drastic-weight-loss-following-dad-ozzys-death/",
+          "pub": 1791757959000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Obama Death Star Is Out Of Hope",
+      "pub": 1791757800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Obama Death Star Is Out Of Hope",
+          "deck": "The Obama Death Star Is Out Of Hope Authored by Mike McDaniel via American Thinker, I've always thought Barack Obama was a race-hustling, egomaniacal, anti-American Communist and Islamist, and his actions and history have vindicated that belief.",
+          "link": "https://www.zerohedge.com/political/obama-death-star-out-hope",
+          "pub": 1791757800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "C.J. Stroud Reacts to Texans Acquiring Ex-Ohio State Teammate Marvin Harrison Jr.",
+      "pub": 1791757769000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "C.J. Stroud Reacts to Texans Acquiring Ex-Ohio State Teammate Marvin Harrison Jr.",
+          "deck": "Houston Texans quarterback C.",
+          "link": "https://www.newsweek.com/sports/nfl/c-j-stroud-reacts-to-texans-acquiring-ex-ohio-state-teammate-marvin-harrison-jr-12553454",
+          "pub": 1791757769000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Walker Kessler’s Lakers debut remains a mystery despite eagerness",
+      "pub": 1791757662000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Walker Kessler’s Lakers debut remains a mystery despite eagerness",
+          "deck": "Walker Kessler is eager to make his preseason debut for the Lakers",
+          "link": "https://nypost.com/2026/10/11/sports/walker-kessler-wants-lakers-preseason-debut-but-status-remains-unclear/",
+          "pub": 1791757662000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Patriots Give Conflicting Descriptions of Big Play vs. Raiders",
+      "pub": 1791757560000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Patriots Give Conflicting Descriptions of Big Play vs. Raiders",
+          "deck": "The New England Patriots had two players give conflicting descriptions of the same play from Sunday's win.",
+          "link": "https://www.newsweek.com/sports/nfl/patriots-give-conflicting-descriptions-of-big-play-vs-raiders-12553420",
+          "pub": 1791757560000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Letitia James blasted as ‘biggest hypocrite in Albany’ after whistleblower records dump",
+      "pub": 1791757481000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Letitia James blasted as ‘biggest hypocrite in Albany’ after whistleblower records dump",
+          "deck": "Ex-Cuomo aide Richard Azzopardi blasts AG Letitia James for releasing whistleblower Daniel Wiesenfeld's records.",
+          "link": "https://nypost.com/2026/10/11/us-news/letitia-james-blasted-as-biggest-hypocrite-in-albany-after-whistleblower-records-dump/",
+          "pub": 1791757481000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Four Hours and Three Minutes in Ithaca",
+      "pub": 1791757408000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Four Hours and Three Minutes in Ithaca",
+          "deck": "On the most traumatic night in a young woman’s life, a good man could not be found.",
+          "link": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+          "pub": 1791757408000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+      "pub": 1791757336000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+          "deck": "Three months after a jarring summer candidate switch, some Democrats in the state are worried about the enthusiasm for their nominee, Troy Jackson, who is in a close race.",
+          "link": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
+          "pub": 1791757336000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Commanders Fans Fuming After Jayden Daniels’ Blunder Cost Team Win vs. Giants",
+      "pub": 1791757328000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Commanders Fans Fuming After Jayden Daniels’ Blunder Cost Team Win vs. Giants",
+          "deck": "Baffling clock mismanagement in overtime led to a tie between the Washington Commanders and the New York Giants on Sunday.",
+          "link": "https://www.newsweek.com/sports/nfl/commanders-fans-fuming-after-jayden-daniels-blunder-cost-team-win-vs-giants-12553418",
+          "pub": 1791757328000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "What is shigellosis? Stomach bug spreads during sex and is growing more resistant",
+      "pub": 1791757274000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What is shigellosis? Stomach bug spreads during sex and is growing more resistant",
+          "deck": "Cases of shigellosis are rising, and health experts warn some strains are becoming increasingly resistant to antibiotics.",
+          "link": "https://www.newsnationnow.com/health/shigellosis-cases-sexually-transmitted-diarrhea-spreading/",
+          "pub": 1791757274000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Man killed by tiger in England after entering enclosure at wildlife park",
+      "pub": 1791757183000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Man killed by tiger in England after entering enclosure at wildlife park",
+          "deck": "The incident occurred at the Yorkshire Wildlife Park near the city of Doncaster, police said.",
+          "link": "https://www.cbsnews.com/news/yorkshire-wildlife-park-tiger-enclosure-attack/",
+          "pub": 1791757183000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Brewers manager on Dodgers’ Tarik Skubal: ‘I just want to step on his throat’",
+      "pub": 1791757104000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brewers manager on Dodgers’ Tarik Skubal: ‘I just want to step on his throat’",
+          "deck": "Brewers manager Pat Murphy made his intentions for Game 1 of the National League Championship Series clear.",
+          "link": "https://nypost.com/2026/10/11/sports/brewers-manager-on-dodgers-tarik-skubal-i-just-want-to-step-on-his-throat/",
+          "pub": 1791757104000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump Media advisor Katie Zacharia named White House press secretary",
+      "pub": 1791757000000,
       "lean": "ll",
       "cat": "Business",
       "single": true,
       "versions": [
         {
-          "title": "Justice Department opens antitrust probe as White House press-access fight escalates",
-          "deck": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
-          "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-          "pub": 1791746121000,
+          "title": "Trump Media advisor Katie Zacharia named White House press secretary",
+          "deck": "Trump named Katie Zacharia to take over as the next press secretary.",
+          "link": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html",
+          "pub": 1791757000000,
           "src": "CNBC",
           "srcFull": "CNBC",
           "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Oil Rises After MidEast Attacks Spread And Escalate, Stoking Supply Fears",
+      "pub": 1791756900000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Oil Rises After MidEast Attacks Spread And Escalate, Stoking Supply Fears",
+          "deck": "Oil Rises After MidEast Attacks Spread And Escalate, Stoking Supply Fears Summary Several more tankers attacked in Strait Of Hormuz IRGC claims it has complete control over the Strait of Hormuz The Houthis have carried out yet another attack on Riyadh's international airport IEA urges more diesel releases as global market tightens President Trump said that Russia and Ukraine have agreed to an “energy ceasefire” effective immediately.",
+          "link": "https://www.zerohedge.com/energy/oil-rises-after-mideast-attacks-spread-and-escalate-stoking-supply-fears",
+          "pub": 1791756900000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Italy’s ban on veils in schools could be preview of future American assimilation fight, experts warn",
+      "pub": 1791756781000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Italy’s ban on veils in schools could be preview of future American assimilation fight, experts warn",
+          "deck": "Italy's new \"Schools Decre\" is framed as a push for \"integration,\" but it raises the question of whether a Western democracy can force assimilation, or is it already too late?",
+          "link": "https://nypost.com/2026/10/11/world-news/italys-ban-on-veils-in-schools-could-be-preview-of-future-american-assimilation-fight-experts-warn/",
+          "pub": 1791756781000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Kelly Clarkson says a Brooklyn store snubbed her. The shop says the item she wanted wasn’t for sale.",
+      "pub": 1791756729000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Kelly Clarkson says a Brooklyn store snubbed her. The shop says the item she wanted wasn’t for sale.",
+          "deck": "Clarkson blasted Art of Play, alleging it treated her like she “couldn’t afford” its merchandise.",
+          "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/kelly-clarkson-says-brooklyn-store-snubbed-shop-says-item-wanted-wasnt-rcna602840",
+          "pub": 1791756729000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Commanders Minority Owner Appears to Point Finger at HC Dan Quinn for Tie",
+      "pub": 1791756676000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Commanders Minority Owner Appears to Point Finger at HC Dan Quinn for Tie",
+          "deck": "A minority owners of the Washington Commanders spoke out about coaching problems during a tie with the New York Giants.",
+          "link": "https://www.newsweek.com/sports/nfl/commanders-minority-owner-appears-to-point-finger-at-hc-dan-quinn-for-tie-12553421",
+          "pub": 1791756676000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Simon and Post-Tropical Storm Rachel Bring Flood Risks to Mexico and Southwestern U.S.",
+      "pub": 1791756379000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hurricane Simon and Post-Tropical Storm Rachel Bring Flood Risks to Mexico and Southwestern U.S.",
+          "deck": "Hurricane Simon was hugging the west coast of Mexico on Sunday, while the remnants of Post-Tropical Storm Rachel churned inland, bringing heavy rain and high winds.",
+          "link": "https://www.nytimes.com/2026/10/11/weather/hurricane-simon-rachel-california.html",
+          "pub": 1791756379000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "49ers’ Dre Greenlaw tossed for headbutt against Seahawks",
+      "pub": 1791756351000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "49ers’ Dre Greenlaw tossed for headbutt against Seahawks",
+          "deck": "SEATTLE — Dre Greenlaw used his head, but the San Francisco 49ers linebacker won’t earn any plaudits for his football IQ.",
+          "link": "https://nypost.com/2026/10/11/sports/dre-greenlaw-ejected-for-headbutt-from-49ers-game-vs-seahawks/",
+          "pub": 1791756351000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Former Titans Player Disappointed in State of the Franchise After Texans Loss",
+      "pub": 1791756108000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Former Titans Player Disappointed in State of the Franchise After Texans Loss",
+          "deck": "A former Tennessee Titans player called out the team's woeful performance in a 26-3 loss to the Houston Texans.",
+          "link": "https://www.newsweek.com/sports/nfl/former-titans-player-disappointed-in-state-of-the-franchise-after-texans-loss-12553411",
+          "pub": 1791756108000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Roaring flash floods wipe out entire bridge in Nepal in dramatic video",
+      "pub": 1791756108000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Roaring flash floods wipe out entire bridge in Nepal in dramatic video",
+          "deck": "Flash floods swept through Nepal, the second natural disaster in the Asian nation in two months.",
+          "link": "https://nypost.com/2026/10/11/world-news/flash-floods-wipe-out-bridge-in-nepal-in-dramatic-video/",
+          "pub": 1791756108000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "pub": 1791756000000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s the biggest news you missed this weekend",
+          "deck": "An unidentified projectile struck Saudi Arabia’s main international airport Sunday, injuring people a day after a deadly missile attack at the same site raised questions about whether the U.",
+          "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-october-11-rcna602649",
+          "pub": 1791756000000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Christa Pike has only the left to blame for her execution ‘trauma’",
+      "pub": 1791755966000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Christa Pike has only the left to blame for her execution ‘trauma’",
+          "deck": "Botched executions only happen because of leftists' long legal crusade to intentionally throw sand in the gears of the death penalty.",
+          "link": "https://nypost.com/2026/10/11/opinion/christa-pike-can-blame-the-left-for-her-execution-trauma/",
+          "pub": 1791755966000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Check your email: $15.8 million being sent to users of cash advance app, FTC says",
+      "pub": 1791755835000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Check your email: $15.8 million being sent to users of cash advance app, FTC says",
+          "deck": "More than 2 million payments are being sent out, according to the FTC.",
+          "link": "https://thehill.com/business/6141712-check-your-email-15-8-million-being-sent-to-users-of-cash-advance-app-ftc-says/",
+          "pub": 1791755835000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Brooklyn store outed by Kelly Clarkson for alleged poor treatment responds, claims singer wanted item that wasn’t for sale",
+      "pub": 1791755819000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brooklyn store outed by Kelly Clarkson for alleged poor treatment responds, claims singer wanted item that wasn’t for sale",
+          "deck": "\"It's been a surreal experience to be the focus of such widespread outrage after just one mention by a celebrity,\" the store wrote.",
+          "link": "https://pagesix.com/2026/10/11/celebrity-news/brooklyn-store-outed-by-kelly-clarkson-for-alleged-poor-treatment-responds/",
+          "pub": 1791755819000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The throw Fernando Mendoza didn’t make sticks with him after Raiders debut",
+      "pub": 1791755735000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The throw Fernando Mendoza didn’t make sticks with him after Raiders debut",
+          "deck": "FOXBOROUGH, Mass.",
+          "link": "https://nypost.com/2026/10/11/sports/fernando-mendoza-shares-insights-on-nfl-debut-2/",
+          "pub": 1791755735000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "I’m a Child Psychiatrist. Screens Are Not the Problem.",
+      "pub": 1791755654000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "I’m a Child Psychiatrist. Screens Are Not the Problem.",
+          "deck": "If we make screens the villain, then we let the people who control children’s health care — Congress, insurers and health systems — off the hook for their failures.",
+          "link": "https://www.nytimes.com/2026/10/09/opinion/children-screens-parents-health.html",
+          "pub": 1791755654000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Fast-moving wildfire erupts in LA County as homes evacuated",
+      "pub": 1791755305000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fast-moving wildfire erupts in LA County as homes evacuated",
+          "deck": "The Bike Fire broke out near Golden Valley in Santa Clarita and had scorched approximately 200 acres by 2:40 p.",
+          "link": "https://nypost.com/2026/10/11/us-news/wildfire-erupts-in-la-countys-santa-clarita-as-homes-evacuated/",
+          "pub": 1791755305000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump could face a new threat in January: A Democratic Senate",
+      "pub": 1791755115000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump could face a new threat in January: A Democratic Senate",
+          "deck": "Republicans predict that Democrats will not confirm Supreme Court and Cabinet nominees if they retake the Senate in the midterm elections.",
+          "link": "https://www.washingtonpost.com/politics/2026/10/12/trump-could-face-new-threat-january-democratic-senate/",
+          "pub": 1791755115000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Chair of Texas Democratic Party says 'we're full steam ahead' after Talarico's flu recovery",
+      "pub": 1791755082000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": false,
+      "versions": [
+        {
+          "title": "Chair of Texas Democratic Party says 'we're full steam ahead' after Talarico's flu recovery",
+          "deck": "“But the fact of the matter is, people get sick sometimes when you're diabetic.",
+          "link": "https://www.newsnationnow.com/politics/james-talarico-illness-kendall-scudder/",
+          "pub": 1791755082000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        },
+        {
+          "title": "Chair of Texas Democratic Party says 'we're full steam ahead' after Talarico's flu recovery",
+          "deck": "The chair of the Texas Democratic Party said Sunday he is confident in Democratic senate candidate James Talarico’s campaign in the wake of his illness.",
+          "link": "https://thehill.com/homenews/campaign/6141753-talarico-campaign-full-steam-ahead/",
+          "pub": 1791754825000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "The Racist Tinge to These A.I. Literary Scandals",
+      "pub": 1791754754000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Racist Tinge to These A.I. Literary Scandals",
+          "deck": "The recent scandals around A.",
+          "link": "https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html",
+          "pub": 1791754754000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Barrasso predicts Guilfoyle inquiry amid reports of White House tension",
+      "pub": 1791754715000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Barrasso predicts Guilfoyle inquiry amid reports of White House tension",
+          "deck": "Sen. John Barrasso (R-WY) said on Sunday he believes U.S. Ambassador to Greece Kimberly Guilfoyle will be investigated following a series of reports alleging ethics violations. While speaking with Margaret Brennan on Face the Nation, Barrasso was asked whether there might be an investigation, such as an inquiry by the Department of State Office of […]",
+          "link": "https://www.washingtonexaminer.com/news/white-house/4762609/barrasso-inquiry-guilfoyle-white-house/",
+          "pub": 1791754715000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Lawsuit claims AI helps drive higher fast-food prices",
+      "pub": 1791754642000,
+      "lean": "ct",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lawsuit claims AI helps drive higher fast-food prices",
+          "deck": "A new lawsuit claims AI pricing tools may be helping determine how much consumers are willing to pay.",
+          "link": "https://www.newsnationnow.com/business/tech/ai/artificial-intelligence-food-menu-prices/",
+          "pub": 1791754642000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "pub": 1791754600000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "deck": "Zelensky says Kyiv would support such a truce.",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "pub": 1791754600000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Brewers to face Dodgers without former MVP Christian Yelich in lineup for NLCS Game 1",
+      "pub": 1791754450000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brewers to face Dodgers without former MVP Christian Yelich in lineup for NLCS Game 1",
+          "deck": "Christian Yelich won’t be in the Brewers lineup for Game 1 of the National League Championship Series.",
+          "link": "https://nypost.com/2026/10/11/sports/brewers-to-face-dodgers-without-christian-yelich-in-lineup-for-nlcs-game-1/",
+          "pub": 1791754450000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "pub": 1791754245000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+          "deck": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+          "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+          "pub": 1791754245000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Judge Bars Deportation Of Illegal Immigrant Shot By ICE In New York",
+      "pub": 1791754200000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Judge Bars Deportation Of Illegal Immigrant Shot By ICE In New York",
+          "deck": "Judge Bars Deportation Of Illegal Immigrant Shot By ICE In New York Authored by Aldgra Fredly via The Epoch Times, A federal judge barred the Trump administration from deporting a Dominican immigrant who was shot by a U.",
+          "link": "https://www.zerohedge.com/political/judge-bars-deportation-illegal-immigrant-shot-ice-new-york",
+          "pub": 1791754200000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fast Takes: Jews must hold Mamdani accountable, the price for AI progress, and other commentary",
+      "pub": 1791754154000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fast Takes: Jews must hold Mamdani accountable, the price for AI progress, and other commentary",
+          "deck": "Jews on last week’s Oct.",
+          "link": "https://nypost.com/2026/10/11/opinion/fast-takes-jews-must-hold-mamdani-accountable-the-price-for-ai-progress-and-other-commentary/",
+          "pub": 1791754154000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta Dream star Angel Reese splurges on teammates during lavish celebration dinner in NYC after WNBA semifinals win",
+      "pub": 1791754032000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Atlanta Dream star Angel Reese splurges on teammates during lavish celebration dinner in NYC after WNBA semifinals win",
+          "deck": "After sweeping the New York Liberty Friday night, the WNBA star took her teammates out to Sei Less restaurant, Page Six was exclusively told.",
+          "link": "https://pagesix.com/2026/10/11/celebrity-news/atlanta-dream-star-angel-reese-treats-teammates-to-celebration-dinner-in-nyc-after-semifinals-win/",
+          "pub": 1791754032000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Reform would suspend asylum system for parliamentary term if in government",
+      "pub": 1791753495000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Reform would suspend asylum system for parliamentary term if in government",
+          "deck": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+          "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+          "pub": 1791753495000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+      "pub": 1791753396000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+          "deck": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
+          "pub": 1791753396000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
+      "pub": 1791753395000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
+          "deck": "Madi Bolanos and Anna Sussman's new podcast We Are Jane Doe, by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca.",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast",
+          "pub": 1791753395000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+      "pub": 1791753370000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+          "deck": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+          "pub": 1791753370000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Isaias’s Aftermath in Video and Pictures",
+      "pub": 1791753251000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hurricane Isaias’s Aftermath in Video and Pictures",
+          "deck": "It was the first Atlantic hurricane of the season, and the first to hit the mainland United States in two years.",
+          "link": "https://www.nytimes.com/2026/10/11/us/hurricane-isaias-damage-photos-video.html",
+          "pub": 1791753251000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "pub": 1791753164000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+          "deck": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+          "pub": 1791753164000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
+      "pub": 1791752834000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
+          "deck": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches.",
+          "link": "https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html",
+          "pub": 1791752834000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Abdul El-Sayed walks back Obama criticism ahead of their campaign event",
+      "pub": 1791752643000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Abdul El-Sayed walks back Obama criticism ahead of their campaign event",
+          "deck": "The Michigan Democratic Senate nominee wrote an op-ed in 2012 expressing dismay at what he said were \"failures' by Obama.",
+          "link": "https://www.washingtonpost.com/politics/2026/10/11/abdul-el-sayed-walks-back-obama-criticism-ahead-their-campaign-event/",
+          "pub": 1791752643000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Soulja Boy teases 2028 presidential run on Instagram",
+      "pub": 1791752533000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Soulja Boy teases 2028 presidential run on Instagram",
+          "deck": "Rapper Soulja Boy teased a run for president in 2028, saying “the future starts with a conversation.",
+          "link": "https://www.washingtonexaminer.com/news/white-house/4762610/soulja-boy-teases-2028-presidential-run-on-instagram/",
+          "pub": 1791752533000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
+      "pub": 1791752400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
+          "deck": "Senate and House debates return to center stage this week as candidates nationwide make their cases to voters less than a month before Election Day.",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska/",
+          "pub": 1791752400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Why North Carolina is shifting Democratic",
+      "pub": 1791752400000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Why North Carolina is shifting Democratic",
+          "deck": "Democrats have the wind at their backs in North Carolina, particularly in the race for Senate, where former Gov.",
+          "link": "https://thehill.com/homenews/campaign/6139667-north-carolina-roy-cooper-democrats-midterm-elections/",
+          "pub": 1791752400000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "James Talarico 'Disappeared' To A Mental Health Facility: Report",
+      "pub": 1791752400000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "James Talarico 'Disappeared' To A Mental Health Facility: Report",
+          "deck": "James Talarico 'Disappeared' To A Mental Health Facility: Report On Sunday morning, independent journalist Nick Sortor gave James Talarico an ultimatum regarding his mysterious two-week absence from the campaign trail.",
+          "link": "https://www.zerohedge.com/political/james-talarico-disappeared-mental-health-facility-report",
+          "pub": 1791752400000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "An Israeli Election Like No Other",
+      "pub": 1791752259000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "An Israeli Election Like No Other",
+          "deck": "Many say a vote in two weeks may be the most consequential in Israel’s history.",
+          "link": "https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html",
+          "pub": 1791752259000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Samuel Alito and New Jersey’s Fallen Columbus Statue",
+      "pub": 1791752134000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Samuel Alito and New Jersey’s Fallen Columbus Statue",
+          "deck": "Justice Alito has a history of nudging the boundaries of judicial rectitude.",
+          "link": "https://www.nytimes.com/2026/10/11/opinion/justice-alito-columbus-statue-trenton.html",
+          "pub": 1791752134000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "pub": 1791752102000,
+      "lean": "ct",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Watch: What's behind Trump's energy ceasefire claim?",
+          "deck": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+          "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+          "pub": 1791752102000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Texans-Cardinals Pull Off Blockbuster Marvin Harrison Jr Trade",
+      "pub": 1791752028000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Texans-Cardinals Pull Off Blockbuster Marvin Harrison Jr Trade",
+          "deck": "Marvin Harrison Jr.",
+          "link": "https://www.newsweek.com/sports/nfl/texans-cardinals-pull-off-blockbuster-marvin-harrison-jr-trade-12553402",
+          "pub": 1791752028000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "'Prepare for the unthinkable' warning over autumn flooding",
+      "pub": 1791751890000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Prepare for the unthinkable' warning over autumn flooding",
+          "deck": "Those living in flood-hit areas say they are worried, and have started preparing.",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
+          "pub": 1791751890000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Thais Aliabadi: Screen for breast cancer earlier if lifetime risk hits 20%",
+      "pub": 1791751874000,
+      "lean": "ct",
+      "cat": "Health",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dr. Thais Aliabadi: Screen for breast cancer earlier if lifetime risk hits 20%",
+          "deck": "Breast cancer survivor Dr.",
+          "link": "https://www.newsnationnow.com/health/breast-cancer-thais-aliabadi-detection-treatment/",
+          "pub": 1791751874000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How Fernando Mendoza Fared in His NFL Debut Against Patriots",
+      "pub": 1791751722000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Fernando Mendoza Fared in His NFL Debut Against Patriots",
+          "deck": "Raiders coach Klint Kubiak put Mendoza in the game late in the second half.",
+          "link": "https://www.newsweek.com/sports/nfl/how-fernando-mendoza-fared-in-his-nfl-debut-against-patriots-12553393",
+          "pub": 1791751722000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "‘Privileged ingrates’ like Zohran Mamdani need to quit the genocide hypocrisy",
+      "pub": 1791751706000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Privileged ingrates’ like Zohran Mamdani need to quit the genocide hypocrisy",
+          "deck": "Some of Israel's loudest US accusers — like Hasan Piker, Zohran Mamdani and Ilhan Omar — remain silent about the sordid histories of their own homelands.",
+          "link": "https://nypost.com/2026/10/11/opinion/privileged-ingrates-like-zohran-mamdani-need-to-quit-the-genocide-hypocrisy/",
+          "pub": 1791751706000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Flamingos at a Florida Zoo Rode Out Hurricane Isaias in the Bathroom",
+      "pub": 1791751384000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Flamingos at a Florida Zoo Rode Out Hurricane Isaias in the Bathroom",
+          "deck": "ZooWorld in Panama City Beach, Fla.",
+          "link": "https://www.nytimes.com/2026/10/11/us/flamingos-isaias-zoo-bathroom-hurricane-florida.html",
+          "pub": 1791751384000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump announces Russia-Ukraine \"energy ceasefire\" after criticizing Zelenskyy",
+      "pub": 1791751161000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump announces Russia-Ukraine \"energy ceasefire\" after criticizing Zelenskyy",
+          "deck": "Ukrainian President Volodymyr Zelenskyy said Russia alone is responsible for the war in Ukraine, after President Trump said he should be replaced.",
+          "link": "https://www.cbsnews.com/news/zelenskyy-trump-new-ukrainian-president/",
+          "pub": 1791751161000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Boomers Didn’t Always Have It So Easy",
+      "pub": 1791751124000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Boomers Didn’t Always Have It So Easy",
+          "deck": "All generations think they drew the short straw; they’ve really shared the same challenges, just in different eras.",
+          "link": "https://www.nytimes.com/2026/10/10/opinion/millennial-boomer-young-adult.html",
+          "pub": 1791751124000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "\"The System Failed Everybody\": 2-Year-Old Fights For Life After Stabbing By Man Repeatedly Ruled Incompetent To Stand Trial",
+      "pub": 1791750600000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "\"The System Failed Everybody\": 2-Year-Old Fights For Life After Stabbing By Man Repeatedly Ruled Incompetent To Stand Trial",
+          "deck": "\"The System Failed Everybody\": 2-Year-Old Fights For Life After Stabbing By Man Repeatedly Ruled Incompetent To Stand Trial Authored by Steve Watson via Modernity.",
+          "link": "https://www.zerohedge.com/political/system-failed-everybody-2-year-old-fights-life-after-stabbing-man-repeatedly-ruled",
+          "pub": 1791750600000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bessent taunts ‘Pocahontas’ Elizabeth Warren with cheeky clapback: ‘Happy Indigenous Peoples’ Day’",
+      "pub": 1791750264000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bessent taunts ‘Pocahontas’ Elizabeth Warren with cheeky clapback: ‘Happy Indigenous Peoples’ Day’",
+          "deck": "The Treasury secretary's note also was a dig at Warren's prolific letter-writing, which has included 100 letters sent to Bessent alone since the start of the second Trump administration, according to his team.",
+          "link": "https://nypost.com/2026/10/11/us-news/bessent-taunts-pocahontas-elizabeth-warren-with-cheeky-clapback/",
+          "pub": 1791750264000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fusionism in the Twenty-First Century",
+      "pub": 1791750251000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fusionism in the Twenty-First Century",
+          "deck": "A Civitas Symposium on Stephanie Slade's new book.",
+          "link": "https://reason.com/volokh/2026/10/11/fusionism-in-the-twenty-first-century/",
+          "pub": 1791750251000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Sen. John Barrasso on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+      "pub": 1791750048000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Sen. John Barrasso on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+          "deck": "The following is the transcript of the interview with Senate Majority Whip John Barrasso, Republican of Wyoming, that aired on \"Face the Nation with Margaret Brennan\" on Oct.",
+          "link": "https://www.cbsnews.com/news/john-barrasso-senate-republican-whip-face-the-nation-transcript-10-11-2026/",
+          "pub": 1791750048000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
+      "pub": 1791750045000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
+          "deck": "Sen. Thom Tillis (R-N.C.) slammed President Trump’s deal with Russia for diesel Sunday amid the energy struggles the U.S. is experiencing. “The president needs to move forward with the sanctions bill that we sent him. This agreement with pursing Russian oil is essentially, I think, tarnishing [Sen.] Lindsey Graham's [(R-S.C.)] efforts to try and get...",
+          "link": "https://thehill.com/homenews/senate/6141694-tillis-slams-trump-russia-diesel/",
+          "pub": 1791750045000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Justice probe into TV networks rests on thin legal grounds, legal experts say",
+      "pub": 1791750034000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Justice probe into TV networks rests on thin legal grounds, legal experts say",
+          "deck": "The Justice Department's antitrust investigation into five TV networks was triggered by their pause of White House pool coverage.",
+          "link": "https://www.washingtonpost.com/business/2026/10/11/justice-probe-into-tv-networks-rests-thin-legal-grounds-lawyers-say/",
+          "pub": 1791750034000,
+          "src": "WaPo",
+          "srcFull": "Washington Post",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Transcript: Sen. Chris Murphy on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+      "pub": 1791750022000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Transcript: Sen. Chris Murphy on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+          "deck": "The following is the transcript of the interview with Sen.",
+          "link": "https://www.cbsnews.com/news/chris-murphy-connecticut-senator-10-11-2026/",
+          "pub": 1791750022000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+      "pub": 1791749918000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+          "deck": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
+          "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+          "pub": 1791749918000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Baby sleep product recalled after FDA finds 3 types of alcohol not listed on label",
+      "pub": 1791749861000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Baby sleep product recalled after FDA finds 3 types of alcohol not listed on label",
+          "deck": "The recalled baby gripe water was sold through online retailers and found to contain ethanol, methanol and isopropanol that were not disclosed on the product label.",
+          "link": "https://www.foxbusiness.com/lifestyle/baby-sleep-product-recalled-fda-finds-3-types-alcohol-not-listed-label",
+          "pub": 1791749861000,
+          "src": "FoxB",
+          "srcFull": "Fox Business",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump claims ‘days of plunder’ are over in spicy Columbus Day post bashing Dems for statue hysteria",
+      "pub": 1791749767000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump claims ‘days of plunder’ are over in spicy Columbus Day post bashing Dems for statue hysteria",
+          "deck": "President Trump heralded Columbus Day with a fiery broadside against critics who have sought to stop celebrating Christopher Columbus for discovering the Americas.",
+          "link": "https://nypost.com/2026/10/11/us-news/trump-claims-days-of-plunder-are-over-in-spicy-columbus-day-post-bashing-dems-for-statue-hysteria/",
+          "pub": 1791749767000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jaguars Coach Liam Coen Had the Best Reaction to Game-Winning FG",
+      "pub": 1791749732000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jaguars Coach Liam Coen Had the Best Reaction to Game-Winning FG",
+          "deck": "Jaguars kicker Cam Little drained a 57-yard field goal in the final second to win an unbelievable game against the Eagles.",
+          "link": "https://www.newsweek.com/sports/nfl/jaguars-coach-liam-coen-best-reaction-game-winning-fg-12553264",
+          "pub": 1791749732000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "John E. Sununu Is Running a Model Campaign. He Might Still Lose.",
+      "pub": 1791749719000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "John E. Sununu Is Running a Model Campaign. He Might Still Lose.",
+          "deck": "A New Hampshire insider-outsider candidate is executing a complex political dance.",
+          "link": "https://www.nytimes.com/2026/10/10/opinion/john-sununu-new-hampshire-republican-trump.html",
+          "pub": 1791749719000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+      "pub": 1791749708000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+          "deck": "A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.",
+          "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+          "pub": 1791749708000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "El-Sayed addresses past Obama criticism, says Democrats now 'stand on the shoulders of giants'",
+      "pub": 1791749626000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "El-Sayed addresses past Obama criticism, says Democrats now 'stand on the shoulders of giants'",
+          "deck": "On Sunday, Michigan Senate candidate Abdul El-Sayed (D) addressed past criticism he made about former President Obama and said that he and other Democratic candidates \"stand on the shoulders of giants\" like the former president.",
+          "link": "https://thehill.com/homenews/campaign/6141365-el-sayed-obama-michigan-senate/",
+          "pub": 1791749626000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
+      "pub": 1791749536000,
+      "lean": "ct",
+      "cat": "World",
+      "single": false,
+      "versions": [
+        {
+          "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
+          "deck": "Democratic and Republican lawmakers slam President Trump's new deal with Russia to release millions of tons of diesel amid ongoing war in Ukraine.",
+          "link": "https://www.newsnationnow.com/us-news/backlash-grows-against-russia-diesel-deal-trump-claims-ukraine-energy-ceasefire/",
+          "pub": 1791749536000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        },
+        {
+          "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
+          "deck": "President Trump's deal with Russia to permit the country's diesel into the U.",
+          "link": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/",
+          "pub": 1791746667000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Rep. Jeffries says Democrats are \"on the verge of taking back control\"",
+      "pub": 1791749421000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rep. Jeffries says Democrats are \"on the verge of taking back control\"",
+          "deck": "Jeffries campaigned in New Jersey and Pennsylvania and plans to campaign in Texas in the coming days to help Democratic candidates unseat Republican incumbents.",
+          "link": "https://www.cbsnews.com/news/jeffries-democrats-control-house-battleground-races/",
+          "pub": 1791749421000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct",
+      "pub": 1791749242000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct",
+          "deck": "This is a case in which Judge Sutton may agree that the decision is not merely wrong, but also en-banc-worthy.",
+          "link": "https://reason.com/volokh/2026/10/11/sixth-circuit-affirms-universal-injunction-against-tennessee-abortion-trafficking-law-that-does-not-reach-plaintiffs-conduct/",
+          "pub": 1791749242000,
+          "src": "REAS",
+          "srcFull": "Reason",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Polls come under scrutiny as Democrats take the lead in midterm elections",
+      "pub": 1791749100000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Polls come under scrutiny as Democrats take the lead in midterm elections",
+          "deck": "With less than a month to go before the midterm elections, Democrats are doing so well that many political observers are beginning to wonder if there is something wrong with the polls.",
+          "link": "https://www.washingtonexaminer.com/premium/4759323/polls-scrutiny-democrats-lead-midterm-elections/",
+          "pub": 1791749100000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "pub": 1791748947000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+          "deck": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+          "pub": 1791748947000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "BXP’s 343 Madison Ave. tower is going up",
+      "pub": 1791748925000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "BXP’s 343 Madison Ave. tower is going up",
+          "deck": "Marquee-name tenants have already been signed for about half of the building’s 930,000 square feet -- insurance giant Starr and law firm McDermott Will & Schulte.",
+          "link": "https://nypost.com/2026/10/11/business/bxps-343-madison-ave-tower-is-going-up/",
+          "pub": 1791748925000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Legoland Windsor evacuated over burst water main",
+      "pub": 1791748832000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Legoland Windsor evacuated over burst water main",
+          "deck": "Some customers were forced to leave the theme park halfway through their visit on Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/crx2d83pjn0qo?at_medium=RSS&at_campaign=rss",
+          "pub": 1791748832000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Dramatic Videos Show Several Tankers On Fire In Strait Of Hormuz This Weekend",
+      "pub": 1791748800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dramatic Videos Show Several Tankers On Fire In Strait Of Hormuz This Weekend",
+          "deck": "Dramatic Videos Show Several Tankers On Fire In Strait Of Hormuz This Weekend Yet another tanker has been struck in the Strait of Hormuz on Sunday, which brings the total number to at least two or possibly as many as three suffering damage in the last 24 hours, chiefly from sea mines.",
+          "link": "https://www.zerohedge.com/geopolitical/dramatic-videos-show-several-tankers-fire-strait-hormuz-weekend",
+          "pub": 1791748800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "pub": 1791748668000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+          "deck": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
+          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+          "pub": 1791748668000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "With so-called leaders like LA’s Ysabel Jurado, who needs enemies?",
+      "pub": 1791748612000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "With so-called leaders like LA’s Ysabel Jurado, who needs enemies?",
+          "deck": "Jurado shows no awareness of her own role in abiding and perpetuating large-scale human suffering.",
+          "link": "https://nypost.com/2026/10/11/opinion/ysabel-jurado-defends-homeless-squalor-criticizes-law-enforcement/",
+          "pub": 1791748612000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Six senators demand Trump ‘immediately reverse course’ on Russian diesel deal",
+      "pub": 1791748449000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Six senators demand Trump ‘immediately reverse course’ on Russian diesel deal",
+          "deck": "A group of Senators released a statement regarding President Donald Trump’s deal with Russia to release 800,000 tons of diesel over the next two months, demanding he “immediately reverse course.",
+          "link": "https://www.washingtonexaminer.com/news/senate/4762586/six-senators-trump-reverse-course-russian-diesel/",
+          "pub": 1791748449000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Who Was Angelina Stone? Pregnant Mom Killed in Pennsylvania Shooting",
+      "pub": 1791748274000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Who Was Angelina Stone? Pregnant Mom Killed in Pennsylvania Shooting",
+          "deck": "Stone was days away from giving birth when she was fatally shot, along with her 5-year-old son and daughter, who was nearly 2.",
+          "link": "https://www.newsweek.com/who-was-angelina-stone-pregnant-mom-killed-in-pennsylvania-shooting-12553313",
+          "pub": 1791748274000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+      "pub": 1791747957000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+          "deck": "The airport in the Saudi capital, Riyadh, was struck a day after suffering a devastating attack.",
+          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
+          "pub": 1791747957000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "What to Know About Trump’s Russia-Ukraine ‘Energy Ceasefire’ Claim",
+      "pub": 1791747935000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "What to Know About Trump’s Russia-Ukraine ‘Energy Ceasefire’ Claim",
+          "deck": "Days prior to the alleged ceasefire, the President announced a diesel deal with Russia and blamed Ukraine for high fuel prices in the U.",
+          "link": "https://time.com/article/2026/10/11/trump-claims-russia-and-ukraine-have-agreed-to-an-energy-ceasefire-/",
+          "pub": 1791747935000,
+          "src": "TIME",
+          "srcFull": "TIME",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+      "pub": 1791747677000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+          "deck": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
+          "pub": 1791747677000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "'Godfather of data centers' says they will be 'part of our everyday lives'",
+      "pub": 1791747353000,
+      "lean": "ct",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "'Godfather of data centers' says they will be 'part of our everyday lives'",
+          "deck": "As AI fuels a data center boom, one industry veteran says communities need clear answers and facts, not fear.",
+          "link": "https://www.newsnationnow.com/business/tech/ai/godfather-of-data-centers-everyday-lives/",
+          "pub": 1791747353000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+      "pub": 1791747231000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+          "deck": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington.",
+          "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+          "pub": 1791747231000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Christa Pike Deserves the Death Penalty",
+      "pub": 1791747207000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Christa Pike Deserves the Death Penalty",
+          "deck": "A botched execution is no reason justice shouldn't be done.",
+          "link": "https://www.realclearpolitics.com/2026/10/07/christa_pike_deserves_the_death_penalty_713482.html",
+          "pub": 1791747207000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jim Bakker's Shrunken-Down Version of God",
+      "pub": 1791747204000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jim Bakker's Shrunken-Down Version of God",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/10/10/jim_bakkers_shrunken-down_version_of_god_713613.html",
+          "pub": 1791747204000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Will Kansas Do the Unthinkable and Vote Blue?",
+      "pub": 1791747201000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Will Kansas Do the Unthinkable and Vote Blue?",
+          "deck": "Democrat Adam Hamilton is polling shockingly well in the deep red state's Senate race.",
+          "link": "https://www.realclearpolitics.com/2026/10/10/will_kansas_do_the_unthinkable_and_vote_blue_713794.html",
+          "pub": 1791747201000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Kids Are Not All Right in France",
+      "pub": 1791747200000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Kids Are Not All Right in France",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/10/10/the_kids_are_not_all_right_in_france_713805.html",
+          "pub": 1791747200000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Gov. Pritzker's Great Displacement",
+      "pub": 1791747197000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Gov. Pritzker's Great Displacement",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/10/09/gov_pritzkers_great_displacement_713684.html",
+          "pub": 1791747197000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Big Reelection Victory for Fain and His Slate at UAW",
+      "pub": 1791747195000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Big Reelection Victory for Fain and His Slate at UAW",
+          "deck": "Members of the United Auto Workers overwhelmingly backed another term for Shawn Fain and his United UAW slate of union candidates, showing support for his vision of a fighting labor movement.",
+          "link": "https://www.realclearpolitics.com/2026/10/10/big_reelection_victory_for_fain_and_his_slate_at_uaw_713803.html",
+          "pub": 1791747195000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Time To Teach 3 Years of High School Civics",
+      "pub": 1791747193000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Time To Teach 3 Years of High School Civics",
+          "deck": "Schools are failing to teach students the advantages of liberal democracy-and the dangers of what could replace it.",
+          "link": "https://www.realclearpolitics.com/2026/10/10/time_to_teach_3_years_of_high_school_civics_713796.html",
+          "pub": 1791747193000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "A Crossroads: Excellence or Mediocrity?",
+      "pub": 1791747191000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Crossroads: Excellence or Mediocrity?",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/10/11/a_crossroads_excellence_or_mediocrity_713809.html",
+          "pub": 1791747191000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk's Enemies Make His Best Case",
+      "pub": 1791747189000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Elon Musk's Enemies Make His Best Case",
+          "deck": "Alex Gibney's new four-hour documentary is so determined to expose the billionaire's failings that it inadvertently showcases the achievements that made him a titan, writes Liel Leibovitz.",
+          "link": "https://www.realclearpolitics.com/2026/10/10/elon_musks_enemies_make_his_best_case_713792.html",
+          "pub": 1791747189000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Dem Taking On One of GOP's Toughest Incumbents",
+      "pub": 1791747187000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The Dem Taking On One of GOP's Toughest Incumbents",
+          "deck": "Bob Harvie is the strongest Democratic challenger Rep.",
+          "link": "https://www.realclearpolitics.com/2026/10/10/the_dem_taking_on_one_of_gops_toughest_incumbents_713787.html",
+          "pub": 1791747187000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Keep Democrats Away From U.S. Energy Policy",
+      "pub": 1791747185000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Keep Democrats Away From U.S. Energy Policy",
+          "deck": "",
+          "link": "https://www.realclearpolitics.com/2026/10/09/keep_democrats_away_from_us_energy_policy_713607.html",
+          "pub": 1791747185000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "What to Make of Trump’s Uptick in Profanity",
+      "pub": 1791747107000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "What to Make of Trump’s Uptick in Profanity",
+          "deck": "The president’s speech is getting filthier.",
+          "link": "https://www.nytimes.com/2026/10/08/opinion/trump-profanity.html",
+          "pub": 1791747107000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Diesel And Yields",
+      "pub": 1791747000000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Diesel And Yields",
+          "deck": "Diesel And Yields By Peter Tchir of Academy Securities Diesel has become the “global” focus, rather than “just” the price of oil.",
+          "link": "https://www.zerohedge.com/markets/diesel-and-yields",
+          "pub": 1791747000000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Don’t make Fort Hood terrorist Nidal Hasan’s execution a public spectacle — and him a martyr",
+      "pub": 1791746667000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "Don’t make Fort Hood terrorist Nidal Hasan’s execution a public spectacle — and him a martyr",
+          "deck": "Savage Islamic terrorist Nidal Hasan deserves the death penalty, nothing less.",
+          "link": "https://nypost.com/2026/10/11/opinion/dont-make-fort-hood-terrorist-nidal-hasans-execution-a-public-spectacle-and-him-a-martyr/",
+          "pub": 1791746667000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Russia strikes Ukrainian power plant after Trump claims energy ceasefire",
+      "pub": 1791746549000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russia strikes Ukrainian power plant after Trump claims energy ceasefire",
+          "deck": "Russia struck a power plant in eastern Ukraine, contradicting President Trump’s announcement earlier Sunday that both countries agreed to an \"energy ceasefire.",
+          "link": "https://thehill.com/policy/international/6141601-russia-strikes-ukraine-power-plant/",
+          "pub": 1791746549000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
         }
       ]
     },
@@ -57,6 +2253,24 @@
       ]
     },
     {
+      "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
+      "pub": 1791746103000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
+          "deck": "A release of selected records from the classified documents inquiry is a case study in how omitting context can create political ammunition.",
+          "link": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
+          "pub": 1791746103000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Massie backs Trump's diesel deal with Russia in rare move",
       "pub": 1791745975000,
       "lean": "ct",
@@ -71,24 +2285,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Horror as person dies after being pulling out to sea as monster waves sweep California",
-      "pub": 1791745963000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Horror as person dies after being pulling out to sea as monster waves sweep California",
-          "deck": "A person died after drowning in the ocean at a Southern California beach Sunday morning as powerful waves battered the coast.",
-          "link": "https://nypost.com/2026/10/11/us-news/horror-as-person-dies-after-being-pulling-out-to-sea-as-monster-waves-sweep-socal/",
-          "pub": 1791745963000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -147,60 +2343,6 @@
       ]
     },
     {
-      "title": "Ghoulish mom charged in death of starved teen daughter who weighed only 35 pounds, had ‘sunken eyes’",
-      "pub": 1791745338000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ghoulish mom charged in death of starved teen daughter who weighed only 35 pounds, had ‘sunken eyes’",
-          "deck": "A ghoulish North Carolina mom was charged with murder after the horrific death of teen daughter, who weighed 35 pounds and had “sunken eyes” after years of starvation, authorities said.",
-          "link": "https://nypost.com/2026/10/11/us-news/ghoulish-mom-charged-in-death-of-starved-teen-daughter-who-weighed-only-35-pounds-had-sunken-eyes/",
-          "pub": 1791745338000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Cloverdale council in civil war after member accuses top officials of blowing taxpayer dollars on strip club visits",
-      "pub": 1791745234000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cloverdale council in civil war after member accuses top officials of blowing taxpayer dollars on strip club visits",
-          "deck": "Cloverdale Councilmember Marjorie Morgenstern, the lone woman on the dais, is accusing top city officials of spending taxpayer dollars at a strip club during a conference in Sacramento.",
-          "link": "https://nypost.com/2026/10/11/us-news/cloverdale-council-in-chaos-over-alleged-strip-club-visits-funded-by-taxpayers/",
-          "pub": 1791745234000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-      "pub": 1791745226000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-          "deck": "CAIRO (AP) — A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, the Saudi-led coalition fighting Iran-backed Houthi rebels in Yemen said.",
-          "link": "https://www.newsnationnow.com/world/ap-missile-attack-on-airport-in-saudi-arabias-capital-kills-12-people-and-injures-over-300/",
-          "pub": 1791745226000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "NYT Connections Today: Monday, October 12 Answers Explained",
       "pub": 1791745200000,
       "lean": "ct",
@@ -233,24 +2375,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers vs. Brewers odds, predictions Game 1: MLB playoff picks, best bets for NLCS",
-      "pub": 1791745200000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Dodgers vs. Brewers odds, predictions Game 1: MLB playoff picks, best bets for NLCS",
-          "deck": "Heavyweights square off in the NLCS.",
-          "link": "https://nypost.com/2026/10/11/betting/dodgers-vs-brewers-odds-predictions-game-1-mlb-playoff-picks-best-bets-for-nlcs/",
-          "pub": 1791745200000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -310,7 +2434,7 @@
     },
     {
       "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-      "pub": 1791745079000,
+      "pub": 1791745080000,
       "lean": "ll",
       "cat": "World",
       "single": true,
@@ -319,28 +2443,10 @@
           "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
           "deck": "The shipwreck is among the deadliest ever recorded on the route to Yemen, the International Organization for Migration said.",
           "link": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-          "pub": 1791745079000,
+          "pub": 1791745080000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Meghan Markle gives rare look at Prince Archie and Princess Lilibet’s life in the UK",
-      "pub": 1791744980000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Meghan Markle gives rare look at Prince Archie and Princess Lilibet’s life in the UK",
-          "deck": "The Duchess shared a sweet clip of her kids enjoying the English countryside.",
-          "link": "https://pagesix.com/2026/10/11/royal-family/meghan-markle-gives-glimpse-at-prince-archie-and-princess-lilibets-life-in-the-uk/",
-          "pub": 1791744980000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -381,35 +2487,17 @@
       ]
     },
     {
-      "title": "Nithya Raman’s LAPD shake-up could put ousted progressive DA George Gascón in charge of cops",
+      "title": "Hear Nithya Raman’s extraordinary word salad when grilled on plans for LA’s top cop",
       "pub": 1791744538000,
       "lean": "lr",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Nithya Raman’s LAPD shake-up could put ousted progressive DA George Gascón in charge of cops",
+          "title": "Hear Nithya Raman’s extraordinary word salad when grilled on plans for LA’s top cop",
           "deck": "The prosecutor Los Angeles voters fired two years ago because of his soft on crime policies could be headed back to the LAPD, this time to run it.",
           "link": "https://nypost.com/2026/10/11/us-news/ousted-da-george-gascon-eyed-to-lead-lapd-under-nithya-raman/",
           "pub": 1791744538000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The real cost of living in your favorite Halloween movie home — from $295K to $16.8M",
-      "pub": 1791744510000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The real cost of living in your favorite Halloween movie home — from $295K to $16.8M",
-          "deck": "The biggest jump scare from these famous horror movies isn't the gore - it's the sticker shock from the most iconic homes.",
-          "link": "https://nypost.com/2026/10/11/lifestyle/the-most-expensive-famous-horror-movie-homes-in-real-life/",
-          "pub": 1791744510000,
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
@@ -453,71 +2541,17 @@
       ]
     },
     {
-      "title": "Odell Beckham Jr. inactive for first Vikings game vs Saints",
-      "pub": 1791744086000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Odell Beckham Jr. inactive for first Vikings game vs Saints",
-          "deck": "Odell Beckham Jr.",
-          "link": "https://nypost.com/2026/10/11/sports/odell-beckham-jr-inactive-for-first-vikings-game-vs-saints/",
-          "pub": 1791744086000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "NJ Transit rail riders face new month of hell as problem construction project ramps up",
-      "pub": 1791744068000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "NJ Transit rail riders face new month of hell as problem construction project ramps up",
-          "deck": "Beleaguered train commuters Sunday began what is expected to be five weeks of severe delays and adjustments as construction ramps up on a replacement to a century-old bridge -- a project that has continually brought headaches to customers.",
-          "link": "https://nypost.com/2026/10/11/us-news/nj-transit-commuters-brace-for-month-of-hell/",
-          "pub": 1791744068000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Grandpa ID’d as crazed killer who shot 9 — including his own kids, grandkids — in shocking Pa. murder-suicide: relatives",
-      "pub": 1791743963000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Grandpa ID’d as crazed killer who shot 9 — including his own kids, grandkids — in shocking Pa. murder-suicide: relatives",
-          "deck": "A gunman killed eight people, including his pregnant daughter Angelina Stone and two young grandchildren, in an Erie, Pennsylvania, murder-suicide.",
-          "link": "https://nypost.com/2026/10/11/us-news/grandfather-behind-trigger-of-pennsylvania-massacre/",
-          "pub": 1791743963000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
-      "pub": 1791743909000,
+      "title": "In Unlikely Turn, Law and Order Heats Up L.A. Mayor’s Race",
+      "pub": 1791744168000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
-          "deck": "The airport in the Saudi capital, Riyadh, was struck a day after suffering a devastating attack.",
-          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
-          "pub": 1791743909000,
+          "title": "In Unlikely Turn, Law and Order Heats Up L.A. Mayor’s Race",
+          "deck": "Two Democratic candidates choose opposite tacks on public safety and policing, seeking to corral undecided voters.",
+          "link": "https://www.nytimes.com/2026/10/11/us/los-angeles-mayor-policing-election.html",
+          "pub": 1791744168000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -569,7 +2603,7 @@
       "versions": [
         {
           "title": "Liberal California city plots doubling anti-American tax — as locals rage at where the money’s going",
-          "deck": "Voters in Berkeley are being asked to double the city’s tax on soda — even as local businesses say they’re already struggling while basic city services go unmet and questions are raised about how money gets spent and monitored.",
+          "deck": "Voters in Berkeley are being asked to double the city’s tax on soda — even as local businesses say they’re already struggling while basic city services go unmet.",
           "link": "https://nypost.com/2026/10/11/us-news/berkeley-wants-to-double-soda-tax-as-questions-mount-over-millions-in-taxpayer-spending/",
           "pub": 1791743764000,
           "src": "NYP",
@@ -623,7 +2657,7 @@
       "versions": [
         {
           "title": "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad",
-          "deck": "Several Republican lawmakers objected to the deal and expressed support for Ukraine's president in his fight with Russia.",
+          "deck": "Several Republicans objected to Trump's stance.",
           "link": "https://www.washingtonpost.com/world/2026/10/11/trumps-zelensky-attack-russia-diesel-deal-draw-criticism-us-abroad/",
           "pub": 1791743516000,
           "src": "WaPo",
@@ -669,24 +2703,6 @@
       ]
     },
     {
-      "title": "Novig promo code NYPOST: Deposit $10, get $50 in trade credits for Lions vs. Cardinals",
-      "pub": 1791743400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Novig promo code NYPOST: Deposit $10, get $50 in trade credits for Lions vs. Cardinals",
-          "deck": "Novig promo code NYPOST unlocks $50 in trade credits for new users following a $10 deposit for Lions vs.",
-          "link": "https://nypost.com/2026/10/11/betting/novig-promo-code-nypost-deposit-10-get-50-in-trade-credits-for-lions-vs-cardinals/",
-          "pub": 1791743400000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Bluesky Exodus? Nikita Bier Says Users \"Coming Back To X In Droves\" And \"Very Angry\"",
       "pub": 1791743400000,
       "lean": "lr",
@@ -700,24 +2716,6 @@
           "pub": 1791743400000,
           "src": "ZH",
           "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "LSU, Oregon and Texas exposed as pretenders on revealing college football Saturday",
-      "pub": 1791743354000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "LSU, Oregon and Texas exposed as pretenders on revealing college football Saturday",
-          "deck": "The Saturday before the Saturday everyone was waiting for turned into a memorable and revealing day.",
-          "link": "https://nypost.com/2026/10/11/sports/lsu-oregon-and-texas-exposed-as-pretenders/",
-          "pub": 1791743354000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -755,60 +2753,6 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "John E. Sununu Is Running a Model Campaign. He Might Still Lose.",
-      "pub": 1791743246000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "John E. Sununu Is Running a Model Campaign. He Might Still Lose.",
-          "deck": "A New Hampshire insider-outsider candidate is executing a complex political dance.",
-          "link": "https://www.nytimes.com/2026/10/10/opinion/john-sununu-new-hampshire-republican-trump.html",
-          "pub": 1791743246000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Houthis, Saudis ratchet up violence with back-and-forth airport strikes",
-      "pub": 1791743120000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Houthis, Saudis ratchet up violence with back-and-forth airport strikes",
-          "deck": "The Iran-backed Houthi rebels and Saudi Arabia ratcheted up Mideast violence Sunday with attacks on each other’s airports, the day after the terrorists’ strike on Riyadh that killed 13, including an American.",
-          "link": "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
-          "pub": 1791743120000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "pub": 1791743082000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-          "deck": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
-          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-          "pub": 1791743082000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -867,62 +2811,8 @@
       ]
     },
     {
-      "title": "Trevor Lawrence’s wife, daughter cheer on Jaguars QB in London win",
-      "pub": 1791742704000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trevor Lawrence’s wife, daughter cheer on Jaguars QB in London win",
-          "deck": "It was a Lawrence family affair in London this weekend.",
-          "link": "https://nypost.com/2026/10/11/sports/trevor-lawrences-wife-daughter-cheer-on-jaguars-qb-in-london-win/",
-          "pub": 1791742704000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Sydney Sweeney ditches top in new Novig sports betting ad after backlash: ‘I’m flattered’",
-      "pub": 1791742603000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sydney Sweeney ditches top in new Novig sports betting ad after backlash: ‘I’m flattered’",
-          "deck": "The \"Euphoria\" alum seems determined to rile up her critics.",
-          "link": "https://pagesix.com/2026/10/11/celebrity-news/sydney-sweeney-ditches-top-in-new-novig-sports-betting-ad-after-backlash/",
-          "pub": 1791742603000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for 49ers vs. Seahawks",
-      "pub": 1791742500000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for 49ers vs. Seahawks",
-          "deck": "Deposit $10, get a $25 trading bonus with Polymarket promo code NYPMAX1 for 49ers vs.",
-          "link": "https://nypost.com/2026/10/11/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-49ers-vs-seahawks/",
-          "pub": 1791742500000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "The Times’s New Space Editor Has Her Eye on the Cosmos",
-      "pub": 1791742467000,
+      "pub": 1791742468000,
       "lean": "ll",
       "cat": "Technology",
       "single": true,
@@ -931,64 +2821,10 @@
           "title": "The Times’s New Space Editor Has Her Eye on the Cosmos",
           "deck": "On the Science desk, Victoria Jaggard spends her days pondering the universe’s most pressing mysteries.",
           "link": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
-          "pub": 1791742467000,
+          "pub": 1791742468000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Topless Sydney Sweeney drops new NSFW ad for prediction market Novig",
-      "pub": 1791742459000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Topless Sydney Sweeney drops new NSFW ad for prediction market Novig",
-          "deck": "Sydney Sweeney has done it again.",
-          "link": "https://nypost.com/2026/10/11/sports/topless-sydney-sweeney-drops-new-nsfw-ad-for-prediction-market-novig/",
-          "pub": 1791742459000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Saudi Arabia vows major response after Houthi strike on airport kills 12, injures 309",
-      "pub": 1791742442000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saudi Arabia vows major response after Houthi strike on airport kills 12, injures 309",
-          "deck": "The U.S. has stopped short of direct military support against the Houthis in Yemen, but President Donald Trump is weighing joining strikes on the Iranian-backed rebels.",
-          "link": "https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/",
-          "pub": 1791742442000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Aspiring chef Brooklyn Beckham brutally trolled for cooking ‘burnt’ spaghetti: ‘That looks dreadful’",
-      "pub": 1791742332000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Aspiring chef Brooklyn Beckham brutally trolled for cooking ‘burnt’ spaghetti: ‘That looks dreadful’",
-          "deck": "The former photographer has been criticized for his culinary skills since he started cooking on social media.",
-          "link": "https://pagesix.com/2026/10/11/celebrity-news/brooklyn-beckham-trolled-for-cooking-burnt-spaghetti/",
-          "pub": 1791742332000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -1025,42 +2861,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Jaguars WR1 Becomes Clear in Win Over Eagles",
-      "pub": 1791741942000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Jaguars WR1 Becomes Clear in Win Over Eagles",
-          "deck": "The debate is officially over for who the Jacksonville Jaguars No.",
-          "link": "https://www.newsweek.com/sports/nfl/jaguars-wr1-becomes-clear-in-win-over-eagles-12553156",
-          "pub": 1791741942000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Alarming Lane Kiffin Stat Emerges After LSU’s Upset Loss to Kentucky",
-      "pub": 1791741780000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Alarming Lane Kiffin Stat Emerges After LSU’s Upset Loss to Kentucky",
-          "deck": "Lane Kiffin is 4-2 after LSU's stunning loss to Kentucky, and one troubling stat is already raising eyebrows in Baton Rouge.",
-          "link": "https://www.newsweek.com/sports/ncaa/alarming-lane-kiffin-stat-emerges-after-lsus-upset-loss-to-kentucky-12553049",
-          "pub": 1791741780000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1245,24 +3045,6 @@
       ]
     },
     {
-      "title": "Exclusive: Charli XCX on MISTR and Carrying Madonna's Torch",
-      "pub": 1791740752000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Exclusive: Charli XCX on MISTR and Carrying Madonna's Torch",
-          "deck": "Charli XCX sits down with Newsweek to talk National PrEP Day, teaming up with MISTR, and carrying forward Madonna’s torch.",
-          "link": "https://www.newsweek.com/entertainment/charli-xcx-exclusive-interview-madonna-mistr-12553155",
-          "pub": 1791740752000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "India’s Youth Protests Challenge Narendra Modi",
       "pub": 1791740656000,
       "lean": "ll",
@@ -1295,24 +3077,6 @@
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-      "pub": 1791739819000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-          "deck": "How Liverpool and Man City's players rated following their Premier League match.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
-          "pub": 1791739819000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
         }
       ]
     },
@@ -1515,60 +3279,6 @@
       ]
     },
     {
-      "title": "Saints Hit With 'Major' Illness Before Matchup with Vikings",
-      "pub": 1791737875000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saints Hit With 'Major' Illness Before Matchup with Vikings",
-          "deck": "The New Orleans Saints are less than full-strength for their matchup with the Minnesota Vikings on Sunday.",
-          "link": "https://www.newsweek.com/sports/nfl/saints-hit-with-major-illness-before-matchup-with-vikings-12553040",
-          "pub": 1791737875000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Vikings to Be Without Two Star Wide Receivers vs Saints",
-      "pub": 1791737693000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Vikings to Be Without Two Star Wide Receivers vs Saints",
-          "deck": "The Minnesota Vikings are going to be very short-handed on offense versus the New Orleans Saints.",
-          "link": "https://www.newsweek.com/sports/nfl/vikings-to-be-without-two-star-wide-receivers-vs-saints-12553021",
-          "pub": 1791737693000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Map Shows How States Mark Columbus Day As Trump Vows To Protect Holiday",
-      "pub": 1791737633000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Map Shows How States Mark Columbus Day As Trump Vows To Protect Holiday",
-          "deck": "Trump vows to protect Columbus Day as states differ over whether to mark it or Indigenous Peoples Day.",
-          "link": "https://www.newsweek.com/map-shows-how-states-mark-columbus-day-as-trump-vows-to-protect-holiday-12552798",
-          "pub": 1791737633000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
       "pub": 1791737615000,
       "lean": "ct",
@@ -1587,60 +3297,6 @@
       ]
     },
     {
-      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-      "pub": 1791737570000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-          "deck": "A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.",
-          "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
-          "pub": 1791737570000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Alabama Fans Pelted Georgia Players With Bottles After Crushing Defeat",
-      "pub": 1791737563000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Alabama Fans Pelted Georgia Players With Bottles After Crushing Defeat",
-          "deck": "Georgia players kept their helmets on as Alabama fans hurled bottles and cans after a 20-17 loss in Tuscaloosa.",
-          "link": "https://www.newsweek.com/sports/ncaa/alabama-fans-pelted-georgia-players-with-bottles-after-crushing-defeat-12552999",
-          "pub": 1791737563000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Ravens Receive Significant Lamar Jackson News Ahead of Next Matchup",
-      "pub": 1791737320000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ravens Receive Significant Lamar Jackson News Ahead of Next Matchup",
-          "deck": "The Baltimore Ravens have received an important update on Lamar Jackson as the team prepares for its next matchup.",
-          "link": "https://www.newsweek.com/sports/nfl/ravens-receive-significant-lamar-jackson-news-ahead-of-next-matchup-12552969",
-          "pub": 1791737320000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "What to know about Pope Leo’s lung surgery",
       "pub": 1791737238000,
       "lean": "ll",
@@ -1649,48 +3305,12 @@
       "versions": [
         {
           "title": "What to know about Pope Leo’s lung surgery",
-          "deck": "Pope Leo XIV said Sunday he will have surgery this week to remove an early-stage nodule on his lung.",
+          "deck": "said",
           "link": "https://www.nbcnews.com/health/health-news/pope-leo-lung-surgery-nodule-what-to-know-rcna602760",
           "pub": 1791737238000,
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Mullin says livestreaming Hasan execution is part of 'restoring American values'",
-      "pub": 1791737208000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mullin says livestreaming Hasan execution is part of 'restoring American values'",
-          "deck": "Department of Homeland Security (DHS) Secretary Markwayne Mullin stood behind the Trump administration’s decision to livestream the military execution of convicted Fort Hood shooter Nidal Hasan, despite growing bipartisan criticism over the plan.",
-          "link": "https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/",
-          "pub": 1791737208000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Raiders Make Ashton Jeanty Decision for Matchup With Patriots",
-      "pub": 1791737182000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Raiders Make Ashton Jeanty Decision for Matchup With Patriots",
-          "deck": "Las Vegas Raiders running back Ashton Jeanty was no sure thing to play against the New England Patriots on Sunday.",
-          "link": "https://www.newsweek.com/sports/nfl/raiders-make-ashton-jeanty-decision-for-matchup-with-patriots-12552972",
-          "pub": 1791737182000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1713,60 +3333,6 @@
       ]
     },
     {
-      "title": "Commanders Reveal Star WR Terry McLaurin's Week 5 Status",
-      "pub": 1791736997000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Commanders Reveal Star WR Terry McLaurin's Week 5 Status",
-          "deck": "The Washington Commanders have revealed if wide receiver Terry McLaurin will play in Week 5.",
-          "link": "https://www.newsweek.com/sports/nfl/commanders-reveal-star-wr-terry-mclaurins-week-5-status-12552978",
-          "pub": 1791736997000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Justin Jefferson Gets Major Update Right Before Vikings-Saints Game",
-      "pub": 1791736901000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Justin Jefferson Gets Major Update Right Before Vikings-Saints Game",
-          "deck": "The Vikings got major news on star receiver Justin Jefferson right before their Week 5 matchup against the Saints.",
-          "link": "https://www.newsweek.com/sports/nfl/justin-jefferson-gets-major-update-right-before-vikings-saints-game-12552934",
-          "pub": 1791736901000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "pub": 1791736897000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
-          "deck": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-          "pub": 1791736897000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Democrat Chris Pappas says \"we're taking nothing for granted\" in N.H. race",
       "pub": 1791736846000,
       "lean": "ll",
@@ -1778,24 +3344,6 @@
           "deck": "Democratic Rep.",
           "link": "https://www.cbsnews.com/news/chris-pappas-new-hampshire-democrat-tough-race/",
           "pub": 1791736846000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Transcript: Sen. Chris Murphy on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
-      "pub": 1791736648000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Transcript: Sen. Chris Murphy on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
-          "deck": "The following is the transcript of the interview with Sen.",
-          "link": "https://www.cbsnews.com/news/chris-murphy-connecticut-senator-10-11-2026/",
-          "pub": 1791736648000,
           "src": "CBS",
           "srcFull": "CBS News",
           "lean": "ll"
@@ -1857,24 +3405,6 @@
       ]
     },
     {
-      "title": "James Talarico’s Chances in Texas Senate Race After Absence",
-      "pub": 1791736203000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "James Talarico’s Chances in Texas Senate Race After Absence",
-          "deck": "Talarico’s odds remain strong despite a nine-day absence that drew criticism from Republicans.",
-          "link": "https://www.newsweek.com/james-talaricos-chances-in-texas-senate-race-after-absence-12552679",
-          "pub": 1791736203000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Nine Dead, Including Two Children, In Pennsylvania Family Mass Shooting",
       "pub": 1791736200000,
       "lean": "lr",
@@ -1893,24 +3423,6 @@
       ]
     },
     {
-      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "pub": 1791736195000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-          "deck": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
-          "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-          "pub": 1791736195000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
       "pub": 1791736139000,
       "lean": "ll",
@@ -1925,24 +3437,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
-      "pub": 1791736093000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
-          "deck": "House Majority Whip Tom Emmer (R-Minn.",
-          "link": "https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/",
-          "pub": 1791736093000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -2040,7 +3534,7 @@
       "title": "Zelensky says critics blaming him for Russia-Ukraine war 'can't find a key how to stop Putin'",
       "pub": 1791734860000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -2051,24 +3545,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Transcript: Sen. John Barrasso on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
-      "pub": 1791734659000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Transcript: Sen. John Barrasso on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
-          "deck": "The following is the transcript of the interview with Senate Majority Whip John Barrasso, Republican of Wyoming, that aired on \"Face the Nation with Margaret Brennan\" on Oct.",
-          "link": "https://www.cbsnews.com/news/john-barrasso-senate-republican-whip-face-the-nation-transcript-10-11-2026/",
-          "pub": 1791734659000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
         }
       ]
     },
@@ -2091,28 +3567,10 @@
       ]
     },
     {
-      "title": "Trump, Vance blitz Ohio as Democrats look to flip governor's mansion",
-      "pub": 1791734400000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump, Vance blitz Ohio as Democrats look to flip governor's mansion",
-          "deck": "The red-leaning Buckeye State governor’s mansion could flip for the first time in two decades as Democrat Amy Acton narrowly leads Republican Vivek Ramaswamy in recent polls of their bitter midterm battle.",
-          "link": "https://thehill.com/homenews/campaign/6139956-ohio-governor-election-ramaswamy-acton/",
-          "pub": 1791734400000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Higher education curricula must adapt to the needs of today's students",
       "pub": 1791734400000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2199,24 +3657,6 @@
       ]
     },
     {
-      "title": "Hurricane Simon lashes Mexico's Pacific coast as a powerful Category 4 storm",
-      "pub": 1791734350000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Hurricane Simon lashes Mexico's Pacific coast as a powerful Category 4 storm",
-          "deck": "Simon strengthened into a powerful Category 4 hurricane as it barreled toward Mexico's Pacific coast.",
-          "link": "https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-coast/",
-          "pub": 1791734350000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probe",
       "pub": 1791734274000,
       "lean": "lr",
@@ -2230,24 +3670,6 @@
           "pub": 1791734274000,
           "src": "FoxB",
           "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "El Sayed attributes past criticism of Obama to ‘younger’ and ‘angry’ self",
-      "pub": 1791734247000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "El Sayed attributes past criticism of Obama to ‘younger’ and ‘angry’ self",
-          "deck": "Michigan Democratic Senate nominee Abdul el Sayed on Sunday blamed his past critiques of former President Barack Obama on his “younger” and “angry” self as the two are set to campaign together ahead of the midterm elections.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4762530/el-sayed-criticism-obama-michigan-campaign/",
-          "pub": 1791734247000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
           "lean": "lr"
         }
       ]
@@ -2307,24 +3729,6 @@
       ]
     },
     {
-      "title": "Trump announces Russia-Ukraine \"energy ceasefire\" after criticizing Zelenskyy",
-      "pub": 1791732829000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump announces Russia-Ukraine \"energy ceasefire\" after criticizing Zelenskyy",
-          "deck": "Ukrainian President Volodymyr Zelenskyy said Russia alone is responsible for the war in Ukraine, after President Trump said he should be replaced.",
-          "link": "https://www.cbsnews.com/news/zelenskyy-trump-new-ukrainian-president/",
-          "pub": 1791732829000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "pub": 1791732752000,
       "lean": "ct",
@@ -2379,24 +3783,6 @@
       ]
     },
     {
-      "title": "Live updates: Trump claims Russia-Ukraine energy ceasefire; Zelensky rips diesel deal",
-      "pub": 1791732360000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Live updates: Trump claims Russia-Ukraine energy ceasefire; Zelensky rips diesel deal",
-          "deck": "President Trump on Sunday claimed that Russia and Ukraine reached an energy ceasefire amid the two countries' yearslong war.",
-          "link": "https://thehill.com/homenews/administration/6140988-live-updates-zelensky-set-for-sunday-interview-amid-backlash-to-trumps-russia-diesel-deal/",
-          "pub": 1791732360000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Halloween candy prices jump 8.1% as Americans prepare to spend billions on treats",
       "pub": 1791732041000,
       "lean": "lr",
@@ -2411,24 +3797,6 @@
           "src": "FoxB",
           "srcFull": "Fox Business",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Marshall pays bakery bill after complaint goes viral",
-      "pub": 1791731976000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Marshall pays bakery bill after complaint goes viral",
-          "deck": "Sen. Roger Marshall (R-Kan.) paid a Kansas bakery $1,300 Saturday after its owner publicly accused his campaign of leaving a nearly $700 bill unpaid for six years. The payment came days after Holly Thomas, owner of Holly’s Sweet Treats in Hutchinson, Kan., said Marshall’s 2020 Senate campaign never paid for cookies, cupcakes and brownies ordered...",
-          "link": "https://thehill.com/homenews/campaign/6141341-marshall-pays-kansas-bakery/",
-          "pub": 1791731976000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
         }
       ]
     },
@@ -2487,15 +3855,15 @@
       ]
     },
     {
-      "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says this is ‘news for me’",
+      "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says that’s ‘news for me’",
       "pub": 1791730963000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says this is ‘news for me’",
-          "deck": "President Donald Trump claimed Sunday that Ukraine and Russia have agreed to an “energy ceasefire” as part of the ongoing conflict.",
+          "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says that’s ‘news for me’",
+          "deck": "President Donald Trump made a similar announcement a month ago, only for the two sides to continue their aerial attacks on each other’s energy facilities.",
           "link": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766",
           "pub": 1791730963000,
           "src": "NBC",
@@ -2526,7 +3894,7 @@
       "title": "Honor the Rosies where they belong: On the National Mall",
       "pub": 1791730800000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2541,46 +3909,10 @@
       ]
     },
     {
-      "title": "Permanent daylight saving time could leave students commuting in the dark, data shows",
-      "pub": 1791730800000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Permanent daylight saving time could leave students commuting in the dark, data shows",
-          "deck": "While permanent daylight saving time would cause the sun to set later in winter, the sun would, in turn, rise later in the morning.",
-          "link": "https://thehill.com/homenews/state-watch/6137093-permanent-daylight-saving-time-could-leave-students-commuting-in-the-dark-data-shows/",
-          "pub": 1791730800000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Devout Christians boast great family lives. Lukewarm ones fare worse than the non-religious",
-      "pub": 1791730800000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Devout Christians boast great family lives. Lukewarm ones fare worse than the non-religious",
-          "deck": "For the last several decades, much sociological focus has been devoted to the religious “Nones,” or those who do not affiliate with a religion.",
-          "link": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4758943/nominal-protestants-divorce-marital-satisfaction/",
-          "pub": 1791730800000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Slammed on the brakes to save a life? Your insurance app just penalized you",
       "pub": 1791730800000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2598,7 +3930,7 @@
       "title": "How 38,000 AI songs might be the biggest shift in Bible access since Gutenberg",
       "pub": 1791730800000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -2690,24 +4022,6 @@
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
-      "pub": 1791730047000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
-          "deck": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches.",
-          "link": "https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html",
-          "pub": 1791730047000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -2892,15 +4206,15 @@
       ]
     },
     {
-      "title": "Sen. Thom Tillis says he believes Trump’s fuel deal with Russia could be breaking the law",
+      "title": "Lawmakers push back on Trump’s fuel deal with Russia",
       "pub": 1791728134000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Sen. Thom Tillis says he believes Trump’s fuel deal with Russia could be breaking the law",
-          "deck": "Sen. Thom Tillis, R-N.C., said that President Donald Trump’s decision to ease sanctions on Russia in order to allow Russia to release diesel fuel to the global market may be breaking the law.",
+          "title": "Lawmakers push back on Trump’s fuel deal with Russia",
+          "deck": "Republican Sen.",
           "link": "https://www.nbcnews.com/politics/white-house/thom-tillis-fuel-deal-russia-may-break-law-ukraine-rcna602757",
           "pub": 1791728134000,
           "src": "NBC",
@@ -3036,24 +4350,6 @@
       ]
     },
     {
-      "title": "An ‘Epic’ failure: I paid my hospital bill — then their AI demanded $27,000 more",
-      "pub": 1791727200000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "An ‘Epic’ failure: I paid my hospital bill — then their AI demanded $27,000 more",
-          "deck": "I paid for my medical care.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4756691/ai-medical-billing-errors-epic-system/",
-          "pub": 1791727200000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Copy, paste, sue: How class-action lawyers turn morning news into cash",
       "pub": 1791727200000,
       "lean": "lr",
@@ -3064,6 +4360,24 @@
           "title": "Copy, paste, sue: How class-action lawyers turn morning news into cash",
           "deck": "On Nov. 14, 2023, STAT News published an investigation into how a UnitedHealth subsidiary used an algorithm to shape the length of Medicare Advantage rehab stays. By the end of the same day, a class-action complaint against UnitedHealth was on file in federal court. It cited STAT reporting from its March and November articles repeatedly, […]",
           "link": "https://www.washingtonexaminer.com/op-eds/4755942/copy-paste-sue-class-action-news-articles-prompt-lawsuits-realclear-investigation/",
+          "pub": 1791727200000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "An ‘Epic’ failure: I paid my hospital bill — then their AI demanded $27,000 more",
+      "pub": 1791727200000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "An ‘Epic’ failure: I paid my hospital bill — then their AI demanded $27,000 more",
+          "deck": "I paid for my medical care.",
+          "link": "https://www.washingtonexaminer.com/op-eds/4756691/ai-medical-billing-errors-epic-system/",
           "pub": 1791727200000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
@@ -3494,7 +4808,7 @@
       "versions": [
         {
           "title": "Abdul El-Sayed says Democrats must ‘win by massive numbers’ to fend off GOP election denial",
-          "deck": "Michigan Senate nominee Abdul El-Sayed said his fellow Democrats need to “win by massive numbers” in the midterm elections so the result “is unquestionable.",
+          "deck": "Michigan’s Democratic Senate nominee said he’s concerned that Trump and GOP candidate Mike Rogers “are not committed to the institution of our democracy.",
           "link": "https://www.nbcnews.com/politics/2026-election/el-sayed-midterms-democrats-win-election-denial-rcna602062",
           "pub": 1791723640000,
           "src": "NBC",
@@ -3828,37 +5142,19 @@
       ]
     },
     {
-      "title": "Could ‘little red dots’ illuminate the origins of the universe?",
+      "title": "This telescope is making priceless discoveries. The greatest was unforeseen.",
       "pub": 1791721018000,
       "lean": "ll",
       "cat": "Opinion",
       "single": true,
       "versions": [
         {
-          "title": "Could ‘little red dots’ illuminate the origins of the universe?",
+          "title": "This telescope is making priceless discoveries. The greatest was unforeseen.",
           "deck": "Scientists don't know what they’ll find until they find it.",
           "link": "https://www.washingtonpost.com/opinions/2026/10/12/little-red-dots-space-illuminate-where-our-universe-came/",
           "pub": 1791721018000,
           "src": "WaPo",
           "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Remnants of Hurricane Isaias Set to Drench Tens of Millions",
-      "pub": 1791720776000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Remnants of Hurricane Isaias Set to Drench Tens of Millions",
-          "deck": "Isaias is no longer a hurricane but the storm is still causing big problems across the Southeast and up the East Coast bringing tornadoes and flooding rains to millions.",
-          "link": "https://www.today.com/video/remnants-of-hurricane-isaias-set-to-drench-tens-of-millions-271405637860",
-          "pub": 1791720776000,
-          "src": "NBC",
-          "srcFull": "NBC News",
           "lean": "ll"
         }
       ]
@@ -4026,24 +5322,6 @@
       ]
     },
     {
-      "title": "Four Hours and Three Minutes in Ithaca",
-      "pub": 1791720344000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Four Hours and Three Minutes in Ithaca",
-          "deck": "On the most traumatic night in a young woman’s life, a good man could not be found.",
-          "link": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
-          "pub": 1791720344000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
       "pub": 1791720240000,
       "lean": "ll",
@@ -4147,1266 +5425,6 @@
           "pub": 1791720000000,
           "src": "NPR",
           "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump is waging all-out war against journalists",
-      "pub": 1791720000000,
-      "lean": "ct",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump is waging all-out war against journalists",
-          "deck": "Shortly before returning to office after the 2024 race, Trump proclaimed, “LAWFARE IS DEAD.",
-          "link": "https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat/",
-          "pub": 1791720000000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "NASA chief says all UAP data released; Coulthart says no | Reality Check",
-      "pub": 1791720000000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "NASA chief says all UAP data released; Coulthart says no | Reality Check",
-          "deck": "Ross Coulthart host tackles questions about the Apollo 17 “blue dots” film, Jake Barber’s new claim about a cylindrical \"mothership\" and whether AI is key to understanding UAP.",
-          "link": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/nasa-chief-says-all-uap-data-released-coulthart-says-no-reality-check/",
-          "pub": 1791720000000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Modern science can reverse heart disease. Washington prefers cheap statins",
-      "pub": 1791720000000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Modern science can reverse heart disease. Washington prefers cheap statins",
-          "deck": "A quiet algorithmic coup recently reshaped American medicine.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4744725/prevent-equations-statin-guidelines-personalized-care/",
-          "pub": 1791720000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Your landlord doesn’t care if you hate Trump: The brutal cost of revenge voting",
-      "pub": 1791720000000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Your landlord doesn’t care if you hate Trump: The brutal cost of revenge voting",
-          "deck": "With the imminent midterm election and arrival of mail-in ballots at your house, I implore you to vote for a candidate only if you truly believe in the party’s and its candidate’s policies.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4753515/anti-trump-revenge-vote-cost-of-living-vote-based-on-policies-rewarding-earnest-effort/",
-          "pub": 1791720000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "AI will decide how the Holocaust is remembered. Don’t leave that to conspiracy theorists",
-      "pub": 1791720000000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI will decide how the Holocaust is remembered. Don’t leave that to conspiracy theorists",
-          "deck": "A student raises her hand and asks a question into the microphone.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4758454/ai-holocaust-education-survivor-testimony/",
-          "pub": 1791720000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Pope will have surgery after doctors discover nodule in his lung",
-      "pub": 1791718982000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pope will have surgery after doctors discover nodule in his lung",
-          "deck": "Pope Leo XIV said that the nodule was “detected at a very early stage and is well localized,” and that the surgery would be in the coming days.",
-          "link": "https://www.washingtonpost.com/world/2026/10/11/pope-will-have-surgery-remove-nodule-his-lung-vatican-says/",
-          "pub": 1791718982000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "NATO Country Detains, Expels Popular Russian Military Blogger",
-      "pub": 1791718500000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "NATO Country Detains, Expels Popular Russian Military Blogger",
-          "deck": "NATO Country Detains, Expels Popular Russian Military Blogger A prominent and influential Russian military blogger has been detained by a NATO country, and the Kremlin is urgently seeking answers.",
-          "link": "https://www.zerohedge.com/geopolitical/nato-country-detains-expels-popular-russian-military-blogger",
-          "pub": 1791718500000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Watchtower",
-      "pub": 1791718455000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Watchtower",
-          "deck": "We take a look at escalating surveillance in China.",
-          "link": "https://www.nytimes.com/2026/10/11/briefing/chinese-surveillance.html",
-          "pub": 1791718455000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Pope Leo to undergo surgery after nodular lesion found in lung, Vatican says",
-      "pub": 1791718162000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pope Leo to undergo surgery after nodular lesion found in lung, Vatican says",
-          "deck": "The American pope has no previously known health problems and is known to be physically active",
-          "link": "https://www.cbsnews.com/news/pope-leo-surgery-nodular-lesion-lung-vatican/",
-          "pub": 1791718162000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
-      "pub": 1791718095000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
-          "deck": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines.",
-          "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
-          "pub": 1791718095000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Wringing Hope From the Rubble of Gaza",
-      "pub": 1791717954000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Wringing Hope From the Rubble of Gaza",
-          "deck": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct.",
-          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-          "pub": 1791717954000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What to Know About the Protests in India",
-      "pub": 1791717883000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "What to Know About the Protests in India",
-          "deck": "Scattered protests against sweeping revisions to India’s voter rolls broke out on Sunday in New Delhi.",
-          "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-          "pub": 1791717883000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "pub": 1791717102000,
-      "lean": "ct",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-          "deck": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-          "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-          "pub": 1791717102000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "‘Israel’s Lobby’ offers a simplistic, caricatured view of U.S.-Israel relations",
-      "pub": 1791716969000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Israel’s Lobby’ offers a simplistic, caricatured view of U.S.-Israel relations",
-          "deck": "In Israel’s Lobby: America in the Grip of a Foreign Power, Eli Clifton and Ian Lustick promise to pull back the curtain on what they believe is among the most important dynamics underlying today’s politics: the pro-Israel lobby’s alleged control over American foreign policy.",
-          "link": "https://www.washingtonexaminer.com/premium/4757434/most-unconvincing-case-israel-us-lobby/",
-          "pub": 1791716969000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "India's \"Cockroach Party\" leaders released from detention",
-      "pub": 1791716518000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "India's \"Cockroach Party\" leaders released from detention",
-          "deck": "Three leaders of India's Cockroach Janata Party, a youth movement, were released Sunday, a day after they were detained ahead of protests against a contentious revision of voter lists.",
-          "link": "https://www.cbsnews.com/news/india-cockroach-party-leaders-released-protests/",
-          "pub": 1791716518000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "One month into the NFL season, referees are the biggest story",
-      "pub": 1791716441000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "One month into the NFL season, referees are the biggest story",
-          "deck": "Rare public suspensions, numerous flags and rescinded fines have made those who set and enforce the rules as much of a discussion topic as the NFL’s more visible stars.",
-          "link": "https://www.nbcnews.com/sports/nfl/nfl-referees-officials-flags-suspension-rcna602202",
-          "pub": 1791716441000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "CEO SUNDAY: Denny’s CEO shares the simple rule guiding his turnaround of the iconic diner chain",
-      "pub": 1791716427000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "CEO SUNDAY: Denny’s CEO shares the simple rule guiding his turnaround of the iconic diner chain",
-          "deck": "As Denny’s pursues its turnaround strategy, CEO Christopher Bode says staying focused on the company’s biggest priorities is critical to avoiding “organizational creep.",
-          "link": "https://www.foxbusiness.com/business-leaders/ceo-sunday-dennys-ceo-shares-simple-rule-guiding-his-turnaround-iconic-diner-chain",
-          "pub": 1791716427000,
-          "src": "FoxB",
-          "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Today in Supreme Court History: October 11, 1972",
-      "pub": 1791716425000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Today in Supreme Court History: October 11, 1972",
-          "deck": "10/11/1972: Roe v.",
-          "link": "https://reason.com/volokh/2026/10/11/today-in-supreme-court-history-october-11-1972-8/",
-          "pub": 1791716425000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump Has Been Trampling Free Speech for More Than 40 Years—and It Keeps Getting Worse",
-      "pub": 1791716414000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Has Been Trampling Free Speech for More Than 40 Years—and It Keeps Getting Worse",
-          "deck": "The president stands out from his modern predecessors by openly displaying his contempt for the First Amendment.",
-          "link": "https://reason.com/2026/10/11/trump-has-been-trampling-free-speech-for-more-than-40-years-and-it-keeps-getting-worse/",
-          "pub": 1791716414000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Racist Tinge to These A.I. Literary Scandals",
-      "pub": 1791716410000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Racist Tinge to These A.I. Literary Scandals",
-          "deck": "The recent scandals around A.",
-          "link": "https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html",
-          "pub": 1791716410000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Samuel Alito and New Jersey’s Fallen Columbus Statue",
-      "pub": 1791716408000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Samuel Alito and New Jersey’s Fallen Columbus Statue",
-          "deck": "Justice Alito has a history of nudging the boundaries of judicial rectitude.",
-          "link": "https://www.nytimes.com/2026/10/11/opinion/justice-alito-columbus-statue-trenton.html",
-          "pub": 1791716408000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Sanyi Kakas (Sanyi the Rooster)",
-      "pub": 1791716403000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sanyi Kakas (Sanyi the Rooster)",
-          "deck": "In the small Hungarian city of Bekescsaba, an unexpected hero has stirred the universal longing for freedom.",
-          "link": "https://www.nytimes.com/video/opinion/100000010887229/sanyi-kakas-sanyi-the-rooster.html",
-          "pub": 1791716403000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Lethal injection is no kinder than a firing squad",
-      "pub": 1791716400000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lethal injection is no kinder than a firing squad",
-          "deck": "America’s quest for a humane execution says more about us than the condemned.",
-          "link": "https://www.washingtonpost.com/opinions/2026/10/11/christa-pike-botched-execution-exposes-reality-death-penalty/",
-          "pub": 1791716400000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What is Alito trying to say about originalism and the Supreme Court?",
-      "pub": 1791716400000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "What is Alito trying to say about originalism and the Supreme Court?",
-          "deck": "The justice's mixed messages on the Constitution and executive power can be seen in a new collection of his speeches.",
-          "link": "https://www.washingtonpost.com/opinions/2026/10/11/samuel-alito-jr-new-book-sends-mixed-messages-originalism/",
-          "pub": 1791716400000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Amid Cultural Turmoil, ‘Live Faithfully a Hidden Life’",
-      "pub": 1791716400000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Amid Cultural Turmoil, ‘Live Faithfully a Hidden Life’",
-          "deck": "Down with the looksmaxxers, influencers, and bomb-throwers.",
-          "link": "https://thedispatch.com/newsletter/dispatch-faith/christianity-book-of-common-prayer-eliot/",
-          "pub": 1791716400000,
-          "src": "DISP",
-          "srcFull": "The Dispatch",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "\"We Did Not Follow Your Insane Migration Policies\": Slovak MEP Crushes Brussels Bureaucrats Over Mass Crime, Riots",
-      "pub": 1791716400000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "\"We Did Not Follow Your Insane Migration Policies\": Slovak MEP Crushes Brussels Bureaucrats Over Mass Crime, Riots",
-          "deck": "\"We Did Not Follow Your Insane Migration Policies\": Slovak MEP Crushes Brussels Bureaucrats Over Mass Crime, Riots Authored by - Remix News Staff - via Remix News, A Slovak member of the European Parliament said Wednesday that street violence, sexual attacks and Islamist agitation seen in parts of Western Europe have not occurred in Poland or Slovakia because those countries rejected the same migration policies as countries like France, Germany, and Belgium.",
-          "link": "https://www.zerohedge.com/geopolitical/we-did-not-follow-your-insane-migration-policies-slovak-mep-crushes-brussels",
-          "pub": 1791716400000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
-      "pub": 1791715397000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
-          "deck": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.",
-          "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
-          "pub": 1791715397000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Pope Leo says he will undergo surgery to remove a nodule on his lung",
-      "pub": 1791714893000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Pope Leo says he will undergo surgery to remove a nodule on his lung",
-          "deck": "Pope Leo XIV announced Sunday that he will undergo surgery to remove an early-stage nodule on his lung.",
-          "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-undergo-surgery-remove-nodule-lung-rcna602747",
-          "pub": 1791714893000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "At least 12 killed, more than 300 hurt in strike on Saudi airport, officials say",
-      "pub": 1791714882000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "At least 12 killed, more than 300 hurt in strike on Saudi airport, officials say",
-          "deck": "At least 12 people, including one American, were killed and 309 others injured in a strike Saturday​ on Riyadh's King Khalid International Airport.",
-          "link": "https://www.cbsnews.com/news/riyadh-saudi-airport-attack-deaths-injuries/",
-          "pub": 1791714882000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "pub": 1791714842000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Buildings swept away as flash floods hit central Nepal",
-          "deck": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
-          "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-          "pub": 1791714842000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Canada's First Nations Are Using Their Land To Build Dense Housing",
-      "pub": 1791714659000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Canada's First Nations Are Using Their Land To Build Dense Housing",
-          "deck": "Exempt from Vancouver's building restrictions, Squamish Nation is constructing a 6,000-unit residential high-rise.",
-          "link": "https://reason.com/2026/10/11/vancouvers-first-nation-yimbyism/",
-          "pub": 1791714659000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Xi ‘Sinicizes’ China’s Catholic Church, with Vatican Approval",
-      "pub": 1791714658000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Xi ‘Sinicizes’ China’s Catholic Church, with Vatican Approval",
-          "deck": "China’s clerics are becoming propagandists for the government.",
-          "link": "https://www.nationalreview.com/2026/10/xi-sinicizes-chinas-catholic-church-with-vatican-approval/",
-          "pub": 1791714658000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Naipaul’s Nobel",
-      "pub": 1791714652000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Naipaul’s Nobel",
-          "deck": "25 years ago, the Swedish Academy made a wise choice.",
-          "link": "https://www.nationalreview.com/2026/10/naipauls-nobel/",
-          "pub": 1791714652000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Revolutionary Battle of Valcour Island",
-      "pub": 1791714631000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Revolutionary Battle of Valcour Island",
-          "deck": "An American lake battle 250 years ago bought the Patriots essential time the British couldn’t afford to lose.",
-          "link": "https://www.nationalreview.com/2026/10/the-revolutionary-battle-of-valcour-island/",
-          "pub": 1791714631000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Big Changes to Change",
-      "pub": 1791714626000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Big Changes to Change",
-          "deck": "Quarters underwent a facelift while we weren’t looking.",
-          "link": "https://www.nationalreview.com/2026/10/the-big-changes-to-change/",
-          "pub": 1791714626000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Media’s ‘Resistance’ Era Is Over — Whether They Know It or Not",
-      "pub": 1791714606000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Media’s ‘Resistance’ Era Is Over — Whether They Know It or Not",
-          "deck": "Democrats’ trust in the press has fallen to its lowest reading in 50 years.",
-          "link": "https://www.nationalreview.com/2026/10/the-medias-resistance-era-is-over-whether-they-know-it-or-not/",
-          "pub": 1791714606000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Resisting the Nazis Was the West’s Finest Hour",
-      "pub": 1791714604000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Resisting the Nazis Was the West’s Finest Hour",
-          "deck": "No matter what Tucker Carlson and his ilk say.",
-          "link": "https://www.nationalreview.com/2026/10/resisting-the-nazis-was-the-wests-finest-hour/",
-          "pub": 1791714604000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Fill the government with barbarians, you get barbaric government",
-      "pub": 1791714600000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Fill the government with barbarians, you get barbaric government",
-          "deck": "Pete Hegseth wants to morally instruct America with a public execution?",
-          "link": "https://www.washingtonpost.com/opinions/2026/10/11/fill-government-with-barbarians-you-get-barbaric-government/",
-          "pub": 1791714600000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "What happened inside Russia’s plague lab?",
-      "pub": 1791714600000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "What happened inside Russia’s plague lab?",
-          "deck": "Russia's plague lab, public land, fuel efficiency and Trump's $90 payments, in readers' eyes.",
-          "link": "https://www.washingtonpost.com/opinions/2026/10/11/russias-plague-mystery-needs-answers/",
-          "pub": 1791714600000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "When Terrorism Was First Fashionable",
-      "pub": 1791714600000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "When Terrorism Was First Fashionable",
-          "deck": "Carlos the Jackal set the stage for the era of suicide bombers and large coordinated terrorist attacks.",
-          "link": "https://www.nationalreview.com/2026/10/when-terrorism-was-first-fashionable/",
-          "pub": 1791714600000,
-          "src": "NR",
-          "srcFull": "National Review",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Abdul El-Sayed addresses past criticism of Obama: 'I was younger’ and ‘angry’",
-      "pub": 1791714399000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Abdul El-Sayed addresses past criticism of Obama: 'I was younger’ and ‘angry’",
-          "deck": "In an exclusive interview with Meet the Press, Michigan Senate candidate Abdul El-Sayed (D) discusses the biggest hurdles he's facing on the campaign trail and his top priorities if he wins.",
-          "link": "https://www.nbcnews.com/meet-the-press/video/abdul-el-sayed-addresses-past-criticism-of-obama-i-was-younger-and-angry-271404101895",
-          "pub": 1791714399000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Saudi airport struck again a day after deadly attack",
-      "pub": 1791713351000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saudi airport struck again a day after deadly attack",
-          "deck": "An unidentified projectile struck Saudi Arabia’s main international airport Sunday, injuring people a day after a deadly missile attack at the same site raised questions about whether the United States would join another conflict in the region.",
-          "link": "https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744",
-          "pub": 1791713351000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "New York's Controversial Anti-Swastika Law Turns Prosecutors Into Speech Police",
-      "pub": 1791712826000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "New York's Controversial Anti-Swastika Law Turns Prosecutors Into Speech Police",
-          "deck": "Graffiti vandals are now being investigated for hate crimes.",
-          "link": "https://reason.com/2026/10/11/new-york-tries-to-legislate-away-hate/",
-          "pub": 1791712826000,
-          "src": "REAS",
-          "srcFull": "Reason",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Benefits of Prescribing Food as Medicine",
-      "pub": 1791712804000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Benefits of Prescribing Food as Medicine",
-          "deck": "To transform the health of the American population, healthy food should be something we can prescribe, writes Dr.",
-          "link": "https://time.com/article/2026/10/11/the-benefits-of-prescribing-food-as-medicine/",
-          "pub": 1791712804000,
-          "src": "TIME",
-          "srcFull": "TIME",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Democrats are running on a scant agenda. Do they need more?",
-      "pub": 1791712801000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democrats are running on a scant agenda. Do they need more?",
-          "deck": "They lack a specific plan for governing, beyond turning back Trump and holding him accountable.",
-          "link": "https://www.washingtonpost.com/politics/2026/10/11/democrats-are-running-scant-agenda-do-they-need-more/",
-          "pub": 1791712801000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Talking Shop with Angie Katsanevas from ‘The Real Housewives of Salt Lake City’",
-      "pub": 1791712800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Talking Shop with Angie Katsanevas from ‘The Real Housewives of Salt Lake City’",
-          "deck": "The Real Housewives of Salt Lake City’ star Angie Katsanevas shares her favorite Kérastase hair care and travel must-haves from Skims, SkinCeuticals and more.",
-          "link": "https://www.nbcnews.com/select/shopping/angie-katsanevas-rhoslc-favorite-things-rcna602574",
-          "pub": 1791712800000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
-      "pub": 1791712800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
-          "deck": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies.",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
-          "pub": 1791712800000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Arizona’s GOP keeps embracing election deniers who lose. It could happen again.",
-      "pub": 1791712800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Arizona’s GOP keeps embracing election deniers who lose. It could happen again.",
-          "deck": "Alexander Kolodin made his political career by championing challenges to the 2020 results.",
-          "link": "https://www.washingtonpost.com/politics/2026/10/11/arizona-gop-nominee-elections-chief-alexander-kolodin-built-his-career-trumps-big-lie/",
-          "pub": 1791712800000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "These are the voters who will decide the midterm elections",
-      "pub": 1791712800000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "These are the voters who will decide the midterm elections",
-          "deck": "Move aside, “soccer moms.",
-          "link": "https://www.washingtonpost.com/politics/interactive/2026/10/11/these-are-voters-who-will-decide-midterm-elections/",
-          "pub": 1791712800000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "In the race for AI dominance, the U.S. relies on a surprising ally: China",
-      "pub": 1791712800000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "In the race for AI dominance, the U.S. relies on a surprising ally: China",
-          "deck": "The Trump administration paints AI development as a winner-take-all contest, but U.",
-          "link": "https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/",
-          "pub": 1791712800000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The WiiM Bar Has Dolby Atmos And Smart Speaker Features For Under $500",
-      "pub": 1791712800000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "The WiiM Bar Has Dolby Atmos And Smart Speaker Features For Under $500",
-          "deck": "The new WiiM Bar is the brand's first attempt at a soundbar and it includes Dolby Atmos support and the possibility to expansion into a full-blown home theater setup.",
-          "link": "https://www.forbes.com/sites/marksparrow/2026/10/11/the-new-wiim-bar-aims-to-redefine-smart-living-room-audio/",
-          "pub": 1791712800000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Man, 36, arrested six years on from double murder",
-      "pub": 1791712363000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Man, 36, arrested six years on from double murder",
-          "deck": "Junior Ajose, 36, and Cheriff Tall, 21, were gunned down at a lockdown party six years ago.",
-          "link": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
-          "pub": 1791712363000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A fresh reason to unplug federal censorship commission",
-      "pub": 1791711900000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "A fresh reason to unplug federal censorship commission",
-          "deck": "The agency isn’t supposed to be the speech-police wing of the Trump administration, but it sure acts like it is.",
-          "link": "https://www.washingtonpost.com/opinions/2026/10/11/abolishing-fcc-would-prevent-future-harassment-tv-news-networks/",
-          "pub": 1791711900000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Northern Lights dazzle skies across the UK",
-      "pub": 1791710285000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Northern Lights dazzle skies across the UK",
-          "deck": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
-          "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-          "pub": 1791710285000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "A Contagious Aversion to Overhead Lights",
-      "pub": 1791709292000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Contagious Aversion to Overhead Lights",
-          "deck": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
-          "link": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
-          "pub": 1791709292000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-      "pub": 1791709286000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-          "deck": "A release of selected records from the classified documents inquiry is a case study in how omitting context can create political ammunition.",
-          "link": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
-          "pub": 1791709286000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-      "pub": 1791709277000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-          "deck": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts.",
-          "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-          "pub": 1791709277000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
-      "pub": 1791709253000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
-          "deck": "Threats have altered the lives of State Representative Alma Hernandez, her family, friends and neighbors.",
-          "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html",
-          "pub": 1791709253000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Who Were the Vikings? 21 Graves Weave a Tale of Hunters, Nomads and Sorceresses.",
-      "pub": 1791709235000,
-      "lean": "ll",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Who Were the Vikings? 21 Graves Weave a Tale of Hunters, Nomads and Sorceresses.",
-          "deck": "“The Sea-King and the Sorceress” examines the lives and deaths of the diverse people who called themselves Vikings.",
-          "link": "https://www.nytimes.com/2026/10/11/science/vikings-archaeology-history-sea-king-sorceress.html",
-          "pub": 1791709235000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-      "pub": 1791709231000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-          "deck": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
-          "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
-          "pub": 1791709231000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "pub": 1791709228000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-          "deck": "Though born in Ukraine, Alexsander supports the Russian cause.",
-          "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-          "pub": 1791709228000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
-      "pub": 1791709215000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
-          "deck": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.",
-          "link": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
-          "pub": 1791709215000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-      "pub": 1791709212000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-          "deck": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
-          "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-          "pub": 1791709212000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-          "deck": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
-          "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-          "pub": 1791709200000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-          "deck": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
-          "pub": 1791709200000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "It's taking longer to find a new job after losing one",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "It's taking longer to find a new job after losing one",
-          "deck": "People who lose their jobs in this economy are taking longer to find new work.",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-          "pub": 1791709200000,
-          "src": "NPR",
-          "srcFull": "NPR",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "35 years ago today, Anita Hill testified before Congress",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "35 years ago today, Anita Hill testified before Congress",
-          "deck": "Hill’s testimony was a watershed in the conversation about workplace sexual harassment.",
-          "link": "https://www.washingtonpost.com/politics/2026/10/11/this-week-history-anita-hill-testified-clarence-thomass-hearing/",
-          "pub": 1791709200000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How Trump aide Natalie Harp’s family broke apart — and polarized",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Trump aide Natalie Harp’s family broke apart — and polarized",
-          "deck": "After a tragedy, Harp’s brother, Preston, split from the family and “radicalized,” moving to Nicaragua to dedicate himself to the Sandinista cause.",
-          "link": "https://www.washingtonpost.com/world/2026/10/11/how-trump-aide-natalie-harps-family-broke-apart-polarized/",
-          "pub": 1791709200000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Thinking of retiring at 65? Here’s what it could cost you.",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Thinking of retiring at 65? Here’s what it could cost you.",
-          "deck": "Waiting to retire may make sense on paper, but the mathematics and personal considerations can vary dramatically from household to household.",
-          "link": "https://www.washingtonpost.com/business/2026/10/11/thinking-retiring-65-here-what-it-could-cost-you/",
-          "pub": 1791709200000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "He shares a name with a Cornell rape suspect. Strangers started hunting him down.",
-      "pub": 1791709200000,
-      "lean": "ll",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "He shares a name with a Cornell rape suspect. Strangers started hunting him down.",
-          "deck": "As vigilantes race to expose those connected to the case, innocent people have been doxed, threatened and falsely accused.",
-          "link": "https://www.washingtonpost.com/technology/2026/10/11/how-cornell-rape-case-turned-into-sprawling-campaign-harassment/",
-          "pub": 1791709200000,
-          "src": "WaPo",
-          "srcFull": "Washington Post",
           "lean": "ll"
         }
       ]
