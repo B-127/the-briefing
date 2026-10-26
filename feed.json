@@ -1,21 +1,1695 @@
 {
-  "generated": "2026-10-25T22:43:10.930Z",
+  "generated": "2026-10-26T00:55:54.803Z",
   "count": 300,
   "clusters": [
     {
-      "title": "Watch: Match of the Day",
-      "pub": 1792972015000,
+      "title": "Dead body found next to Disneyland Resort entrance",
+      "pub": 1792976034000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dead body found next to Disneyland Resort entrance",
+          "deck": "Pedestrians were redirected around the blocked off sidewalk while authorities processed the area.",
+          "link": "https://nypost.com/2026/10/25/us-news/body-found-near-disneyland-resort-sign-in-anaheim-police-investigating/",
+          "pub": 1792976034000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "More than 1,000 arrested in France as protesters and police clash",
+      "pub": 1792976031000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "More than 1,000 arrested in France as protesters and police clash",
+          "deck": "While demonstrations throughout France were largely peaceful, police reported clashes with protesters Saturday evening.",
+          "link": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+          "pub": 1792976031000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
+      "pub": 1792975885000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
+          "deck": "The veteran leader secured his non-consecutive fourth term, with his next term scheduled to begin on Jan.",
+          "link": "https://nypost.com/2026/10/25/world-news/trump-critic-lula-wins-reelection-in-brazil-securing-fourth-presidential-term/",
+          "pub": 1792975885000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen'",
+      "pub": 1792975851000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Watch: Match of the Day",
-          "deck": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
-          "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-          "pub": 1792972015000,
+          "title": "The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen'",
+          "deck": "Stories about the Budget and the investigation into the father of the Duchess of Sussex feature on Monday's front pages.",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&at_campaign=rss",
+          "pub": 1792975851000,
           "src": "BBC",
           "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Lula wins fourth term as Brazil's president",
+      "pub": 1792975713000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lula wins fourth term as Brazil's president",
+          "deck": "With 100% of the vote counted, Brazil's electoral court announced that the soon-to-be 81-year-old Luiz Inácio Lula da Silva held an unassailable lead.",
+          "link": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
+          "pub": 1792975713000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Matt LaFleur Reacts to Controversial Penalties in Packers-Lions Game",
+      "pub": 1792975700000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Matt LaFleur Reacts to Controversial Penalties in Packers-Lions Game",
+          "deck": "There were plenty of controversial calls on the Packers during their loss to the Lions on Sunday.",
+          "link": "https://www.newsweek.com/sports/nfl/matt-lafleur-reacts-controversial-penalties-packers-lions-game-12617305",
+          "pub": 1792975700000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+      "pub": 1792975699000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+          "deck": "President Luiz Inácio Lula da Silva fended off a right-wing movement led by Flávio Bolsonaro, whose father was convicted of a coup attempt after the 2022 election.",
+          "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+          "pub": 1792975699000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Brazil's Lula wins presidential election in runoff vote",
+      "pub": 1792975629000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brazil's Lula wins presidential election in runoff vote",
+          "deck": "Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.",
+          "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+          "pub": 1792975629000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+      "pub": 1792975560000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+          "deck": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+          "pub": 1792975560000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+      "pub": 1792975510000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+          "deck": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country,",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+          "pub": 1792975510000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Country Music Superstar Luke Bryan's QB Son Commits to SEC Powerhouse",
+      "pub": 1792975490000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Country Music Superstar Luke Bryan's QB Son Commits to SEC Powerhouse",
+          "deck": "Bo Bryan has been described as “a coach’s dream.",
+          "link": "https://www.newsweek.com/sports/ncaa/country-music-superstar-luke-bryans-qb-son-commits-to-sec-powerhouse-12617257",
+          "pub": 1792975490000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "New Fight at Gritty Manhattan Park Is Over ‘Punk Rock’ Pull-Up Bars",
+      "pub": 1792975073000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "New Fight at Gritty Manhattan Park Is Over ‘Punk Rock’ Pull-Up Bars",
+          "deck": "The Parks Department has a $10 million plan to renovate the northeast corner of Tompkins Square Park, but fans of its workout bars want things to stay just as they are.",
+          "link": "https://www.nytimes.com/2026/10/25/nyregion/tompkins-square-park-pull-up-bars-renovation.html",
+          "pub": 1792975073000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "pub": 1792975071000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+          "deck": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+          "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+          "pub": 1792975071000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Restore funding to the LA School Police — our kids deserve to feel safe",
+      "pub": 1792975045000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Restore funding to the LA School Police — our kids deserve to feel safe",
+          "deck": "The idea that minority children feared the LASPD was always absurd.",
+          "link": "https://nypost.com/2026/10/25/opinion/restore-funding-to-the-la-school-police-our-kids-deserve-to-feel-safe/",
+          "pub": 1792975045000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Lula Leads After Last-Minute Voting Extension As \"Bolsonaro Trade\" Implodes; Trader Warns Of \"Circuit Breaker\" Chaos",
+      "pub": 1792975020000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Lula Leads After Last-Minute Voting Extension As \"Bolsonaro Trade\" Implodes; Trader Warns Of \"Circuit Breaker\" Chaos",
+          "deck": "Lula Leads After Last-Minute Voting Extension As \"Bolsonaro Trade\" Implodes; Trader Warns Of \"Circuit Breaker\" Chaos Summary: With 99.",
+          "link": "https://www.zerohedge.com/political/brazil-runoff-enters-final-hour-left-right-showdown-could-reshape-latin-americas",
+          "pub": 1792975020000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Brazil's left-wing President Lula elected for fourth term",
+      "pub": 1792974900000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Brazil's left-wing President Lula elected for fourth term",
+          "deck": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+          "pub": 1792974900000,
+          "src": "NPR",
+          "srcFull": "NPR",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "María Corina Machado Returns to Venezuela",
+      "pub": 1792974769000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "María Corina Machado Returns to Venezuela",
+          "deck": "After nearly 10 months in exile, Ms.",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+          "pub": 1792974769000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "How a movement of students brought down Serbia's Vučić",
+      "pub": 1792974711000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How a movement of students brought down Serbia's Vučić",
+          "deck": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.",
+          "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792974711000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Here’s the latest.",
+      "pub": 1792974650000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Here’s the latest.",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+          "pub": 1792974650000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Billy Crystal brings down the house with one-man show on LA home lost to Palisades wildfire",
+      "pub": 1792974640000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Billy Crystal brings down the house with one-man show on LA home lost to Palisades wildfire",
+          "deck": "Billy Crystal.",
+          "link": "https://nypost.com/2026/10/25/opinion/billy-crystal-brings-down-the-house-with-one-man-show-on-la-home-lost-to-palisades-wildfire/",
+          "pub": 1792974640000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Heroes, zeros from Giants’ win over Texans: Micah McFadden makes most of first start",
+      "pub": 1792974618000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Heroes, zeros from Giants’ win over Texans: Micah McFadden makes most of first start",
+          "deck": "Heroes, zeros and the full blitz from the Giants’ 27-21 win over the Texans on Sunday:",
+          "link": "https://nypost.com/2026/10/25/sports/heroes-zeros-from-giants-win-over-texans/",
+          "pub": 1792974618000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump Treasury Lining Up Private Debt Collectors To Seize Wages From Nearly 10 Million Student Loan Defaulters: Report",
+      "pub": 1792974600000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Treasury Lining Up Private Debt Collectors To Seize Wages From Nearly 10 Million Student Loan Defaulters: Report",
+          "deck": "Trump Treasury Lining Up Private Debt Collectors To Seize Wages From Nearly 10 Million Student Loan Defaulters: Report Trump administration officials are preparing to penalize millions of Americans in default on their federal student loans next year, The Washington Sun reported, citing five people familiar with the matter.",
+          "link": "https://www.zerohedge.com/political/trump-treasury-lining-private-debt-collectors-seize-wages-nearly-10-million-student-loan",
+          "pub": 1792974600000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jonathan Taylor's Wife Breaks Silence on Colts Trade Rumors",
+      "pub": 1792974416000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jonathan Taylor's Wife Breaks Silence on Colts Trade Rumors",
+          "deck": "Colts RB Jonathan Taylor's wife Ayanna shared her honest thoughts about seeing her husband's name circulating in trade rumors.",
+          "link": "https://www.newsweek.com/sports/nfl/jonathan-taylors-wife-breaks-silence-on-colts-trade-rumors-12617289",
+          "pub": 1792974416000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "pub": 1792974409000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "deck": "The economic is positive now but come January things could become trickier for the Labour government",
+          "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+          "pub": 1792974409000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump Doing Everything He Can To Shake Down Voters",
+      "pub": 1792974309000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Doing Everything He Can To Shake Down Voters",
+          "deck": "The end of the Trump era is in sight.",
+          "link": "https://www.realclearpolitics.com/2026/10/25/trump_doing_everything_he_can_to_shake_down_voters_715304.html",
+          "pub": 1792974309000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Dalton Knecht’s chance at redemption will begin in G League",
+      "pub": 1792974285000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Dalton Knecht’s chance at redemption will begin in G League",
+          "deck": "Head coach Mike Brown said he wants the Knicks’ new acquisition to get game reps rather than just “sit.",
+          "link": "https://nypost.com/2026/10/25/sports/dalton-knechts-chance-at-redemption-will-begin-in-g-league/",
+          "pub": 1792974285000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Republicans Will Go to Prison if Dems Win in Nov",
+      "pub": 1792974197000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Republicans Will Go to Prison if Dems Win in Nov",
+          "deck": "The casual way Democrats threaten to throw Republicans in prison or prosecute them for supporting President Trump is alarming and indicative of exactly what they will try to do if they win power on Nov.",
+          "link": "https://www.realclearpolitics.com/2026/10/25/republicans_will_go_to_prison_if_dems_win_in_nov_715303.html",
+          "pub": 1792974197000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "A Diagnosis Is Not a Destiny. Neither Is Conventional Wisdom",
+      "pub": 1792974095000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Diagnosis Is Not a Destiny. Neither Is Conventional Wisdom",
+          "deck": "Nearly every day in my practice, a patient sits across from me and hears words no one wants to hear.",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/25/a_diagnosis_is_not_a_destiny_neither_is_conventional_wisdom_154618.html",
+          "pub": 1792974095000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Russell Wilson Sends Dak Prescott Blunt Message Ahead of Cowboys-Eagles Clash",
+      "pub": 1792974085000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Russell Wilson Sends Dak Prescott Blunt Message Ahead of Cowboys-Eagles Clash",
+          "deck": "Russell Wilson sends a strong message to Dak Prescott as the Cowboys look to seize control of the NFC East against the Eagles.",
+          "link": "https://www.newsweek.com/sports/nfl/russell-wilson-sends-dak-prescott-blunt-message-ahead-of-cowboys-eagles-clash-12617244",
+          "pub": 1792974085000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "GOP On Verge of Losing the Latino Vote",
+      "pub": 1792974060000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "GOP On Verge of Losing the Latino Vote",
+          "deck": "Every two years, politicians and media outlets alike remember that Latino Americans are a voting bloc in this country in the final hours of the election cycle.",
+          "link": "https://www.realclearpolitics.com/2026/10/25/gop_on_verge_of_losing_the_latino_vote_715301.html",
+          "pub": 1792974060000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump Bringing Closing Momentum Shift to Republicans",
+      "pub": 1792974058000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Bringing Closing Momentum Shift to Republicans",
+          "deck": "Right now, 47 is feeling bullish about where things are headed.",
+          "link": "https://www.realclearpolitics.com/video/2026/10/24/jesse_watters_trump_bringing_closing_momentum_shift_to_republicans.html",
+          "pub": 1792974058000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The French Republic Is Defenseless",
+      "pub": 1792973971000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "The French Republic Is Defenseless",
+          "deck": "Macron, the authorities and the media are in total denial about what French society is up against.",
+          "link": "https://www.realclearpolitics.com/2026/10/25/the_french_republic_is_defenseless_715318.html",
+          "pub": 1792973971000,
+          "src": "RCP",
+          "srcFull": "RealClear Politics",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Americans fed up with all the constant campaign texting — and it could backfire on candidates: poll",
+      "pub": 1792973844000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Americans fed up with all the constant campaign texting — and it could backfire on candidates: poll",
+          "deck": "With midterm elections just nine days away, Americans are fed up with getting blitzed with constant campaign calls and text messages and warned that candidates who overdo it could get punished at the ballot box, a new poll claims.",
+          "link": "https://nypost.com/2026/10/25/us-news/americans-fed-up-with-all-the-constant-campaign-texting-and-it-could-backfire-on-candidates-poll/",
+          "pub": 1792973844000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "$89K AI robot unleashed in NYC park to learn human behavior — and eventually become a babysitter",
+      "pub": 1792973649000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "$89K AI robot unleashed in NYC park to learn human behavior — and eventually become a babysitter",
+          "deck": "The AI-powered robot is still in the learning and development stages, relying on human interaction and real-world experiences to improve its intelligence.",
+          "link": "https://nypost.com/2026/10/25/us-news/89k-ai-robot-unleashed-in-nyc-park-to-learn-human-behavior/",
+          "pub": 1792973649000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Poll finds Democrats still boosted by voters' economic concerns",
+      "pub": 1792973601000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Poll finds Democrats still boosted by voters' economic concerns",
+          "deck": "President Trump is a key factor driving support and opposition; turnout looms large.",
+          "link": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+          "pub": 1792973601000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "From agriculture to AI-griculture: How tech is changing farming",
+      "pub": 1792973589000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "From agriculture to AI-griculture: How tech is changing farming",
+          "deck": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+          "link": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
+          "pub": 1792973589000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Joe Burrow Hints Bengals Needed Ja'Marr Chase's Fiery Halftime Wake-Up Call",
+      "pub": 1792973457000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Joe Burrow Hints Bengals Needed Ja'Marr Chase's Fiery Halftime Wake-Up Call",
+          "deck": "Chase needs to start a reality show where he gives motivational speeches during random people’s therapy sessions.",
+          "link": "https://www.newsweek.com/sports/nfl/joe-burrow-hints-bengals-needed-jamarr-chases-fiery-halftime-wake-up-call-12617139",
+          "pub": 1792973457000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "A-listers pledge their allegiance in LA’s mayoral race: ‘Right person for the job’",
+      "pub": 1792973421000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A-listers pledge their allegiance in LA’s mayoral race: ‘Right person for the job’",
+          "deck": "Jane Fonda, Anthony Anderson, Samuel L Jackson, Cedric the Entertainer, Yvette Nicole Brown and others have all come out calling for Karen Bass to win the LA mayor’s race.",
+          "link": "https://nypost.com/2026/10/25/us-news/hollywood-a-listers-pledge-their-allegiance-in-las-mayoral-race/",
+          "pub": 1792973421000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "pub": 1792973236000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+          "deck": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792973236000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "JuJu Watkins is back — and USC star showed no rust after 580-day layoff",
+      "pub": 1792973202000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "JuJu Watkins is back — and USC star showed no rust after 580-day layoff",
+          "deck": "It’s been 580 days since Juju Watkins was last on a basketball court, and it seems like she never missed a beat.",
+          "link": "https://nypost.com/2026/10/25/sports/juju-watkins-looks-like-her-old-self-in-dazzling-return-after-580-day-absence/",
+          "pub": 1792973202000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jets’ inability to get the ball to Garrett Wilson has become downright baffling",
+      "pub": 1792973128000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jets’ inability to get the ball to Garrett Wilson has become downright baffling",
+          "deck": "How can the Jets not get Wilson the ball, especially after forgetting about him for most of the game in New England last week?",
+          "link": "https://nypost.com/2026/10/25/sports/jets-inability-to-get-the-ball-to-garrett-wilson-has-become-downright-baffling/",
+          "pub": 1792973128000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+      "pub": 1792973000000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+          "deck": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
+          "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+          "pub": 1792973000000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "LSU and Alabama Face Brutal CFP Warning Ahead of Crucial SEC Showdown",
+      "pub": 1792972997000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "LSU and Alabama Face Brutal CFP Warning Ahead of Crucial SEC Showdown",
+          "deck": "LSU and Alabama face a crucial SEC showdown, with one analyst warning the loser could miss the College Football Playoff.",
+          "link": "https://www.newsweek.com/sports/ncaa/lsu-and-alabama-face-brutal-cfp-warning-ahead-of-crucial-sec-showdown-12616928",
+          "pub": 1792972997000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Ravens Pro Bowler Accused of Being 'Scared' of Bengals' Ja'Marr Chase",
+      "pub": 1792972838000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Ravens Pro Bowler Accused of Being 'Scared' of Bengals' Ja'Marr Chase",
+          "deck": "Fans are calling out Ravens CB Marlon Humphrey after what he said about Bengals WR Ja'Marr Chase.",
+          "link": "https://www.newsweek.com/sports/nfl/ravens-pro-bowler-accused-of-being-scared-of-bengals-jamarr-chase-12617136",
+          "pub": 1792972838000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms",
+      "pub": 1792972836000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms",
+          "deck": "Officials said the AI bot accessed publicly available voter data through the state's data hub but did not access voter files or Georgia's voter registration system.",
+          "link": "https://www.foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms",
+          "pub": 1792972836000,
+          "src": "FoxB",
+          "srcFull": "Fox Business",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Disarming The Pencil Pushers? Administrative Agencies Begin To Cut Spending On Guns, Ammo",
+      "pub": 1792972800000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Disarming The Pencil Pushers? Administrative Agencies Begin To Cut Spending On Guns, Ammo",
+          "deck": "Disarming The Pencil Pushers?",
+          "link": "https://www.zerohedge.com/political/disarming-pencil-pushers-administrative-agencies-begin-cut-spending-guns-ammo",
+          "pub": 1792972800000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Luka Doncic’s 52-point masterpiece fuels Lakers’ wild comeback against Jazz",
+      "pub": 1792972654000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Luka Doncic’s 52-point masterpiece fuels Lakers’ wild comeback against Jazz",
+          "deck": "The Lakers superstar found his offensive rhythm.",
+          "link": "https://nypost.com/2026/10/25/sports/luka-doncics-52-point-masterpiece-fuels-lakers-wild-comeback-against-jazz/",
+          "pub": 1792972654000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
+      "pub": 1792972522000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
+          "deck": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+          "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+          "pub": 1792972522000,
+          "src": "CNBC",
+          "srcFull": "CNBC",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Movie star-linked donut shop reveals closing date for LA store — but says it’s not the end",
+      "pub": 1792972500000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Movie star-linked donut shop reveals closing date for LA store — but says it’s not the end",
+          "deck": "Trejo's Donuts announced Saturday that the store located near Highland Ave & Santa Monica Blvd will serve its last coffee and donut on Oct.",
+          "link": "https://nypost.com/2026/10/25/us-news/movie-star-danny-trejos-donut-shop-reveals-closing-date-for-la-store-but-says-its-not-the-end/",
+          "pub": 1792972500000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Meghan Markle told father she knew of child sexual allegations in final letter",
+      "pub": 1792972457000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Meghan Markle told father she knew of child sexual allegations in final letter",
+          "deck": "The Duchess of Sussex told her father she was aware of the sexual abuse allegations that have been made against him.",
+          "link": "https://www.newsnationnow.com/entertainment-news/meghan-markle-father-sexual-allegation-children-letter/",
+          "pub": 1792972457000,
+          "src": "NWSN",
+          "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Packers-Lions Refs Under Fire for Controversial Roughing the Passer Penalty",
+      "pub": 1792972448000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Packers-Lions Refs Under Fire for Controversial Roughing the Passer Penalty",
+          "deck": "There were multiple controversial calls made during the Packers-Lions showdown, including this one during a crucial moment.",
+          "link": "https://www.newsweek.com/sports/nfl/packers-lions-refs-under-fire-controversial-roughing-passer-penalty-12617198",
+          "pub": 1792972448000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Thousands of American restaurants closing over rising costs, declining sales",
+      "pub": 1792972421000,
+      "lean": "ll",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thousands of American restaurants closing over rising costs, declining sales",
+          "deck": "In the first six months of 2026, more than 7,500 restaurant locations have closed nationwide.",
+          "link": "https://www.cbsnews.com/video/thousands-american-restaurants-closing-rising-costs-declining-sales/",
+          "pub": 1792972421000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Majority of homes in NI have power restored after Storm Boelo",
+      "pub": 1792972384000,
+      "lean": "ct",
+      "cat": "Science",
+      "single": true,
+      "versions": [
+        {
+          "title": "Majority of homes in NI have power restored after Storm Boelo",
+          "deck": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
+          "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+          "pub": 1792972384000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How a New Mexico lawsuit ‘win’ vs. Meta could tank the whole US economy",
+      "pub": 1792972231000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How a New Mexico lawsuit ‘win’ vs. Meta could tank the whole US economy",
+          "deck": "Any business in America can be hauled into a New Mexico kangaroo court on some cockamamie theory, with zero evidence anyone ever suffered as a result, and fined more than the value of your entire company — and unable to appeal unless you can cough up even more cash to post bond.",
+          "link": "https://nypost.com/2026/10/25/opinion/new-mexico-lawsuit-vs-meta-could-tank-the-whole-us-economy/",
+          "pub": 1792972231000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "pub": 1792972175000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
+          "deck": "A timely demographic story on election night that we’ve never been able to tell before.",
+          "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+          "pub": 1792972175000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "‘Wildwood’ Review: LAIKA’s Stop-Motion Fantasy Is A Breathtaking Triumph Of Human Artistry",
+      "pub": 1792972125000,
+      "lean": "ct",
+      "cat": "Technology",
+      "single": true,
+      "versions": [
+        {
+          "title": "‘Wildwood’ Review: LAIKA’s Stop-Motion Fantasy Is A Breathtaking Triumph Of Human Artistry",
+          "deck": "Wildwood is the must-see theatrical release of October, a true masterpiece of human artistry and craf",
+          "link": "https://www.forbes.com/sites/erikkain/2026/10/25/wildwood-review-laikas-stop-motion-fantasy-is-a-breathtaking-triumph-of-human-artistry/",
+          "pub": 1792972125000,
+          "src": "FORB",
+          "srcFull": "Forbes",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Rams deliver statement win over Raiders with season hanging in the balance",
+      "pub": 1792972033000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rams deliver statement win over Raiders with season hanging in the balance",
+          "deck": "LAS VEGAS – The Rams saw a door crack open with the 49ers’ first loss of the season on Sunday and refused to let it slam shut.",
+          "link": "https://nypost.com/2026/10/25/sports/rams-deliver-statement-win-over-raiders-with-season-hanging-in-the-balance/",
+          "pub": 1792972033000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Jets defense toyed with by Dolphins as unit whiffs in brutal loss",
+      "pub": 1792972019000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jets defense toyed with by Dolphins as unit whiffs in brutal loss",
+          "deck": "The previously winless Dolphins entered Sunday averaging just 14.",
+          "link": "https://nypost.com/2026/10/25/sports/jets-defense-toyed-with-by-dolphins-as-unit-whiffs-in-brutal-loss/",
+          "pub": 1792972019000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
+      "pub": 1792972012000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
+          "deck": "Sen. Thom Tillis (R-N.C.) on Sunday said it was \"appropriate to take a look at\" the outcome of the Alaska Senate race with two candidates with similar names on the ballot, which prompted a Department of Justice (DOJ) lawsuit. \"Alaska has a candidate who just coincidentally happens to be the same name as my friend...",
+          "link": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/",
+          "pub": 1792972012000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "A Murky Situation in Alaska",
+      "pub": 1792971992000,
+      "lean": "lr",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "A Murky Situation in Alaska",
+          "deck": "If Lisa Murkowski stays with the GOP, she will have functional control of the Senate floor while wielding increasingly powerful gavels.",
+          "link": "https://www.nationalreview.com/corner/a-murky-situation-in-alaska/",
+          "pub": 1792971992000,
+          "src": "NR",
+          "srcFull": "National Review",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Israel to close West Bank crossings before elections amid military operation",
+      "pub": 1792971960000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Israel to close West Bank crossings before elections amid military operation",
+          "deck": "The Israeli military's operation comes in response to a gun attack that killed two Israeli soldiers and wounded three others in the West Bank.",
+          "link": "https://www.cbsnews.com/news/israel-military-operation-west-bank-elections/",
+          "pub": 1792971960000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "pub": 1792971874000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+          "deck": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact.",
+          "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792971874000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Netanyahu's party lags in polls ahead of first election since Oct. 7, 2023",
+      "pub": 1792971840000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Netanyahu's party lags in polls ahead of first election since Oct. 7, 2023",
+          "deck": "Benjamin Netanyahu's Likud party is lagging behind in the polls ahead of Israel's first election since the Oct.",
+          "link": "https://www.cbsnews.com/video/netanyahus-party-lags-polls-ahead-first-election-since-oct-7-2023/",
+          "pub": 1792971840000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "George Kittle Has Unexpected Take on 49ers' First Loss of Season",
+      "pub": 1792971750000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "George Kittle Has Unexpected Take on 49ers' First Loss of Season",
+          "deck": "49ers tight end George Kittle had an interesting take after the Atlanta Falcons handed San Francisco its first loss.",
+          "link": "https://www.newsweek.com/sports/nfl/george-kittle-has-unexpected-take-on-49ers-first-loss-of-season-12617116",
+          "pub": 1792971750000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump attacks Abdul El-Sayed in Michigan campaign stop",
+      "pub": 1792971720000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump attacks Abdul El-Sayed in Michigan campaign stop",
+          "deck": "Candidates are in their last full week of campaigning before the midterm elections, and early voting is already underway in 43 states.",
+          "link": "https://www.cbsnews.com/video/trump-attacks-abdul-el-sayed-michigan-campaign-stop/",
+          "pub": 1792971720000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
+      "pub": 1792971709000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
+          "pub": 1792971709000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Giants HC John Harbaugh Says JJ McCarthy 'Has Scars' From Vikings Trade",
+      "pub": 1792971411000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Giants HC John Harbaugh Says JJ McCarthy 'Has Scars' From Vikings Trade",
+          "deck": "The quarterback made his first start for the Giants on Sunday, helping deliver an overtime win against the Texans.",
+          "link": "https://www.newsweek.com/sports/nfl/giants-john-harbaugh-jj-mccarthy-has-scars-vikings-trade-12617081",
+          "pub": 1792971411000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+      "pub": 1792971331000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+          "deck": "At rallies this weekend, Mr.",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+          "pub": 1792971331000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.",
+      "pub": 1792971217000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.",
+          "deck": "",
+          "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election",
+          "pub": 1792971217000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "pub": 1792971199000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+          "deck": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+          "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792971199000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "pub": 1792971194000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "deck": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792971194000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
+      "pub": 1792971147000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
+          "deck": "The president attacked Abdul El-Sayed, the Democratic Senate nominee who is locked in a dead heat against Republican Mike Rogers.",
+          "link": "https://www.nbcnews.com/politics/2026-election/trump-leans-islamophobic-rhetoric-michigan-rally-rcna605572",
+          "pub": 1792971147000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Democrats Retreat From House Races They Hoped To Flip",
+      "pub": 1792971000000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Democrats Retreat From House Races They Hoped To Flip",
+          "deck": "Democrats Retreat From House Races They Hoped To Flip History favors the party out of power in a midterm, but one problem has dogged the Democratic Party for months, and it's now undermining their plans to win as many seats as possible: money.",
+          "link": "https://www.zerohedge.com/political/democrats-retreat-house-races-they-hoped-flip",
+          "pub": 1792971000000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "WATCH LIVE: Bernie Sanders rallies with Abdul el Sayed in Michigan",
+      "pub": 1792970800000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "WATCH LIVE: Bernie Sanders rallies with Abdul el Sayed in Michigan",
+          "deck": "Sen. Bernie Sanders (I-VT) is holding a rally for Michigan Democratic Senate candidate Abdul el Sayed on Sunday evening in the final lap of the midterm election campaign season. El Sayed, locked in a race that will likely prove crucial to determining majority control of the upper chamber in November, was leading Republican nominee Mike […]",
+          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4779088/watch-live-bernie-sanders-rallies-with-abdul-el-sayed-in-michigan/",
+          "pub": 1792970800000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Giants' Cam Skattebo Calls Out NFL After Receiving Controversial Penalty",
+      "pub": 1792970782000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Giants' Cam Skattebo Calls Out NFL After Receiving Controversial Penalty",
+          "deck": "Giants running back Cam Skattebo calls out the NFL after being flagged for unnecessary roughness in their Week 7 game.",
+          "link": "https://www.newsweek.com/sports/nfl/giants-cam-skattebo-calls-out-nfl-after-receiving-controversial-penalty-12617047",
+          "pub": 1792970782000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Colts Fans Turn on HC Shane Steichen After Controversial Daniel Jones Comments",
+      "pub": 1792970435000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Colts Fans Turn on HC Shane Steichen After Controversial Daniel Jones Comments",
+          "deck": "Indianapolis Colts fans want Shane Steichen to make a QB change since Daniel Jones is struggling.",
+          "link": "https://www.newsweek.com/sports/nfl/colts-fans-turn-on-hc-shane-steichen-after-controversial-daniel-jones-comments-12617086",
+          "pub": 1792970435000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Legendary USC receiver unloads on ‘f—ing joke’ Trojans after Lincoln Riley’s latest disaster",
+      "pub": 1792970333000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Legendary USC receiver unloads on ‘f—ing joke’ Trojans after Lincoln Riley’s latest disaster",
+          "deck": "The pressure is mounting on USC head coach Lincoln Riley, and the results aren’t meeting expectations.",
+          "link": "https://nypost.com/2026/10/25/sports/keyshawn-johnson-unloads-on-fing-joke-usc-after-lincoln-rileys-latest-disaster/",
+          "pub": 1792970333000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Trump on Alaska Election: 'A Lot of People Don’t Know What Incumbent Means'",
+      "pub": 1792970051000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump on Alaska Election: 'A Lot of People Don’t Know What Incumbent Means'",
+          "deck": "Trump said many people don’t know what “incumbent” means while criticizing Alaska’s Senate ballot and its two Sullivans.",
+          "link": "https://www.newsweek.com/trump-alaska-election-incumbent-dan-sullivan-12617125",
+          "pub": 1792970051000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "pub": 1792969841000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+          "deck": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+          "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+          "pub": 1792969841000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Mikal Bridges’ all-too-familar Knicks slump means something more this year",
+      "pub": 1792969841000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Mikal Bridges’ all-too-familar Knicks slump means something more this year",
+          "deck": "It feels like we go through this every year because … well, we go through this every year.",
+          "link": "https://nypost.com/2026/10/25/sports/mikal-bridges-back-in-slump-knicks-fans-are-all-too-famliar-with/",
+          "pub": 1792969841000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Crackdown in the West Bank days ahead of Israeli elections",
+      "pub": 1792969730000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Crackdown in the West Bank days ahead of Israeli elections",
+          "deck": "The IDF ordered new restrictions on the West Bank ahead of Israeli elections this week.",
+          "link": "https://www.nbcnews.com/nightly-news/video/crackdown-in-the-west-bank-days-ahead-of-israeli-elections-272201285820",
+          "pub": 1792969730000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "A-list couple channels ‘Game of Thrones’ characters in jaw-dropping Halloween 2026 costumes",
+      "pub": 1792969695000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "A-list couple channels ‘Game of Thrones’ characters in jaw-dropping Halloween 2026 costumes",
+          "deck": "The superstar pair took their \"Game of Thrones\" obsession to the next level.",
+          "link": "https://pagesix.com/2026/10/25/celebrity-news/a-list-couple-channels-game-of-thrones-characters-in-jaw-dropping-halloween-2026-costumes/",
+          "pub": 1792969695000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Fire at seafood plant forces evacuations in Oregon",
+      "pub": 1792969521000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Fire at seafood plant forces evacuations in Oregon",
+          "deck": "Evacuations were ordered in Oregon after a fire at a seafood plant sent thick smoke and fog into the air.",
+          "link": "https://www.nbcnews.com/nightly-news/video/fire-at-seafood-plant-forces-evacuations-in-oregon-272202309804",
+          "pub": 1792969521000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "No risk of ammonia contamination, officials say, after fire at Oregon seafood plant prompted evacuations",
+      "pub": 1792969475000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "No risk of ammonia contamination, officials say, after fire at Oregon seafood plant prompted evacuations",
+          "deck": "The fire erupted Sunday morning at Pacific Seafood, a major seafood processing and distribution plant.",
+          "link": "https://www.nbcnews.com/news/us-news/newport-oregon-pacific-seafood-fire-ammonia-rcna605603",
+          "pub": 1792969475000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Skechers’s beachside SoCal HQ goes on the market after massive renovation",
+      "pub": 1792969363000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Skechers’s beachside SoCal HQ goes on the market after massive renovation",
+          "deck": "The three-story building at 228 Manhattan Beach Boulevard, just blocks from the Pacific Ocean, is being offered through a competitive bidding process handled by commercial real estate firm CBRE.",
+          "link": "https://nypost.com/2026/10/25/business/skechers-puts-longtime-headquarters-up-for-sale-just-eight-years-after-major-renovatio/",
+          "pub": 1792969363000,
+          "src": "NYP",
+          "srcFull": "New York Post",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "The World Has Changed. So Must Our Approach to Israel.",
+      "pub": 1792969227000,
+      "lean": "ll",
+      "cat": "Opinion",
+      "single": true,
+      "versions": [
+        {
+          "title": "The World Has Changed. So Must Our Approach to Israel.",
+          "deck": "The upcoming elections won’t deliver an end to the attacks on Palestinians without tough new penalties from the U.",
+          "link": "https://www.nytimes.com/2026/10/23/opinion/israel-netanyahu-democrats-us.html",
+          "pub": 1792969227000,
+          "src": "NYT",
+          "srcFull": "New York Times",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Trump Says He Might Support Student Loan Interest Cap",
+      "pub": 1792969200000,
+      "lean": "lr",
+      "cat": "Business",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump Says He Might Support Student Loan Interest Cap",
+          "deck": "Trump Says He Might Support Student Loan Interest Cap Authored by Tom Gantert via The Epoch Times, President Donald Trump said on Saturday that he might support a bill capping federal student loan interest at 2.",
+          "link": "https://www.zerohedge.com/political/trump-says-he-might-support-student-loan-interest-cap",
+          "pub": 1792969200000,
+          "src": "ZH",
+          "srcFull": "ZeroHedge",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Bengals WR Ja'Marr Chase Reveals Fiery Halftime Message in Ravens Win",
+      "pub": 1792969011000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Bengals WR Ja'Marr Chase Reveals Fiery Halftime Message in Ravens Win",
+          "deck": "Bengals star Ja'Marr Chase revealed the fiery message he delivered to teammates after a scoreless first half against the Ravens.",
+          "link": "https://www.newsweek.com/sports/nfl/bengals-wr-jamarr-chase-reveals-fiery-halftime-message-in-ravens-win-12616980",
+          "pub": 1792969011000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "pub": 1792968897000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "deck": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792968897000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
+      "pub": 1792968750000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
+          "deck": "President Trump called out Michigan Senate candidate Abdul El-Sayed on Sunday, saying he should have to pass through a metal detector to enter the Senate building.",
+          "link": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/",
+          "pub": 1792968750000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Hugo Gurdon on France unrest: Extreme leftists co-opted school protests to ‘bring down Western society’",
+      "pub": 1792968623000,
+      "lean": "lr",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Hugo Gurdon on France unrest: Extreme leftists co-opted school protests to ‘bring down Western society’",
+          "deck": "Washington Examiner editorial director Hugo Gurdon said organizations such as Antifa are to blame for the violent riots in France.",
+          "link": "https://www.washingtonexaminer.com/news/world/4779271/hugo-gurdon-france-unrest-extreme-leftists-bring-down-western-society/",
+          "pub": 1792968623000,
+          "src": "EXAM",
+          "srcFull": "Washington Examiner",
+          "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "ESPN Analyst: ‘It’s Over’ for AFC Head Coach After ‘Inexcusable’ Coaching Decision",
+      "pub": 1792968587000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "ESPN Analyst: ‘It’s Over’ for AFC Head Coach After ‘Inexcusable’ Coaching Decision",
+          "deck": "ESPN's Mike Greenberg has called out Jets head coach Aaron Glenn after the team's loss to the Dolphins.",
+          "link": "https://www.newsweek.com/sports/nfl/espn-analyst-its-over-for-afc-head-coach-after-inexcusable-coaching-decision-12617008",
+          "pub": 1792968587000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "Trump and Obama rally supporters in key battleground states ahead of midterms",
+      "pub": 1792968565000,
+      "lean": "ll",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Trump and Obama rally supporters in key battleground states ahead of midterms",
+          "deck": "President Trump and former President Obama both took to Michigan this weekend to rally supporters in the key battleground state ahead of midterms.",
+          "link": "https://www.nbcnews.com/nightly-news/video/trump-and-obama-rally-supporters-in-key-battleground-states-ahead-of-midterms-272200773800",
+          "pub": 1792968565000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
+      "title": "Jameis Winston Leads Hilarious TD Celebration After QB Sneak Play",
+      "pub": 1792968366000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Jameis Winston Leads Hilarious TD Celebration After QB Sneak Play",
+          "deck": "Jameis Winston may have been demoted to the backup position, but he still delivered when the Giants needed him on Sunday.",
+          "link": "https://www.newsweek.com/sports/nfl/jameis-winston-leads-hilarious-td-celebration-qb-sneak-play-12617019",
+          "pub": 1792968366000,
+          "src": "NWWK",
+          "srcFull": "Newsweek",
           "lean": "ct"
         }
       ]
@@ -24,7 +1698,7 @@
       "title": "Fast Takes: RFK Jr.’s not radical enough, stop the all-consuming fraud blob and more",
       "pub": 1792968126000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -35,24 +1709,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "pub": 1792968054000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-          "deck": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-          "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-          "pub": 1792968054000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -75,38 +1731,20 @@
       ]
     },
     {
-      "title": "Rabbi charged with murder after man fatally struck at SoCal Costco",
-      "pub": 1792967991000,
-      "lean": "lr",
+      "title": "NFL game kicks off in France after mass protests",
+      "pub": 1792967949000,
+      "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Rabbi charged with murder after man fatally struck at SoCal Costco",
-          "deck": "A prominent rabbi is behind bars on a multi-million dollar bond and charged with murder after a young man was mowed down and killed this week.",
-          "link": "https://nypost.com/2026/10/25/us-news/rabbi-abba-bryski-charged-with-murder-after-costco-incident-in-california/",
-          "pub": 1792967991000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "St. John’s proves Rick Pitino wrong in overwhelming preseason finale win over Texas",
-      "pub": 1792967986000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "St. John’s proves Rick Pitino wrong in overwhelming preseason finale win over Texas",
-          "deck": "These Johnnies made last Sunday’s version seem like impostors.",
-          "link": "https://nypost.com/2026/10/25/sports/st-johns-proves-rick-pitino-wrong-in-preseason-finale-win-over-texas/",
-          "pub": 1792967986000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "NFL game kicks off in France after mass protests",
+          "deck": "The NFL kicked off its first-ever game in France on Sunday, despite widespread protests this weekend in cities across that country.",
+          "link": "https://www.nbcnews.com/nightly-news/video/nfl-game-kicks-off-in-france-after-mass-protests-272201797679",
+          "pub": 1792967949000,
+          "src": "NBC",
+          "srcFull": "NBC News",
+          "lean": "ll"
         }
       ]
     },
@@ -129,46 +1767,10 @@
       ]
     },
     {
-      "title": "Rams receiver opens up about Davante Adams injury, stepping into spotlight",
-      "pub": 1792967753000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rams receiver opens up about Davante Adams injury, stepping into spotlight",
-          "deck": "Rams WR Konata Mumpfield reveals his emotional reaction to Davante Adams' injury, lessons learned from Puka Nacua and confidence in the team's playoff hopes.",
-          "link": "https://nypost.com/2026/10/25/sports/rams-wr-konata-mumpfield-opens-up-about-davante-adams-injury-lessons-from-puka-nacua/",
-          "pub": 1792967753000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-      "pub": 1792967720000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-          "deck": "A timely demographic story on election night that we’ve never been able to tell before.",
-          "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-          "pub": 1792967720000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "No ordinary midterm — this election is a stark choice for America’s future",
       "pub": 1792967572000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -179,24 +1781,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Brazil counts votes in presidential runoff between Lula and Flávio Bolsonaro",
-      "pub": 1792967520000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Brazil counts votes in presidential runoff between Lula and Flávio Bolsonaro",
-          "deck": "Brazilians are choosing between President Luiz Inácio Lula da Silva and Flávio Bolsonaro in a polarizing presidential election.",
-          "link": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
-          "pub": 1792967520000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
         }
       ]
     },
@@ -215,42 +1799,6 @@
           "src": "NWWK",
           "srcFull": "Newsweek",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Giants takeaways, report card from NFL Week 7 win over Texans",
-      "pub": 1792967458000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Giants takeaways, report card from NFL Week 7 win over Texans",
-          "deck": "Here are Paul Schwartz's takeaways and report card from the Giants' 27-21 overtime win over the Texans.",
-          "link": "https://nypost.com/2026/10/25/sports/giants-takeaways-report-card-from-nfl-week-7-win-over-texans/",
-          "pub": 1792967458000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Lewis Hamilton makes rare comment on his relationship with Kim Kardashian’s 4 kids",
-      "pub": 1792967222000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Lewis Hamilton makes rare comment on his relationship with Kim Kardashian’s 4 kids",
-          "deck": "The race car driver hard-launched his romance with the reality star at the 2026 Super Bowl earlier this year.",
-          "link": "https://pagesix.com/2026/10/25/celebrity-news/lewis-hamilton-makes-rare-comment-on-his-relationship-with-kim-kardashians-4-kids/",
-          "pub": 1792967222000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
         }
       ]
     },
@@ -309,56 +1857,20 @@
       ]
     },
     {
-      "title": "Heroes, zeros from Jets’ loss to Dolphins: Malik Willis had his way with Gang Green",
-      "pub": 1792966662000,
-      "lean": "lr",
+      "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
+      "pub": 1792966693000,
+      "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Heroes, zeros from Jets’ loss to Dolphins: Malik Willis had his way with Gang Green",
-          "deck": "Heroes, zeros and the full blitz from the Jets’ 28-25 loss to the Dolphins on Sunday:",
-          "link": "https://nypost.com/2026/10/25/sports/heroes-zeros-from-jets-loss-to-dolphins-malik-willis-had-his-way-with-gang-green/",
-          "pub": 1792966662000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "The Barry Trotz formula longtime Islanders see in Pete Deboer’s success",
-      "pub": 1792966632000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Barry Trotz formula longtime Islanders see in Pete Deboer’s success",
-          "deck": "Stop if you’ve heard this before.",
-          "link": "https://nypost.com/2026/10/25/sports/the-barry-trotz-formula-longtime-islanders-see-in-pete-deboer/",
-          "pub": 1792966632000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Matthew Stafford makes NFL history with record-breaking touchdown pass against Raiders",
-      "pub": 1792966604000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Matthew Stafford makes NFL history with record-breaking touchdown pass against Raiders",
-          "deck": "Matthew Stafford surpassed Roman Gabriel with his 155th Rams touchdown pass, becoming the first QB in NFL history to lead two franchises in passing TDs.",
-          "link": "https://nypost.com/2026/10/25/sports/matthew-stafford-makes-nfl-history-breaks-rams-all-time-passing-touchdown-record-vs-raiders/",
-          "pub": 1792966604000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
+          "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
+          "deck": "Sen. Thom Tillis (R-N.C.) on Sunday accused the state of California of being \"guilty\" of ballot harvesting, claiming that the Golden State has \"a system there that is ripe for abuse.\" \"Face the Nation\" host Margaret Brennan asked about the Department of Justice's (DOJ) legal battle with the state over potential noncitizens on their voter...",
+          "link": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/",
+          "pub": 1792966693000,
+          "src": "HILL",
+          "srcFull": "The Hill",
+          "lean": "ct"
         }
       ]
     },
@@ -371,29 +1883,11 @@
       "versions": [
         {
           "title": "Trump: Nicki Minaj has ‘one hell of a beautiful a**’",
-          "deck": "President Donald Trump complimented rap mogul Nicki Minaj’s body before she gave a speech at a campaign rally in Detroit on Sunday.",
+          "deck": "President Donald Trump complimented rap mogul Nicki Minaj’s body before she gave a speech at a campaign rally in metro Detroit on Sunday.",
           "link": "https://www.washingtonexaminer.com/news/white-house/4779278/trump-nicki-minaj-beautiful-ass/",
           "pub": 1792966585000,
           "src": "EXAM",
           "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Blakeman slams ‘Mamdani’s puppet’ Hochul over NY immigration policy, crime",
-      "pub": 1792966496000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Blakeman slams ‘Mamdani’s puppet’ Hochul over NY immigration policy, crime",
-          "deck": "\"I want to remind people that this un-American, antisemite, anti-Christian mayor [Mamdani] is running the Democratic Party and Kathy Hochul is nothing more than his puppet,\" Blakeman said.",
-          "link": "https://nypost.com/2026/10/25/us-news/blakeman-slams-mamdanis-puppet-hochul-over-ny-immigration-policy-crime/",
-          "pub": 1792966496000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -489,42 +1983,6 @@
       ]
     },
     {
-      "title": "Chargers get a week off from losing — but not from being the NFL’s worst",
-      "pub": 1792966257000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Chargers get a week off from losing — but not from being the NFL’s worst",
-          "deck": "Another week, another bad break for the Los Angeles Chargers.",
-          "link": "https://nypost.com/2026/10/25/sports/chargers-get-burned-on-bye-week-as-dolphins-leave-them-nfls-last-winless-team/",
-          "pub": 1792966257000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Matthew Stafford Makes NFL Passing History During Rams-Raiders Game",
-      "pub": 1792966252000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Matthew Stafford Makes NFL Passing History During Rams-Raiders Game",
-          "deck": "Los Angeles Rams quarterback Matthew Stafford made passing history during the first half of Sunday's game against Raiders.",
-          "link": "https://www.newsweek.com/sports/nfl/matthew-stafford-makes-nfl-passing-history-during-rams-raiders-game-12616922",
-          "pub": 1792966252000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Why Apple’s MacBook Pro Touch Will Not Change Laptops Forever",
       "pub": 1792966182000,
       "lean": "ct",
@@ -538,78 +1996,6 @@
           "pub": 1792966182000,
           "src": "FORB",
           "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Vikings Veteran RB Reaggravated Injury in Win Over Colts",
-      "pub": 1792966129000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Vikings Veteran RB Reaggravated Injury in Win Over Colts",
-          "deck": "The Minnesota Vikings win over the Indianapolis Colts may have come at a cost.",
-          "link": "https://www.newsweek.com/sports/nfl/vikings-veteran-rb-reaggravated-injury-in-win-over-colts-12616914",
-          "pub": 1792966129000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Trump Says ‘Norway Sucks’ After Missing Out on Nobel Peace Prize",
-      "pub": 1792966125000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Says ‘Norway Sucks’ After Missing Out on Nobel Peace Prize",
-          "deck": "Trump lashed out at Norway during a Michigan rally after again arguing that his diplomatic record deserved the Nobel Peace Prize.",
-          "link": "https://www.newsweek.com/trump-norway-sucks-nobel-peace-prize-12616935",
-          "pub": 1792966125000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Here’s the latest.",
-      "pub": 1792966093000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Here’s the latest.",
-          "deck": "",
-          "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
-          "pub": 1792966093000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "pub": 1792965986000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-          "deck": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-          "pub": 1792965986000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -669,6 +2055,24 @@
       ]
     },
     {
+      "title": "Thousands of Americans visit Paris for NFL game amid rioting, violence",
+      "pub": 1792965600000,
+      "lean": "ll",
+      "cat": "World",
+      "single": true,
+      "versions": [
+        {
+          "title": "Thousands of Americans visit Paris for NFL game amid rioting, violence",
+          "deck": "Thousands of Americans came to Paris for an NFL game between the Pittsburgh Steelers and the New Orleans Saints.",
+          "link": "https://www.cbsnews.com/video/thousands-americans-visit-paris-nfl-game-amid-rioting-violence/",
+          "pub": 1792965600000,
+          "src": "CBS",
+          "srcFull": "CBS News",
+          "lean": "ll"
+        }
+      ]
+    },
+    {
       "title": "Here’s the biggest news you missed this weekend",
       "pub": 1792965600000,
       "lean": "ll",
@@ -705,24 +2109,6 @@
       ]
     },
     {
-      "title": "TCU Makes Major Coaching Move After Homecoming Loss to West Virginia",
-      "pub": 1792965551000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "TCU Makes Major Coaching Move After Homecoming Loss to West Virginia",
-          "deck": "TCU fires a key member of Sonny Dykes' coaching staff after a painful homecoming loss to West Virginia.",
-          "link": "https://www.newsweek.com/sports/ncaa/tcu-makes-major-coaching-move-after-homecoming-loss-to-west-virginia-12616785",
-          "pub": 1792965551000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "GM expands ‘eyes-off’ autonomous driving plans to pickups and SUVs",
       "pub": 1792965549000,
       "lean": "lr",
@@ -736,24 +2122,6 @@
           "pub": 1792965549000,
           "src": "FoxB",
           "srcFull": "Fox Business",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Maniac who stabbed rabbi with syringe in NYC claims mistaken ID, as prosecutors say she spared Muslim from similar fate",
-      "pub": 1792965523000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Maniac who stabbed rabbi with syringe in NYC claims mistaken ID, as prosecutors say she spared Muslim from similar fate",
-          "deck": "The lawyer for the maniac who allegedly stabbed a rabbi and another Jewish man in two separate attacks just minutes apart in Midtown Manhattan claimed Sunday that her arrest was a case of mistaken identity.",
-          "link": "https://nypost.com/2026/10/25/us-news/maniac-who-stabbed-rabbi-with-syringe-in-nyc-claims-mistaken-id-as-prosecutors-say-she-spared-muslim-from-similar-fate/",
-          "pub": 1792965523000,
-          "src": "NYP",
-          "srcFull": "New York Post",
           "lean": "lr"
         }
       ]
@@ -773,6 +2141,24 @@
           "src": "NR",
           "srcFull": "National Review",
           "lean": "lr"
+        }
+      ]
+    },
+    {
+      "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+      "pub": 1792965480000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+          "deck": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+          "link": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792965480000,
+          "src": "BBC",
+          "srcFull": "BBC News",
+          "lean": "ct"
         }
       ]
     },
@@ -813,28 +2199,10 @@
       ]
     },
     {
-      "title": "John Harbaugh gets ‘tackled’ by Devin Singletary in wild Giants celebration",
-      "pub": 1792965347000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "John Harbaugh gets ‘tackled’ by Devin Singletary in wild Giants celebration",
-          "deck": "It’s safe to say John Harbaugh was fired up about that win.",
-          "link": "https://nypost.com/2026/10/25/sports/john-harbaugh-tackled-by-devin-singletary-in-giants-celebration/",
-          "pub": 1792965347000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "NYC subway mayhem mounts on Kathy Hochul’s watch — and she hopes you won’t notice",
       "pub": 1792965191000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -845,96 +2213,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Stanford University sparks fury among students after posting ‘stupid’ marching band image",
-      "pub": 1792965183000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Stanford University sparks fury among students after posting ‘stupid’ marching band image",
-          "deck": "Stanford University has been embroiled in another AI image controversy.",
-          "link": "https://nypost.com/2026/10/25/us-news/california-university-sparks-student-fury-after-posting-ai-image/",
-          "pub": 1792965183000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Democratic Senate Candidate: Trump Did ‘Better Job’ on Border Than Biden",
-      "pub": 1792965178000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democratic Senate Candidate: Trump Did ‘Better Job’ on Border Than Biden",
-          "deck": "The remarks come as Turek runs against Trump-endorsed Ashley Hinson in one of the country's most closely watched midterm races.",
-          "link": "https://www.newsweek.com/democratic-senate-candidate-trump-did-better-job-on-border-than-biden-12616537",
-          "pub": 1792965178000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Giants RB Cam Skattebo Reveals Possible Injury From Final Play of OT",
-      "pub": 1792964938000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Giants RB Cam Skattebo Reveals Possible Injury From Final Play of OT",
-          "deck": "The New York Giants latest win may have come at a cost.",
-          "link": "https://www.newsweek.com/sports/nfl/giants-rb-cam-skattebo-reveals-possible-injury-on-final-play-of-ot-12616874",
-          "pub": 1792964938000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Freshman Theo Edema shines for St. John’s in unexpected minutes versus star Texas center",
-      "pub": 1792964840000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Freshman Theo Edema shines for St. John’s in unexpected minutes versus star Texas center",
-          "deck": "Theo Edema was pressed into action Sunday against one of the best centers in the country, and the freshman performed better than anyone could have expected.",
-          "link": "https://nypost.com/2026/10/25/sports/center-theo-edema-shines-for-st-johns-in-unexpected-minutes-versus-texas-star/",
-          "pub": 1792964840000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Christian McCaffrey Makes NFL History During 49ers-Falcons Game",
-      "pub": 1792964834000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Christian McCaffrey Makes NFL History During 49ers-Falcons Game",
-          "deck": "Christian McCaffrey joins Marshall Faulk as the only NFL players to have 70 rushing touchdowns and 30 receiving touchdowns.",
-          "link": "https://www.newsweek.com/sports/nfl/christian-mccaffrey-makes-nfl-history-during-49ers-falcons-game-12616806",
-          "pub": 1792964834000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -983,7 +2261,7 @@
       "versions": [
         {
           "title": "Kimi Antonelli wins U.S. Grand Prix in Texas, putting him on the brink of F1 championship",
-          "deck": "Kimi Antonelli won the U.",
+          "deck": "It was a masterful race weekend from the 20-year-old Italian, who is very likely to clinch the 2026 Formula 1 driver’s title next weekend in Mexico City.",
           "link": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583",
           "pub": 1792964745000,
           "src": "NBC",
@@ -996,7 +2274,7 @@
       "title": "Democrats scheme to turn the US into France — riots and all",
       "pub": 1792964711000,
       "lean": "lr",
-      "cat": "Politics",
+      "cat": "Opinion",
       "single": true,
       "versions": [
         {
@@ -1047,42 +2325,6 @@
       ]
     },
     {
-      "title": "LA actor linked to A-listers brutally beat love rival with shovel after holding ex at knifepoint: suit",
-      "pub": 1792964607000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "LA actor linked to A-listers brutally beat love rival with shovel after holding ex at knifepoint: suit",
-          "deck": "The victim was rushed to a trauma unit at Cedars-Sinai Hospital where he received emergency treatment, the suit claims.",
-          "link": "https://nypost.com/2026/10/25/us-news/actor-eliot-preschutti-accused-of-attacking-man-with-shovel/",
-          "pub": 1792964607000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "NBA power rankings: Lakers look dangerous as LeBron’s title hopes heat up",
-      "pub": 1792964468000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "NBA power rankings: Lakers look dangerous as LeBron’s title hopes heat up",
-          "deck": "1. Oklahoma City Thunder They’ve opened the season by making a statement with wins over the Spurs and Nuggets. The 2025 champions are showing they’re serious about reaching the mountaintop again after getting eliminated by the Spurs in the 2026 Western Conference Finals. 2. Philadelphia 76ers LeBron James and company look like the real deal after beating...",
-          "link": "https://nypost.com/2026/10/25/sports/nba-power-rankings-lakers-look-dangerous-as-lebrons-title-hopes-heat-up/",
-          "pub": 1792964468000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
       "pub": 1792964385000,
       "lean": "ll",
@@ -1097,24 +2339,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Texas Rocked by Season-Ending Injury to Key Arch Manning Teammate",
-      "pub": 1792964364000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Texas Rocked by Season-Ending Injury to Key Arch Manning Teammate",
-          "deck": "The offensive tackle was carted off in the first quarter of Saturday's game versus Ole Miss.",
-          "link": "https://www.newsweek.com/sports/ncaa/texas-projected-top-nfl-draft-prospect-suffers-season-ending-injury-12616838",
-          "pub": 1792964364000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1151,24 +2375,6 @@
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Cam Skattebo Fires Off Incredible Performance After Recent Struggles",
-      "pub": 1792964290000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cam Skattebo Fires Off Incredible Performance After Recent Struggles",
-          "deck": "The running back saw zero touches last week, and then posted his season-high in rushing yards this week.",
-          "link": "https://www.newsweek.com/sports/nfl/cam-skattebo-fires-off-incredible-performance-recent-struggles-12616788",
-          "pub": 1792964290000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1227,24 +2433,6 @@
       ]
     },
     {
-      "title": "Super Bowl Winner Defends Eagles HC Nick Sirianni Amid Team's 4-Game Skid",
-      "pub": 1792963838000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Super Bowl Winner Defends Eagles HC Nick Sirianni Amid Team's 4-Game Skid",
-          "deck": "Super Bowl winner Bill Cowher fired back at Nick Sirianni's critics, issuing a bold statement about the Philadelphia Eagles.",
-          "link": "https://www.newsweek.com/sports/nfl/super-bowl-winner-defends-eagles-hc-nick-sirianni-amid-teams-4-game-skid-12616709",
-          "pub": 1792963838000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Ilhan Omar's Deleted 2013 Tweet Could Be Key Evidence In Federal Probe",
       "pub": 1792963800000,
       "lean": "lr",
@@ -1259,24 +2447,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Colts HC Shane Steichen Makes Feelings Clear on Daniel Jones After Vikings Loss",
-      "pub": 1792963619000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Colts HC Shane Steichen Makes Feelings Clear on Daniel Jones After Vikings Loss",
-          "deck": "Colts head coach Shane Steichen makes it clear that he has not considered moving off starting quarterback Daniel Jones.",
-          "link": "https://www.newsweek.com/sports/nfl/colts-hc-shane-steichen-makes-feelings-clear-on-daniel-jones-after-vikings-loss-12616758",
-          "pub": 1792963619000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1299,14 +2469,14 @@
       ]
     },
     {
-      "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
       "pub": 1792963461000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
           "deck": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
           "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
           "pub": 1792963461000,
@@ -1349,42 +2519,6 @@
           "src": "NPR",
           "srcFull": "NPR",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "SEC Fines South Carolina for Postgame Behavior After Tennessee Upset",
-      "pub": 1792963323000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "SEC Fines South Carolina for Postgame Behavior After Tennessee Upset",
-          "deck": "The SEC fined South Carolina $500,000 for its fans celebrating on the field after the team took down Tennessee.",
-          "link": "https://www.newsweek.com/sports/ncaa/sec-fines-south-carolina-for-fans-storming-field-after-tennessee-victory-12616743",
-          "pub": 1792963323000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Cameras Capture Heated Sideline Altercation Between Garrett Wilson, Geno Smith",
-      "pub": 1792963156000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Cameras Capture Heated Sideline Altercation Between Garrett Wilson, Geno Smith",
-          "deck": "Garrett Wilson's tense sideline moment with Geno Smith goes viral after the Jets' brutal loss to the Dolphins.",
-          "link": "https://www.newsweek.com/sports/nfl/garrett-wilson-caught-on-camera-fuming-at-geno-smith-during-jets-loss-12616722",
-          "pub": 1792963156000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
         }
       ]
     },
@@ -1587,24 +2721,6 @@
       ]
     },
     {
-      "title": "George Kittle Makes Costly Mistake to Hand 49ers First Loss of Season",
-      "pub": 1792961947000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "George Kittle Makes Costly Mistake to Hand 49ers First Loss of Season",
-          "deck": "The 49ers suffered their first loss of the season to the Falcons 29-20.",
-          "link": "https://www.newsweek.com/sports/nfl/george-kittle-makes-costly-mistake-hand-49ers-first-loss-12616744",
-          "pub": 1792961947000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Woman sexually assaulted at knifepoint in Central Park, police say",
       "pub": 1792961757000,
       "lean": "ll",
@@ -1619,42 +2735,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump Compliments Nicki Minaj's Body at Michigan Rally",
-      "pub": 1792961602000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Donald Trump Compliments Nicki Minaj's Body at Michigan Rally",
-          "deck": "After discussing Husted’s body, again, Trump turned to Nicki Minaj at a Michigan rally and complimented the rapper’s backside.",
-          "link": "https://www.newsweek.com/donald-trump-nicki-minaj-body-michigan-rally-12616576",
-          "pub": 1792961602000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Brazil Supreme Court Extends Voting By Two Hours At Socialist Lula's Request",
-      "pub": 1792961280000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Brazil Supreme Court Extends Voting By Two Hours At Socialist Lula's Request",
-          "deck": "Brazil Supreme Court Extends Voting By Two Hours At Socialist Lula's Request Summary: Brazilian Supreme Court Judge Extends Voting Time By Two Hours Brazil Runoff Enters Final Hour: Left-Right Showdown Could Reshape Latin America's Political Balance Brazilian Supreme Court Judge Extends Voting Time By Two Hours​​​​​​​ AFP News reports that a Brazilian Supreme Court judge extended voting nationwide by two hours after complaints that public transport problems had hindered access to polling station",
-          "link": "https://www.zerohedge.com/political/brazil-runoff-enters-final-hour-left-right-showdown-could-reshape-latin-americas",
-          "pub": 1792961280000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
         }
       ]
     },
@@ -1685,7 +2765,7 @@
       "versions": [
         {
           "title": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash",
-          "deck": "Former Rep.",
+          "deck": "Mary Peltola, the Democratic nominee in Alaska’s Senate race, announced she would be rescheduling her campaign events in Fairbanks and Bethel, Alaska, following a car crash that resulted in minor injuries.",
           "link": "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
           "pub": 1792961039000,
           "src": "HILL",
@@ -1706,42 +2786,6 @@
           "deck": "The Indian leader, facing a volatile youth uprising, appears to be deliberately drawing into the fray a political rival he’s beaten before.",
           "link": "https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html",
           "pub": 1792960880000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Kurt Warner Apologizes for Embarrassing Error During Steelers-Saints Broadcast",
-      "pub": 1792960734000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Kurt Warner Apologizes for Embarrassing Error During Steelers-Saints Broadcast",
-          "deck": "Kurt Warner apologized after calling a Pittsburgh Steelers player the wrong name during Sunday's NFL Network broadcast.",
-          "link": "https://www.newsweek.com/sports/nfl/kurt-warner-apologizes-for-embarrassing-error-from-steelers-saints-broadcast-12616704",
-          "pub": 1792960734000,
-          "src": "NWWK",
-          "srcFull": "Newsweek",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "María Corina Machado Returns to Venezuela",
-      "pub": 1792960551000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "María Corina Machado Returns to Venezuela",
-          "deck": "After nearly 10 months in exile, Ms.",
-          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-          "pub": 1792960551000,
           "src": "NYT",
           "srcFull": "New York Times",
           "lean": "ll"
@@ -1834,24 +2878,6 @@
           "pub": 1792959734000,
           "src": "NWSN",
           "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-      "pub": 1792959355000,
-      "lean": "ct",
-      "cat": "Science",
-      "single": true,
-      "versions": [
-        {
-          "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-          "deck": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
-          "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-          "pub": 1792959355000,
-          "src": "BBC",
-          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -2123,24 +3149,6 @@
           "src": "ZH",
           "srcFull": "ZeroHedge",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.",
-      "pub": 1792957381000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.",
-          "deck": "",
-          "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election",
-          "pub": 1792957381000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -2513,7 +3521,7 @@
       "versions": [
         {
           "title": "Acton wins Cleveland Plain Dealer endorsement in Ohio governor’s race",
-          "deck": "Ohio Democrat gubernatorial candidate Amy Acton wins the Cleveland Plain Dealer endorsement on Sunday after the newspaper decided earlier this year it would not be endorsing candidates in the state's toss-up gubernatorial and Senate elections.",
+          "deck": "Ohio Democratic gubernatorial candidate Amy Acton won The Plain Dealer’s endorsement Sunday — even after the Cleveland newspaper decided earlier this year it would not be endorsing candidates in the state’s toss-up Senate or governor’s races.",
           "link": "https://thehill.com/homenews/campaign/6170989-amy-cton-wins-cleveland-plain-dealer-endorsement-in-ohio-governors-race/",
           "pub": 1792955944000,
           "src": "HILL",
@@ -2595,14 +3603,14 @@
       ]
     },
     {
-      "title": "Mary Peltola delays campaign events after sustaining ‘minor injuries’ in car crash",
+      "title": "Alaska Senate candidate Mary Peltola delays campaign events after car crash",
       "pub": 1792955297000,
       "lean": "ll",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Mary Peltola delays campaign events after sustaining ‘minor injuries’ in car crash",
+          "title": "Alaska Senate candidate Mary Peltola delays campaign events after car crash",
           "deck": "Anchorage police confirmed a crash involving three vehicles occurred Saturday and said those involved sustained “non-life threatening” injuries.",
           "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-delays-campaign-events-minor-injury-car-crash-alaska-rcna605556",
           "pub": 1792955297000,
@@ -2699,24 +3707,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "New Fight at Gritty Manhattan Park Is Over ‘Punk Rock’ Pull-Up Bars",
-      "pub": 1792954586000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "New Fight at Gritty Manhattan Park Is Over ‘Punk Rock’ Pull-Up Bars",
-          "deck": "The Parks Department has a $10 million plan to renovate the northeast corner of Tompkins Square Park, but fans of its workout bars want things to stay just as they are.",
-          "link": "https://www.nytimes.com/2026/10/25/nyregion/tompkins-square-park-pull-up-bars-renovation.html",
-          "pub": 1792954586000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
         }
       ]
     },
@@ -2847,24 +3837,6 @@
       ]
     },
     {
-      "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-      "pub": 1792953732000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-          "deck": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
-          "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-          "pub": 1792953732000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
       "pub": 1792953497000,
       "lean": "ct",
@@ -2883,17 +3855,17 @@
       ]
     },
     {
-      "title": "Long queues after power surge at Stansted Airport",
-      "pub": 1792953357000,
+      "title": "Pressure grows on Sage as fans turn on Palace boss",
+      "pub": 1792953372000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Long queues after power surge at Stansted Airport",
-          "deck": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
-          "link": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
-          "pub": 1792953357000,
+          "title": "Pressure grows on Sage as fans turn on Palace boss",
+          "deck": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss",
+          "pub": 1792953372000,
           "src": "BBC",
           "srcFull": "BBC News",
           "lean": "ct"
@@ -2937,24 +3909,6 @@
       ]
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "pub": 1792952940000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "deck": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "pub": 1792952940000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Trump worries Alaska voters ‘don’t know what incumbent means’ on ranked choice ballot",
       "pub": 1792952884000,
       "lean": "lr",
@@ -2991,15 +3945,15 @@
       ]
     },
     {
-      "title": "Hassett says the economy is 'best we've ever seen'",
+      "title": "Hassett: Economy is 'best we've ever seen'",
       "pub": 1792952287000,
       "lean": "ct",
       "cat": "Politics",
       "single": true,
       "versions": [
         {
-          "title": "Hassett says the economy is 'best we've ever seen'",
-          "deck": "Kevin Hassett, the director of the National Economic Council (NEC), on Sunday said the economy is the \"best we've ever seen\" as the Trump administration and Republicans make their final pitches heading into the midterm elections.",
+          "title": "Hassett: Economy is 'best we've ever seen'",
+          "deck": "Kevin Hassett, director of the National Economic Council, on Sunday said the economy is the “best we’ve ever seen” as the Trump administration and Republicans make their final pitches heading into the midterm elections.",
           "link": "https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/",
           "pub": 1792952287000,
           "src": "HILL",
@@ -3017,7 +3971,7 @@
       "versions": [
         {
           "title": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
-          "deck": "er people.",
+          "deck": "American football fans told NBC News their trips were mostly unaffected by demonstrations, giving Parisians a rare compliment for their welcoming demeanor.",
           "link": "https://www.nbcnews.com/world/france/nfl-fans-visiting-paris-high-spirits-saints-vs-steelers-game-undeterre-rcna605520",
           "pub": 1792952106000,
           "src": "NBC",
@@ -3225,24 +4179,6 @@
       ]
     },
     {
-      "title": "Abbott says opponent Hinojosa supports Sharia law",
-      "pub": 1792950433000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Abbott says opponent Hinojosa supports Sharia law",
-          "deck": "Texas Gov. Greg Abbott (R) ripped state Rep. Gina Hinojosa, the Democratic nominee in the Lone Star State's gubernatorial race, for an endorsement she received from the Council on American-Islamic Relations (CAIR), a group designated in Texas as a foreign terrorist organization. In an interview Sunday with Fox News, the Republican — who is running...",
-          "link": "https://thehill.com/homenews/6170915-texas-gubernatorial-race-sharia-claims/",
-          "pub": 1792950433000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "Inside the controversial call that ended Game 2 of the World Series",
       "pub": 1792950397000,
       "lean": "ll",
@@ -3257,24 +4193,6 @@
           "src": "NBC",
           "srcFull": "NBC News",
           "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Mary Peltola injured in car crash, postponing Alaska Senate campaign stops",
-      "pub": 1792950370000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mary Peltola injured in car crash, postponing Alaska Senate campaign stops",
-          "deck": "Alaska Democratic Senate nominee Mary Peltola was injured in a car crash Saturday night, leading the challenger to postpone her campaign stops just nine days before voters head to the polls in the Last Frontier.",
-          "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4779025/mary-peltola-car-crash-alaska-senate/",
-          "pub": 1792950370000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3318,7 +4236,7 @@
       "title": "Machado returns to Venezuela after 10 months of exile",
       "pub": 1792950089000,
       "lean": "ct",
-      "cat": "Politics",
+      "cat": "World",
       "single": true,
       "versions": [
         {
@@ -3504,24 +4422,6 @@
       ]
     },
     {
-      "title": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
-      "pub": 1792948436000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
-          "deck": "Attorney General Todd Blanche declined to detail the circumstances leading up to the Department of Justice filing a lawsuit challenging the results of Alaska’s Senate race because two candidates share the same name.",
-          "link": "https://www.washingtonexaminer.com/news/justice/4779007/blanche-trump-order-alaska-election-lawsuit/",
-          "pub": 1792948436000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
       "title": "Hollywood, Creator Agencies Battle Madison Avenue For Brand Budgets",
       "pub": 1792948155000,
       "lean": "ct",
@@ -3612,24 +4512,6 @@
       ]
     },
     {
-      "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
-      "pub": 1792947631000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
-          "deck": "Attorney General Todd Blanche on Sunday accused CBS News's \"Face the Nation\" host Margaret Brennan of giving a \"misleading\" description of the Alaska Senate race, where two candidates with similar names will appear on the ballot.",
-          "link": "https://thehill.com/homenews/state-watch/6170778-doj-alaska-election-lawsuit/",
-          "pub": 1792947631000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
       "title": "How to Straddle the MAGA Divide",
       "pub": 1792947621000,
       "lean": "ll",
@@ -3698,24 +4580,6 @@
           "src": "HILL",
           "srcFull": "The Hill",
           "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
-      "pub": 1792947600000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
-          "deck": "America’s economic ambition should reach well beyond slowing price increases.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4776217/fed-thinks-fighting-inflation-starving-the-cure/",
-          "pub": 1792947600000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
         }
       ]
     },
@@ -3859,6 +4723,24 @@
           "pub": 1792946521000,
           "src": "NWSN",
           "srcFull": "NewsNation",
+          "lean": "ct"
+        }
+      ]
+    },
+    {
+      "title": "England lose to Pakistan after improbable last-wicket stand",
+      "pub": 1792946057000,
+      "lean": "ct",
+      "cat": "Politics",
+      "single": true,
+      "versions": [
+        {
+          "title": "England lose to Pakistan after improbable last-wicket stand",
+          "deck": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+          "pub": 1792946057000,
+          "src": "BBC",
+          "srcFull": "BBC News",
           "lean": "ct"
         }
       ]
@@ -4021,42 +4903,6 @@
           "pub": 1792944000000,
           "src": "NYP",
           "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "What it took to put Americans on the moon",
-      "pub": 1792944000000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "What it took to put Americans on the moon",
-          "deck": "I recently wrote about sharing American stories and the people behind our greatest achievements.",
-          "link": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4777805/what-it-took-to-put-americans-on-the-moon/",
-          "pub": 1792944000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Florida cannot afford to give socialism a chance",
-      "pub": 1792944000000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Florida cannot afford to give socialism a chance",
-          "deck": "Throughout this election cycle, candidate after candidate has championed the growing movement of democratic socialism.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4776116/democratic-socialism-florida-freedom/",
-          "pub": 1792944000000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
           "lean": "lr"
         }
       ]
@@ -4238,24 +5084,6 @@
           "src": "NYP",
           "srcFull": "New York Post",
           "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Israel to close West Bank crossings before elections amid military operation",
-      "pub": 1792942613000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israel to close West Bank crossings before elections amid military operation",
-          "deck": "The Israeli military's operation comes in response to a gun attack that killed two Israeli soldiers and wounded three others in the West Bank.",
-          "link": "https://www.cbsnews.com/news/israel-military-operation-west-bank-elections/",
-          "pub": 1792942613000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
         }
       ]
     },
@@ -4530,24 +5358,6 @@
       ]
     },
     {
-      "title": "Poll finds Democrats still boosted by voters' economic concerns",
-      "pub": 1792939080000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Poll finds Democrats still boosted by voters' economic concerns",
-          "deck": "President Trump is a key factor driving support and opposition; turnout looms large.",
-          "link": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
-          "pub": 1792939080000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
       "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
       "pub": 1792939073000,
       "lean": "ll",
@@ -4597,816 +5407,6 @@
           "pub": 1792938000000,
           "src": "ZH",
           "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Sen. Adam Schiff says Pete Hegseth should testify on Starlink slowdown in Ukraine",
-      "pub": 1792937924000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Sen. Adam Schiff says Pete Hegseth should testify on Starlink slowdown in Ukraine",
-          "deck": "The California Democrat said “anyone who has knowledge of what happened” with the Starlink slowdown should testify before the Senate.",
-          "link": "https://www.nbcnews.com/politics/congress/adam-schiff-pete-hegseth-testify-starlink-slowdown-ukraine-war-rcna605508",
-          "pub": 1792937924000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-      "pub": 1792937663000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-          "deck": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
-          "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-          "pub": 1792937663000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Photos of the week",
-      "pub": 1792937525000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Photos of the week",
-          "deck": "\"Sunday Morning\" looks at some of the most evocative images captured the week of Oct.",
-          "link": "https://www.cbsnews.com/video/photos-of-the-week-102526/",
-          "pub": 1792937525000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Adam Schiff says Democrats should put 'overriding emphasis' on costs, not impeachment",
-      "pub": 1792937054000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Adam Schiff says Democrats should put 'overriding emphasis' on costs, not impeachment",
-          "deck": "In an exclusive interview with Meet the Press, Sen.",
-          "link": "https://www.nbcnews.com/meet-the-press/video/adam-schiff-says-democrats-should-put-overriding-emphasis-on-costs-not-impeachment-272191557816",
-          "pub": 1792937054000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Republicans Will Go to Prison if Dems Win in Nov",
-      "pub": 1792937050000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Republicans Will Go to Prison if Dems Win in Nov",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/10/25/republicans_will_go_to_prison_if_dems_win_in_nov_715303.html",
-          "pub": 1792937050000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Rubio's Revaluation of the West & of America",
-      "pub": 1792936864000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Rubio's Revaluation of the West & of America",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/25/secretary_rubios_revaluation_of_the_west_and_of_america_154615.html",
-          "pub": 1792936864000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Four-year-old girl dies after fall from tower block",
-      "pub": 1792936837000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Four-year-old girl dies after fall from tower block",
-          "deck": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.",
-          "link": "https://www.bbc.co.uk/news/articles/cwj34vzrj865o?at_medium=RSS&at_campaign=rss",
-          "pub": 1792936837000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Obama’s ‘Saddam Hussein’s Cheesecake Factory’ jab at Trump comes back to bite him: ‘Guy built himself a wizard prison’",
-      "pub": 1792936837000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Obama’s ‘Saddam Hussein’s Cheesecake Factory’ jab at Trump comes back to bite him: ‘Guy built himself a wizard prison’",
-          "deck": "\"The guy who designed this wizard prison for himself has thoughts on aesthetics?",
-          "link": "https://nypost.com/2026/10/25/us-news/obamas-saddam-husseins-cheesecake-factory-jab-at-trump-comes-back-to-bite-him/",
-          "pub": 1792936837000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
-      "pub": 1792936801000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
-          "deck": "I racked up over $11,000 in credit card debt traveling, shopping and dining out.",
-          "link": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
-          "pub": 1792936801000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "How Trump learned to stop worrying and love space science",
-      "pub": 1792936800000,
-      "lean": "ct",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "How Trump learned to stop worrying and love space science",
-          "deck": "He recognizes a cool thing when he sees it.",
-          "link": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/",
-          "pub": 1792936800000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "‘Nobody Wants This’ star Tovah Feldshuh has thoughts on her fellow celebrities calling the war in Gaza a genocide",
-      "pub": 1792936800000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "‘Nobody Wants This’ star Tovah Feldshuh has thoughts on her fellow celebrities calling the war in Gaza a genocide",
-          "deck": "Mother knows best.",
-          "link": "https://nypost.com/2026/10/25/opinion/tovah-feldshuh-to-accuse-the-jewish-people-of-genocide-is-wild/",
-          "pub": 1792936800000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Is Trump’s new swamp any better than the old swamp?",
-      "pub": 1792936800000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Is Trump’s new swamp any better than the old swamp?",
-          "deck": "Back in 2010, I coined a term to describe a specific kind of political threat: the Insidersaurus.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4776363/did-trump-drain-the-swamp/",
-          "pub": 1792936800000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine Is Becoming Another Verdun",
-      "pub": 1792936800000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Ukraine Is Becoming Another Verdun",
-          "deck": "Ukraine Is Becoming Another Verdun Authored by Victor Davis Hanson via The Epoch Times, This is a lightly edited transcript of an Oct.",
-          "link": "https://www.zerohedge.com/geopolitical/ukraine-becoming-another-verdun",
-          "pub": 1792936800000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Meet the Tower of London's Ravenmaster",
-      "pub": 1792936501000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Meet the Tower of London's Ravenmaster",
-          "deck": "Legend warns that if the ravens leave London's Tower of London, the monument would crumble – as would the British monarchy.",
-          "link": "https://www.cbsnews.com/video/meet-the-tower-of-londons-ravenmaster/",
-          "pub": 1792936501000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Gretchen Whitmer says Republicans ‘don’t have a plan’ to lower costs: Full interview",
-      "pub": 1792936407000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Gretchen Whitmer says Republicans ‘don’t have a plan’ to lower costs: Full interview",
-          "deck": "In an exclusive interview with Meet the Press, Gov.",
-          "link": "https://www.nbcnews.com/meet-the-press/video/gretchen-whitmer-says-republicans-don-t-have-a-plan-to-lower-costs-full-interview-272190021735",
-          "pub": 1792936407000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Gretchen Whitmer says America is ready to elect a woman president",
-      "pub": 1792936365000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Gretchen Whitmer says America is ready to elect a woman president",
-          "deck": "In an exclusive interview with Meet the Press, Gov.",
-          "link": "https://www.nbcnews.com/meet-the-press/video/gretchen-whitmer-says-america-is-ready-to-elect-a-woman-president-272190533785",
-          "pub": 1792936365000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump Bringing Closing Momentum Shift to Republicans",
-      "pub": 1792936241000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Bringing Closing Momentum Shift to Republicans",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/video/2026/10/24/jesse_watters_trump_bringing_closing_momentum_shift_to_republicans.html",
-          "pub": 1792936241000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "A Frantic GOP Attacks the First Amendment - and the Truth",
-      "pub": 1792936186000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A Frantic GOP Attacks the First Amendment - and the Truth",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/10/25/a_frantic_gop_attacks_the_first_amendment_-_and_the_truth_715368.html",
-          "pub": 1792936186000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Mike Rogers on Trump calling Abdul El-Sayed a terrorist: ‘I've never called him a terrorist’",
-      "pub": 1792935840000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Mike Rogers on Trump calling Abdul El-Sayed a terrorist: ‘I've never called him a terrorist’",
-          "deck": "In an exclusive interview with Meet the Press, Michigan Senate candidate and former Rep.",
-          "link": "https://www.nbcnews.com/meet-the-press/video/mike-rogers-on-trump-calling-abdul-el-sayed-a-terrorist-i-ve-never-called-him-a-terrorist-272191045618",
-          "pub": 1792935840000,
-          "src": "NBC",
-          "srcFull": "NBC News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-      "pub": 1792935775000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-          "deck": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
-          "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-          "pub": 1792935775000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-      "pub": 1792935697000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-          "deck": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-          "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-          "pub": 1792935697000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-      "pub": 1792935516000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-          "deck": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
-          "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-          "pub": 1792935516000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
-      "pub": 1792935481000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
-          "deck": "Consider budget, accommodations, personal habits, alone time and more, say Anna Goldfarb and Nell McShane Wulfhart, experts in friendship, travel and decision-making.",
-          "link": "https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html",
-          "pub": 1792935481000,
-          "src": "CNBC",
-          "srcFull": "CNBC",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "The A.I. Boom Looks a Lot Like the Housing Bubble",
-      "pub": 1792935221000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "The A.I. Boom Looks a Lot Like the Housing Bubble",
-          "deck": "There are signs the A.",
-          "link": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
-          "pub": 1792935221000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Health board still paying for research despite criticism over patient benefit",
-      "pub": 1792935067000,
-      "lean": "ct",
-      "cat": "Health",
-      "single": true,
-      "versions": [
-        {
-          "title": "Health board still paying for research despite criticism over patient benefit",
-          "deck": "Betsi Cadwaladr University Health Board was due to pay Bangor University £110,686 for two researchers.",
-          "link": "https://www.bbc.co.uk/news/articles/c9m26vk0yxx5o?at_medium=RSS&at_campaign=rss",
-          "pub": 1792935067000,
-          "src": "BBC",
-          "srcFull": "BBC News",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Appeals Court Throws Out Alex Berenson's Case Against Pfizer Executives",
-      "pub": 1792935000000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Appeals Court Throws Out Alex Berenson's Case Against Pfizer Executives",
-          "deck": "Appeals Court Throws Out Alex Berenson's Case Against Pfizer Executives Authored by Zachary Stieber via The Epoch Times, A federal appeals court has thrown out a lawsuit from independent journalist Alex Berenson accusing Pfizer executives of pressuring Twitter to censor him because of his comments opposing COVID-19 vaccines.",
-          "link": "https://www.zerohedge.com/political/appeals-court-throws-out-alex-berensons-case-against-pfizer-executives",
-          "pub": 1792935000000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Israeli election to test Netanyahu's ability to hold power",
-      "pub": 1792934820000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israeli election to test Netanyahu's ability to hold power",
-          "deck": "On Tuesday, Israel will hold its first parliamentary elections since the Oct.",
-          "link": "https://www.cbsnews.com/news/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
-          "pub": 1792934820000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "pub": 1792934718000,
-      "lean": "ll",
-      "cat": "World",
-      "single": true,
-      "versions": [
-        {
-          "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-          "deck": "On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks.",
-          "link": "https://www.cbsnews.com/video/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
-          "pub": 1792934718000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Iran's army says it struck US drone",
-      "pub": 1792934415000,
-      "lean": "ct",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Iran's army says it struck US drone",
-          "deck": "President Donald Trump told NewsNation that the U.",
-          "link": "https://www.newsnationnow.com/world/iran-army-strikes-us-drone-war-trump/",
-          "pub": 1792934415000,
-          "src": "NWSN",
-          "srcFull": "NewsNation",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "What Are the Best Ways to Fix Schools?",
-      "pub": 1792934218000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "What Are the Best Ways to Fix Schools?",
-          "deck": "Readers analyze the 30 ideas presented in an Upshot article and offer some of their own.",
-          "link": "https://www.nytimes.com/2026/10/24/opinion/fixing-schools.html",
-          "pub": 1792934218000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Despicable Doesn’t Begin to Cover It",
-      "pub": 1792933982000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Despicable Doesn’t Begin to Cover It",
-          "deck": "Trump’s culture of cruelty spreads.",
-          "link": "https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
-          "pub": 1792933982000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s intensifies vital ‘war on fraud’: Letters to the Editor — Oct. 26, 2026",
-      "pub": 1792933981000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump’s intensifies vital ‘war on fraud’: Letters to the Editor — Oct. 26, 2026",
-          "deck": "The Issue: President Trump’s new program that offers rewards for tips leading to fraud convictions.",
-          "link": "https://nypost.com/2026/10/25/opinion/trumps-intensifies-vital-war-on-fraud-letters/",
-          "pub": 1792933981000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Trump Offers Snitches 1% Of The Fraud They Report, From A $25 Million Pot, With Himself As Judge",
-      "pub": 1792933500000,
-      "lean": "lr",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Trump Offers Snitches 1% Of The Fraud They Report, From A $25 Million Pot, With Himself As Judge",
-          "deck": "Trump Offers Snitches 1% Of The Fraud They Report, From A $25 Million Pot, With Himself As Judge President Trump announced Tuesday from the Oval Office that the federal government will pay whistleblowers who report people defrauding taxpayers, and that he will decide who gets paid.",
-          "link": "https://www.zerohedge.com/political/trump-offers-snitches-1-fraud-they-report-25-million-pot-himself-judge",
-          "pub": 1792933500000,
-          "src": "ZH",
-          "srcFull": "ZeroHedge",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Turning an Academic Slump Around",
-      "pub": 1792933203000,
-      "lean": "ll",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Turning an Academic Slump Around",
-          "deck": "Readers offer their suggestions for improving our schools.",
-          "link": "https://www.nytimes.com/2026/10/25/opinion/fixing-schools.html",
-          "pub": 1792933203000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "10/25: Sunday Morning",
-      "pub": 1792933200000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "10/25: Sunday Morning",
-          "deck": "Hosted by Jane Pauley.",
-          "link": "https://www.cbsnews.com/video/102526-sunday-morning/",
-          "pub": 1792933200000,
-          "src": "CBS",
-          "srcFull": "CBS News",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "AI Agents Are Splitting The Customer Relationship Into Pieces",
-      "pub": 1792933200000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "AI Agents Are Splitting The Customer Relationship Into Pieces",
-          "deck": "Agentic commerce is transforming customer experience, with each layer of a purchase potentially having its own agent.",
-          "link": "https://www.forbes.com/sites/stephenwunker/2026/10/25/ai-agents-are-splitting-the-customer-relationship-into-pieces/",
-          "pub": 1792933200000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "America the Beautiful Act honors Theodore Roosevelt’s conservation legacy",
-      "pub": 1792933200000,
-      "lean": "ct",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "America the Beautiful Act honors Theodore Roosevelt’s conservation legacy",
-          "deck": "The bipartisan America the Beautiful Act, which proposes an international visitor surcharge to fund the maintenance of national parks and public lands, is moving through Congress.",
-          "link": "https://thehill.com/opinion/energy-environment/6169510-national-park-maintenance-bill/",
-          "pub": 1792933200000,
-          "src": "HILL",
-          "srcFull": "The Hill",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Education Secretary Linda McMahon on California’s schools, Gavin Newsom and the end of the Education Department",
-      "pub": 1792933200000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Education Secretary Linda McMahon on California’s schools, Gavin Newsom and the end of the Education Department",
-          "deck": "In an exclusive interview with The California Post, the Education Secretary weighed in on California’s test scores, parents’ rights, school choice and her plan to wind down the department.",
-          "link": "https://nypost.com/2026/10/25/us-news/education-secretary-linda-mcmahon-takes-on-california-schools-and-gavin-newsom/",
-          "pub": 1792933200000,
-          "src": "NYP",
-          "srcFull": "New York Post",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Salvation lies within a sealed envelope",
-      "pub": 1792933200000,
-      "lean": "lr",
-      "cat": "Opinion",
-      "single": true,
-      "versions": [
-        {
-          "title": "Salvation lies within a sealed envelope",
-          "deck": "In The Shawshank Redemption, Andy Dufresne hides a rock hammer inside a hollowed-out Bible.",
-          "link": "https://www.washingtonexaminer.com/op-eds/4776344/everett-schools-lifewise-bible-release-time/",
-          "pub": 1792933200000,
-          "src": "EXAM",
-          "srcFull": "Washington Examiner",
-          "lean": "lr"
-        }
-      ]
-    },
-    {
-      "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
-      "pub": 1792933161000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
-          "deck": "Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows.",
-          "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
-          "pub": 1792933161000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Google Backtracks On Free AI Plan Limits For Unnamed Premium Devices",
-      "pub": 1792933095000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Google Backtracks On Free AI Plan Limits For Unnamed Premium Devices",
-          "deck": "Google AI Pro Pixel promo plans were held to older models.",
-          "link": "https://www.forbes.com/sites/paulmonckton/2026/10/25/google-ai-pro-argon-antigravity-pixel-plan/",
-          "pub": 1792933095000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
-      "pub": 1792932987000,
-      "lean": "ll",
-      "cat": "Business",
-      "single": true,
-      "versions": [
-        {
-          "title": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
-          "deck": "Bill Owens, who left the show after clashing with CBS executives, is joining Newpress, which publishes work from creators on YouTube.",
-          "link": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
-          "pub": 1792932987000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.",
-      "pub": 1792932973000,
-      "lean": "ll",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.",
-          "deck": "They’re trying to build middle-class lives in New York.",
-          "link": "https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html",
-          "pub": 1792932973000,
-          "src": "NYT",
-          "srcFull": "New York Times",
-          "lean": "ll"
-        }
-      ]
-    },
-    {
-      "title": "Turkey Courts Gulf Oil Weeks Before Hosting The World's Climate Talks",
-      "pub": 1792932300000,
-      "lean": "ct",
-      "cat": "Technology",
-      "single": true,
-      "versions": [
-        {
-          "title": "Turkey Courts Gulf Oil Weeks Before Hosting The World's Climate Talks",
-          "deck": "Weeks before hosting COP31, Turkey is pitching itself as the key route for Gulf oil and gas.",
-          "link": "https://www.forbes.com/sites/kensilverstein/2026/10/25/turkey-courts-gulf-oil-weeks-before-hosting-the-worlds-climate-talks/",
-          "pub": 1792932300000,
-          "src": "FORB",
-          "srcFull": "Forbes",
-          "lean": "ct"
-        }
-      ]
-    },
-    {
-      "title": "GOP On Verge of Losing the Latino Vote",
-      "pub": 1792932234000,
-      "lean": "lr",
-      "cat": "Politics",
-      "single": true,
-      "versions": [
-        {
-          "title": "GOP On Verge of Losing the Latino Vote",
-          "deck": "",
-          "link": "https://www.realclearpolitics.com/2026/10/25/gop_on_verge_of_losing_the_latino_vote_715301.html",
-          "pub": 1792932234000,
-          "src": "RCP",
-          "srcFull": "RealClear Politics",
           "lean": "lr"
         }
       ]
